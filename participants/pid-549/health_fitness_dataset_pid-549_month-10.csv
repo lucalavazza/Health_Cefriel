@@ -1,0 +1,17 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+549,2024-10-01,47,F,154.4,97.4,Walking,55,Medium,6.8,132,5.4,10,6515,2.9,21.3,69.2,114.4,84.6,Hypertension,Former,14.69
+549,2024-10-02,47,F,154.4,97.6,Walking,39,Medium,4.8,133,7.6,9,6957,1.7,21.3,69.2,114.4,84.6,Hypertension,Former,14.73
+549,2024-10-04,47,F,154.4,97.9,Walking,52,Medium,6.4,127,7.4,8,6472,2.7,21.3,69.2,114.4,84.6,Hypertension,Former,14.79
+549,2024-10-07,47,F,154.4,98.1,Walking,100,Low,10.3,118,7.4,2,7324,1.6,21.3,69.2,114.4,84.6,Hypertension,Former,14.89
+549,2024-10-08,47,F,154.4,98.4,Walking,44,Low,4.6,103,6.3,3,5793,1.9,21.3,69.2,114.4,84.6,Hypertension,Former,14.94
+549,2024-10-09,47,F,154.4,98.7,Walking,43,High,6.3,146,6.8,10,7001,2.8,21.3,69.2,114.4,84.6,Hypertension,Former,15.0
+549,2024-10-12,47,F,154.4,98.9,Walking,28,Medium,3.5,133,6.7,6,8403,2.5,21.3,69.2,114.4,84.6,Hypertension,Former,15.03
+549,2024-10-13,47,F,154.4,99.2,Walking,62,Medium,7.8,119,9.0,5,10399,2.1,21.3,69.2,114.4,84.6,Hypertension,Former,15.11
+549,2024-10-14,47,F,154.4,99.4,Walking,87,High,12.8,155,7.7,9,7028,1.9,21.3,69.2,114.4,84.6,Hypertension,Former,15.23
+549,2024-10-15,47,F,154.4,99.7,Walking,89,Low,9.3,114,9.1,7,7264,2.9,21.3,69.2,114.4,84.6,Hypertension,Former,15.32
+549,2024-10-16,47,F,154.4,100.0,Walking,29,Low,3.1,110,8.5,3,4644,1.7,21.3,69.2,114.4,84.6,Hypertension,Former,15.35
+549,2024-10-22,47,F,154.4,100.2,Cycling,96,High,31.7,131,7.7,2,5693,1.6,21.3,69.2,114.4,84.6,Hypertension,Former,15.48
+549,2024-10-24,47,F,154.4,100.5,Cycling,110,High,36.4,158,7.9,3,5218,2.9,21.3,69.2,114.4,84.6,Hypertension,Former,15.64
+549,2024-10-28,47,F,154.4,100.7,Cycling,33,Low,7.8,104,7.6,7,8966,1.9,21.3,69.2,114.4,84.6,Hypertension,Former,15.67
+549,2024-10-29,47,F,154.4,101.0,Cycling,48,Low,11.4,111,8.2,3,8128,1.8,21.3,69.2,114.4,84.6,Hypertension,Former,15.72
+549,2024-10-31,47,F,154.4,101.2,HIIT,113,Low,38.0,112,5.7,5,6597,2.3,21.3,69.2,114.4,84.6,Hypertension,Former,15.83

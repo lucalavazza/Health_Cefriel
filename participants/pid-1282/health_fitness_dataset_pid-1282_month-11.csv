@@ -1,0 +1,17 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+1282,2024-11-01,24,M,183.5,152.7,Walking,35,Medium,6.8,142,7.7,3,6925,1.6,30.2,80.2,124.9,88,Diabetes,Current,15.8
+1282,2024-11-07,24,M,183.5,152.9,Running,45,Low,18.7,119,8.1,1,8716,2.8,30.2,80.2,124.9,88,Diabetes,Current,15.85
+1282,2024-11-09,24,M,183.5,153.2,Walking,51,Medium,9.9,145,7.2,1,5536,2.5,30.2,80.2,124.9,88,Diabetes,Current,15.91
+1282,2024-11-11,24,M,183.5,153.4,Walking,29,Medium,5.6,151,6.4,1,7479,2.1,30.2,80.2,124.9,88,Diabetes,Current,15.95
+1282,2024-11-12,24,M,183.5,153.7,Walking,75,High,17.0,178,6.6,8,7800,3.5,30.2,80.2,124.9,88,Diabetes,Current,16.05
+1282,2024-11-16,24,M,183.5,154.0,Walking,57,Medium,11.1,141,7.1,7,7940,1.7,30.2,80.2,124.9,88,Diabetes,Current,16.12
+1282,2024-11-17,24,M,183.5,154.2,Walking,75,High,17.1,167,6.2,4,6487,2.1,30.2,80.2,124.9,88,Diabetes,Current,16.22
+1282,2024-11-19,24,M,183.5,154.5,Walking,80,Low,13.0,134,7.9,7,6455,2.2,30.2,80.2,124.9,88,Diabetes,Current,16.3
+1282,2024-11-20,24,M,183.5,154.7,Walking,21,High,4.8,160,7.3,1,5863,3.3,30.2,80.2,124.9,88,Diabetes,Current,16.33
+1282,2024-11-21,24,M,183.5,155.0,Walking,98,Medium,19.2,142,6.7,6,7941,1.9,30.2,80.2,124.9,88,Diabetes,Current,16.45
+1282,2024-11-22,24,M,183.5,155.2,Walking,109,Medium,21.4,147,8.3,1,7487,2.0,30.2,80.2,124.9,88,Diabetes,Current,16.58
+1282,2024-11-23,24,M,183.5,155.5,Walking,44,High,10.1,150,7.2,4,12030,2.2,30.2,80.2,124.9,88,Diabetes,Current,16.64
+1282,2024-11-24,24,M,183.5,155.8,Walking,34,Medium,6.7,140,6.9,6,7301,2.7,30.2,80.2,124.9,88,Diabetes,Current,16.68
+1282,2024-11-25,24,M,183.5,156.0,Dancing,48,High,16.0,173,5.7,10,8074,3.2,30.2,80.2,124.9,88,Diabetes,Current,16.75
+1282,2024-11-29,24,M,183.5,156.3,HIIT,87,Medium,54.3,154,7.8,9,6908,2.1,30.2,80.2,124.9,88,Diabetes,Current,16.86
+1282,2024-11-30,24,M,183.5,156.5,Tennis,31,High,13.8,176,5.0,10,6871,2.5,30.2,80.2,124.9,88,Diabetes,Current,16.9

@@ -1,0 +1,17 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+677,2024-08-05,24,F,172.4,109.1,HIIT,40,Low,14.5,124,8.4,8,8244,1.7,23.5,74.1,104.1,68.2,None,Never,13.22
+677,2024-08-07,24,F,172.4,109.4,HIIT,91,Medium,39.7,143,7.2,2,6152,2.6,23.5,74.1,104.1,68.2,None,Never,13.32
+677,2024-08-08,24,F,172.4,109.6,Weight Training,28,Low,5.1,134,7.9,6,6168,1.9,23.5,74.1,104.1,68.2,None,Never,13.35
+677,2024-08-13,24,F,172.4,109.9,Weight Training,77,Medium,16.9,142,6.8,3,8357,1.6,23.5,74.1,104.1,68.2,None,Never,13.44
+677,2024-08-15,24,F,172.4,110.2,Weight Training,50,Low,9.2,125,8.2,9,7057,1.8,23.5,74.1,104.1,68.2,None,Never,13.49
+677,2024-08-18,24,F,172.4,110.4,Weight Training,44,Medium,9.7,158,6.6,7,9198,2.3,23.5,74.1,104.1,68.2,None,Never,13.55
+677,2024-08-19,24,F,172.4,110.7,Weight Training,24,Low,4.4,127,6.8,3,5441,2.5,23.5,74.1,104.1,68.2,None,Never,13.57
+677,2024-08-21,24,F,172.4,110.9,Swimming,71,Medium,18.3,146,7.1,4,5513,2.7,23.5,74.1,104.1,68.2,None,Never,13.66
+677,2024-08-24,24,F,172.4,111.2,Swimming,48,Medium,12.4,144,7.3,7,5380,3.3,23.5,74.1,104.1,68.2,None,Never,13.71
+677,2024-08-25,24,F,172.4,111.4,Swimming,63,High,19.1,169,7.2,9,7248,2.8,23.5,74.1,104.1,68.2,None,Never,13.8
+677,2024-08-26,24,F,172.4,111.7,Swimming,111,Low,24.1,126,6.3,6,5425,2.2,23.5,74.1,104.1,68.2,None,Never,13.91
+677,2024-08-27,24,F,172.4,112.0,Swimming,49,Medium,12.8,141,8.4,5,7775,2.8,23.5,74.1,104.1,68.2,None,Never,13.97
+677,2024-08-28,24,F,172.4,112.2,Swimming,109,Medium,28.5,127,7.2,6,8688,3.5,23.5,74.1,104.1,68.2,None,Never,14.1
+677,2024-08-29,24,F,172.4,112.5,Swimming,87,High,26.6,169,8.1,6,10091,3.4,23.5,74.1,104.1,68.2,None,Never,14.22
+677,2024-08-30,24,F,172.4,112.7,Swimming,79,Medium,20.7,150,7.6,8,7226,1.7,23.5,74.1,104.1,68.2,None,Never,14.32
+677,2024-08-31,24,F,172.4,113.0,Swimming,58,High,17.8,154,6.0,5,6470,2.2,23.5,74.1,104.1,68.2,None,Never,14.4

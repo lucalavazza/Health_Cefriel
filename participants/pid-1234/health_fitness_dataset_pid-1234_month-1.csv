@@ -1,0 +1,17 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+1234,2024-01-02,57,F,169,60.3,HIIT,80,Medium,19.2,107,8.2,2,8271,3.2,21,70.2,120.7,77.1,None,Current,0.1
+1234,2024-01-03,57,F,169,60.6,Running,29,High,6.7,138,9.1,3,6210,2.6,21,70.2,120.7,77.1,None,Current,0.14
+1234,2024-01-07,57,F,169,60.8,Running,40,Low,6.6,111,8.7,7,12270,2.5,21,70.2,120.7,77.1,None,Current,0.18
+1234,2024-01-12,57,F,169,61.1,Running,106,Medium,21.1,123,6.3,8,6997,2.9,21,70.2,120.7,77.1,None,Current,0.3
+1234,2024-01-13,57,F,169,61.3,Running,98,High,22.8,152,6.7,8,8550,3.3,21,70.2,120.7,77.1,None,Current,0.44
+1234,2024-01-15,57,F,169,61.6,Running,104,High,24.3,145,7.3,3,10044,3.3,21,70.2,120.7,77.1,None,Current,0.59
+1234,2024-01-16,57,F,169,61.8,Cycling,38,Low,5.5,105,6.7,2,9925,2.1,21,70.2,120.7,77.1,None,Current,0.62
+1234,2024-01-17,57,F,169,62.1,Cycling,90,Medium,15.8,111,8.4,7,6877,2.0,21,70.2,120.7,77.1,None,Current,0.73
+1234,2024-01-18,57,F,169,62.4,Yoga,98,High,7.1,152,7.2,1,8532,1.5,21,70.2,120.7,77.1,None,Current,0.87
+1234,2024-01-19,57,F,169,62.6,Cycling,55,Medium,9.7,118,5.6,3,10315,2.1,21,70.2,120.7,77.1,None,Current,0.94
+1234,2024-01-20,57,F,169,62.9,Tennis,105,Medium,16.0,123,6.4,2,8785,2.4,21,70.2,120.7,77.1,None,Current,1.06
+1234,2024-01-21,57,F,169,63.1,Basketball,61,Medium,10.2,130,6.5,6,11450,2.7,21,70.2,120.7,77.1,None,Current,1.14
+1234,2024-01-22,57,F,169,63.4,Basketball,99,Medium,16.7,110,8.4,7,7854,2.6,21,70.2,120.7,77.1,None,Current,1.25
+1234,2024-01-23,57,F,169,63.6,Running,44,Medium,9.1,131,7.2,3,6144,1.9,21,70.2,120.7,77.1,None,Current,1.31
+1234,2024-01-26,57,F,169,63.9,Running,109,High,26.4,141,6.8,6,11168,1.8,21,70.2,120.7,77.1,None,Current,1.46
+1234,2024-01-30,57,F,169,64.2,Basketball,48,Low,6.8,106,6.4,8,7846,2.3,21,70.2,120.7,77.1,None,Current,1.51

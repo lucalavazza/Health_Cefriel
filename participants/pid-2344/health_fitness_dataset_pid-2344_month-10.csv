@@ -1,0 +1,17 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+2344,2024-10-01,50,F,168.7,93.6,Basketball,56,Medium,13.9,120,8.0,2,4120,2.4,15.8,60.4,135.4,77.9,None,Former,15.31
+2344,2024-10-04,50,F,168.7,93.8,Basketball,65,Low,13.5,104,6.1,2,6814,2.5,15.8,60.4,135.4,77.9,None,Former,15.37
+2344,2024-10-05,50,F,168.7,94.1,Weight Training,104,Low,16.3,106,6.8,1,10649,1.8,15.8,60.4,135.4,77.9,None,Former,15.48
+2344,2024-10-06,50,F,168.7,94.4,Running,102,Low,26.1,121,9.2,4,8742,3.2,15.8,60.4,135.4,77.9,None,Former,15.58
+2344,2024-10-07,50,F,168.7,94.6,Weight Training,93,Medium,17.6,136,8.8,8,5275,2.9,15.8,60.4,135.4,77.9,None,Former,15.69
+2344,2024-10-09,50,F,168.7,94.9,Running,95,High,34.3,146,7.3,6,5610,2.2,15.8,60.4,135.4,77.9,None,Former,15.82
+2344,2024-10-12,50,F,168.7,95.1,Tennis,85,Medium,19.6,130,6.7,2,8370,1.9,15.8,60.4,135.4,77.9,None,Former,15.92
+2344,2024-10-16,50,F,168.7,95.4,Basketball,79,Medium,20.0,119,7.5,8,6929,2.4,15.8,60.4,135.4,77.9,None,Former,16.02
+2344,2024-10-17,50,F,168.7,95.6,Yoga,23,Low,1.8,106,8.0,7,7430,2.5,15.8,60.4,135.4,77.9,None,Former,16.04
+2344,2024-10-19,50,F,168.7,95.9,Basketball,30,High,8.9,160,6.6,10,8382,2.6,15.8,60.4,135.4,77.9,None,Former,16.08
+2344,2024-10-21,50,F,168.7,96.2,Yoga,57,Low,4.6,114,8.4,4,2135,2.2,15.8,60.4,135.4,77.9,None,Former,16.14
+2344,2024-10-25,50,F,168.7,96.4,Running,90,Low,23.6,108,6.3,8,6143,3.2,15.8,60.4,135.4,77.9,None,Former,16.23
+2344,2024-10-26,50,F,168.7,96.7,Weight Training,46,High,10.3,144,6.1,3,7837,2.6,15.8,60.4,135.4,77.9,None,Former,16.3
+2344,2024-10-27,50,F,168.7,96.9,Weight Training,90,Medium,17.4,133,6.8,4,7620,3.1,15.8,60.4,135.4,77.9,None,Former,16.4
+2344,2024-10-30,50,F,168.7,97.2,Swimming,27,Medium,6.1,131,5.3,5,5967,2.7,15.8,60.4,135.4,77.9,None,Former,16.44
+2344,2024-10-31,50,F,168.7,97.5,Swimming,97,High,25.7,134,7.5,3,6381,2.9,15.8,60.4,135.4,77.9,None,Former,16.57

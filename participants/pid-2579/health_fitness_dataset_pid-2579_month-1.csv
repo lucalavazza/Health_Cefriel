@@ -1,0 +1,17 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+2579,2024-01-02,57,Other,163.5,60.0,Swimming,77,Medium,10.7,114,8.3,9,8916,2.1,22.3,65.5,122.5,83,None,Never,0.09
+2579,2024-01-04,57,Other,163.5,60.2,Swimming,36,Medium,5.0,124,6.6,3,7057,2.8,22.3,65.5,122.5,83,None,Never,0.14
+2579,2024-01-05,57,Other,163.5,60.5,HIIT,60,Medium,14.5,131,7.1,5,9670,1.6,22.3,65.5,122.5,83,None,Never,0.21
+2579,2024-01-07,57,Other,163.5,60.7,Swimming,78,Medium,11.0,122,6.2,2,8748,1.7,22.3,65.5,122.5,83,None,Never,0.3
+2579,2024-01-08,57,Other,163.5,61.0,Walking,80,Medium,6.2,120,7.4,6,9033,2.9,22.3,65.5,122.5,83,None,Never,0.4
+2579,2024-01-13,57,Other,163.5,61.2,Swimming,39,Medium,5.5,129,6.4,2,12431,2.4,22.3,65.5,122.5,83,None,Never,0.44
+2579,2024-01-16,57,Other,163.5,61.5,Swimming,58,Medium,8.3,120,7.8,4,9586,2.9,22.3,65.5,122.5,83,None,Never,0.51
+2579,2024-01-18,57,Other,163.5,61.8,Walking,100,Medium,7.8,128,7.2,8,8303,2.9,22.3,65.5,122.5,83,None,Never,0.63
+2579,2024-01-19,57,Other,163.5,62.0,Swimming,110,Medium,15.9,136,6.8,2,9418,3.1,22.3,65.5,122.5,83,None,Never,0.77
+2579,2024-01-20,57,Other,163.5,62.3,Tennis,41,Medium,6.2,131,8.4,5,9121,1.7,22.3,65.5,122.5,83,None,Never,0.81
+2579,2024-01-21,57,Other,163.5,62.5,Tennis,84,Medium,12.7,136,7.7,8,9508,2.1,22.3,65.5,122.5,83,None,Never,0.92
+2579,2024-01-22,57,Other,163.5,62.8,Tennis,68,Low,8.6,116,7.3,3,9259,3.2,22.3,65.5,122.5,83,None,Never,0.98
+2579,2024-01-27,57,Other,163.5,63.1,Tennis,36,High,6.4,127,6.2,1,12723,2.1,22.3,65.5,122.5,83,None,Never,1.03
+2579,2024-01-28,57,Other,163.5,63.3,Tennis,71,Medium,10.9,106,7.4,2,10666,3.1,22.3,65.5,122.5,83,None,Never,1.12
+2579,2024-01-29,57,Other,163.5,63.6,Cycling,93,Medium,16.7,117,7.3,2,10731,3.4,22.3,65.5,122.5,83,None,Never,1.23
+2579,2024-01-31,57,Other,163.5,63.8,Tennis,92,Medium,14.2,121,9.5,1,10201,1.8,22.3,65.5,122.5,83,None,Never,1.34

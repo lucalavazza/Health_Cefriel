@@ -1,0 +1,18 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+36,2024-08-01,64,M,164.4,100.3,Yoga,103,Medium,10.3,117,8.1,1,9631,2.6,22.1,71.9,140.7,70.8,Hypertension,Former,13.58
+36,2024-08-02,64,M,164.4,100.6,Basketball,22,Low,4.9,109,6.4,2,8741,1.9,22.1,71.9,140.7,70.8,Hypertension,Former,13.6
+36,2024-08-03,64,M,164.4,100.8,Running,65,Medium,21.4,130,7.8,1,8520,2.8,22.1,71.9,140.7,70.8,Hypertension,Former,13.68
+36,2024-08-04,64,M,164.4,101.1,Basketball,23,Medium,6.2,112,4.4,7,9232,1.6,22.1,71.9,140.7,70.8,Hypertension,Former,13.71
+36,2024-08-06,64,M,164.4,101.3,HIIT,97,High,45.8,132,7.3,3,8121,2.4,22.1,71.9,140.7,70.8,Hypertension,Former,13.85
+36,2024-08-07,64,M,164.4,101.6,Running,74,Medium,24.5,109,7.6,6,8558,3.3,22.1,71.9,140.7,70.8,Hypertension,Former,13.94
+36,2024-08-08,64,M,164.4,101.8,Running,77,Medium,25.6,107,8.0,10,4196,2.0,22.1,71.9,140.7,70.8,Hypertension,Former,14.03
+36,2024-08-09,64,M,164.4,102.1,Running,101,Medium,33.6,105,7.3,6,6409,1.8,22.1,71.9,140.7,70.8,Hypertension,Former,14.15
+36,2024-08-10,64,M,164.4,102.4,Walking,33,Low,3.6,101,7.9,2,8060,3.3,22.1,71.9,140.7,70.8,Hypertension,Former,14.18
+36,2024-08-13,64,M,164.4,102.6,Weight Training,113,Medium,23.1,116,8.8,7,8230,2.3,22.1,71.9,140.7,70.8,Hypertension,Former,14.32
+36,2024-08-14,64,M,164.4,102.9,Running,35,Medium,11.7,124,8.8,7,4081,2.7,22.1,71.9,140.7,70.8,Hypertension,Former,14.36
+36,2024-08-20,64,M,164.4,103.1,Dancing,64,Medium,12.1,121,6.8,10,7097,1.6,22.1,71.9,140.7,70.8,Hypertension,Former,14.44
+36,2024-08-23,64,M,164.4,103.4,Dancing,84,Medium,15.9,121,6.5,1,7195,2.4,22.1,71.9,140.7,70.8,Hypertension,Former,14.54
+36,2024-08-24,64,M,164.4,103.7,Dancing,24,Medium,4.5,124,5.5,5,9981,2.2,22.1,71.9,140.7,70.8,Hypertension,Former,14.57
+36,2024-08-26,64,M,164.4,103.9,HIIT,65,High,31.4,128,8.3,6,7394,2.1,22.1,71.9,140.7,70.8,Hypertension,Former,14.66
+36,2024-08-29,64,M,164.4,104.2,Walking,101,Medium,13.3,122,7.4,2,3578,3.3,22.1,71.9,140.7,70.8,Hypertension,Former,14.78
+36,2024-08-31,64,M,164.4,104.4,Swimming,101,Medium,24.5,104,7.5,2,8352,2.3,22.1,71.9,140.7,70.8,Hypertension,Former,14.9

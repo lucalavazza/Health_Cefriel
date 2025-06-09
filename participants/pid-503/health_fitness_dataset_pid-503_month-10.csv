@@ -1,0 +1,16 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+503,2024-10-02,42,F,158.1,107.3,Walking,24,High,3.8,142,6.4,5,7811,2.1,23.6,75.8,118,70.9,Hypertension,Never,16.02
+503,2024-10-03,42,F,158.1,107.5,Walking,112,Low,12.7,116,7.6,2,4711,1.9,23.6,75.8,118,70.9,Hypertension,Never,16.13
+503,2024-10-04,42,F,158.1,107.8,Basketball,54,High,18.1,146,6.4,10,8028,1.5,23.6,75.8,118,70.9,Hypertension,Never,16.21
+503,2024-10-05,42,F,158.1,108.0,Basketball,75,Medium,21.6,129,7.0,9,5510,2.1,23.6,75.8,118,70.9,Hypertension,Never,16.3
+503,2024-10-06,42,F,158.1,108.3,HIIT,59,Low,21.2,114,7.5,3,8863,2.5,23.6,75.8,118,70.9,Hypertension,Never,16.36
+503,2024-10-07,42,F,158.1,108.5,HIIT,58,Low,20.9,111,7.3,9,7305,2.4,23.6,75.8,118,70.9,Hypertension,Never,16.42
+503,2024-10-08,42,F,158.1,108.8,HIIT,51,Medium,22.1,125,4.9,2,6778,2.9,23.6,75.8,118,70.9,Hypertension,Never,16.48
+503,2024-10-13,42,F,158.1,109.1,HIIT,71,Medium,30.9,141,6.5,3,8741,2.4,23.6,75.8,118,70.9,Hypertension,Never,16.56
+503,2024-10-15,42,F,158.1,109.3,HIIT,90,Low,32.7,116,7.2,6,6295,2.4,23.6,75.8,118,70.9,Hypertension,Never,16.65
+503,2024-10-18,42,F,158.1,109.6,HIIT,75,Low,27.3,115,7.7,2,5317,3.2,23.6,75.8,118,70.9,Hypertension,Never,16.73
+503,2024-10-19,42,F,158.1,109.8,Basketball,76,Low,18.5,113,6.6,9,8204,2.1,23.6,75.8,118,70.9,Hypertension,Never,16.8
+503,2024-10-20,42,F,158.1,110.1,Basketball,22,Low,5.4,126,7.6,1,6279,2.4,23.6,75.8,118,70.9,Hypertension,Never,16.82
+503,2024-10-26,42,F,158.1,110.3,Basketball,21,Medium,6.2,132,8.0,1,6658,1.7,23.6,75.8,118,70.9,Hypertension,Never,16.85
+503,2024-10-30,42,F,158.1,110.6,Basketball,62,High,21.3,140,4.7,3,8267,3.2,23.6,75.8,118,70.9,Hypertension,Never,16.94
+503,2024-10-31,42,F,158.1,110.9,Cycling,54,Low,14.1,119,8.3,4,6799,1.6,23.6,75.8,118,70.9,Hypertension,Never,16.99

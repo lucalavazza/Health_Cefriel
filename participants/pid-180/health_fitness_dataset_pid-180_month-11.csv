@@ -1,0 +1,17 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+180,2024-11-02,50,F,160.1,108.5,Cycling,37,Medium,11.3,127,6.7,9,9129,2.5,22.3,77,123.3,78.9,Diabetes,Never,16.81
+180,2024-11-03,50,F,160.1,108.8,Basketball,92,Medium,26.6,131,6.2,5,7610,2.3,22.3,77,123.3,78.9,Diabetes,Never,16.92
+180,2024-11-04,50,F,160.1,109.0,Basketball,94,Medium,27.3,127,6.0,5,7975,2.0,22.3,77,123.3,78.9,Diabetes,Never,17.03
+180,2024-11-06,50,F,160.1,109.3,Walking,87,Medium,12.0,133,5.6,9,6989,1.6,22.3,77,123.3,78.9,Diabetes,Never,17.14
+180,2024-11-13,50,F,160.1,109.5,Dancing,35,Medium,7.0,132,5.5,6,8832,3.3,22.3,77,123.3,78.9,Diabetes,Never,17.18
+180,2024-11-14,50,F,160.1,109.8,Dancing,65,Medium,13.1,128,7.3,3,5517,2.8,22.3,77,123.3,78.9,Diabetes,Never,17.26
+180,2024-11-15,50,F,160.1,110.1,Dancing,114,High,26.8,150,7.6,10,5928,2.6,22.3,77,123.3,78.9,Diabetes,Never,17.41
+180,2024-11-16,50,F,160.1,110.3,Dancing,51,High,12.0,139,5.6,5,4621,2.9,22.3,77,123.3,78.9,Diabetes,Never,17.49
+180,2024-11-19,50,F,160.1,110.6,Dancing,73,High,17.2,148,7.9,2,6471,2.6,22.3,77,123.3,78.9,Diabetes,Never,17.59
+180,2024-11-20,50,F,160.1,110.8,Dancing,101,Medium,20.5,121,7.1,5,6845,3.5,22.3,77,123.3,78.9,Diabetes,Never,17.71
+180,2024-11-22,50,F,160.1,111.1,Running,74,Medium,26.8,129,4.7,7,5132,2.0,22.3,77,123.3,78.9,Diabetes,Never,17.8
+180,2024-11-23,50,F,160.1,111.3,Dancing,35,Low,5.9,112,6.1,5,8095,2.8,22.3,77,123.3,78.9,Diabetes,Never,17.83
+180,2024-11-24,50,F,160.1,111.6,Cycling,109,Medium,34.4,115,5.1,2,7349,3.5,22.3,77,123.3,78.9,Diabetes,Never,17.96
+180,2024-11-25,50,F,160.1,111.9,Cycling,43,Medium,13.6,126,8.7,7,7805,2.7,22.3,77,123.3,78.9,Diabetes,Never,18.02
+180,2024-11-27,50,F,160.1,112.1,Cycling,112,Medium,35.5,121,6.5,8,6739,2.7,22.3,77,123.3,78.9,Diabetes,Never,18.15
+180,2024-11-29,50,F,160.1,112.4,Cycling,74,Low,19.6,107,6.6,8,6830,2.4,22.3,77,123.3,78.9,Diabetes,Never,18.22

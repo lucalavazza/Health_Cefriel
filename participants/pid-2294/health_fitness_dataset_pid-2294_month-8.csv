@@ -1,0 +1,17 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+2294,2024-08-02,34,M,178.9,121.2,Walking,93,Medium,14.2,141,5.8,1,8194,2.8,26.5,83.4,116,94,None,Never,11.92
+2294,2024-08-03,34,M,178.9,121.5,Walking,35,High,6.3,179,7.2,2,7504,3.0,26.5,83.4,116,94,None,Never,11.97
+2294,2024-08-04,34,M,178.9,121.7,Walking,49,Low,6.3,129,7.6,5,8543,2.8,26.5,83.4,116,94,None,Never,12.02
+2294,2024-08-05,34,M,178.9,122.0,Walking,58,Medium,8.9,142,6.4,8,6898,1.7,26.5,83.4,116,94,None,Never,12.09
+2294,2024-08-07,34,M,178.9,122.2,Walking,119,Medium,18.4,137,6.9,2,7276,1.8,26.5,83.4,116,94,None,Never,12.23
+2294,2024-08-09,34,M,178.9,122.5,Walking,100,Medium,15.5,131,6.7,5,7160,2.2,26.5,83.4,116,94,None,Never,12.35
+2294,2024-08-10,34,M,178.9,122.8,Walking,43,Medium,6.7,142,7.0,9,8171,2.6,26.5,83.4,116,94,None,Never,12.4
+2294,2024-08-15,34,M,178.9,123.0,Swimming,26,Medium,7.4,131,7.0,8,8729,3.2,26.5,83.4,116,94,None,Never,12.43
+2294,2024-08-17,34,M,178.9,123.3,Dancing,32,Medium,7.2,138,7.1,9,7152,2.9,26.5,83.4,116,94,None,Never,12.47
+2294,2024-08-22,34,M,178.9,123.5,Swimming,43,Low,10.3,121,7.2,4,7139,2.7,26.5,83.4,116,94,None,Never,12.51
+2294,2024-08-23,34,M,178.9,123.8,Swimming,63,Low,15.1,124,6.5,4,7766,3.0,26.5,83.4,116,94,None,Never,12.58
+2294,2024-08-24,34,M,178.9,124.1,Weight Training,107,Medium,26.5,148,7.2,1,7349,2.0,26.5,83.4,116,94,None,Never,12.71
+2294,2024-08-26,34,M,178.9,124.3,Running,81,Medium,32.8,133,7.6,8,9850,3.3,26.5,83.4,116,94,None,Never,12.8
+2294,2024-08-29,34,M,178.9,124.6,Tennis,31,Medium,9.4,140,6.5,9,3441,3.1,26.5,83.4,116,94,None,Never,12.84
+2294,2024-08-30,34,M,178.9,124.8,Tennis,32,Medium,9.7,127,6.1,4,5688,3.2,26.5,83.4,116,94,None,Never,12.88
+2294,2024-08-31,34,M,178.9,125.1,Dancing,99,Low,18.9,124,7.9,2,9017,3.4,26.5,83.4,116,94,None,Never,12.98

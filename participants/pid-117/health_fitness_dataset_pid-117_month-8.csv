@@ -1,0 +1,17 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+117,2024-08-01,36,M,177.6,106.0,Running,40,Medium,13.8,135,6.2,6,4076,3.0,21.6,72.8,131.7,74.7,Hypertension,Current,12.47
+117,2024-08-02,36,M,177.6,106.3,Running,20,Medium,6.9,151,6.9,2,6257,2.5,21.6,72.8,131.7,74.7,Hypertension,Current,12.5
+117,2024-08-03,36,M,177.6,106.5,Running,64,Low,18.5,118,7.5,3,8999,3.5,21.6,72.8,131.7,74.7,Hypertension,Current,12.56
+117,2024-08-05,36,M,177.6,106.8,Running,70,Medium,24.4,145,7.0,1,9038,2.3,21.6,72.8,131.7,74.7,Hypertension,Current,12.64
+117,2024-08-06,36,M,177.6,107.0,Running,94,High,38.3,141,5.6,3,7841,1.9,21.6,72.8,131.7,74.7,Hypertension,Current,12.78
+117,2024-08-07,36,M,177.6,107.3,Running,61,Low,17.8,117,8.2,4,6398,3.2,21.6,72.8,131.7,74.7,Hypertension,Current,12.84
+117,2024-08-11,36,M,177.6,107.5,Running,46,Medium,16.1,137,7.6,7,9700,2.6,21.6,72.8,131.7,74.7,Hypertension,Current,12.89
+117,2024-08-12,36,M,177.6,107.8,Running,101,High,41.4,166,6.4,8,7387,2.6,21.6,72.8,131.7,74.7,Hypertension,Current,13.03
+117,2024-08-13,36,M,177.6,108.1,Running,99,High,40.7,161,7.2,10,7705,2.9,21.6,72.8,131.7,74.7,Hypertension,Current,13.17
+117,2024-08-15,36,M,177.6,108.3,Running,27,Low,7.9,124,6.6,4,7144,2.2,21.6,72.8,131.7,74.7,Hypertension,Current,13.2
+117,2024-08-18,36,M,177.6,108.6,Running,21,Medium,7.4,138,5.9,4,7246,3.1,21.6,72.8,131.7,74.7,Hypertension,Current,13.22
+117,2024-08-20,36,M,177.6,108.8,Running,61,High,25.2,145,7.7,7,8560,1.9,21.6,72.8,131.7,74.7,Hypertension,Current,13.31
+117,2024-08-22,36,M,177.6,109.1,Running,31,High,12.9,162,8.2,6,8275,3.1,21.6,72.8,131.7,74.7,Hypertension,Current,13.35
+117,2024-08-24,36,M,177.6,109.3,Running,57,Low,16.9,128,8.0,8,6890,2.5,21.6,72.8,131.7,74.7,Hypertension,Current,13.41
+117,2024-08-25,36,M,177.6,109.6,Swimming,33,Medium,8.4,127,6.3,5,5541,2.9,21.6,72.8,131.7,74.7,Hypertension,Current,13.45
+117,2024-08-31,36,M,177.6,109.9,Running,31,Medium,11.1,123,8.5,8,6926,1.9,21.6,72.8,131.7,74.7,Hypertension,Current,13.49

@@ -1,0 +1,18 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+2312,2024-10-01,43,M,170.5,116.1,Swimming,104,Medium,28.1,139,7.2,4,5183,2.3,23.6,65.2,113,79.1,None,Current,14.8
+2312,2024-10-02,43,M,170.5,116.3,Walking,95,Medium,14.0,139,8.2,1,6849,2.1,23.6,65.2,113,79.1,None,Current,14.92
+2312,2024-10-06,43,M,170.5,116.6,Swimming,70,High,22.2,146,8.2,10,7442,2.3,23.6,65.2,113,79.1,None,Current,15.01
+2312,2024-10-08,43,M,170.5,116.9,Weight Training,95,High,25.8,141,8.8,3,5800,3.5,23.6,65.2,113,79.1,None,Current,15.15
+2312,2024-10-10,43,M,170.5,117.1,Walking,94,Medium,13.9,129,6.4,4,3249,3.3,23.6,65.2,113,79.1,None,Current,15.26
+2312,2024-10-12,43,M,170.5,117.4,Weight Training,110,High,30.1,165,6.3,2,6119,2.4,23.6,65.2,113,79.1,None,Current,15.41
+2312,2024-10-13,43,M,170.5,117.6,Yoga,113,Medium,13.3,135,7.7,8,6148,3.2,23.6,65.2,113,79.1,None,Current,15.55
+2312,2024-10-15,43,M,170.5,117.9,Weight Training,57,Medium,13.4,136,7.7,2,5590,2.5,23.6,65.2,113,79.1,None,Current,15.62
+2312,2024-10-16,43,M,170.5,118.2,Weight Training,55,High,15.1,142,6.4,5,6374,2.0,23.6,65.2,113,79.1,None,Current,15.69
+2312,2024-10-18,43,M,170.5,118.4,Basketball,62,Medium,19.5,139,7.5,5,4522,1.8,23.6,65.2,113,79.1,None,Current,15.77
+2312,2024-10-19,43,M,170.5,118.7,Running,88,Low,28.4,110,5.6,10,6974,2.7,23.6,65.2,113,79.1,None,Current,15.86
+2312,2024-10-20,43,M,170.5,118.9,Basketball,77,Medium,24.4,138,6.0,4,9122,2.2,23.6,65.2,113,79.1,None,Current,15.95
+2312,2024-10-25,43,M,170.5,119.2,Basketball,29,Low,7.7,117,5.9,3,6463,2.4,23.6,65.2,113,79.1,None,Current,15.98
+2312,2024-10-26,43,M,170.5,119.4,Basketball,93,Medium,29.6,121,7.2,10,6103,3.1,23.6,65.2,113,79.1,None,Current,16.09
+2312,2024-10-27,43,M,170.5,119.7,Basketball,53,High,19.7,155,6.6,8,10983,2.9,23.6,65.2,113,79.1,None,Current,16.16
+2312,2024-10-28,43,M,170.5,120.0,Basketball,25,Medium,8.0,139,6.4,5,5912,3.2,23.6,65.2,113,79.1,None,Current,16.19
+2312,2024-10-31,43,M,170.5,120.2,Yoga,102,Low,10.2,115,6.7,2,7684,2.9,23.6,65.2,113,79.1,None,Current,16.3

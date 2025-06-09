@@ -1,0 +1,17 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+1411,2024-11-01,18,M,174.2,106.9,Running,104,Medium,36.2,154,9.6,1,3908,3.0,17.7,68.1,120.5,68.1,None,Former,17.5
+1411,2024-11-03,18,M,174.2,107.1,Running,25,Medium,8.7,153,8.0,9,7214,3.4,17.7,68.1,120.5,68.1,None,Former,17.53
+1411,2024-11-05,18,M,174.2,107.4,Running,96,High,39.2,172,5.2,1,5854,1.7,17.7,68.1,120.5,68.1,None,Former,17.66
+1411,2024-11-07,18,M,174.2,107.6,Running,85,Medium,29.8,138,8.3,8,9303,2.8,17.7,68.1,120.5,68.1,None,Former,17.76
+1411,2024-11-08,18,M,174.2,107.9,Running,104,High,42.7,163,6.6,1,7309,2.4,17.7,68.1,120.5,68.1,None,Former,17.91
+1411,2024-11-11,18,M,174.2,108.1,Weight Training,56,Medium,12.1,147,6.8,5,6080,3.4,17.7,68.1,120.5,68.1,None,Former,17.97
+1411,2024-11-12,18,M,174.2,108.4,Weight Training,24,Low,4.3,134,8.6,2,6685,1.6,17.7,68.1,120.5,68.1,None,Former,18.0
+1411,2024-11-13,18,M,174.2,108.7,Running,38,High,15.7,182,5.0,5,2653,1.7,17.7,68.1,120.5,68.1,None,Former,18.05
+1411,2024-11-15,18,M,174.2,108.9,Weight Training,35,Medium,7.6,145,6.7,8,5351,3.1,17.7,68.1,120.5,68.1,None,Former,18.09
+1411,2024-11-18,18,M,174.2,109.2,Running,63,High,26.2,160,7.6,3,7521,1.8,17.7,68.1,120.5,68.1,None,Former,18.18
+1411,2024-11-20,18,M,174.2,109.4,Running,52,High,21.6,188,6.6,6,6138,2.1,17.7,68.1,120.5,68.1,None,Former,18.25
+1411,2024-11-21,18,M,174.2,109.7,Weight Training,49,Medium,10.7,150,7.7,8,4777,2.2,17.7,68.1,120.5,68.1,None,Former,18.31
+1411,2024-11-24,18,M,174.2,109.9,Weight Training,85,Low,15.5,123,8.3,2,8388,1.7,17.7,68.1,120.5,68.1,None,Former,18.4
+1411,2024-11-27,18,M,174.2,110.2,Weight Training,102,Low,18.7,129,5.5,7,9119,3.1,17.7,68.1,120.5,68.1,None,Former,18.5
+1411,2024-11-29,18,M,174.2,110.5,Dancing,49,Low,8.2,127,8.4,2,6960,1.7,17.7,68.1,120.5,68.1,None,Former,18.55
+1411,2024-11-30,18,M,174.2,110.7,Swimming,80,Low,17.2,125,7.0,4,7353,1.7,17.7,68.1,120.5,68.1,None,Former,18.63

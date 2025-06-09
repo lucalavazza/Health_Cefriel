@@ -1,0 +1,17 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+2976,2024-09-02,50,M,177.3,127.4,Swimming,88,High,30.5,157,6.9,2,5093,2.1,26.9,64.9,115,71.1,Asthma,Never,13.07
+2976,2024-09-03,50,M,177.3,127.7,Swimming,83,Medium,24.7,138,6.5,2,6644,3.1,26.9,64.9,115,71.1,Asthma,Never,13.17
+2976,2024-09-04,50,M,177.3,127.9,Running,23,Medium,9.6,120,7.3,9,4658,3.1,26.9,64.9,115,71.1,Asthma,Never,13.2
+2976,2024-09-06,50,M,177.3,128.2,Swimming,52,Medium,15.5,126,7.5,1,7320,2.5,26.9,64.9,115,71.1,Asthma,Never,13.26
+2976,2024-09-07,50,M,177.3,128.4,Swimming,95,Low,23.7,118,6.5,5,7752,2.6,26.9,64.9,115,71.1,Asthma,Never,13.36
+2976,2024-09-10,50,M,177.3,128.7,Cycling,34,High,14.4,152,7.4,9,7060,2.9,26.9,64.9,115,71.1,Asthma,Never,13.4
+2976,2024-09-11,50,M,177.3,129.0,Swimming,67,Medium,20.1,135,8.4,10,6765,2.8,26.9,64.9,115,71.1,Asthma,Never,13.48
+2976,2024-09-12,50,M,177.3,129.2,Swimming,66,Medium,19.9,121,7.1,8,6437,2.0,26.9,64.9,115,71.1,Asthma,Never,13.56
+2976,2024-09-13,50,M,177.3,129.5,Swimming,68,Medium,20.5,132,5.4,10,5766,3.4,26.9,64.9,115,71.1,Asthma,Never,13.64
+2976,2024-09-14,50,M,177.3,129.7,Swimming,101,High,35.6,134,8.0,8,10602,2.6,26.9,64.9,115,71.1,Asthma,Never,13.79
+2976,2024-09-20,50,M,177.3,130.0,Swimming,32,High,11.3,143,5.8,10,6913,2.8,26.9,64.9,115,71.1,Asthma,Never,13.83
+2976,2024-09-24,50,M,177.3,130.2,Swimming,77,High,27.2,154,6.2,4,5613,2.9,26.9,64.9,115,71.1,Asthma,Never,13.94
+2976,2024-09-25,50,M,177.3,130.5,Swimming,56,Medium,17.0,124,6.2,1,7338,3.1,26.9,64.9,115,71.1,Asthma,Never,14.01
+2976,2024-09-27,50,M,177.3,130.8,Swimming,29,Medium,8.8,117,7.6,3,4139,2.6,26.9,64.9,115,71.1,Asthma,Never,14.04
+2976,2024-09-29,50,M,177.3,131.0,Swimming,112,Medium,34.2,139,6.2,7,9330,1.8,26.9,64.9,115,71.1,Asthma,Never,14.17
+2976,2024-09-30,50,M,177.3,131.3,Swimming,79,Medium,24.1,127,7.7,3,6257,1.9,26.9,64.9,115,71.1,Asthma,Never,14.27

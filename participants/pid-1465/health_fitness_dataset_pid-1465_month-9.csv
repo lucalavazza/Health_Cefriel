@@ -1,0 +1,16 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+1465,2024-09-01,49,M,171.7,123.8,Weight Training,64,Medium,15.8,123,6.0,8,9623,2.6,26.9,76.7,114.8,78.6,Hypertension,Current,14.59
+1465,2024-09-03,49,M,171.7,124.1,Weight Training,68,Medium,16.8,141,7.1,9,7216,3.3,26.9,76.7,114.8,78.6,Hypertension,Current,14.67
+1465,2024-09-04,49,M,171.7,124.4,Running,81,Medium,32.8,136,7.4,7,6598,1.9,26.9,76.7,114.8,78.6,Hypertension,Current,14.77
+1465,2024-09-05,49,M,171.7,124.6,Weight Training,92,Low,19.1,111,5.0,10,5323,1.7,26.9,76.7,114.8,78.6,Hypertension,Current,14.86
+1465,2024-09-06,49,M,171.7,124.9,Walking,109,Medium,17.2,124,7.1,2,6957,3.1,26.9,76.7,114.8,78.6,Hypertension,Current,14.99
+1465,2024-09-07,49,M,171.7,125.1,Running,53,Medium,21.6,114,4.7,8,6139,3.4,26.9,76.7,114.8,78.6,Hypertension,Current,15.06
+1465,2024-09-08,49,M,171.7,125.4,Walking,95,Low,12.5,107,7.4,2,6051,2.0,26.9,76.7,114.8,78.6,Hypertension,Current,15.15
+1465,2024-09-09,49,M,171.7,125.6,Running,105,Low,35.8,113,6.1,6,6896,2.5,26.9,76.7,114.8,78.6,Hypertension,Current,15.26
+1465,2024-09-10,49,M,171.7,125.9,Walking,73,Medium,11.6,122,7.2,6,5623,3.2,26.9,76.7,114.8,78.6,Hypertension,Current,15.34
+1465,2024-09-11,49,M,171.7,126.2,Walking,117,Medium,18.7,120,7.2,8,4197,3.3,26.9,76.7,114.8,78.6,Hypertension,Current,15.48
+1465,2024-09-16,49,M,171.7,126.4,Walking,24,Medium,3.8,132,6.7,10,5764,2.2,26.9,76.7,114.8,78.6,Hypertension,Current,15.51
+1465,2024-09-19,49,M,171.7,126.7,HIIT,105,Low,44.2,110,7.0,2,7782,2.3,26.9,76.7,114.8,78.6,Hypertension,Current,15.62
+1465,2024-09-21,49,M,171.7,126.9,Walking,120,Medium,19.3,130,8.7,2,7006,1.9,26.9,76.7,114.8,78.6,Hypertension,Current,15.76
+1465,2024-09-26,49,M,171.7,127.2,HIIT,89,Medium,45.2,135,8.0,4,7360,2.9,26.9,76.7,114.8,78.6,Hypertension,Current,15.87
+1465,2024-09-28,49,M,171.7,127.4,Walking,30,High,5.6,180,7.9,4,4969,1.7,26.9,76.7,114.8,78.6,Hypertension,Current,15.91

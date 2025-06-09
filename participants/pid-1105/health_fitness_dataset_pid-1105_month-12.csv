@@ -1,0 +1,17 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+1105,2024-12-01,63,M,180.8,136.3,Weight Training,77,Medium,21.0,114,5.5,5,7279,3.0,23.9,70.2,111,80.3,None,Never,18.8
+1105,2024-12-02,63,M,180.8,136.6,Basketball,54,High,22.9,127,8.3,7,10140,1.6,23.9,70.2,111,80.3,None,Never,18.88
+1105,2024-12-03,63,M,180.8,136.8,Basketball,49,Low,14.9,100,8.2,1,7480,3.3,23.9,70.2,111,80.3,None,Never,18.93
+1105,2024-12-04,63,M,180.8,137.1,Basketball,73,Medium,26.6,128,8.1,6,7696,1.7,23.9,70.2,111,80.3,None,Never,19.02
+1105,2024-12-06,63,M,180.8,137.3,Basketball,62,Medium,22.7,115,7.8,6,3551,2.0,23.9,70.2,111,80.3,None,Never,19.09
+1105,2024-12-09,63,M,180.8,137.6,Basketball,109,Medium,39.9,129,7.4,10,6983,1.7,23.9,70.2,111,80.3,None,Never,19.22
+1105,2024-12-12,63,M,180.8,137.8,Basketball,37,Low,11.3,98,6.0,6,9309,1.9,23.9,70.2,111,80.3,None,Never,19.26
+1105,2024-12-13,63,M,180.8,138.1,Basketball,98,Low,30.0,103,6.5,4,5666,2.9,23.9,70.2,111,80.3,None,Never,19.36
+1105,2024-12-15,63,M,180.8,138.4,Basketball,33,High,14.2,132,7.1,8,9829,2.2,23.9,70.2,111,80.3,None,Never,19.4
+1105,2024-12-16,63,M,180.8,138.6,Basketball,93,High,40.0,134,7.6,3,8175,2.2,23.9,70.2,111,80.3,None,Never,19.53
+1105,2024-12-17,63,M,180.8,138.9,Swimming,111,Medium,35.9,114,6.1,8,8279,2.5,23.9,70.2,111,80.3,None,Never,19.67
+1105,2024-12-18,63,M,180.8,139.1,Basketball,77,Medium,28.5,127,5.6,2,7017,1.8,23.9,70.2,111,80.3,None,Never,19.76
+1105,2024-12-20,63,M,180.8,139.4,Swimming,119,Low,32.2,104,7.1,7,9065,2.9,23.9,70.2,111,80.3,None,Never,19.88
+1105,2024-12-21,63,M,180.8,139.6,Swimming,51,Medium,16.6,106,6.1,9,7812,3.2,23.9,70.2,111,80.3,None,Never,19.94
+1105,2024-12-23,63,M,180.8,139.9,Yoga,36,Low,4.2,100,8.9,2,9485,3.3,23.9,70.2,111,80.3,None,Never,19.97
+1105,2024-12-24,63,M,180.8,140.2,Running,73,Medium,33.4,110,6.9,7,9855,2.4,23.9,70.2,111,80.3,None,Never,20.06

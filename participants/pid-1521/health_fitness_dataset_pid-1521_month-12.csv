@@ -1,0 +1,17 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+1521,2024-12-02,61,F,151.4,105.0,Cycling,104,Low,25.7,109,5.7,10,7089,2.6,22.9,63.1,106.8,71.1,None,Former,17.34
+1521,2024-12-03,61,F,151.4,105.3,Swimming,110,Medium,27.0,117,6.2,4,6531,2.9,22.9,63.1,106.8,71.1,None,Former,17.47
+1521,2024-12-04,61,F,151.4,105.5,Cycling,52,Low,12.9,103,6.7,2,5597,2.7,22.9,63.1,106.8,71.1,None,Former,17.52
+1521,2024-12-05,61,F,151.4,105.8,Cycling,72,Low,17.9,104,8.2,3,8671,1.5,22.9,63.1,106.8,71.1,None,Former,17.59
+1521,2024-12-06,61,F,151.4,106.1,Cycling,47,Medium,14.1,123,6.8,5,6968,2.9,22.9,63.1,106.8,71.1,None,Former,17.65
+1521,2024-12-07,61,F,151.4,106.3,Cycling,110,High,38.6,130,7.5,3,8671,3.3,22.9,63.1,106.8,71.1,None,Former,17.8
+1521,2024-12-09,61,F,151.4,106.6,Basketball,94,Medium,26.6,120,6.2,4,8191,2.1,22.9,63.1,106.8,71.1,None,Former,17.91
+1521,2024-12-10,61,F,151.4,106.8,Basketball,77,Medium,21.9,133,8.5,2,8063,2.5,22.9,63.1,106.8,71.1,None,Former,18.01
+1521,2024-12-11,61,F,151.4,107.1,Basketball,113,Medium,32.2,132,6.5,8,9619,2.6,22.9,63.1,106.8,71.1,None,Former,18.14
+1521,2024-12-12,61,F,151.4,107.3,Weight Training,32,Low,5.7,94,5.7,9,7367,2.4,22.9,63.1,106.8,71.1,None,Former,18.17
+1521,2024-12-14,61,F,151.4,107.6,Weight Training,71,Medium,15.2,116,5.9,5,10461,3.2,22.9,63.1,106.8,71.1,None,Former,18.26
+1521,2024-12-16,61,F,151.4,107.8,Basketball,98,Low,23.4,103,7.2,1,7097,2.5,22.9,63.1,106.8,71.1,None,Former,18.36
+1521,2024-12-19,61,F,151.4,108.1,Walking,99,Medium,13.5,105,6.7,5,5137,2.2,22.9,63.1,106.8,71.1,None,Former,18.48
+1521,2024-12-20,61,F,151.4,108.4,Weight Training,105,High,26.5,124,7.6,6,8968,1.9,22.9,63.1,106.8,71.1,None,Former,18.62
+1521,2024-12-22,61,F,151.4,108.6,Walking,38,High,6.1,135,7.8,4,9182,2.4,22.9,63.1,106.8,71.1,None,Former,18.68
+1521,2024-12-24,61,F,151.4,108.9,Walking,100,Medium,13.8,119,7.3,7,8670,1.7,22.9,63.1,106.8,71.1,None,Former,18.8

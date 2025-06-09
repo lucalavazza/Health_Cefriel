@@ -1,0 +1,16 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+45,2024-12-02,36,F,158.3,107.7,Basketball,86,Medium,24.6,139,6.2,4,5977,2.6,21.6,76.3,134.1,77.7,Hypertension,Former,17.4
+45,2024-12-05,36,F,158.3,107.9,Weight Training,71,Low,12.7,127,6.7,9,5703,1.7,21.6,76.3,134.1,77.7,Hypertension,Former,17.47
+45,2024-12-07,36,F,158.3,108.2,Swimming,59,Low,12.4,118,8.3,7,7235,3.0,21.6,76.3,134.1,77.7,Hypertension,Former,17.53
+45,2024-12-08,36,F,158.3,108.4,Swimming,57,Low,12.0,122,7.2,10,7947,2.5,21.6,76.3,134.1,77.7,Hypertension,Former,17.58
+45,2024-12-12,36,F,158.3,108.7,Weight Training,115,Medium,24.9,135,8.2,5,7115,2.8,21.6,76.3,134.1,77.7,Hypertension,Former,17.72
+45,2024-12-14,36,F,158.3,108.9,Weight Training,39,Medium,8.5,151,6.9,5,8034,2.5,21.6,76.3,134.1,77.7,Hypertension,Former,17.77
+45,2024-12-15,36,F,158.3,109.2,Swimming,35,Medium,8.9,129,8.0,1,8418,2.3,21.6,76.3,134.1,77.7,Hypertension,Former,17.81
+45,2024-12-16,36,F,158.3,109.5,Weight Training,108,Low,19.7,114,5.8,1,8520,1.9,21.6,76.3,134.1,77.7,Hypertension,Former,17.92
+45,2024-12-18,36,F,158.3,109.7,Cycling,54,Medium,16.7,139,7.5,7,7823,2.0,21.6,76.3,134.1,77.7,Hypertension,Former,17.98
+45,2024-12-20,36,F,158.3,110.0,Weight Training,120,Medium,26.3,144,7.0,6,7506,3.5,21.6,76.3,134.1,77.7,Hypertension,Former,18.13
+45,2024-12-21,36,F,158.3,110.2,Dancing,24,Medium,4.8,145,6.2,6,10661,2.8,21.6,76.3,134.1,77.7,Hypertension,Former,18.16
+45,2024-12-22,36,F,158.3,110.5,Weight Training,98,Medium,21.6,125,6.2,4,8600,1.6,21.6,76.3,134.1,77.7,Hypertension,Former,18.27
+45,2024-12-23,36,F,158.3,110.8,Basketball,23,Medium,6.8,136,7.2,6,7711,1.5,21.6,76.3,134.1,77.7,Hypertension,Former,18.3
+45,2024-12-24,36,F,158.3,111.0,Basketball,59,Medium,17.4,136,7.5,3,7069,3.4,21.6,76.3,134.1,77.7,Hypertension,Former,18.37
+45,2024-12-25,36,F,158.3,111.3,Basketball,90,High,31.1,156,7.4,7,9620,2.8,21.6,76.3,134.1,77.7,Hypertension,Former,18.5

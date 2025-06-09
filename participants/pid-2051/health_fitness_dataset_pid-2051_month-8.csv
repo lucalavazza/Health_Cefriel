@@ -1,0 +1,16 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+2051,2024-08-01,64,M,178.3,142.5,Running,28,Medium,13.0,112,6.0,6,6712,2.0,32.4,67.7,105.7,88.2,None,Never,13.02
+2051,2024-08-02,64,M,178.3,142.7,Weight Training,105,Low,24.9,102,7.7,1,7210,2.7,32.4,67.7,105.7,88.2,None,Never,13.13
+2051,2024-08-06,64,M,178.3,143.0,Weight Training,111,Low,26.4,101,7.4,5,4777,2.7,32.4,67.7,105.7,88.2,None,Never,13.24
+2051,2024-08-08,64,M,178.3,143.2,Weight Training,45,Low,10.7,102,7.1,1,9283,3.0,32.4,67.7,105.7,88.2,None,Never,13.28
+2051,2024-08-12,64,M,178.3,143.5,Weight Training,61,Medium,17.5,112,7.4,6,8880,2.6,32.4,67.7,105.7,88.2,None,Never,13.36
+2051,2024-08-13,64,M,178.3,143.8,Weight Training,109,Medium,31.3,133,6.8,7,7813,2.5,32.4,67.7,105.7,88.2,None,Never,13.49
+2051,2024-08-15,64,M,178.3,144.0,Tennis,73,Medium,25.5,98,5.4,2,7538,2.3,32.4,67.7,105.7,88.2,None,Never,13.58
+2051,2024-08-17,64,M,178.3,144.3,Tennis,80,Medium,28.0,114,7.7,8,9372,2.0,32.4,67.7,105.7,88.2,None,Never,13.67
+2051,2024-08-19,64,M,178.3,144.5,Weight Training,107,Medium,30.9,115,6.9,2,7231,3.0,32.4,67.7,105.7,88.2,None,Never,13.8
+2051,2024-08-20,64,M,178.3,144.8,Dancing,72,Medium,19.1,118,8.3,7,8209,2.9,32.4,67.7,105.7,88.2,None,Never,13.89
+2051,2024-08-22,64,M,178.3,145.0,Basketball,45,Low,14.5,93,7.8,1,7291,2.2,32.4,67.7,105.7,88.2,None,Never,13.93
+2051,2024-08-23,64,M,178.3,145.3,Dancing,95,Low,21.1,105,5.9,7,8359,1.7,32.4,67.7,105.7,88.2,None,Never,14.03
+2051,2024-08-24,64,M,178.3,145.6,Basketball,63,Medium,24.4,121,7.8,8,6976,2.5,32.4,67.7,105.7,88.2,None,Never,14.1
+2051,2024-08-29,64,M,178.3,145.8,Basketball,92,Low,29.8,102,6.9,6,6106,3.1,32.4,67.7,105.7,88.2,None,Never,14.19
+2051,2024-08-31,64,M,178.3,146.1,Swimming,97,Low,27.5,111,8.1,4,7720,2.8,32.4,67.7,105.7,88.2,None,Never,14.29

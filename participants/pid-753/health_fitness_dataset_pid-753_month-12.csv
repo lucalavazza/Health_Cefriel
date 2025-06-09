@@ -1,0 +1,20 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+753,2024-12-01,26,F,162.6,122.1,Swimming,21,High,7.0,155,7.9,6,8638,2.1,24.2,74.9,135.6,76,None,Never,17.97
+753,2024-12-02,26,F,162.6,122.3,Swimming,105,Medium,29.9,136,7.4,9,8075,3.3,24.2,74.9,135.6,76,None,Never,18.1
+753,2024-12-03,26,F,162.6,122.6,Dancing,50,Low,9.3,120,7.5,8,7243,2.9,24.2,74.9,135.6,76,None,Never,18.15
+753,2024-12-04,26,F,162.6,122.9,Swimming,85,Low,20.3,126,7.9,5,8547,1.9,24.2,74.9,135.6,76,None,Never,18.23
+753,2024-12-05,26,F,162.6,123.1,Cycling,90,Low,26.1,114,6.8,3,8838,2.8,24.2,74.9,135.6,76,None,Never,18.32
+753,2024-12-08,26,F,162.6,123.4,Weight Training,83,Medium,20.4,152,6.0,4,5966,1.6,24.2,74.9,135.6,76,None,Never,18.42
+753,2024-12-09,26,F,162.6,123.6,Weight Training,49,Medium,12.1,135,8.1,8,5572,3.5,24.2,74.9,135.6,76,None,Never,18.48
+753,2024-12-10,26,F,162.6,123.9,Weight Training,113,Medium,27.9,129,6.5,7,7277,2.4,24.2,74.9,135.6,76,None,Never,18.62
+753,2024-12-11,26,F,162.6,124.1,Weight Training,111,High,32.1,168,7.5,7,5548,2.4,24.2,74.9,135.6,76,None,Never,18.77
+753,2024-12-12,26,F,162.6,124.4,Weight Training,99,Medium,24.6,146,7.2,5,6997,3.2,24.2,74.9,135.6,76,None,Never,18.89
+753,2024-12-13,26,F,162.6,124.7,Weight Training,113,Low,23.4,130,6.9,8,7781,1.6,24.2,74.9,135.6,76,None,Never,19.0
+753,2024-12-16,26,F,162.6,124.9,Weight Training,77,Low,16.0,127,5.9,7,5258,1.6,24.2,74.9,135.6,76,None,Never,19.08
+753,2024-12-18,26,F,162.6,125.2,Weight Training,25,Medium,6.2,142,7.6,3,7251,1.6,24.2,74.9,135.6,76,None,Never,19.11
+753,2024-12-19,26,F,162.6,125.4,Cycling,30,Medium,10.6,160,8.8,2,8145,2.1,24.2,74.9,135.6,76,None,Never,19.15
+753,2024-12-21,26,F,162.6,125.7,Weight Training,79,Medium,19.8,152,6.5,2,9665,1.9,24.2,74.9,135.6,76,None,Never,19.24
+753,2024-12-22,26,F,162.6,125.9,Weight Training,70,Low,14.7,119,8.7,8,8492,1.6,24.2,74.9,135.6,76,None,Never,19.31
+753,2024-12-23,26,F,162.6,126.2,Cycling,67,Medium,23.9,132,8.2,7,9551,1.6,24.2,74.9,135.6,76,None,Never,19.39
+753,2024-12-24,26,F,162.6,126.5,HIIT,94,Medium,47.5,152,5.8,1,6361,3.1,24.2,74.9,135.6,76,None,Never,19.5
+753,2024-12-25,26,F,162.6,126.7,Weight Training,82,Medium,20.7,140,8.3,10,9620,2.4,24.2,74.9,135.6,76,None,Never,19.6

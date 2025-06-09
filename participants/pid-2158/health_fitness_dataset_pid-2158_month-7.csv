@@ -1,0 +1,17 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+2158,2024-07-01,53,M,182.7,118.7,Weight Training,85,Medium,20.1,135,8.8,2,6989,1.8,25.6,70.9,120.3,73.3,None,Current,10.15
+2158,2024-07-06,53,M,182.7,118.9,Weight Training,71,Medium,16.9,108,7.8,10,8024,2.5,25.6,70.9,120.3,73.3,None,Current,10.24
+2158,2024-07-07,53,M,182.7,119.2,Weight Training,99,High,27.5,141,6.3,3,7507,2.3,25.6,70.9,120.3,73.3,None,Current,10.38
+2158,2024-07-11,53,M,182.7,119.4,Weight Training,113,Medium,26.9,116,5.8,8,7683,2.3,25.6,70.9,120.3,73.3,None,Current,10.51
+2158,2024-07-12,53,M,182.7,119.7,Weight Training,51,Low,10.2,107,9.2,7,4119,3.5,25.6,70.9,120.3,73.3,None,Current,10.56
+2158,2024-07-13,53,M,182.7,120.0,Weight Training,20,Medium,4.8,128,6.2,6,11530,2.5,25.6,70.9,120.3,73.3,None,Current,10.59
+2158,2024-07-15,53,M,182.7,120.2,Weight Training,43,High,12.0,136,6.1,1,8717,1.8,25.6,70.9,120.3,73.3,None,Current,10.65
+2158,2024-07-16,53,M,182.7,120.5,Weight Training,100,Medium,24.0,128,7.6,5,6757,2.4,25.6,70.9,120.3,73.3,None,Current,10.77
+2158,2024-07-17,53,M,182.7,120.7,Weight Training,77,Low,15.5,110,7.5,8,7472,2.9,25.6,70.9,120.3,73.3,None,Current,10.84
+2158,2024-07-18,53,M,182.7,121.0,Weight Training,23,High,6.5,134,6.5,5,8809,1.7,25.6,70.9,120.3,73.3,None,Current,10.88
+2158,2024-07-19,53,M,182.7,121.2,Walking,64,High,11.4,123,6.8,3,6467,2.9,25.6,70.9,120.3,73.3,None,Current,10.97
+2158,2024-07-20,53,M,182.7,121.5,Cycling,64,Medium,22.0,128,6.2,7,10849,2.7,25.6,70.9,120.3,73.3,None,Current,11.04
+2158,2024-07-22,53,M,182.7,121.8,Cycling,87,Medium,29.9,121,6.5,4,6355,2.2,25.6,70.9,120.3,73.3,None,Current,11.15
+2158,2024-07-25,53,M,182.7,122.0,Weight Training,86,Medium,20.9,133,8.7,1,8269,3.1,25.6,70.9,120.3,73.3,None,Current,11.25
+2158,2024-07-29,53,M,182.7,122.3,Weight Training,116,Low,23.6,105,7.2,3,8519,1.6,25.6,70.9,120.3,73.3,None,Current,11.37
+2158,2024-07-30,53,M,182.7,122.5,Weight Training,62,Medium,15.2,110,7.0,2,7743,1.6,25.6,70.9,120.3,73.3,None,Current,11.44

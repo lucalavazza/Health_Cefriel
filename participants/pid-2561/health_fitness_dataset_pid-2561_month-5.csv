@@ -1,0 +1,20 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+2561,2024-05-01,23,M,163,87.9,Cycling,110,Low,22.8,138,7.1,5,10211,3.2,24.4,67.4,124,82,None,Never,8.18
+2561,2024-05-03,23,M,163,88.2,Cycling,28,Low,5.8,123,7.3,7,9092,3.3,24.4,67.4,124,82,None,Never,8.21
+2561,2024-05-06,23,M,163,88.4,Cycling,100,Low,20.8,129,5.8,2,6736,1.6,24.4,67.4,124,82,None,Never,8.31
+2561,2024-05-09,23,M,163,88.7,Weight Training,74,High,15.3,166,6.8,2,8502,2.8,24.4,67.4,124,82,None,Never,8.41
+2561,2024-05-10,23,M,163,88.9,Cycling,47,Medium,11.8,149,6.8,3,9415,2.8,24.4,67.4,124,82,None,Never,8.47
+2561,2024-05-11,23,M,163,89.2,Running,102,High,34.6,158,6.5,2,8812,3.4,24.4,67.4,124,82,None,Never,8.61
+2561,2024-05-12,23,M,163,89.4,Weight Training,94,Medium,16.8,154,7.6,9,9446,2.6,24.4,67.4,124,82,None,Never,8.73
+2561,2024-05-13,23,M,163,89.7,Dancing,71,Medium,11.6,147,7.9,3,9552,1.8,24.4,67.4,124,82,None,Never,8.81
+2561,2024-05-16,23,M,163,90.0,Weight Training,53,Low,7.9,130,8.5,9,9516,2.4,24.4,67.4,124,82,None,Never,8.86
+2561,2024-05-17,23,M,163,90.2,Weight Training,23,High,4.8,167,8.0,6,10095,1.7,24.4,67.4,124,82,None,Never,8.9
+2561,2024-05-19,23,M,163,90.5,Weight Training,107,Low,16.1,122,5.8,2,11298,1.6,24.4,67.4,124,82,None,Never,9.0
+2561,2024-05-21,23,M,163,90.7,Weight Training,42,Medium,7.6,143,7.9,6,9555,3.0,24.4,67.4,124,82,None,Never,9.05
+2561,2024-05-22,23,M,163,91.0,Weight Training,113,Medium,20.5,147,6.4,5,6344,1.9,24.4,67.4,124,82,None,Never,9.19
+2561,2024-05-23,23,M,163,91.3,Weight Training,81,High,17.2,170,6.9,9,10506,2.2,24.4,67.4,124,82,None,Never,9.3
+2561,2024-05-25,23,M,163,91.5,Weight Training,71,Low,10.8,129,7.1,8,11735,3.3,24.4,67.4,124,82,None,Never,9.37
+2561,2024-05-26,23,M,163,91.8,Weight Training,83,Medium,15.2,152,7.3,1,8365,2.1,24.4,67.4,124,82,None,Never,9.47
+2561,2024-05-27,23,M,163,92.0,Tennis,74,Low,13.8,122,5.9,10,7853,2.8,24.4,67.4,124,82,None,Never,9.55
+2561,2024-05-30,23,M,163,92.3,Weight Training,86,Low,13.2,133,6.7,6,11286,3.0,24.4,67.4,124,82,None,Never,9.63
+2561,2024-05-31,23,M,163,92.5,Weight Training,79,Medium,14.6,146,6.4,4,10044,2.3,24.4,67.4,124,82,None,Never,9.73

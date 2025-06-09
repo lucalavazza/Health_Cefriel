@@ -1,0 +1,17 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+2276,2024-07-02,39,F,165,99.6,Basketball,108,Low,23.9,125,6.2,2,9192,2.7,23.6,68.6,104.2,75.8,None,Never,11.42
+2276,2024-07-08,39,F,165,99.9,Running,36,Medium,11.7,121,7.8,2,7228,2.0,23.6,68.6,104.2,75.8,None,Never,11.46
+2276,2024-07-10,39,F,165,100.1,Weight Training,55,High,12.8,144,6.3,6,5964,3.0,23.6,68.6,104.2,75.8,None,Never,11.54
+2276,2024-07-11,39,F,165,100.4,Running,38,Medium,12.4,150,6.1,5,7554,1.7,23.6,68.6,104.2,75.8,None,Never,11.58
+2276,2024-07-12,39,F,165,100.7,Weight Training,120,Medium,24.1,127,6.2,1,7226,2.8,23.6,68.6,104.2,75.8,None,Never,11.73
+2276,2024-07-14,39,F,165,100.9,Weight Training,69,Medium,13.9,136,7.1,2,7590,1.8,23.6,68.6,104.2,75.8,None,Never,11.81
+2276,2024-07-15,39,F,165,101.2,Basketball,84,Medium,22.6,138,6.3,8,8316,3.3,23.6,68.6,104.2,75.8,None,Never,11.91
+2276,2024-07-19,39,F,165,101.4,Basketball,108,Medium,29.1,144,7.0,3,7580,3.1,23.6,68.6,104.2,75.8,None,Never,12.04
+2276,2024-07-21,39,F,165,101.7,Basketball,114,Medium,30.8,132,6.3,5,7193,2.0,23.6,68.6,104.2,75.8,None,Never,12.18
+2276,2024-07-22,39,F,165,101.9,Basketball,76,High,24.0,152,7.0,7,10450,3.1,23.6,68.6,104.2,75.8,None,Never,12.28
+2276,2024-07-23,39,F,165,102.2,Basketball,58,Medium,15.8,140,7.8,2,8183,2.9,23.6,68.6,104.2,75.8,None,Never,12.35
+2276,2024-07-24,39,F,165,102.5,Basketball,105,Low,23.8,117,6.6,2,5894,3.3,23.6,68.6,104.2,75.8,None,Never,12.46
+2276,2024-07-27,39,F,165,102.7,Yoga,89,Medium,9.1,136,5.6,1,10167,2.5,23.6,68.6,104.2,75.8,None,Never,12.57
+2276,2024-07-28,39,F,165,103.0,Yoga,86,Medium,8.8,135,6.4,3,10454,1.5,23.6,68.6,104.2,75.8,None,Never,12.67
+2276,2024-07-29,39,F,165,103.2,HIIT,37,Medium,15.2,131,6.5,4,5731,1.8,23.6,68.6,104.2,75.8,None,Never,12.71
+2276,2024-07-30,39,F,165,103.5,Yoga,45,High,5.4,148,6.3,2,10184,2.7,23.6,68.6,104.2,75.8,None,Never,12.78

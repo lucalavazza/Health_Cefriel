@@ -1,0 +1,17 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+735,2024-10-02,57,F,160.2,90.2,Yoga,97,Medium,8.7,109,6.3,3,6400,3.3,17.5,64.4,107.1,75.6,Asthma,Former,13.83
+735,2024-10-04,57,F,160.2,90.5,Yoga,91,Medium,8.2,117,9.6,3,6691,3.0,17.5,64.4,107.1,75.6,Asthma,Former,13.94
+735,2024-10-06,57,F,160.2,90.7,Basketball,119,Medium,28.7,118,7.1,6,8919,2.1,17.5,64.4,107.1,75.6,Asthma,Former,14.08
+735,2024-10-07,57,F,160.2,91.0,Basketball,45,High,12.7,143,6.8,6,7212,2.8,17.5,64.4,107.1,75.6,Asthma,Former,14.15
+735,2024-10-08,57,F,160.2,91.3,Yoga,88,Medium,8.0,129,6.3,10,5710,2.7,17.5,64.4,107.1,75.6,Asthma,Former,14.25
+735,2024-10-09,57,F,160.2,91.5,Basketball,22,Medium,5.4,105,4.6,5,5848,2.8,17.5,64.4,107.1,75.6,Asthma,Former,14.28
+735,2024-10-10,57,F,160.2,91.8,HIIT,78,Medium,28.6,121,7.6,3,8247,3.4,17.5,64.4,107.1,75.6,Asthma,Former,14.37
+735,2024-10-12,57,F,160.2,92.0,Basketball,50,Medium,12.2,132,7.5,10,6756,2.0,17.5,64.4,107.1,75.6,Asthma,Former,14.43
+735,2024-10-15,57,F,160.2,92.3,Cycling,63,High,19.2,150,6.9,9,6225,1.9,17.5,64.4,107.1,75.6,Asthma,Former,14.52
+735,2024-10-20,57,F,160.2,92.6,Cycling,80,Medium,20.9,116,7.7,5,4700,2.8,17.5,64.4,107.1,75.6,Asthma,Former,14.62
+735,2024-10-21,57,F,160.2,92.8,Basketball,71,High,20.4,145,7.2,8,4549,3.1,17.5,64.4,107.1,75.6,Asthma,Former,14.72
+735,2024-10-23,57,F,160.2,93.1,Basketball,34,High,9.8,144,8.7,6,8266,2.2,17.5,64.4,107.1,75.6,Asthma,Former,14.76
+735,2024-10-26,57,F,160.2,93.3,Cycling,95,Low,20.9,104,8.0,2,7526,2.2,17.5,64.4,107.1,75.6,Asthma,Former,14.86
+735,2024-10-27,57,F,160.2,93.6,Basketball,39,Medium,9.7,123,8.6,2,6580,2.7,17.5,64.4,107.1,75.6,Asthma,Former,14.91
+735,2024-10-28,57,F,160.2,93.8,Yoga,95,Low,7.4,102,6.6,8,6311,2.0,17.5,64.4,107.1,75.6,Asthma,Former,15.0
+735,2024-10-29,57,F,160.2,94.1,Basketball,105,Medium,26.3,123,8.4,4,8170,1.6,17.5,64.4,107.1,75.6,Asthma,Former,15.13

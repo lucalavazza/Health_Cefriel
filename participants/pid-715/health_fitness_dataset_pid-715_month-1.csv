@@ -1,0 +1,17 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+715,2024-01-01,40,M,181.8,90.5,Weight Training,31,Medium,5.6,138,6.9,4,8672,2.3,27.3,65.5,120.1,84.3,None,Former,0.04
+715,2024-01-02,40,M,181.8,90.8,Weight Training,87,Medium,15.8,132,7.0,7,8077,2.9,27.3,65.5,120.1,84.3,None,Former,0.14
+715,2024-01-04,40,M,181.8,91.0,Swimming,60,Medium,12.7,148,7.2,1,9145,2.8,27.3,65.5,120.1,84.3,None,Former,0.21
+715,2024-01-05,40,M,181.8,91.3,Swimming,77,Low,13.6,120,7.3,7,6981,3.2,27.3,65.5,120.1,84.3,None,Former,0.29
+715,2024-01-06,40,M,181.8,91.6,Weight Training,53,Medium,9.7,133,7.5,3,9983,2.3,27.3,65.5,120.1,84.3,None,Former,0.35
+715,2024-01-08,40,M,181.8,91.8,Swimming,117,Medium,25.0,129,7.8,1,8745,2.5,27.3,65.5,120.1,84.3,None,Former,0.49
+715,2024-01-10,40,M,181.8,92.1,Walking,119,Medium,13.8,120,7.6,7,8138,2.2,27.3,65.5,120.1,84.3,None,Former,0.64
+715,2024-01-13,40,M,181.8,92.3,Weight Training,84,Medium,15.5,130,8.1,2,9492,2.4,27.3,65.5,120.1,84.3,None,Former,0.74
+715,2024-01-18,40,M,181.8,92.6,Weight Training,44,Low,6.8,115,7.1,3,6578,3.2,27.3,65.5,120.1,84.3,None,Former,0.78
+715,2024-01-21,40,M,181.8,92.9,Weight Training,76,Medium,14.1,133,7.1,9,9964,2.7,27.3,65.5,120.1,84.3,None,Former,0.87
+715,2024-01-23,40,M,181.8,93.1,Cycling,70,Medium,18.4,130,7.7,7,9903,2.9,27.3,65.5,120.1,84.3,None,Former,0.96
+715,2024-01-25,40,M,181.8,93.4,Weight Training,45,High,9.8,145,5.0,6,10320,2.0,27.3,65.5,120.1,84.3,None,Former,1.02
+715,2024-01-26,40,M,181.8,93.6,Swimming,53,Medium,11.5,139,8.0,5,6806,2.4,27.3,65.5,120.1,84.3,None,Former,1.08
+715,2024-01-27,40,M,181.8,93.9,Cycling,51,Medium,13.5,142,8.0,2,9359,2.5,27.3,65.5,120.1,84.3,None,Former,1.15
+715,2024-01-28,40,M,181.8,94.1,Cycling,51,High,15.8,175,6.6,9,11566,2.4,27.3,65.5,120.1,84.3,None,Former,1.22
+715,2024-01-30,40,M,181.8,94.4,Cycling,99,Low,22.0,114,4.9,3,7571,3.4,27.3,65.5,120.1,84.3,None,Former,1.32

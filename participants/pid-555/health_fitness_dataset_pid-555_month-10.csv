@@ -1,0 +1,19 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+555,2024-10-01,33,M,168.4,95.9,HIIT,20,Medium,7.7,133,7.3,3,6829,2.6,17.9,63.5,139.4,73.7,None,Current,14.01
+555,2024-10-02,33,M,168.4,96.1,Dancing,120,High,24.6,153,7.1,1,6111,2.3,17.9,63.5,139.4,73.7,None,Current,14.18
+555,2024-10-07,33,M,168.4,96.4,Swimming,98,High,25.7,176,6.5,3,5239,3.3,17.9,63.5,139.4,73.7,None,Current,14.32
+555,2024-10-09,33,M,168.4,96.7,Swimming,97,High,25.5,149,7.0,4,6884,2.0,17.9,63.5,139.4,73.7,None,Current,14.45
+555,2024-10-11,33,M,168.4,96.9,Dancing,49,Medium,8.7,137,6.8,4,6100,2.3,17.9,63.5,139.4,73.7,None,Current,14.51
+555,2024-10-15,33,M,168.4,97.2,Swimming,86,Medium,19.4,151,8.4,4,6879,2.8,17.9,63.5,139.4,73.7,None,Current,14.62
+555,2024-10-16,33,M,168.4,97.4,Swimming,55,Medium,12.5,142,7.1,2,4852,1.7,17.9,63.5,139.4,73.7,None,Current,14.68
+555,2024-10-17,33,M,168.4,97.7,Dancing,114,Low,17.0,122,4.7,8,5529,2.1,17.9,63.5,139.4,73.7,None,Current,14.8
+555,2024-10-19,33,M,168.4,98.0,Swimming,67,High,17.8,151,7.4,9,7890,2.1,17.9,63.5,139.4,73.7,None,Current,14.89
+555,2024-10-22,33,M,168.4,98.2,Dancing,85,Medium,15.3,126,5.6,1,5993,1.8,17.9,63.5,139.4,73.7,None,Current,14.99
+555,2024-10-24,33,M,168.4,98.5,Swimming,49,Low,9.4,120,7.8,7,7815,3.2,17.9,63.5,139.4,73.7,None,Current,15.04
+555,2024-10-25,33,M,168.4,98.7,Weight Training,46,Medium,9.1,159,9.0,4,6596,3.2,17.9,63.5,139.4,73.7,None,Current,15.1
+555,2024-10-26,33,M,168.4,99.0,Swimming,120,Medium,27.6,149,7.7,8,9639,3.4,17.9,63.5,139.4,73.7,None,Current,15.24
+555,2024-10-27,33,M,168.4,99.2,Dancing,35,Low,5.3,129,7.3,3,7719,3.0,17.9,63.5,139.4,73.7,None,Current,15.28
+555,2024-10-28,33,M,168.4,99.5,Weight Training,95,Medium,18.9,127,8.0,7,5981,2.1,17.9,63.5,139.4,73.7,None,Current,15.39
+555,2024-10-29,33,M,168.4,99.8,Dancing,118,Medium,21.5,143,6.2,8,7319,2.1,17.9,63.5,139.4,73.7,None,Current,15.53
+555,2024-10-30,33,M,168.4,100.0,Weight Training,47,Low,7.8,124,6.6,10,8262,2.4,17.9,63.5,139.4,73.7,None,Current,15.58
+555,2024-10-31,33,M,168.4,100.3,Dancing,42,Low,6.4,124,7.7,5,5754,2.5,17.9,63.5,139.4,73.7,None,Current,15.62

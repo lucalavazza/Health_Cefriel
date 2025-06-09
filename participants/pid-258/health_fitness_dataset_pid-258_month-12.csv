@@ -1,0 +1,18 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+258,2024-12-01,18,M,175,145.1,Dancing,40,High,12.4,177,6.1,6,9559,2.5,28.8,72,124.8,85.5,None,Never,18.13
+258,2024-12-03,18,M,175,145.3,Dancing,86,Medium,22.9,152,7.8,9,4891,1.9,28.8,72,124.8,85.5,None,Never,18.24
+258,2024-12-04,18,M,175,145.6,Weight Training,62,Medium,18.0,154,7.9,6,9931,3.3,28.8,72,124.8,85.5,None,Never,18.31
+258,2024-12-05,18,M,175,145.8,Swimming,118,Medium,40.1,148,7.8,9,7431,3.4,28.8,72,124.8,85.5,None,Never,18.45
+258,2024-12-07,18,M,175,146.1,Swimming,83,Medium,28.2,154,7.8,2,7985,2.5,28.8,72,124.8,85.5,None,Never,18.55
+258,2024-12-08,18,M,175,146.3,Swimming,105,Medium,35.8,149,6.5,7,10408,2.8,28.8,72,124.8,85.5,None,Never,18.68
+258,2024-12-12,18,M,175,146.6,Swimming,24,Low,6.8,127,6.9,7,8062,2.6,28.8,72,124.8,85.5,None,Never,18.7
+258,2024-12-13,18,M,175,146.9,Swimming,104,Low,29.6,139,7.0,4,5745,2.0,28.8,72,124.8,85.5,None,Never,18.8
+258,2024-12-14,18,M,175,147.1,Swimming,47,Medium,16.1,156,6.4,4,9091,3.2,28.8,72,124.8,85.5,None,Never,18.86
+258,2024-12-16,18,M,175,147.4,Dancing,92,Medium,24.8,146,7.4,1,7462,1.6,28.8,72,124.8,85.5,None,Never,18.97
+258,2024-12-17,18,M,175,147.6,Swimming,66,Medium,22.7,157,5.9,6,7808,3.3,28.8,72,124.8,85.5,None,Never,19.05
+258,2024-12-18,18,M,175,147.9,Swimming,96,Medium,33.1,151,6.6,5,6570,2.1,28.8,72,124.8,85.5,None,Never,19.17
+258,2024-12-19,18,M,175,148.1,Walking,112,Medium,21.0,162,7.3,6,8667,1.7,28.8,72,124.8,85.5,None,Never,19.3
+258,2024-12-20,18,M,175,148.4,Swimming,52,Medium,18.0,160,6.5,3,8937,2.7,28.8,72,124.8,85.5,None,Never,19.36
+258,2024-12-23,18,M,175,148.7,Swimming,97,High,39.2,183,5.9,9,8889,2.1,28.8,72,124.8,85.5,None,Never,19.5
+258,2024-12-24,18,M,175,148.9,Swimming,95,Medium,33.0,152,7.1,9,9567,2.8,28.8,72,124.8,85.5,None,Never,19.61
+258,2024-12-25,18,M,175,149.2,Swimming,20,High,8.1,181,6.3,6,8698,3.4,28.8,72,124.8,85.5,None,Never,19.64

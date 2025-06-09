@@ -1,0 +1,16 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+1740,2024-08-03,42,F,163.3,98.7,HIIT,55,Low,18.0,115,7.3,1,10825,2.5,22.5,67.6,105.9,96.2,Hypertension,Never,11.78
+1740,2024-08-04,42,F,163.3,98.9,HIIT,101,Medium,39.9,131,5.7,1,11482,2.8,22.5,67.6,105.9,96.2,Hypertension,Never,11.9
+1740,2024-08-06,42,F,163.3,99.2,Cycling,110,Medium,30.8,119,6.3,1,5683,2.9,22.5,67.6,105.9,96.2,Hypertension,Never,12.03
+1740,2024-08-07,42,F,163.3,99.5,Cycling,40,Medium,11.2,130,6.3,1,6197,2.1,22.5,67.6,105.9,96.2,Hypertension,Never,12.08
+1740,2024-08-08,42,F,163.3,99.7,HIIT,101,High,46.9,158,6.9,4,9177,2.6,22.5,67.6,105.9,96.2,Hypertension,Never,12.22
+1740,2024-08-10,42,F,163.3,100.0,HIIT,38,Medium,15.2,124,7.4,10,8175,1.8,22.5,67.6,105.9,96.2,Hypertension,Never,12.27
+1740,2024-08-13,42,F,163.3,100.2,Cycling,30,High,9.9,156,9.2,4,7902,2.7,22.5,67.6,105.9,96.2,Hypertension,Never,12.31
+1740,2024-08-14,42,F,163.3,100.5,Cycling,70,Medium,19.9,115,8.3,3,5463,3.4,22.5,67.6,105.9,96.2,Hypertension,Never,12.39
+1740,2024-08-19,42,F,163.3,100.7,HIIT,44,Low,14.7,116,7.5,1,5795,3.4,22.5,67.6,105.9,96.2,Hypertension,Never,12.44
+1740,2024-08-20,42,F,163.3,101.0,Tennis,35,Medium,8.6,135,6.4,5,4556,2.7,22.5,67.6,105.9,96.2,Hypertension,Never,12.48
+1740,2024-08-25,42,F,163.3,101.3,Weight Training,46,Medium,9.3,129,6.5,4,7484,2.6,22.5,67.6,105.9,96.2,Hypertension,Never,12.53
+1740,2024-08-27,42,F,163.3,101.5,HIIT,73,Low,24.6,108,6.3,4,5925,3.3,22.5,67.6,105.9,96.2,Hypertension,Never,12.61
+1740,2024-08-28,42,F,163.3,101.8,HIIT,65,Medium,26.4,136,7.4,8,9880,2.0,22.5,67.6,105.9,96.2,Hypertension,Never,12.68
+1740,2024-08-29,42,F,163.3,102.0,Weight Training,67,Medium,13.6,137,8.0,8,6640,3.4,22.5,67.6,105.9,96.2,Hypertension,Never,12.76
+1740,2024-08-31,42,F,163.3,102.3,Weight Training,72,Low,12.2,121,7.0,5,7227,1.8,22.5,67.6,105.9,96.2,Hypertension,Never,12.84

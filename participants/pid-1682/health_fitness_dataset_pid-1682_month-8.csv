@@ -1,0 +1,17 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+1682,2024-08-01,27,M,174.5,92.5,Dancing,47,Medium,8.0,145,6.0,7,8477,1.7,17.1,66.4,118.4,68.6,None,Never,12.85
+1682,2024-08-04,27,M,174.5,92.8,Walking,80,Medium,9.4,152,6.9,4,5720,2.5,17.1,66.4,118.4,68.6,None,Never,12.94
+1682,2024-08-05,27,M,174.5,93.1,Tennis,34,Medium,7.7,148,6.6,3,8471,3.3,17.1,66.4,118.4,68.6,None,Never,12.98
+1682,2024-08-06,27,M,174.5,93.3,Walking,60,High,8.3,160,8.0,4,6512,1.8,17.1,66.4,118.4,68.6,None,Never,13.07
+1682,2024-08-10,27,M,174.5,93.6,Walking,60,Low,5.9,133,7.9,2,8247,2.9,17.1,66.4,118.4,68.6,None,Never,13.13
+1682,2024-08-11,27,M,174.5,93.8,Weight Training,96,Medium,18.0,147,8.2,4,6100,3.1,17.1,66.4,118.4,68.6,None,Never,13.24
+1682,2024-08-12,27,M,174.5,94.1,Weight Training,119,Medium,22.3,149,8.5,7,6093,3.5,17.1,66.4,118.4,68.6,None,Never,13.38
+1682,2024-08-13,27,M,174.5,94.3,Walking,47,Medium,5.6,149,6.7,2,5525,2.8,17.1,66.4,118.4,68.6,None,Never,13.44
+1682,2024-08-14,27,M,174.5,94.6,Weight Training,42,Medium,7.9,133,6.6,5,7103,2.6,17.1,66.4,118.4,68.6,None,Never,13.49
+1682,2024-08-16,27,M,174.5,94.9,Weight Training,76,Medium,14.4,126,8.8,6,5064,3.5,17.1,66.4,118.4,68.6,None,Never,13.58
+1682,2024-08-18,27,M,174.5,95.1,Weight Training,26,Low,4.1,121,8.6,1,9853,1.6,17.1,66.4,118.4,68.6,None,Never,13.61
+1682,2024-08-23,27,M,174.5,95.4,Yoga,85,Medium,8.1,154,6.4,6,9693,3.2,17.1,66.4,118.4,68.6,None,Never,13.71
+1682,2024-08-25,27,M,174.5,95.6,Weight Training,62,Medium,11.8,147,5.8,6,9617,1.6,17.1,66.4,118.4,68.6,None,Never,13.78
+1682,2024-08-26,27,M,174.5,95.9,Yoga,84,Medium,8.0,139,7.1,7,4140,3.1,17.1,66.4,118.4,68.6,None,Never,13.89
+1682,2024-08-27,27,M,174.5,96.2,Running,20,Medium,6.3,140,5.8,3,7674,2.7,17.1,66.4,118.4,68.6,None,Never,13.91
+1682,2024-08-30,27,M,174.5,96.4,Yoga,105,Medium,10.1,146,6.8,2,7114,2.5,17.1,66.4,118.4,68.6,None,Never,14.04

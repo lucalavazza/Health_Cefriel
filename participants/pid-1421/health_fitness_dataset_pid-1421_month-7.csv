@@ -1,0 +1,19 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+1421,2024-07-01,34,M,177.2,119.6,HIIT,22,Medium,10.5,137,6.1,8,7424,3.4,27.4,72,102,90.3,None,Current,10.37
+1421,2024-07-02,34,M,177.2,119.8,Walking,54,Low,6.8,116,8.4,6,8966,3.3,27.4,72,102,90.3,None,Current,10.43
+1421,2024-07-03,34,M,177.2,120.1,Weight Training,34,Medium,8.1,143,6.9,10,9036,2.3,27.4,72,102,90.3,None,Current,10.47
+1421,2024-07-09,34,M,177.2,120.4,Walking,62,Medium,9.4,122,7.0,4,7404,3.0,27.4,72,102,90.3,None,Current,10.54
+1421,2024-07-10,34,M,177.2,120.6,Tennis,34,Low,8.3,115,6.8,8,9696,1.5,27.4,72,102,90.3,None,Current,10.57
+1421,2024-07-11,34,M,177.2,120.9,Tennis,105,Low,25.7,130,5.5,4,7592,1.8,27.4,72,102,90.3,None,Current,10.68
+1421,2024-07-12,34,M,177.2,121.1,Weight Training,81,Low,16.3,136,5.6,10,8591,2.6,27.4,72,102,90.3,None,Current,10.76
+1421,2024-07-13,34,M,177.2,121.4,Cycling,97,Low,27.7,116,6.6,7,12162,2.6,27.4,72,102,90.3,None,Current,10.86
+1421,2024-07-14,34,M,177.2,121.6,Weight Training,23,Medium,5.6,143,5.6,1,8653,2.0,27.4,72,102,90.3,None,Current,10.89
+1421,2024-07-16,34,M,177.2,121.9,Weight Training,106,Low,21.5,124,6.3,3,8110,1.6,27.4,72,102,90.3,None,Current,10.99
+1421,2024-07-20,34,M,177.2,122.2,Cycling,74,Low,21.3,125,7.1,6,8377,2.6,27.4,72,102,90.3,None,Current,11.07
+1421,2024-07-21,34,M,177.2,122.4,Cycling,27,High,10.9,147,7.9,3,7564,2.8,27.4,72,102,90.3,None,Current,11.1
+1421,2024-07-22,34,M,177.2,122.7,Cycling,114,Medium,39.5,141,5.4,8,6895,3.3,27.4,72,102,90.3,None,Current,11.24
+1421,2024-07-23,34,M,177.2,122.9,Tennis,119,High,41.4,154,8.3,2,7278,2.3,27.4,72,102,90.3,None,Current,11.41
+1421,2024-07-24,34,M,177.2,123.2,Cycling,81,Low,23.5,112,8.0,3,5985,2.7,27.4,72,102,90.3,None,Current,11.49
+1421,2024-07-28,34,M,177.2,123.4,Basketball,98,Low,26.8,122,7.1,5,10411,1.6,27.4,72,102,90.3,None,Current,11.59
+1421,2024-07-29,34,M,177.2,123.7,Basketball,105,Low,28.8,118,7.9,10,6808,2.6,27.4,72,102,90.3,None,Current,11.69
+1421,2024-07-31,34,M,177.2,124.0,Basketball,51,Medium,16.8,147,7.7,3,7947,2.5,27.4,72,102,90.3,None,Current,11.75

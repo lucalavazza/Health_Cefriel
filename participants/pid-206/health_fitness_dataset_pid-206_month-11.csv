@@ -1,0 +1,17 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+206,2024-11-01,37,F,164.6,112.2,Cycling,68,Low,18.0,119,6.7,5,4221,1.5,21.4,70.6,119.7,88.2,None,Current,17.67
+206,2024-11-02,37,F,164.6,112.4,HIIT,42,High,22.0,170,7.1,4,10393,3.3,21.4,70.6,119.7,88.2,None,Current,17.72
+206,2024-11-03,37,F,164.6,112.7,Dancing,99,Low,17.0,118,7.4,2,6542,1.9,21.4,70.6,119.7,88.2,None,Current,17.82
+206,2024-11-04,37,F,164.6,112.9,HIIT,98,Medium,44.2,141,7.4,3,5371,1.8,21.4,70.6,119.7,88.2,None,Current,17.94
+206,2024-11-05,37,F,164.6,113.2,HIIT,99,Low,37.3,121,6.4,1,8750,3.1,21.4,70.6,119.7,88.2,None,Current,18.04
+206,2024-11-08,37,F,164.6,113.4,Dancing,26,Medium,5.4,127,6.6,8,6361,3.2,21.4,70.6,119.7,88.2,None,Current,18.07
+206,2024-11-09,37,F,164.6,113.7,Weight Training,101,Medium,22.9,127,8.4,6,8056,2.2,21.4,70.6,119.7,88.2,None,Current,18.19
+206,2024-11-10,37,F,164.6,114.0,Weight Training,20,Low,3.8,114,7.1,7,8976,1.9,21.4,70.6,119.7,88.2,None,Current,18.21
+206,2024-11-11,37,F,164.6,114.2,Dancing,86,Medium,18.0,142,9.3,4,5079,3.1,21.4,70.6,119.7,88.2,None,Current,18.32
+206,2024-11-12,37,F,164.6,114.5,Weight Training,81,Low,15.4,120,5.8,4,6417,2.8,21.4,70.6,119.7,88.2,None,Current,18.4
+206,2024-11-13,37,F,164.6,114.7,Swimming,118,Medium,31.5,137,5.5,5,7130,3.3,21.4,70.6,119.7,88.2,None,Current,18.54
+206,2024-11-14,37,F,164.6,115.0,HIIT,71,Medium,32.6,132,7.3,7,5671,2.4,21.4,70.6,119.7,88.2,None,Current,18.62
+206,2024-11-19,37,F,164.6,115.2,Swimming,118,Medium,31.7,137,6.3,3,5695,2.7,21.4,70.6,119.7,88.2,None,Current,18.76
+206,2024-11-24,37,F,164.6,115.5,HIIT,52,Medium,24.0,147,6.4,5,9400,2.3,21.4,70.6,119.7,88.2,None,Current,18.83
+206,2024-11-27,37,F,164.6,115.7,HIIT,87,Medium,40.2,127,5.1,9,3999,1.6,21.4,70.6,119.7,88.2,None,Current,18.93
+206,2024-11-29,37,F,164.6,116.0,Yoga,114,Medium,13.2,132,6.8,7,6600,3.5,21.4,70.6,119.7,88.2,None,Current,19.07

@@ -1,0 +1,19 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+1823,2024-01-01,49,Other,173,50.7,Dancing,92,Medium,8.5,145,6.4,4,12376,2.5,16.8,68.5,125.3,76.6,None,Former,0.11
+1823,2024-01-02,49,Other,173,50.9,HIIT,38,Medium,7.7,127,7.0,1,6847,2.4,16.8,68.5,125.3,76.6,None,Former,0.16
+1823,2024-01-03,49,Other,173,51.2,Dancing,26,Medium,2.4,123,8.6,2,9332,3.4,16.8,68.5,125.3,76.6,None,Former,0.19
+1823,2024-01-05,49,Other,173,51.4,HIIT,76,High,18.1,152,6.6,3,8597,1.9,16.8,68.5,125.3,76.6,None,Former,0.29
+1823,2024-01-06,49,Other,173,51.7,Basketball,48,High,7.7,138,6.3,6,7369,3.3,16.8,68.5,125.3,76.6,None,Former,0.36
+1823,2024-01-07,49,Other,173,51.9,HIIT,62,Low,10.7,113,7.9,1,7777,1.6,16.8,68.5,125.3,76.6,None,Former,0.42
+1823,2024-01-08,49,Other,173,52.2,HIIT,44,High,10.7,162,6.9,5,9011,3.0,16.8,68.5,125.3,76.6,None,Former,0.48
+1823,2024-01-09,49,Other,173,52.5,Weight Training,116,Medium,12.1,122,7.0,2,9353,1.7,16.8,68.5,125.3,76.6,None,Former,0.62
+1823,2024-01-11,49,Other,173,52.7,Dancing,112,Low,9.0,104,8.6,6,8419,3.0,16.8,68.5,125.3,76.6,None,Former,0.74
+1823,2024-01-14,49,Other,173,53.0,Weight Training,80,Medium,8.4,131,8.0,9,11559,3.1,16.8,68.5,125.3,76.6,None,Former,0.83
+1823,2024-01-16,49,Other,173,53.2,Weight Training,120,Medium,12.7,128,8.1,2,9046,1.9,16.8,68.5,125.3,76.6,None,Former,0.98
+1823,2024-01-18,49,Other,173,53.5,Basketball,66,Medium,9.4,120,8.1,5,7827,2.3,16.8,68.5,125.3,76.6,None,Former,1.05
+1823,2024-01-19,49,Other,173,53.8,Basketball,67,Medium,9.6,122,5.7,6,8566,1.6,16.8,68.5,125.3,76.6,None,Former,1.14
+1823,2024-01-20,49,Other,173,54.0,Basketball,86,Medium,12.3,120,7.1,5,10460,1.6,16.8,68.5,125.3,76.6,None,Former,1.24
+1823,2024-01-25,49,Other,173,54.3,Basketball,27,Low,3.2,115,5.5,8,9262,1.7,16.8,68.5,125.3,76.6,None,Former,1.27
+1823,2024-01-26,49,Other,173,54.5,Basketball,112,Medium,16.2,134,7.8,10,9967,1.9,16.8,68.5,125.3,76.6,None,Former,1.4
+1823,2024-01-28,49,Other,173,54.8,Basketball,78,Medium,11.3,122,7.5,5,12095,3.4,16.8,68.5,125.3,76.6,None,Former,1.49
+1823,2024-01-29,49,Other,173,55.0,Tennis,83,High,12.9,160,6.1,7,7418,2.2,16.8,68.5,125.3,76.6,None,Former,1.61

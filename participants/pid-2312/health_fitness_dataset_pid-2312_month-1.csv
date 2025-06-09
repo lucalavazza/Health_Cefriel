@@ -1,0 +1,18 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+2312,2024-01-06,43,M,170.5,68.9,Weight Training,43,Low,4.9,116,8.3,1,10098,2.8,23.6,65.2,113,79.1,None,Current,0.04
+2312,2024-01-07,43,M,170.5,69.2,Weight Training,117,High,18.8,162,6.3,4,10936,1.5,23.6,65.2,113,79.1,None,Current,0.21
+2312,2024-01-08,43,M,170.5,69.4,Weight Training,23,Low,2.7,113,6.5,2,8413,3.1,23.6,65.2,113,79.1,None,Current,0.23
+2312,2024-01-09,43,M,170.5,69.7,Weight Training,72,Medium,10.0,141,5.9,2,7606,2.4,23.6,65.2,113,79.1,None,Current,0.32
+2312,2024-01-10,43,M,170.5,69.9,Weight Training,119,Low,13.8,122,7.1,2,9147,3.1,23.6,65.2,113,79.1,None,Current,0.44
+2312,2024-01-12,43,M,170.5,70.2,Weight Training,100,Low,11.7,118,8.2,7,8447,3.1,23.6,65.2,113,79.1,None,Current,0.54
+2312,2024-01-13,43,M,170.5,70.5,Cycling,110,High,25.5,144,6.4,7,10241,2.8,23.6,65.2,113,79.1,None,Current,0.69
+2312,2024-01-14,43,M,170.5,70.7,Walking,64,Low,4.8,107,7.1,9,10731,2.7,23.6,65.2,113,79.1,None,Current,0.75
+2312,2024-01-15,43,M,170.5,71.0,Cycling,73,Medium,14.6,129,8.0,1,11502,2.5,23.6,65.2,113,79.1,None,Current,0.84
+2312,2024-01-16,43,M,170.5,71.2,Walking,93,High,9.8,150,7.1,10,8555,2.6,23.6,65.2,113,79.1,None,Current,0.97
+2312,2024-01-18,43,M,170.5,71.5,Cycling,107,Low,18.0,114,7.8,6,7786,3.3,23.6,65.2,113,79.1,None,Current,1.08
+2312,2024-01-19,43,M,170.5,71.7,Cycling,32,Medium,6.5,137,6.1,2,6586,2.4,23.6,65.2,113,79.1,None,Current,1.12
+2312,2024-01-20,43,M,170.5,72.0,Cycling,24,Medium,4.9,120,6.9,2,8335,3.1,23.6,65.2,113,79.1,None,Current,1.15
+2312,2024-01-25,43,M,170.5,72.3,Cycling,65,Medium,13.3,133,5.7,2,7250,2.4,23.6,65.2,113,79.1,None,Current,1.22
+2312,2024-01-27,43,M,170.5,72.5,Running,92,High,25.3,160,6.6,6,10647,2.3,23.6,65.2,113,79.1,None,Current,1.35
+2312,2024-01-28,43,M,170.5,72.8,Cycling,65,Low,11.1,118,6.2,4,9238,2.0,23.6,65.2,113,79.1,None,Current,1.42
+2312,2024-01-31,43,M,170.5,73.0,Running,105,Low,20.8,104,6.7,7,8902,2.8,23.6,65.2,113,79.1,None,Current,1.52

@@ -1,0 +1,17 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+361,2024-10-01,30,F,152.6,94.4,Swimming,20,High,5.1,176,7.3,8,4798,2.6,21.8,66,118.5,75,Asthma,Former,14.63
+361,2024-10-04,30,F,152.6,94.7,Swimming,103,High,26.5,152,5.6,3,6396,3.4,21.8,66,118.5,75,Asthma,Former,14.77
+361,2024-10-06,30,F,152.6,94.9,Swimming,64,Low,11.8,123,4.2,8,9033,2.1,21.8,66,118.5,75,Asthma,Former,14.83
+361,2024-10-07,30,F,152.6,95.2,Basketball,26,Medium,6.6,154,6.1,4,3383,2.1,21.8,66,118.5,75,Asthma,Former,14.87
+361,2024-10-11,30,F,152.6,95.4,Basketball,54,Medium,13.7,136,5.8,1,6557,3.1,21.8,66,118.5,75,Asthma,Former,14.93
+361,2024-10-13,30,F,152.6,95.7,Cycling,81,Low,18.3,127,7.3,6,6195,3.3,21.8,66,118.5,75,Asthma,Former,15.01
+361,2024-10-15,30,F,152.6,96.0,Basketball,56,High,16.7,164,7.5,6,7198,2.0,21.8,66,118.5,75,Asthma,Former,15.09
+361,2024-10-17,30,F,152.6,96.2,Cycling,64,High,20.3,172,7.1,7,5428,2.1,21.8,66,118.5,75,Asthma,Former,15.18
+361,2024-10-18,30,F,152.6,96.5,Basketball,25,Medium,6.4,142,6.4,6,7353,2.7,21.8,66,118.5,75,Asthma,Former,15.21
+361,2024-10-19,30,F,152.6,96.7,Cycling,35,Low,8.0,128,5.4,1,5881,2.8,21.8,66,118.5,75,Asthma,Former,15.24
+361,2024-10-20,30,F,152.6,97.0,Cycling,54,High,17.3,159,7.4,8,8869,3.1,21.8,66,118.5,75,Asthma,Former,15.32
+361,2024-10-23,30,F,152.6,97.2,Yoga,113,Medium,11.0,156,4.0,2,6251,1.5,21.8,66,118.5,75,Asthma,Former,15.46
+361,2024-10-26,30,F,152.6,97.5,Yoga,102,Medium,9.9,141,8.3,1,7362,1.5,21.8,66,118.5,75,Asthma,Former,15.58
+361,2024-10-27,30,F,152.6,97.8,HIIT,93,Low,30.2,119,8.2,10,8383,1.8,21.8,66,118.5,75,Asthma,Former,15.67
+361,2024-10-29,30,F,152.6,98.0,HIIT,33,Low,10.8,120,6.9,4,7013,3.3,21.8,66,118.5,75,Asthma,Former,15.7
+361,2024-10-31,30,F,152.6,98.3,Yoga,109,Medium,10.7,142,7.1,9,6884,1.6,21.8,66,118.5,75,Asthma,Former,15.83

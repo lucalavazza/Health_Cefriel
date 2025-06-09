@@ -1,0 +1,17 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+1203,2024-08-05,40,F,161.2,93.9,Yoga,83,Low,6.5,113,7.0,9,8747,1.9,21.1,52.3,119.5,88.1,None,Never,12.64
+1203,2024-08-06,40,F,161.2,94.2,Swimming,99,Medium,21.7,130,6.7,1,8699,2.0,21.1,52.3,119.5,88.1,None,Never,12.76
+1203,2024-08-08,40,F,161.2,94.4,Swimming,113,Medium,24.8,136,6.2,7,5847,2.0,21.1,52.3,119.5,88.1,None,Never,12.9
+1203,2024-08-10,40,F,161.2,94.7,Swimming,74,Low,13.6,110,6.6,1,5699,1.5,21.1,52.3,119.5,88.1,None,Never,12.97
+1203,2024-08-11,40,F,161.2,94.9,Swimming,50,High,12.9,161,6.9,8,6792,3.2,21.1,52.3,119.5,88.1,None,Never,13.04
+1203,2024-08-12,40,F,161.2,95.2,Weight Training,115,Medium,21.8,131,6.6,1,8177,1.7,21.1,52.3,119.5,88.1,None,Never,13.18
+1203,2024-08-13,40,F,161.2,95.5,Dancing,60,High,12.2,157,6.9,2,9280,2.4,21.1,52.3,119.5,88.1,None,Never,13.26
+1203,2024-08-15,40,F,161.2,95.7,Weight Training,79,Medium,15.1,131,5.2,5,6726,3.1,21.1,52.3,119.5,88.1,None,Never,13.36
+1203,2024-08-18,40,F,161.2,96.0,Weight Training,99,High,22.1,155,7.0,3,9540,2.2,21.1,52.3,119.5,88.1,None,Never,13.5
+1203,2024-08-19,40,F,161.2,96.2,Weight Training,43,Medium,8.3,130,7.6,2,5418,1.7,21.1,52.3,119.5,88.1,None,Never,13.55
+1203,2024-08-22,40,F,161.2,96.5,Basketball,108,Low,23.1,116,6.4,8,8263,2.6,21.1,52.3,119.5,88.1,None,Never,13.65
+1203,2024-08-23,40,F,161.2,96.7,Weight Training,69,Low,11.1,127,7.1,2,5833,2.7,21.1,52.3,119.5,88.1,None,Never,13.72
+1203,2024-08-24,40,F,161.2,97.0,Basketball,91,High,27.4,152,6.8,4,10021,1.7,21.1,52.3,119.5,88.1,None,Never,13.85
+1203,2024-08-29,40,F,161.2,97.3,Basketball,52,High,15.7,164,6.8,10,7554,3.4,21.1,52.3,119.5,88.1,None,Never,13.92
+1203,2024-08-30,40,F,161.2,97.5,Basketball,80,Low,17.3,115,5.5,6,7449,1.9,21.1,52.3,119.5,88.1,None,Never,14.0
+1203,2024-08-31,40,F,161.2,97.8,Basketball,98,Medium,25.5,120,7.9,7,10237,2.3,21.1,52.3,119.5,88.1,None,Never,14.12

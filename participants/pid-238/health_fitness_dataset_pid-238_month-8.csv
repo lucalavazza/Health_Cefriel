@@ -1,0 +1,17 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+238,2024-08-03,62,M,169,136.3,HIIT,29,High,18.4,134,7.6,8,5387,3.1,33.3,71.1,107.9,93.6,None,Former,13.11
+238,2024-08-05,62,M,169,136.6,HIIT,20,Medium,10.9,124,6.4,7,8045,2.6,33.3,71.1,107.9,93.6,None,Former,13.14
+238,2024-08-10,62,M,169,136.8,HIIT,38,Medium,20.8,114,6.7,5,6152,3.1,33.3,71.1,107.9,93.6,None,Former,13.18
+238,2024-08-11,62,M,169,137.1,Basketball,78,High,33.2,138,9.4,8,8588,1.9,33.3,71.1,107.9,93.6,None,Former,13.29
+238,2024-08-12,62,M,169,137.3,Running,53,Medium,23.7,125,7.3,5,8344,2.9,33.3,71.1,107.9,93.6,None,Former,13.35
+238,2024-08-14,62,M,169,137.6,Basketball,82,Medium,30.0,119,7.4,8,5705,2.8,33.3,71.1,107.9,93.6,None,Former,13.45
+238,2024-08-15,62,M,169,137.9,Running,21,High,11.0,154,7.2,2,3785,2.9,33.3,71.1,107.9,93.6,None,Former,13.48
+238,2024-08-17,62,M,169,138.1,Basketball,55,Medium,20.2,133,6.7,2,7833,3.0,33.3,71.1,107.9,93.6,None,Former,13.55
+238,2024-08-18,62,M,169,138.4,Running,31,High,16.3,131,6.9,1,6400,2.6,33.3,71.1,107.9,93.6,None,Former,13.59
+238,2024-08-21,62,M,169,138.6,Basketball,49,Medium,18.1,113,5.8,1,5051,2.3,33.3,71.1,107.9,93.6,None,Former,13.65
+238,2024-08-22,62,M,169,138.9,Basketball,31,Low,9.6,101,8.4,6,7027,2.9,33.3,71.1,107.9,93.6,None,Former,13.68
+238,2024-08-23,62,M,169,139.2,Yoga,21,High,3.4,138,6.8,7,7245,2.6,33.3,71.1,107.9,93.6,None,Former,13.71
+238,2024-08-24,62,M,169,139.4,Swimming,43,High,16.3,162,7.3,3,6097,1.9,33.3,71.1,107.9,93.6,None,Former,13.77
+238,2024-08-26,62,M,169,139.7,Swimming,50,Medium,16.3,104,6.0,6,6713,1.8,33.3,71.1,107.9,93.6,None,Former,13.83
+238,2024-08-27,62,M,169,139.9,Yoga,90,Low,10.5,96,9.0,3,8600,1.8,33.3,71.1,107.9,93.6,None,Former,13.92
+238,2024-08-30,62,M,169,140.2,Swimming,37,Medium,12.1,108,6.8,5,7322,2.1,33.3,71.1,107.9,93.6,None,Former,13.97

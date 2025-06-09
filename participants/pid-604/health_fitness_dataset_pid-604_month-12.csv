@@ -1,0 +1,19 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+604,2024-12-01,28,M,175.9,145.9,HIIT,40,Low,19.4,121,7.6,6,9866,2.2,27.9,69.3,123.1,83.3,None,Current,18.99
+604,2024-12-02,28,M,175.9,146.1,Cycling,94,Medium,38.8,158,6.5,6,8521,2.6,27.9,69.3,123.1,83.3,None,Current,19.11
+604,2024-12-04,28,M,175.9,146.4,Cycling,51,Medium,21.1,135,7.6,10,9257,3.2,27.9,69.3,123.1,83.3,None,Current,19.17
+604,2024-12-05,28,M,175.9,146.6,Cycling,23,Medium,9.5,133,7.6,4,8774,2.3,27.9,69.3,123.1,83.3,None,Current,19.2
+604,2024-12-07,28,M,175.9,146.9,Cycling,22,Low,7.6,123,6.7,6,7106,2.3,27.9,69.3,123.1,83.3,None,Current,19.22
+604,2024-12-09,28,M,175.9,147.1,Cycling,112,Medium,46.6,147,7.2,7,9303,1.5,27.9,69.3,123.1,83.3,None,Current,19.35
+604,2024-12-10,28,M,175.9,147.4,Cycling,38,Medium,15.8,128,6.5,1,5901,3.3,27.9,69.3,123.1,83.3,None,Current,19.4
+604,2024-12-11,28,M,175.9,147.6,Cycling,81,High,39.5,169,5.9,5,7008,3.4,27.9,69.3,123.1,83.3,None,Current,19.51
+604,2024-12-12,28,M,175.9,147.9,Cycling,69,Medium,28.9,128,8.7,7,7753,2.0,27.9,69.3,123.1,83.3,None,Current,19.59
+604,2024-12-13,28,M,175.9,148.2,Weight Training,53,Medium,15.7,153,6.7,7,9168,2.6,27.9,69.3,123.1,83.3,None,Current,19.66
+604,2024-12-14,28,M,175.9,148.4,Weight Training,33,Medium,9.8,153,6.7,3,10469,3.2,27.9,69.3,123.1,83.3,None,Current,19.7
+604,2024-12-15,28,M,175.9,148.7,Swimming,89,Medium,30.8,147,7.7,2,8761,2.0,27.9,69.3,123.1,83.3,None,Current,19.8
+604,2024-12-18,28,M,175.9,148.9,Weight Training,109,High,37.8,175,6.0,8,6556,1.9,27.9,69.3,123.1,83.3,None,Current,19.96
+604,2024-12-20,28,M,175.9,149.2,Weight Training,102,Medium,30.4,138,7.4,4,9772,1.6,27.9,69.3,123.1,83.3,None,Current,20.08
+604,2024-12-21,28,M,175.9,149.4,Swimming,96,Medium,33.4,140,6.3,7,9117,3.4,27.9,69.3,123.1,83.3,None,Current,20.19
+604,2024-12-22,28,M,175.9,149.7,Weight Training,89,Low,22.2,125,7.8,5,9871,3.3,27.9,69.3,123.1,83.3,None,Current,20.28
+604,2024-12-24,28,M,175.9,150.0,Swimming,116,Low,33.8,118,8.3,5,7296,2.3,27.9,69.3,123.1,83.3,None,Current,20.4
+604,2024-12-25,28,M,175.9,150.2,Swimming,102,Low,29.7,120,7.3,4,7830,1.8,27.9,69.3,123.1,83.3,None,Current,20.5

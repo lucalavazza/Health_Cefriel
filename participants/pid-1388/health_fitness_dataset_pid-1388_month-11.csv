@@ -1,0 +1,16 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+1388,2024-11-01,39,F,161.5,100.3,Cycling,119,Medium,33.7,142,5.7,7,6535,1.9,18.7,70.1,112.5,90.2,Diabetes,Never,15.77
+1388,2024-11-05,39,F,161.5,100.5,Yoga,35,Medium,3.5,131,8.5,5,6845,1.9,18.7,70.1,112.5,90.2,Diabetes,Never,15.81
+1388,2024-11-08,39,F,161.5,100.8,Cycling,48,Medium,13.7,131,6.5,2,8115,1.9,18.7,70.1,112.5,90.2,Diabetes,Never,15.87
+1388,2024-11-10,39,F,161.5,101.0,Running,88,Medium,29.0,129,8.2,4,7915,2.5,18.7,70.1,112.5,90.2,Diabetes,Never,15.98
+1388,2024-11-12,39,F,161.5,101.3,Dancing,81,Medium,15.0,142,6.5,6,6437,1.7,18.7,70.1,112.5,90.2,Diabetes,Never,16.07
+1388,2024-11-13,39,F,161.5,101.6,Running,79,Low,21.8,121,7.5,1,7830,3.2,18.7,70.1,112.5,90.2,Diabetes,Never,16.15
+1388,2024-11-14,39,F,161.5,101.8,Dancing,85,Low,13.2,119,7.6,9,3738,1.9,18.7,70.1,112.5,90.2,Diabetes,Never,16.24
+1388,2024-11-16,39,F,161.5,102.1,Walking,36,Medium,4.6,143,7.4,8,7255,2.9,18.7,70.1,112.5,90.2,Diabetes,Never,16.28
+1388,2024-11-18,39,F,161.5,102.3,Walking,51,Low,5.5,118,7.3,3,7109,2.7,18.7,70.1,112.5,90.2,Diabetes,Never,16.33
+1388,2024-11-21,39,F,161.5,102.6,Walking,82,Medium,10.6,126,7.3,9,6471,1.7,18.7,70.1,112.5,90.2,Diabetes,Never,16.43
+1388,2024-11-22,39,F,161.5,102.9,Walking,90,Low,9.7,115,4.9,3,7675,1.8,18.7,70.1,112.5,90.2,Diabetes,Never,16.52
+1388,2024-11-25,39,F,161.5,103.1,Yoga,52,High,6.2,150,8.0,10,7492,2.5,18.7,70.1,112.5,90.2,Diabetes,Never,16.59
+1388,2024-11-28,39,F,161.5,103.4,Yoga,26,High,3.1,152,6.4,5,6342,2.6,18.7,70.1,112.5,90.2,Diabetes,Never,16.63
+1388,2024-11-29,39,F,161.5,103.6,Cycling,36,Medium,10.5,136,6.9,9,6239,2.0,18.7,70.1,112.5,90.2,Diabetes,Never,16.67
+1388,2024-11-30,39,F,161.5,103.9,Weight Training,98,Medium,20.3,123,7.6,4,8268,2.8,18.7,70.1,112.5,90.2,Diabetes,Never,16.79

@@ -1,0 +1,20 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+2575,2024-09-03,22,M,176.4,102.1,HIIT,69,Low,23.4,124,6.4,3,7534,1.9,18.9,69.7,104.8,76.7,Diabetes,Current,14.21
+2575,2024-09-04,22,M,176.4,102.4,HIIT,60,Medium,24.5,151,7.0,7,5322,2.5,18.9,69.7,104.8,76.7,Diabetes,Current,14.28
+2575,2024-09-05,22,M,176.4,102.6,Weight Training,88,Medium,18.0,152,6.4,4,7780,3.1,18.9,69.7,104.8,76.7,Diabetes,Current,14.39
+2575,2024-09-07,22,M,176.4,102.9,HIIT,56,High,26.8,183,7.0,3,8203,2.2,18.9,69.7,104.8,76.7,Diabetes,Current,14.47
+2575,2024-09-08,22,M,176.4,103.1,Weight Training,28,Low,4.8,132,7.8,2,9829,2.5,18.9,69.7,104.8,76.7,Diabetes,Current,14.49
+2575,2024-09-09,22,M,176.4,103.4,HIIT,42,Low,14.4,122,5.8,5,8995,1.9,18.9,69.7,104.8,76.7,Diabetes,Current,14.54
+2575,2024-09-10,22,M,176.4,103.6,Basketball,83,Medium,22.9,158,8.2,5,3559,3.0,18.9,69.7,104.8,76.7,Diabetes,Current,14.63
+2575,2024-09-11,22,M,176.4,103.9,Basketball,56,Low,12.9,118,7.4,7,6618,2.1,18.9,69.7,104.8,76.7,Diabetes,Current,14.69
+2575,2024-09-14,22,M,176.4,104.2,HIIT,109,Low,37.8,131,7.0,1,9488,2.2,18.9,69.7,104.8,76.7,Diabetes,Current,14.8
+2575,2024-09-15,22,M,176.4,104.4,Basketball,20,Medium,5.6,152,7.0,6,8943,2.2,18.9,69.7,104.8,76.7,Diabetes,Current,14.82
+2575,2024-09-16,22,M,176.4,104.7,HIIT,53,Medium,22.1,148,8.9,10,5272,2.0,18.9,69.7,104.8,76.7,Diabetes,Current,14.89
+2575,2024-09-17,22,M,176.4,104.9,Cycling,38,Medium,11.3,138,7.1,3,7554,2.9,18.9,69.7,104.8,76.7,Diabetes,Current,14.93
+2575,2024-09-18,22,M,176.4,105.2,Cycling,79,Medium,23.5,147,5.9,2,7977,2.7,18.9,69.7,104.8,76.7,Diabetes,Current,15.03
+2575,2024-09-19,22,M,176.4,105.4,HIIT,104,Medium,43.8,141,5.3,8,5219,2.4,18.9,69.7,104.8,76.7,Diabetes,Current,15.15
+2575,2024-09-21,22,M,176.4,105.7,HIIT,23,Medium,9.7,144,7.9,2,7324,1.8,18.9,69.7,104.8,76.7,Diabetes,Current,15.18
+2575,2024-09-25,22,M,176.4,106.0,Yoga,60,Medium,6.3,152,6.5,2,6239,2.3,18.9,69.7,104.8,76.7,Diabetes,Current,15.25
+2575,2024-09-28,22,M,176.4,106.2,HIIT,53,Medium,22.5,148,7.6,5,10182,1.8,18.9,69.7,104.8,76.7,Diabetes,Current,15.32
+2575,2024-09-29,22,M,176.4,106.5,HIIT,60,Medium,25.5,146,7.1,5,9036,2.7,18.9,69.7,104.8,76.7,Diabetes,Current,15.39
+2575,2024-09-30,22,M,176.4,106.7,HIIT,118,High,58.6,146,6.7,4,6246,2.5,18.9,69.7,104.8,76.7,Diabetes,Current,15.55

@@ -1,0 +1,14 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+1288,2024-12-01,34,M,183.5,143.9,Basketball,43,High,19.2,141,7.9,9,7236,3.4,26.3,70.8,108.1,83.2,None,Never,18.43
+1288,2024-12-02,34,M,183.5,144.2,Tennis,71,Medium,24.9,140,7.2,6,8974,3.1,26.3,70.8,108.1,83.2,None,Never,18.52
+1288,2024-12-04,34,M,183.5,144.5,Tennis,24,High,9.8,160,7.2,3,6904,2.7,26.3,70.8,108.1,83.2,None,Never,18.55
+1288,2024-12-05,34,M,183.5,144.7,Tennis,115,Medium,40.4,125,8.1,1,10429,2.7,26.3,70.8,108.1,83.2,None,Never,18.69
+1288,2024-12-08,34,M,183.5,145.0,Swimming,70,Medium,23.6,150,6.3,1,10925,2.8,26.3,70.8,108.1,83.2,None,Never,18.77
+1288,2024-12-10,34,M,183.5,145.2,Tennis,84,High,34.6,158,5.0,8,9062,3.3,26.3,70.8,108.1,83.2,None,Never,18.89
+1288,2024-12-11,34,M,183.5,145.5,Walking,104,Low,15.9,123,7.7,6,8560,2.6,26.3,70.8,108.1,83.2,None,Never,18.99
+1288,2024-12-13,34,M,183.5,145.7,Cycling,38,High,18.3,167,7.0,10,6294,2.4,26.3,70.8,108.1,83.2,None,Never,19.05
+1288,2024-12-15,34,M,183.5,146.0,Dancing,99,High,30.9,158,9.1,1,10876,1.7,26.3,70.8,108.1,83.2,None,Never,19.19
+1288,2024-12-17,34,M,183.5,146.3,Cycling,43,Medium,17.8,131,7.3,4,7389,2.9,26.3,70.8,108.1,83.2,None,Never,19.24
+1288,2024-12-19,34,M,183.5,146.5,Cycling,27,Medium,11.2,130,7.3,7,8064,2.9,26.3,70.8,108.1,83.2,None,Never,19.27
+1288,2024-12-21,34,M,183.5,146.8,Cycling,79,Medium,32.8,125,6.7,9,7017,2.1,26.3,70.8,108.1,83.2,None,Never,19.37
+1288,2024-12-23,34,M,183.5,147.0,Cycling,39,Medium,16.2,154,7.0,1,6862,2.9,26.3,70.8,108.1,83.2,None,Never,19.41

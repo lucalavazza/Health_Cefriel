@@ -1,0 +1,17 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+676,2024-12-01,46,F,162.6,101.0,Cycling,62,Low,14.7,121,6.1,2,8234,2.8,17,69.9,117.4,87.4,Hypertension,Current,17.74
+676,2024-12-02,46,F,162.6,101.3,Cycling,88,High,29.4,137,6.6,8,5202,2.2,17,69.9,117.4,87.4,Hypertension,Current,17.86
+676,2024-12-04,46,F,162.6,101.5,Walking,100,Low,10.7,113,6.9,1,6958,2.1,17,69.9,117.4,87.4,Hypertension,Current,17.96
+676,2024-12-06,46,F,162.6,101.8,Walking,43,Medium,5.5,123,7.6,4,8821,2.6,17,69.9,117.4,87.4,Hypertension,Current,18.01
+676,2024-12-07,46,F,162.6,102.0,Weight Training,106,Medium,21.6,135,6.9,5,5774,1.9,17,69.9,117.4,87.4,Hypertension,Current,18.14
+676,2024-12-08,46,F,162.6,102.3,Weight Training,74,Medium,15.1,133,6.5,6,6442,2.6,17,69.9,117.4,87.4,Hypertension,Current,18.23
+676,2024-12-09,46,F,162.6,102.5,Walking,115,Medium,14.9,132,7.0,6,8368,2.2,17,69.9,117.4,87.4,Hypertension,Current,18.37
+676,2024-12-11,46,F,162.6,102.8,Weight Training,25,Medium,5.1,131,7.5,3,7731,2.7,17,69.9,117.4,87.4,Hypertension,Current,18.4
+676,2024-12-12,46,F,162.6,103.1,Tennis,51,Medium,12.8,132,7.6,7,8397,2.9,17,69.9,117.4,87.4,Hypertension,Current,18.46
+676,2024-12-13,46,F,162.6,103.3,HIIT,22,Medium,9.1,127,6.5,4,5661,2.9,17,69.9,117.4,87.4,Hypertension,Current,18.49
+676,2024-12-16,46,F,162.6,103.6,HIIT,63,Medium,26.0,135,6.8,7,8322,1.6,17,69.9,117.4,87.4,Hypertension,Current,18.56
+676,2024-12-19,46,F,162.6,103.8,Dancing,85,Low,13.5,115,7.4,1,6784,1.7,17,69.9,117.4,87.4,Hypertension,Current,18.65
+676,2024-12-21,46,F,162.6,104.1,HIIT,59,Medium,24.5,131,7.3,6,10511,2.1,17,69.9,117.4,87.4,Hypertension,Current,18.72
+676,2024-12-23,46,F,162.6,104.3,HIIT,74,Low,25.7,114,6.9,8,10349,3.2,17,69.9,117.4,87.4,Hypertension,Current,18.79
+676,2024-12-24,46,F,162.6,104.6,HIIT,26,Medium,10.9,127,7.7,3,8541,1.6,17,69.9,117.4,87.4,Hypertension,Current,18.82
+676,2024-12-25,46,F,162.6,104.9,HIIT,111,Medium,46.4,123,7.8,1,8741,3.4,17,69.9,117.4,87.4,Hypertension,Current,18.96

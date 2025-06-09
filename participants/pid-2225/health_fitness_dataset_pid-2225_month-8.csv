@@ -1,0 +1,19 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+2225,2024-08-01,42,M,186.8,115.8,Tennis,114,Medium,32.1,143,8.0,6,5033,2.0,23,75.2,116.4,82,None,Former,11.42
+2225,2024-08-02,42,M,186.8,116.1,Tennis,119,Medium,33.5,127,6.7,3,6497,2.0,23,75.2,116.4,82,None,Former,11.56
+2225,2024-08-04,42,M,186.8,116.3,Tennis,113,Medium,31.9,134,7.3,8,7199,1.5,23,75.2,116.4,82,None,Former,11.7
+2225,2024-08-05,42,M,186.8,116.6,Tennis,105,High,34.7,156,7.4,4,6872,2.5,23,75.2,116.4,82,None,Former,11.84
+2225,2024-08-06,42,M,186.8,116.8,Tennis,43,Medium,12.2,128,7.4,7,8592,1.7,23,75.2,116.4,82,None,Former,11.9
+2225,2024-08-07,42,M,186.8,117.1,Tennis,92,Medium,26.2,125,8.2,9,6667,3.2,23,75.2,116.4,82,None,Former,12.01
+2225,2024-08-08,42,M,186.8,117.3,Tennis,110,Medium,31.3,127,6.8,4,6005,2.7,23,75.2,116.4,82,None,Former,12.14
+2225,2024-08-09,42,M,186.8,117.6,Weight Training,106,High,29.0,156,7.9,10,3883,1.6,23,75.2,116.4,82,None,Former,12.29
+2225,2024-08-12,42,M,186.8,117.8,Weight Training,109,Low,21.4,117,7.6,1,6137,1.7,23,75.2,116.4,82,None,Former,12.4
+2225,2024-08-15,42,M,186.8,118.1,Weight Training,33,Medium,7.8,123,7.8,2,6566,2.5,23,75.2,116.4,82,None,Former,12.43
+2225,2024-08-16,42,M,186.8,118.4,Basketball,57,Medium,18.0,132,6.5,8,6162,2.7,23,75.2,116.4,82,None,Former,12.5
+2225,2024-08-20,42,M,186.8,118.6,Weight Training,74,Low,14.6,107,7.6,2,5559,3.2,23,75.2,116.4,82,None,Former,12.58
+2225,2024-08-22,42,M,186.8,118.9,HIIT,24,Medium,11.4,128,7.5,3,6097,2.8,23,75.2,116.4,82,None,Former,12.61
+2225,2024-08-24,42,M,186.8,119.1,Basketball,37,Medium,11.7,131,5.0,5,9331,2.9,23,75.2,116.4,82,None,Former,12.65
+2225,2024-08-25,42,M,186.8,119.4,Weight Training,81,Low,16.1,125,6.4,5,9097,2.4,23,75.2,116.4,82,None,Former,12.73
+2225,2024-08-26,42,M,186.8,119.7,Weight Training,102,Medium,24.4,130,6.9,6,8178,2.2,23,75.2,116.4,82,None,Former,12.85
+2225,2024-08-29,42,M,186.8,119.9,Walking,26,High,4.6,149,7.1,3,8577,1.8,23,75.2,116.4,82,None,Former,12.89
+2225,2024-08-31,42,M,186.8,120.2,Walking,42,Medium,6.4,128,6.0,4,7700,3.0,23,75.2,116.4,82,None,Former,12.94

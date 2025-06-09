@@ -1,0 +1,17 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+287,2024-10-01,33,F,168.6,106.1,Basketball,120,Medium,33.9,128,7.8,1,4261,3.0,20.2,75.2,131.8,89.9,None,Former,15.98
+287,2024-10-02,33,F,168.6,106.3,Basketball,79,High,26.1,148,6.3,1,6375,3.0,20.2,75.2,131.8,89.9,None,Former,16.1
+287,2024-10-03,33,F,168.6,106.6,Cycling,26,Medium,7.8,137,6.8,8,7900,2.1,20.2,75.2,131.8,89.9,None,Former,16.13
+287,2024-10-04,33,F,168.6,106.8,Basketball,57,Medium,16.2,148,6.8,2,6831,2.1,20.2,75.2,131.8,89.9,None,Former,16.19
+287,2024-10-05,33,F,168.6,107.1,Basketball,69,Medium,19.7,135,6.9,3,8377,3.0,20.2,75.2,131.8,89.9,None,Former,16.28
+287,2024-10-08,33,F,168.6,107.4,Cycling,31,Low,7.8,128,5.9,10,4547,2.5,20.2,75.2,131.8,89.9,None,Former,16.31
+287,2024-10-11,33,F,168.6,107.6,Basketball,53,Medium,15.2,136,8.5,8,6145,2.7,20.2,75.2,131.8,89.9,None,Former,16.37
+287,2024-10-14,33,F,168.6,107.9,Cycling,63,Low,16.0,116,7.7,9,6908,2.1,20.2,75.2,131.8,89.9,None,Former,16.44
+287,2024-10-15,33,F,168.6,108.1,Basketball,54,Medium,15.5,137,7.6,10,5890,2.9,20.2,75.2,131.8,89.9,None,Former,16.5
+287,2024-10-17,33,F,168.6,108.4,Cycling,58,Medium,17.8,127,6.8,6,6619,2.5,20.2,75.2,131.8,89.9,None,Former,16.57
+287,2024-10-19,33,F,168.6,108.7,Cycling,21,Low,5.4,117,8.4,3,7381,2.1,20.2,75.2,131.8,89.9,None,Former,16.59
+287,2024-10-20,33,F,168.6,108.9,Cycling,35,Medium,10.8,131,7.6,8,9470,1.6,20.2,75.2,131.8,89.9,None,Former,16.63
+287,2024-10-24,33,F,168.6,109.2,Cycling,35,Medium,10.8,136,6.5,7,5426,2.4,20.2,75.2,131.8,89.9,None,Former,16.67
+287,2024-10-25,33,F,168.6,109.4,Swimming,92,Low,19.5,121,5.7,9,7234,3.0,20.2,75.2,131.8,89.9,None,Former,16.77
+287,2024-10-30,33,F,168.6,109.7,Walking,104,Low,12.0,125,6.1,6,6782,3.5,20.2,75.2,131.8,89.9,None,Former,16.87
+287,2024-10-31,33,F,168.6,109.9,Dancing,22,Medium,4.4,150,8.0,10,7213,3.0,20.2,75.2,131.8,89.9,None,Former,16.9

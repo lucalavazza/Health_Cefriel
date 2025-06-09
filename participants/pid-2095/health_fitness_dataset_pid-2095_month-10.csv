@@ -1,0 +1,17 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+2095,2024-10-01,57,M,183.3,124.1,Tennis,91,Low,22.8,107,6.2,8,6445,3.2,22.2,71.1,118.7,79.8,None,Former,15.63
+2095,2024-10-02,57,M,183.3,124.3,Weight Training,57,Medium,14.1,118,6.3,4,6330,3.2,22.2,71.1,118.7,79.8,None,Former,15.7
+2095,2024-10-04,57,M,183.3,124.6,Weight Training,107,Medium,26.6,112,7.7,6,6804,3.3,22.2,71.1,118.7,79.8,None,Former,15.83
+2095,2024-10-08,57,M,183.3,124.8,Walking,42,Low,5.5,102,4.0,5,3401,3.4,22.2,71.1,118.7,79.8,None,Former,15.87
+2095,2024-10-10,57,M,183.3,125.1,Weight Training,95,Low,19.8,102,8.0,6,5150,2.2,22.2,71.1,118.7,79.8,None,Former,15.97
+2095,2024-10-11,57,M,183.3,125.4,Weight Training,110,Low,22.9,97,7.3,7,4266,2.7,22.2,71.1,118.7,79.8,None,Former,16.08
+2095,2024-10-12,57,M,183.3,125.6,Walking,55,Medium,8.7,123,6.2,8,7726,2.6,22.2,71.1,118.7,79.8,None,Former,16.14
+2095,2024-10-13,57,M,183.3,125.9,Weight Training,55,High,16.1,142,8.5,3,6334,2.9,22.2,71.1,118.7,79.8,None,Former,16.22
+2095,2024-10-14,57,M,183.3,126.1,Weight Training,114,High,33.5,153,8.6,3,4176,3.3,22.2,71.1,118.7,79.8,None,Former,16.38
+2095,2024-10-20,57,M,183.3,126.4,Walking,96,Medium,15.3,113,6.6,2,9817,1.9,22.2,71.1,118.7,79.8,None,Former,16.5
+2095,2024-10-21,57,M,183.3,126.6,Walking,31,Medium,5.0,122,6.3,1,6494,2.6,22.2,71.1,118.7,79.8,None,Former,16.53
+2095,2024-10-22,57,M,183.3,126.9,Walking,90,Medium,14.4,129,6.5,7,8504,3.4,22.2,71.1,118.7,79.8,None,Former,16.64
+2095,2024-10-23,57,M,183.3,127.2,HIIT,113,Medium,57.4,114,7.8,8,3218,2.6,22.2,71.1,118.7,79.8,None,Former,16.78
+2095,2024-10-25,57,M,183.3,127.4,HIIT,113,Low,47.9,104,7.1,8,4008,2.8,22.2,71.1,118.7,79.8,None,Former,16.89
+2095,2024-10-27,57,M,183.3,127.7,HIIT,27,Medium,13.8,120,7.5,9,7715,2.7,22.2,71.1,118.7,79.8,None,Former,16.92
+2095,2024-10-29,57,M,183.3,127.9,Dancing,53,Low,10.3,99,5.3,7,8334,3.3,22.2,71.1,118.7,79.8,None,Former,16.97

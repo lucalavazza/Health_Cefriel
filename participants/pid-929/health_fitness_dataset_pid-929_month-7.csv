@@ -1,0 +1,17 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+929,2024-07-01,23,M,165.2,101.1,Running,97,Medium,32.0,163,7.2,2,9767,1.9,25,78.1,112,79.2,None,Never,10.26
+929,2024-07-02,23,M,165.2,101.4,Swimming,36,Low,7.1,129,9.5,3,6143,3.0,25,78.1,112,79.2,None,Never,10.29
+929,2024-07-05,23,M,165.2,101.6,Swimming,46,Low,9.1,142,6.5,1,6111,2.7,25,78.1,112,79.2,None,Never,10.34
+929,2024-07-06,23,M,165.2,101.9,Swimming,59,Medium,14.0,141,6.9,10,10522,2.4,25,78.1,112,79.2,None,Never,10.41
+929,2024-07-09,23,M,165.2,102.2,Walking,35,Medium,4.5,144,7.6,4,7253,1.8,25,78.1,112,79.2,None,Never,10.45
+929,2024-07-10,23,M,165.2,102.4,Swimming,99,High,27.5,163,7.1,1,8547,2.4,25,78.1,112,79.2,None,Never,10.59
+929,2024-07-11,23,M,165.2,102.7,Walking,64,Medium,8.3,145,5.3,9,6393,2.5,25,78.1,112,79.2,None,Never,10.67
+929,2024-07-15,23,M,165.2,102.9,Swimming,42,Medium,10.1,147,6.0,8,5963,3.2,25,78.1,112,79.2,None,Never,10.72
+929,2024-07-17,23,M,165.2,103.2,Swimming,67,High,18.8,175,6.6,8,7543,1.6,25,78.1,112,79.2,None,Never,10.81
+929,2024-07-18,23,M,165.2,103.5,Walking,53,Medium,6.9,138,5.1,6,9546,2.2,25,78.1,112,79.2,None,Never,10.88
+929,2024-07-19,23,M,165.2,103.7,Yoga,95,Medium,9.8,140,7.3,3,7298,2.8,25,78.1,112,79.2,None,Never,10.99
+929,2024-07-20,23,M,165.2,104.0,Walking,95,Medium,12.5,140,8.1,1,9196,3.5,25,78.1,112,79.2,None,Never,11.1
+929,2024-07-25,23,M,165.2,104.2,HIIT,97,High,47.1,157,6.4,3,9873,2.7,25,78.1,112,79.2,None,Never,11.24
+929,2024-07-26,23,M,165.2,104.5,Weight Training,47,Medium,9.8,151,7.6,7,8449,3.3,25,78.1,112,79.2,None,Never,11.3
+929,2024-07-30,23,M,165.2,104.7,Walking,110,Medium,14.6,160,9.2,8,8555,3.2,25,78.1,112,79.2,None,Never,11.43
+929,2024-07-31,23,M,165.2,105.0,Weight Training,74,Medium,15.5,151,6.6,8,6221,2.3,25,78.1,112,79.2,None,Never,11.52

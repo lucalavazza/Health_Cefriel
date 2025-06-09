@@ -1,0 +1,13 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+1773,2024-07-02,19,F,158.4,87.8,Yoga,119,High,12.2,161,7.6,7,8981,1.8,21.1,68.2,113.3,69.3,Hypertension,Never,11.0
+1773,2024-07-11,19,F,158.4,88.1,Weight Training,25,High,5.1,169,9.0,8,10406,2.2,21.1,68.2,113.3,69.3,Hypertension,Never,11.04
+1773,2024-07-12,19,F,158.4,88.3,Weight Training,95,Low,13.9,127,5.5,6,5870,1.7,21.1,68.2,113.3,69.3,Hypertension,Never,11.13
+1773,2024-07-14,19,F,158.4,88.6,Yoga,99,Low,7.3,134,7.0,10,8381,3.2,21.1,68.2,113.3,69.3,Hypertension,Never,11.23
+1773,2024-07-15,19,F,158.4,88.8,Weight Training,76,Medium,13.5,147,5.1,7,8034,3.3,21.1,68.2,113.3,69.3,Hypertension,Never,11.32
+1773,2024-07-16,19,F,158.4,89.1,Weight Training,39,Medium,6.9,145,6.3,8,6587,2.1,21.1,68.2,113.3,69.3,Hypertension,Never,11.37
+1773,2024-07-17,19,F,158.4,89.4,Weight Training,91,Low,13.5,125,7.2,4,9666,2.3,21.1,68.2,113.3,69.3,Hypertension,Never,11.46
+1773,2024-07-18,19,F,158.4,89.6,Weight Training,117,High,24.4,166,6.0,2,7599,2.1,21.1,68.2,113.3,69.3,Hypertension,Never,11.62
+1773,2024-07-19,19,F,158.4,89.9,Weight Training,94,Medium,16.8,153,7.9,1,9411,2.0,21.1,68.2,113.3,69.3,Hypertension,Never,11.74
+1773,2024-07-26,19,F,158.4,90.1,Running,114,Low,27.9,125,7.6,3,7524,2.0,21.1,68.2,113.3,69.3,Hypertension,Never,11.85
+1773,2024-07-27,19,F,158.4,90.4,Weight Training,80,High,16.8,176,5.6,7,10315,2.4,21.1,68.2,113.3,69.3,Hypertension,Never,11.96
+1773,2024-07-31,19,F,158.4,90.6,Running,81,Low,19.9,133,6.7,10,4838,1.6,21.1,68.2,113.3,69.3,Hypertension,Never,12.04

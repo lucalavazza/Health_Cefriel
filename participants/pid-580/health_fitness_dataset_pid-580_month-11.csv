@@ -1,0 +1,17 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+580,2024-11-02,49,F,160.6,127.8,Weight Training,42,Medium,10.7,127,7.2,4,9056,3.3,30.3,63.3,132.8,73.7,None,Former,15.17
+580,2024-11-03,49,F,160.6,128.1,Weight Training,39,Medium,10.0,133,7.1,4,7172,1.7,30.3,63.3,132.8,73.7,None,Former,15.21
+580,2024-11-04,49,F,160.6,128.3,Weight Training,50,Medium,12.8,127,7.7,1,4543,2.7,30.3,63.3,132.8,73.7,None,Former,15.27
+580,2024-11-05,49,F,160.6,128.6,HIIT,81,Medium,41.6,136,6.7,8,6030,1.7,30.3,63.3,132.8,73.7,None,Former,15.37
+580,2024-11-06,49,F,160.6,128.9,Weight Training,26,Low,5.6,117,6.9,6,8921,2.9,30.3,63.3,132.8,73.7,None,Former,15.4
+580,2024-11-07,49,F,160.6,129.1,Weight Training,108,High,32.5,136,6.3,9,7644,2.4,30.3,63.3,132.8,73.7,None,Former,15.55
+580,2024-11-08,49,F,160.6,129.4,HIIT,53,Low,22.8,112,9.2,5,5539,3.4,30.3,63.3,132.8,73.7,None,Former,15.6
+580,2024-11-12,49,F,160.6,129.6,HIIT,52,Low,22.4,107,6.0,5,5040,3.4,30.3,63.3,132.8,73.7,None,Former,15.65
+580,2024-11-13,49,F,160.6,129.9,Basketball,81,Medium,28.0,133,6.4,6,6934,1.5,30.3,63.3,132.8,73.7,None,Former,15.75
+580,2024-11-14,49,F,160.6,130.1,Basketball,66,Medium,22.9,132,7.6,6,5876,3.1,30.3,63.3,132.8,73.7,None,Former,15.83
+580,2024-11-22,49,F,160.6,130.4,Basketball,103,Medium,35.7,129,7.5,6,6905,2.0,30.3,63.3,132.8,73.7,None,Former,15.95
+580,2024-11-23,49,F,160.6,130.7,Basketball,24,Low,7.0,119,6.1,10,7597,2.7,30.3,63.3,132.8,73.7,None,Former,15.98
+580,2024-11-24,49,F,160.6,130.9,Basketball,93,Medium,32.4,121,8.5,9,8125,2.4,30.3,63.3,132.8,73.7,None,Former,16.09
+580,2024-11-27,49,F,160.6,131.2,Basketball,84,Low,24.4,113,7.2,2,8774,2.0,30.3,63.3,132.8,73.7,None,Former,16.17
+580,2024-11-29,49,F,160.6,131.4,HIIT,115,Medium,60.3,123,7.5,2,8295,2.8,30.3,63.3,132.8,73.7,None,Former,16.31
+580,2024-11-30,49,F,160.6,131.7,Basketball,55,Low,16.1,106,7.2,5,7131,2.0,30.3,63.3,132.8,73.7,None,Former,16.37

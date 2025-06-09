@@ -1,0 +1,16 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+770,2024-12-01,36,M,176.3,130.2,Weight Training,114,Medium,29.6,146,7.2,4,8457,2.2,24.2,68.1,128.5,76.2,None,Former,17.63
+770,2024-12-02,36,M,176.3,130.5,Weight Training,37,Medium,9.6,148,7.9,6,9182,2.9,24.2,68.1,128.5,76.2,None,Former,17.67
+770,2024-12-04,36,M,176.3,130.7,Weight Training,64,Low,13.9,111,7.7,1,7514,2.2,24.2,68.1,128.5,76.2,None,Former,17.74
+770,2024-12-05,36,M,176.3,131.0,Weight Training,73,Medium,19.1,135,5.9,6,8120,2.2,24.2,68.1,128.5,76.2,None,Former,17.82
+770,2024-12-06,36,M,176.3,131.3,Weight Training,52,High,15.9,154,6.3,6,7096,2.0,24.2,68.1,128.5,76.2,None,Former,17.9
+770,2024-12-07,36,M,176.3,131.5,Weight Training,120,Medium,31.5,132,6.0,4,10143,3.0,24.2,68.1,128.5,76.2,None,Former,18.04
+770,2024-12-10,36,M,176.3,131.8,Weight Training,55,Medium,14.5,141,6.9,5,8450,3.5,24.2,68.1,128.5,76.2,None,Former,18.11
+770,2024-12-12,36,M,176.3,132.0,Weight Training,90,High,27.7,168,7.8,1,11312,2.5,24.2,68.1,128.5,76.2,None,Former,18.23
+770,2024-12-13,36,M,176.3,132.3,Cycling,52,Low,16.2,117,4.8,9,9108,2.3,24.2,68.1,128.5,76.2,None,Former,18.29
+770,2024-12-16,36,M,176.3,132.5,Weight Training,55,High,17.0,164,8.8,5,9480,1.7,24.2,68.1,128.5,76.2,None,Former,18.36
+770,2024-12-18,36,M,176.3,132.8,Weight Training,24,Medium,6.4,137,7.5,10,9045,3.1,24.2,68.1,128.5,76.2,None,Former,18.39
+770,2024-12-20,36,M,176.3,133.1,Cycling,111,Low,34.8,126,8.0,1,10706,1.7,24.2,68.1,128.5,76.2,None,Former,18.5
+770,2024-12-21,36,M,176.3,133.3,Weight Training,39,Medium,10.4,130,6.4,6,12443,2.7,24.2,68.1,128.5,76.2,None,Former,18.55
+770,2024-12-23,36,M,176.3,133.6,Running,42,Medium,18.3,137,5.9,8,6756,1.9,24.2,68.1,128.5,76.2,None,Former,18.6
+770,2024-12-25,36,M,176.3,133.8,Cycling,78,Medium,29.5,142,6.9,7,8865,3.2,24.2,68.1,128.5,76.2,None,Former,18.69

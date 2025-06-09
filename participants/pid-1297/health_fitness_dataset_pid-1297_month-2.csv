@@ -1,0 +1,18 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+1297,2024-02-01,40,M,183.5,86.1,Weight Training,42,Medium,7.2,135,5.5,10,10042,3.0,24.2,75.7,100.2,74.9,Asthma,Current,1.35
+1297,2024-02-02,40,M,183.5,86.4,Swimming,81,Low,13.6,111,7.1,2,7332,3.3,24.2,75.7,100.2,74.9,Asthma,Current,1.43
+1297,2024-02-03,40,M,183.5,86.6,Running,105,Medium,29.6,131,8.4,3,12917,3.3,24.2,75.7,100.2,74.9,Asthma,Current,1.56
+1297,2024-02-04,40,M,183.5,86.9,Running,61,Medium,17.3,136,6.9,7,10359,1.7,24.2,75.7,100.2,74.9,Asthma,Current,1.63
+1297,2024-02-05,40,M,183.5,87.1,Swimming,105,Low,17.7,119,6.9,8,9680,3.4,24.2,75.7,100.2,74.9,Asthma,Current,1.74
+1297,2024-02-06,40,M,183.5,87.4,Cycling,26,Medium,6.4,149,7.7,6,9803,2.4,24.2,75.7,100.2,74.9,Asthma,Current,1.77
+1297,2024-02-07,40,M,183.5,87.6,Running,87,Medium,24.8,128,7.1,8,8008,2.3,24.2,75.7,100.2,74.9,Asthma,Current,1.87
+1297,2024-02-09,40,M,183.5,87.9,Running,32,Low,7.6,120,6.5,1,10574,2.2,24.2,75.7,100.2,74.9,Asthma,Current,1.91
+1297,2024-02-10,40,M,183.5,88.2,Running,43,Medium,12.3,137,6.3,10,10323,2.9,24.2,75.7,100.2,74.9,Asthma,Current,1.96
+1297,2024-02-12,40,M,183.5,88.4,Running,93,Medium,26.8,138,6.1,1,10402,3.3,24.2,75.7,100.2,74.9,Asthma,Current,2.07
+1297,2024-02-14,40,M,183.5,88.7,Running,63,Low,15.2,118,7.2,1,9428,3.4,24.2,75.7,100.2,74.9,Asthma,Current,2.13
+1297,2024-02-17,40,M,183.5,88.9,Running,60,Medium,17.4,141,8.1,9,13854,1.7,24.2,75.7,100.2,74.9,Asthma,Current,2.2
+1297,2024-02-18,40,M,183.5,89.2,Yoga,86,Medium,7.6,138,8.7,6,11415,1.8,24.2,75.7,100.2,74.9,Asthma,Current,2.31
+1297,2024-02-20,40,M,183.5,89.4,Running,50,Low,12.1,116,7.3,7,5760,2.6,24.2,75.7,100.2,74.9,Asthma,Current,2.36
+1297,2024-02-22,40,M,183.5,89.7,Running,76,Low,18.5,112,5.8,3,7864,2.1,24.2,75.7,100.2,74.9,Asthma,Current,2.43
+1297,2024-02-23,40,M,183.5,90.0,Dancing,64,High,12.3,149,6.9,2,8151,2.4,24.2,75.7,100.2,74.9,Asthma,Current,2.52
+1297,2024-02-26,40,M,183.5,90.2,Running,57,Medium,16.8,136,5.1,6,7501,2.0,24.2,75.7,100.2,74.9,Asthma,Current,2.59

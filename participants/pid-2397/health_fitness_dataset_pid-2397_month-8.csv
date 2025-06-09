@@ -1,0 +1,17 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+2397,2024-08-01,44,M,170.9,89.3,Running,102,Low,24.7,121,6.4,7,7540,2.8,17.1,75.7,120.6,77.2,None,Former,12.68
+2397,2024-08-02,44,M,170.9,89.5,Running,51,High,17.3,138,7.4,4,7307,1.5,17.1,75.7,120.6,77.2,None,Former,12.75
+2397,2024-08-04,44,M,170.9,89.8,Tennis,63,Low,11.4,110,6.5,3,7922,2.9,17.1,75.7,120.6,77.2,None,Former,12.81
+2397,2024-08-05,44,M,170.9,90.0,Tennis,99,Medium,21.6,121,7.2,1,6348,3.1,17.1,75.7,120.6,77.2,None,Former,12.93
+2397,2024-08-09,44,M,170.9,90.3,Tennis,67,Medium,14.7,124,5.2,4,8191,2.3,17.1,75.7,120.6,77.2,None,Former,13.01
+2397,2024-08-10,44,M,170.9,90.6,Weight Training,90,Low,13.5,118,6.3,3,5601,3.2,17.1,75.7,120.6,77.2,None,Former,13.1
+2397,2024-08-12,44,M,170.9,90.8,Weight Training,73,Medium,13.2,119,5.1,10,10056,3.0,17.1,75.7,120.6,77.2,None,Former,13.19
+2397,2024-08-15,44,M,170.9,91.1,Tennis,108,Medium,23.9,139,8.6,8,8177,1.9,17.1,75.7,120.6,77.2,None,Former,13.32
+2397,2024-08-17,44,M,170.9,91.3,Tennis,74,Medium,16.4,138,7.4,10,8641,2.3,17.1,75.7,120.6,77.2,None,Former,13.41
+2397,2024-08-18,44,M,170.9,91.6,Weight Training,61,Medium,11.1,128,6.9,4,7439,2.1,17.1,75.7,120.6,77.2,None,Former,13.48
+2397,2024-08-20,44,M,170.9,91.8,Weight Training,99,Medium,18.1,123,6.7,8,7950,1.6,17.1,75.7,120.6,77.2,None,Former,13.6
+2397,2024-08-22,44,M,170.9,92.1,Weight Training,66,High,14.1,172,8.7,9,4627,2.7,17.1,75.7,120.6,77.2,None,Former,13.69
+2397,2024-08-25,44,M,170.9,92.4,Weight Training,73,High,15.7,147,6.0,1,6877,1.9,17.1,75.7,120.6,77.2,None,Former,13.79
+2397,2024-08-26,44,M,170.9,92.6,HIIT,62,Medium,22.9,140,6.2,3,6355,2.5,17.1,75.7,120.6,77.2,None,Former,13.87
+2397,2024-08-29,44,M,170.9,92.9,HIIT,71,Low,21.9,113,7.6,1,8600,2.2,17.1,75.7,120.6,77.2,None,Former,13.94
+2397,2024-08-30,44,M,170.9,93.1,Weight Training,27,Medium,5.0,151,6.6,6,7347,1.7,17.1,75.7,120.6,77.2,None,Former,13.97

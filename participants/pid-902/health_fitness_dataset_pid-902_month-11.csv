@@ -1,0 +1,17 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+902,2024-11-01,34,F,166.5,115.1,Cycling,106,High,40.2,139,7.8,5,7088,3.1,22.6,72.5,110.4,85.3,None,Never,16.55
+902,2024-11-02,34,F,166.5,115.4,Weight Training,75,High,20.1,149,7.7,8,8436,3.3,22.6,72.5,110.4,85.3,None,Never,16.66
+902,2024-11-09,34,F,166.5,115.6,Dancing,82,Low,14.5,120,7.0,4,9290,3.2,22.6,72.5,110.4,85.3,None,Never,16.74
+902,2024-11-11,34,F,166.5,115.9,Weight Training,43,Low,8.3,120,7.8,4,8654,2.0,22.6,72.5,110.4,85.3,None,Never,16.78
+902,2024-11-12,34,F,166.5,116.1,Weight Training,113,Medium,26.2,128,7.9,3,7386,1.6,22.6,72.5,110.4,85.3,None,Never,16.92
+902,2024-11-13,34,F,166.5,116.4,Weight Training,67,High,18.2,173,6.9,9,7871,3.1,22.6,72.5,110.4,85.3,None,Never,17.01
+902,2024-11-14,34,F,166.5,116.7,Weight Training,92,High,25.0,162,5.9,7,5732,3.4,22.6,72.5,110.4,85.3,None,Never,17.14
+902,2024-11-15,34,F,166.5,116.9,Weight Training,54,Medium,12.6,134,4.6,1,5069,2.2,22.6,72.5,110.4,85.3,None,Never,17.21
+902,2024-11-16,34,F,166.5,117.2,Weight Training,46,Low,9.0,123,6.4,5,9086,1.5,22.6,72.5,110.4,85.3,None,Never,17.25
+902,2024-11-18,34,F,166.5,117.4,Weight Training,86,Medium,20.2,141,6.7,1,3903,2.0,22.6,72.5,110.4,85.3,None,Never,17.36
+902,2024-11-19,34,F,166.5,117.7,Weight Training,32,High,8.8,156,5.4,8,7365,1.6,22.6,72.5,110.4,85.3,None,Never,17.4
+902,2024-11-21,34,F,166.5,117.9,Weight Training,59,Medium,13.9,130,9.0,8,7051,2.9,22.6,72.5,110.4,85.3,None,Never,17.47
+902,2024-11-24,34,F,166.5,118.2,Weight Training,43,High,11.8,160,7.9,7,7710,2.1,22.6,72.5,110.4,85.3,None,Never,17.53
+902,2024-11-25,34,F,166.5,118.5,Weight Training,83,Medium,19.6,134,7.6,1,7058,3.1,22.6,72.5,110.4,85.3,None,Never,17.63
+902,2024-11-27,34,F,166.5,118.7,Cycling,54,Low,15.1,126,9.3,4,10255,3.0,22.6,72.5,110.4,85.3,None,Never,17.68
+902,2024-11-28,34,F,166.5,119.0,Swimming,110,Medium,30.5,135,6.9,10,8125,2.8,22.6,72.5,110.4,85.3,None,Never,17.82

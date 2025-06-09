@@ -1,0 +1,13 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+420,2024-11-02,60,M,163.8,127.6,Dancing,23,Low,4.5,94,8.3,1,11417,2.2,28.5,72.7,118.7,58.7,Hypertension,Former,16.03
+420,2024-11-05,60,M,163.8,127.8,Swimming,68,Medium,20.2,131,7.5,1,5888,1.8,28.5,72.7,118.7,58.7,Hypertension,Former,16.11
+420,2024-11-10,60,M,163.8,128.1,Dancing,48,Low,9.4,102,8.5,2,8243,3.1,28.5,72.7,118.7,58.7,Hypertension,Former,16.16
+420,2024-11-14,60,M,163.8,128.3,Dancing,63,High,17.3,150,7.4,9,6785,3.2,28.5,72.7,118.7,58.7,Hypertension,Former,16.25
+420,2024-11-16,60,M,163.8,128.6,Yoga,61,Medium,7.8,113,6.8,7,7994,2.8,28.5,72.7,118.7,58.7,Hypertension,Former,16.32
+420,2024-11-17,60,M,163.8,128.9,Dancing,91,Low,17.9,104,7.7,6,11310,2.5,28.5,72.7,118.7,58.7,Hypertension,Former,16.41
+420,2024-11-20,60,M,163.8,129.1,Yoga,50,Medium,6.4,130,5.4,2,8283,2.2,28.5,72.7,118.7,58.7,Hypertension,Former,16.47
+420,2024-11-23,60,M,163.8,129.4,Dancing,109,Low,21.5,101,7.8,10,10728,2.5,28.5,72.7,118.7,58.7,Hypertension,Former,16.58
+420,2024-11-25,60,M,163.8,129.6,Dancing,77,Low,15.2,98,7.6,4,7328,2.3,28.5,72.7,118.7,58.7,Hypertension,Former,16.66
+420,2024-11-26,60,M,163.8,129.9,Dancing,45,Medium,10.7,125,7.1,4,8917,2.9,28.5,72.7,118.7,58.7,Hypertension,Former,16.71
+420,2024-11-28,60,M,163.8,130.2,Basketball,32,Medium,11.1,126,6.6,8,5046,2.9,28.5,72.7,118.7,58.7,Hypertension,Former,16.75
+420,2024-11-30,60,M,163.8,130.4,Basketball,99,Medium,34.4,117,6.6,8,6320,2.2,28.5,72.7,118.7,58.7,Hypertension,Former,16.87

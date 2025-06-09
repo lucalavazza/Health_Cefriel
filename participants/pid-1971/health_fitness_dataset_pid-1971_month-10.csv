@@ -1,0 +1,15 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+1971,2024-10-04,22,M,169.4,104.2,Tennis,98,Medium,24.8,146,6.6,5,4245,3.0,20.6,70.7,117,91.7,None,Former,14.52
+1971,2024-10-07,22,M,169.4,104.4,Running,66,High,26.2,163,6.4,6,5072,1.8,20.6,70.7,117,91.7,None,Former,14.62
+1971,2024-10-08,22,M,169.4,104.7,Basketball,101,High,32.8,167,7.3,6,7750,2.5,20.6,70.7,117,91.7,None,Former,14.76
+1971,2024-10-09,22,M,169.4,104.9,Walking,100,High,15.5,168,7.3,1,8900,1.5,20.6,70.7,117,91.7,None,Former,14.9
+1971,2024-10-10,22,M,169.4,105.2,Yoga,61,High,7.5,168,7.8,3,7454,2.5,20.6,70.7,117,91.7,None,Former,14.98
+1971,2024-10-11,22,M,169.4,105.5,Walking,72,Medium,9.6,150,6.4,1,8354,2.6,20.6,70.7,117,91.7,None,Former,15.07
+1971,2024-10-12,22,M,169.4,105.7,Yoga,54,High,6.6,167,8.5,2,5376,3.0,20.6,70.7,117,91.7,None,Former,15.14
+1971,2024-10-13,22,M,169.4,106.0,Weight Training,67,Low,11.8,136,7.1,9,8104,1.8,20.6,70.7,117,91.7,None,Former,15.21
+1971,2024-10-16,22,M,169.4,106.2,Walking,90,Medium,12.1,152,7.1,6,6880,2.5,20.6,70.7,117,91.7,None,Former,15.32
+1971,2024-10-18,22,M,169.4,106.5,Weight Training,80,Medium,17.0,152,6.5,7,7757,1.7,20.6,70.7,117,91.7,None,Former,15.42
+1971,2024-10-19,22,M,169.4,106.7,Basketball,64,Low,15.1,126,7.8,3,8632,2.4,20.6,70.7,117,91.7,None,Former,15.48
+1971,2024-10-28,22,M,169.4,107.0,Weight Training,81,High,20.2,169,5.6,3,6433,2.8,20.6,70.7,117,91.7,None,Former,15.59
+1971,2024-10-30,22,M,169.4,107.3,Weight Training,56,Low,10.0,125,7.5,9,6600,2.7,20.6,70.7,117,91.7,None,Former,15.65
+1971,2024-10-31,22,M,169.4,107.5,Basketball,73,Medium,20.9,151,7.4,3,4531,2.5,20.6,70.7,117,91.7,None,Former,15.74

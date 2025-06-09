@@ -1,0 +1,18 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+2809,2024-06-01,47,M,181.6,98.9,Weight Training,47,High,10.8,148,6.7,9,11152,2.4,21.2,81.3,117,82.1,None,Never,9.18
+2809,2024-06-02,47,M,181.6,99.1,Weight Training,112,Low,18.5,103,6.9,3,12286,1.6,21.2,81.3,117,82.1,None,Never,9.29
+2809,2024-06-03,47,M,181.6,99.4,Weight Training,55,Low,9.1,104,8.6,1,9932,1.8,21.2,81.3,117,82.1,None,Never,9.34
+2809,2024-06-04,47,M,181.6,99.6,Swimming,99,Medium,23.0,123,7.1,4,11277,3.2,21.2,81.3,117,82.1,None,Never,9.46
+2809,2024-06-08,47,M,181.6,99.9,Swimming,108,Low,20.9,105,6.2,1,10386,1.8,21.2,81.3,117,82.1,None,Never,9.57
+2809,2024-06-09,47,M,181.6,100.2,Weight Training,29,Low,4.8,119,7.7,2,11135,1.6,21.2,81.3,117,82.1,None,Never,9.6
+2809,2024-06-13,47,M,181.6,100.4,Swimming,43,Medium,10.0,126,6.8,5,8499,2.9,21.2,81.3,117,82.1,None,Never,9.65
+2809,2024-06-14,47,M,181.6,100.7,Weight Training,87,Low,14.6,101,8.6,6,6196,2.0,21.2,81.3,117,82.1,None,Never,9.74
+2809,2024-06-15,47,M,181.6,100.9,HIIT,66,Medium,26.6,128,9.2,3,11212,1.5,21.2,81.3,117,82.1,None,Never,9.82
+2809,2024-06-17,47,M,181.6,101.2,Yoga,58,Low,4.9,110,6.3,8,7421,3.2,21.2,81.3,117,82.1,None,Never,9.88
+2809,2024-06-19,47,M,181.6,101.5,Weight Training,42,Low,7.1,97,8.6,4,6617,3.4,21.2,81.3,117,82.1,None,Never,9.92
+2809,2024-06-20,47,M,181.6,101.7,Weight Training,28,Medium,5.7,139,5.4,2,9484,3.4,21.2,81.3,117,82.1,None,Never,9.95
+2809,2024-06-25,47,M,181.6,102.0,Weight Training,108,Low,18.3,109,6.5,10,6391,2.3,21.2,81.3,117,82.1,None,Never,10.06
+2809,2024-06-26,47,M,181.6,102.2,Running,38,Medium,12.7,137,7.6,7,10339,2.1,21.2,81.3,117,82.1,None,Never,10.11
+2809,2024-06-27,47,M,181.6,102.5,Swimming,69,Medium,16.5,130,7.8,1,8072,2.4,21.2,81.3,117,82.1,None,Never,10.19
+2809,2024-06-29,47,M,181.6,102.7,Running,87,Low,24.3,112,5.5,3,11026,2.2,21.2,81.3,117,82.1,None,Never,10.28
+2809,2024-06-30,47,M,181.6,103.0,Running,83,Medium,27.9,118,5.8,8,8724,2.6,21.2,81.3,117,82.1,None,Never,10.37

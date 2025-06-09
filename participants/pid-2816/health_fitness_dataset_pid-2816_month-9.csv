@@ -1,0 +1,17 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+2816,2024-09-02,45,M,155,91.6,HIIT,114,Medium,41.6,130,6.3,8,7464,3.1,20.8,75.4,134.4,95.7,None,Never,13.5
+2816,2024-09-03,45,M,155,91.8,HIIT,119,Medium,43.6,141,7.1,4,5322,2.6,20.8,75.4,134.4,95.7,None,Never,13.64
+2816,2024-09-05,45,M,155,92.1,Yoga,46,Low,3.5,117,6.9,8,5989,2.6,20.8,75.4,134.4,95.7,None,Never,13.69
+2816,2024-09-08,45,M,155,92.3,HIIT,107,Medium,39.4,133,4.3,6,5005,3.1,20.8,75.4,134.4,95.7,None,Never,13.82
+2816,2024-09-09,45,M,155,92.6,Running,37,Medium,11.2,128,7.0,1,5126,3.0,20.8,75.4,134.4,95.7,None,Never,13.86
+2816,2024-09-12,45,M,155,92.8,Yoga,73,Low,5.6,97,6.5,8,7532,2.0,20.8,75.4,134.4,95.7,None,Never,13.93
+2816,2024-09-14,45,M,155,93.1,Weight Training,97,Medium,18.0,144,5.8,6,7977,2.0,20.8,75.4,134.4,95.7,None,Never,14.05
+2816,2024-09-15,45,M,155,93.4,Running,85,Low,21.5,115,6.8,3,7687,2.2,20.8,75.4,134.4,95.7,None,Never,14.14
+2816,2024-09-16,45,M,155,93.6,Weight Training,114,Low,17.7,119,7.4,1,4808,2.1,20.8,75.4,134.4,95.7,None,Never,14.25
+2816,2024-09-19,45,M,155,93.9,Weight Training,49,Medium,9.2,132,6.9,8,4373,3.1,20.8,75.4,134.4,95.7,None,Never,14.31
+2816,2024-09-20,45,M,155,94.1,Weight Training,51,Low,8.0,107,9.0,2,8590,2.2,20.8,75.4,134.4,95.7,None,Never,14.36
+2816,2024-09-21,45,M,155,94.4,Weight Training,62,Low,9.7,109,6.4,5,8041,2.0,20.8,75.4,134.4,95.7,None,Never,14.42
+2816,2024-09-23,45,M,155,94.7,Weight Training,69,Medium,13.0,131,6.0,1,6303,2.6,20.8,75.4,134.4,95.7,None,Never,14.5
+2816,2024-09-24,45,M,155,94.9,Weight Training,74,Medium,14.0,145,5.8,6,5734,3.3,20.8,75.4,134.4,95.7,None,Never,14.59
+2816,2024-09-27,45,M,155,95.2,Weight Training,64,Low,10.1,114,7.5,6,8014,1.7,20.8,75.4,134.4,95.7,None,Never,14.66
+2816,2024-09-29,45,M,155,95.4,Weight Training,100,Low,15.9,108,6.3,8,7507,2.6,20.8,75.4,134.4,95.7,None,Never,14.76

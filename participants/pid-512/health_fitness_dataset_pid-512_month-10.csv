@@ -1,0 +1,17 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+512,2024-10-03,29,M,178.1,118.0,Weight Training,73,High,20.1,159,7.4,3,6396,2.7,22.4,69,111.8,73.5,None,Current,14.71
+512,2024-10-05,29,M,178.1,118.3,Weight Training,113,Medium,26.7,154,6.3,9,8324,2.6,22.4,69,111.8,73.5,None,Current,14.84
+512,2024-10-07,29,M,178.1,118.5,Weight Training,33,Low,6.5,124,8.0,3,4543,2.9,22.4,69,111.8,73.5,None,Current,14.88
+512,2024-10-08,29,M,178.1,118.8,Weight Training,61,High,16.9,152,7.7,4,6796,2.0,22.4,69,111.8,73.5,None,Current,14.96
+512,2024-10-11,29,M,178.1,119.0,Weight Training,58,Medium,13.8,154,5.5,8,6106,1.7,22.4,69,111.8,73.5,None,Current,15.03
+512,2024-10-13,29,M,178.1,119.3,Weight Training,63,Low,12.5,122,6.2,10,7848,2.9,22.4,69,111.8,73.5,None,Current,15.09
+512,2024-10-14,29,M,178.1,119.6,Weight Training,40,Low,8.0,123,7.9,7,7491,1.9,22.4,69,111.8,73.5,None,Current,15.13
+512,2024-10-16,29,M,178.1,119.8,Weight Training,45,Low,9.0,117,7.0,2,5604,3.2,22.4,69,111.8,73.5,None,Current,15.18
+512,2024-10-18,29,M,178.1,120.1,Weight Training,35,Medium,8.4,132,6.0,5,8762,2.2,22.4,69,111.8,73.5,None,Current,15.22
+512,2024-10-20,29,M,178.1,120.3,Tennis,70,Medium,20.5,145,6.5,3,8842,2.4,22.4,69,111.8,73.5,None,Current,15.3
+512,2024-10-22,29,M,178.1,120.6,Tennis,76,Low,18.5,126,6.8,9,7354,3.2,22.4,69,111.8,73.5,None,Current,15.38
+512,2024-10-23,29,M,178.1,120.9,Tennis,65,Medium,19.1,137,6.9,4,9338,3.3,22.4,69,111.8,73.5,None,Current,15.46
+512,2024-10-24,29,M,178.1,121.1,Tennis,114,Low,27.9,124,7.2,7,6067,2.9,22.4,69,111.8,73.5,None,Current,15.57
+512,2024-10-25,29,M,178.1,121.4,Cycling,58,High,23.2,164,9.0,1,6660,2.2,22.4,69,111.8,73.5,None,Current,15.65
+512,2024-10-26,29,M,178.1,121.6,Cycling,53,Low,15.2,123,7.5,2,8549,2.2,22.4,69,111.8,73.5,None,Current,15.71
+512,2024-10-27,29,M,178.1,121.9,Tennis,29,Low,7.2,122,5.4,2,8052,3.5,22.4,69,111.8,73.5,None,Current,15.74

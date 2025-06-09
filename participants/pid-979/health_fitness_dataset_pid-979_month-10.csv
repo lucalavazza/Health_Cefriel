@@ -1,0 +1,17 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+979,2024-10-01,28,M,186.5,157.0,Tennis,80,High,35.6,147,6.6,1,6811,3.2,31,65.3,124.7,84.6,Asthma,Former,15.96
+979,2024-10-03,28,M,186.5,157.3,Weight Training,82,Medium,25.8,154,7.4,8,3872,1.6,31,65.3,124.7,84.6,Asthma,Former,16.06
+979,2024-10-05,28,M,186.5,157.5,Tennis,87,Medium,33.3,152,7.1,9,6805,3.0,31,65.3,124.7,84.6,Asthma,Former,16.16
+979,2024-10-07,28,M,186.5,157.8,Tennis,81,High,36.2,156,6.5,8,6952,3.3,31,65.3,124.7,84.6,Asthma,Former,16.28
+979,2024-10-08,28,M,186.5,158.1,Basketball,74,Low,26.0,131,7.1,5,7135,2.5,31,65.3,124.7,84.6,Asthma,Former,16.35
+979,2024-10-10,28,M,186.5,158.3,Basketball,97,High,47.7,151,7.4,1,8659,3.0,31,65.3,124.7,84.6,Asthma,Former,16.49
+979,2024-10-12,28,M,186.5,158.6,Tennis,99,Medium,38.1,141,7.8,3,8642,2.3,31,65.3,124.7,84.6,Asthma,Former,16.6
+979,2024-10-13,28,M,186.5,158.8,Tennis,120,Medium,46.3,133,8.0,4,4904,2.7,31,65.3,124.7,84.6,Asthma,Former,16.75
+979,2024-10-14,28,M,186.5,159.1,Weight Training,96,Medium,30.5,142,7.4,8,6020,2.5,31,65.3,124.7,84.6,Asthma,Former,16.86
+979,2024-10-19,28,M,186.5,159.3,Cycling,37,High,19.5,151,7.5,8,7001,2.1,31,65.3,124.7,84.6,Asthma,Former,16.92
+979,2024-10-21,28,M,186.5,159.6,Swimming,115,High,49.9,177,6.1,8,5198,3.0,31,65.3,124.7,84.6,Asthma,Former,17.08
+979,2024-10-23,28,M,186.5,159.8,Weight Training,102,Medium,32.6,153,6.6,5,7058,2.4,31,65.3,124.7,84.6,Asthma,Former,17.2
+979,2024-10-25,28,M,186.5,160.1,Swimming,82,High,35.7,185,6.6,2,5322,1.9,31,65.3,124.7,84.6,Asthma,Former,17.31
+979,2024-10-28,28,M,186.5,160.4,Swimming,117,Medium,43.7,123,6.2,3,5956,3.0,31,65.3,124.7,84.6,Asthma,Former,17.45
+979,2024-10-30,28,M,186.5,160.6,Swimming,76,Medium,28.4,151,6.8,8,7032,2.7,31,65.3,124.7,84.6,Asthma,Former,17.55
+979,2024-10-31,28,M,186.5,160.9,Cycling,22,Medium,10.0,146,6.6,3,4288,2.0,31,65.3,124.7,84.6,Asthma,Former,17.57

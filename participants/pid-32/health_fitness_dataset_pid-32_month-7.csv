@@ -1,0 +1,17 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+32,2024-07-02,58,Other,171.1,115.6,Cycling,31,Low,8.4,108,6.3,6,8010,2.7,27.8,71,108.5,83.4,Diabetes,Never,10.84
+32,2024-07-08,58,Other,171.1,115.8,Cycling,54,Medium,17.7,125,6.8,2,5910,3.0,27.8,71,108.5,83.4,Diabetes,Never,10.9
+32,2024-07-10,58,Other,171.1,116.1,Walking,41,High,7.0,143,7.6,9,6490,2.6,27.8,71,108.5,83.4,Diabetes,Never,10.96
+32,2024-07-11,58,Other,171.1,116.3,Cycling,45,Low,12.3,107,8.2,7,8547,2.4,27.8,71,108.5,83.4,Diabetes,Never,11.01
+32,2024-07-13,58,Other,171.1,116.6,Yoga,40,High,5.4,135,8.7,3,8967,1.8,27.8,71,108.5,83.4,Diabetes,Never,11.06
+32,2024-07-14,58,Other,171.1,116.9,HIIT,59,High,32.1,109,6.7,6,7465,1.8,27.8,71,108.5,83.4,Diabetes,Never,11.14
+32,2024-07-15,58,Other,171.1,117.1,Cycling,75,Low,20.7,123,7.2,5,9048,2.6,27.8,71,108.5,83.4,Diabetes,Never,11.22
+32,2024-07-17,58,Other,171.1,117.4,Dancing,65,Medium,14.0,126,7.4,6,7858,2.5,27.8,71,108.5,83.4,Diabetes,Never,11.3
+32,2024-07-19,58,Other,171.1,117.6,HIIT,88,Medium,41.3,134,8.0,1,6313,2.9,27.8,71,108.5,83.4,Diabetes,Never,11.4
+32,2024-07-21,58,Other,171.1,117.9,Dancing,28,Low,5.0,107,6.3,5,11110,3.3,27.8,71,108.5,83.4,Diabetes,Never,11.43
+32,2024-07-22,58,Other,171.1,118.1,Weight Training,34,Low,6.7,104,8.3,6,7049,2.6,27.8,71,108.5,83.4,Diabetes,Never,11.46
+32,2024-07-26,58,Other,171.1,118.4,HIIT,93,High,51.3,130,6.9,7,6851,2.3,27.8,71,108.5,83.4,Diabetes,Never,11.59
+32,2024-07-27,58,Other,171.1,118.6,Dancing,66,High,16.7,150,7.6,8,10293,2.3,27.8,71,108.5,83.4,Diabetes,Never,11.69
+32,2024-07-28,58,Other,171.1,118.9,Weight Training,119,Low,23.5,102,6.1,1,10678,2.0,27.8,71,108.5,83.4,Diabetes,Never,11.81
+32,2024-07-29,58,Other,171.1,119.2,HIIT,33,Medium,15.7,110,7.5,7,6431,2.8,27.8,71,108.5,83.4,Diabetes,Never,11.85
+32,2024-07-30,58,Other,171.1,119.4,Tennis,117,High,39.6,140,6.4,7,7675,2.6,27.8,71,108.5,83.4,Diabetes,Never,12.01

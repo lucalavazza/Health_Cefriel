@@ -1,0 +1,15 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+385,2024-11-01,45,F,161.7,107.4,Weight Training,68,Medium,14.6,149,8.3,1,4761,2.0,21.3,75.8,125.3,87.1,None,Former,17.16
+385,2024-11-02,45,F,161.7,107.7,Weight Training,52,Low,9.3,108,7.0,1,9406,2.7,21.3,75.8,125.3,87.1,None,Former,17.22
+385,2024-11-05,45,F,161.7,108.0,Weight Training,50,Medium,10.8,120,5.8,3,8117,2.8,21.3,75.8,125.3,87.1,None,Former,17.28
+385,2024-11-06,45,F,161.7,108.2,Weight Training,25,Medium,5.4,131,6.8,9,6881,2.5,21.3,75.8,125.3,87.1,None,Former,17.31
+385,2024-11-09,45,F,161.7,108.5,Cycling,94,Medium,28.8,147,6.8,3,4292,3.5,21.3,75.8,125.3,87.1,None,Former,17.42
+385,2024-11-11,45,F,161.7,108.7,Weight Training,77,Medium,16.7,133,7.1,5,8905,2.8,21.3,75.8,125.3,87.1,None,Former,17.51
+385,2024-11-12,45,F,161.7,109.0,Cycling,23,Low,5.9,115,7.2,6,7769,2.7,21.3,75.8,125.3,87.1,None,Former,17.53
+385,2024-11-14,45,F,161.7,109.3,Yoga,90,High,11.4,140,7.0,1,2784,2.6,21.3,75.8,125.3,87.1,None,Former,17.66
+385,2024-11-15,45,F,161.7,109.5,Weight Training,100,Low,18.2,120,9.0,1,7505,3.0,21.3,75.8,125.3,87.1,None,Former,17.76
+385,2024-11-19,45,F,161.7,109.8,Swimming,47,Low,10.0,116,6.5,7,8762,3.1,21.3,75.8,125.3,87.1,None,Former,17.81
+385,2024-11-24,45,F,161.7,110.0,Yoga,78,Medium,8.6,133,6.1,1,9252,3.2,21.3,75.8,125.3,87.1,None,Former,17.9
+385,2024-11-25,45,F,161.7,110.3,Swimming,120,Low,25.7,122,6.0,4,5989,2.0,21.3,75.8,125.3,87.1,None,Former,18.02
+385,2024-11-27,45,F,161.7,110.5,Yoga,99,Medium,10.9,141,7.1,7,7697,1.9,21.3,75.8,125.3,87.1,None,Former,18.14
+385,2024-11-29,45,F,161.7,110.8,Yoga,21,Low,1.9,118,6.7,5,8763,1.7,21.3,75.8,125.3,87.1,None,Former,18.16

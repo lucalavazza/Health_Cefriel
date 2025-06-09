@@ -1,0 +1,16 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+420,2024-10-02,60,M,163.8,123.7,Running,109,Medium,44.0,125,4.8,5,5079,2.9,28.5,72.7,118.7,58.7,Hypertension,Former,14.78
+420,2024-10-11,60,M,163.8,124.0,Cycling,48,Medium,16.8,115,6.0,10,6159,3.0,28.5,72.7,118.7,58.7,Hypertension,Former,14.84
+420,2024-10-12,60,M,163.8,124.2,Cycling,62,Low,18.1,99,6.5,2,9871,3.3,28.5,72.7,118.7,58.7,Hypertension,Former,14.9
+420,2024-10-13,60,M,163.8,124.5,Dancing,111,Low,21.1,100,6.2,3,5383,2.1,28.5,72.7,118.7,58.7,Hypertension,Former,15.01
+420,2024-10-14,60,M,163.8,124.7,Tennis,115,Medium,34.8,118,4.3,1,6442,3.5,28.5,72.7,118.7,58.7,Hypertension,Former,15.15
+420,2024-10-16,60,M,163.8,125.0,Dancing,62,Medium,14.2,120,8.3,7,7409,3.4,28.5,72.7,118.7,58.7,Hypertension,Former,15.22
+420,2024-10-17,60,M,163.8,125.3,Weight Training,64,Medium,16.0,122,8.3,6,8764,2.3,28.5,72.7,118.7,58.7,Hypertension,Former,15.3
+420,2024-10-18,60,M,163.8,125.5,Weight Training,79,Low,16.5,113,6.8,3,5350,2.7,28.5,72.7,118.7,58.7,Hypertension,Former,15.38
+420,2024-10-20,60,M,163.8,125.8,Dancing,39,Medium,9.0,115,7.2,10,6682,3.1,28.5,72.7,118.7,58.7,Hypertension,Former,15.43
+420,2024-10-22,60,M,163.8,126.0,Weight Training,106,Medium,26.7,129,6.4,5,7809,3.3,28.5,72.7,118.7,58.7,Hypertension,Former,15.55
+420,2024-10-23,60,M,163.8,126.3,Cycling,64,High,26.7,118,8.6,6,7945,1.9,28.5,72.7,118.7,58.7,Hypertension,Former,15.64
+420,2024-10-26,60,M,163.8,126.5,Dancing,38,Medium,8.8,127,6.4,4,10296,2.0,28.5,72.7,118.7,58.7,Hypertension,Former,15.69
+420,2024-10-28,60,M,163.8,126.8,Weight Training,96,High,28.3,129,6.1,6,6690,2.6,28.5,72.7,118.7,58.7,Hypertension,Former,15.82
+420,2024-10-30,60,M,163.8,127.1,Swimming,82,Low,20.2,93,6.0,5,7656,2.4,28.5,72.7,118.7,58.7,Hypertension,Former,15.9
+420,2024-10-31,60,M,163.8,127.3,Dancing,104,Low,20.2,109,5.8,7,6850,1.7,28.5,72.7,118.7,58.7,Hypertension,Former,16.01

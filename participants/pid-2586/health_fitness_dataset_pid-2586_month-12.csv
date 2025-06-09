@@ -1,0 +1,16 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+2586,2024-12-01,25,M,166.8,130.0,Weight Training,104,High,31.5,161,4.7,3,10319,2.8,25.5,74.9,113.1,88,None,Never,19.64
+2586,2024-12-04,25,M,166.8,130.3,Weight Training,57,Low,12.4,123,8.0,5,8800,3.4,25.5,74.9,113.1,88,None,Never,19.69
+2586,2024-12-05,25,M,166.8,130.6,Weight Training,79,Low,17.2,132,8.1,3,5078,3.3,25.5,74.9,113.1,88,None,Never,19.77
+2586,2024-12-07,25,M,166.8,130.8,Weight Training,101,Medium,26.4,140,8.7,9,9691,3.5,25.5,74.9,113.1,88,None,Never,19.89
+2586,2024-12-08,25,M,166.8,131.1,Weight Training,47,Low,10.2,121,9.4,4,8596,1.9,25.5,74.9,113.1,88,None,Never,19.94
+2586,2024-12-11,25,M,166.8,131.3,Weight Training,50,Low,10.9,128,5.6,2,7056,1.9,25.5,74.9,113.1,88,None,Never,19.99
+2586,2024-12-14,25,M,166.8,131.6,Weight Training,42,Medium,11.0,148,6.6,2,9192,2.4,25.5,74.9,113.1,88,None,Never,20.04
+2586,2024-12-16,25,M,166.8,131.9,Weight Training,64,Low,14.0,126,6.6,4,7350,2.7,25.5,74.9,113.1,88,None,Never,20.11
+2586,2024-12-18,25,M,166.8,132.1,Weight Training,64,Medium,16.9,134,9.6,6,7176,2.1,25.5,74.9,113.1,88,None,Never,20.18
+2586,2024-12-19,25,M,166.8,132.4,HIIT,90,Medium,47.6,157,6.2,1,8854,2.0,25.5,74.9,113.1,88,None,Never,20.29
+2586,2024-12-20,25,M,166.8,132.6,Weight Training,36,Medium,9.5,146,6.6,3,8663,2.2,25.5,74.9,113.1,88,None,Never,20.33
+2586,2024-12-21,25,M,166.8,132.9,Tennis,97,Low,26.1,133,7.4,7,8594,2.4,25.5,74.9,113.1,88,None,Never,20.43
+2586,2024-12-22,25,M,166.8,133.1,Tennis,85,High,32.1,152,8.3,1,9046,2.7,25.5,74.9,113.1,88,None,Never,20.55
+2586,2024-12-23,25,M,166.8,133.4,Weight Training,36,Medium,9.6,157,8.2,2,8145,2.0,25.5,74.9,113.1,88,None,Never,20.59
+2586,2024-12-25,25,M,166.8,133.7,Weight Training,63,Medium,16.8,160,7.4,9,6394,3.0,25.5,74.9,113.1,88,None,Never,20.67

@@ -1,0 +1,13 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+1571,2024-09-01,41,M,175.7,118.7,Walking,79,Medium,11.9,134,4.9,1,6183,2.6,24.1,78.4,120.7,76.7,Hypertension,Former,14.18
+1571,2024-09-03,41,M,175.7,119.0,Walking,66,Medium,9.9,137,6.1,2,6977,2.3,24.1,78.4,120.7,76.7,Hypertension,Former,14.26
+1571,2024-09-06,41,M,175.7,119.2,Walking,58,Medium,8.7,119,10.0,8,6491,3.1,24.1,78.4,120.7,76.7,Hypertension,Former,14.33
+1571,2024-09-09,41,M,175.7,119.5,Walking,41,High,7.2,162,9.8,5,7141,1.9,24.1,78.4,120.7,76.7,Hypertension,Former,14.39
+1571,2024-09-12,41,M,175.7,119.8,Yoga,99,High,13.8,154,7.2,6,7213,3.4,24.1,78.4,120.7,76.7,Hypertension,Former,14.53
+1571,2024-09-14,41,M,175.7,120.0,Dancing,71,High,18.2,150,4.6,2,6899,2.7,24.1,78.4,120.7,76.7,Hypertension,Former,14.63
+1571,2024-09-17,41,M,175.7,120.3,Basketball,100,Medium,32.0,145,8.7,10,6278,2.7,24.1,78.4,120.7,76.7,Hypertension,Former,14.75
+1571,2024-09-18,41,M,175.7,120.5,Basketball,22,Medium,7.1,137,5.9,10,6581,1.6,24.1,78.4,120.7,76.7,Hypertension,Former,14.77
+1571,2024-09-19,41,M,175.7,120.8,Weight Training,23,High,6.5,143,7.2,3,5625,2.7,24.1,78.4,120.7,76.7,Hypertension,Former,14.8
+1571,2024-09-24,41,M,175.7,121.1,Weight Training,88,Medium,21.3,142,7.3,1,7509,2.7,24.1,78.4,120.7,76.7,Hypertension,Former,14.91
+1571,2024-09-27,41,M,175.7,121.3,HIIT,103,Medium,49.9,128,6.9,4,6458,2.2,24.1,78.4,120.7,76.7,Hypertension,Former,15.03
+1571,2024-09-29,41,M,175.7,121.6,Yoga,108,Medium,13.1,133,6.4,10,9620,3.4,24.1,78.4,120.7,76.7,Hypertension,Former,15.16

@@ -1,0 +1,17 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+667,2024-10-04,34,F,162.1,106.0,Swimming,47,High,13.5,158,6.2,6,7864,3.1,22,63.6,111.9,75.8,Hypertension,Never,14.79
+667,2024-10-05,34,F,162.1,106.3,Running,33,Medium,11.4,147,7.2,2,9971,3.1,22,63.6,111.9,75.8,Hypertension,Never,14.83
+667,2024-10-07,34,F,162.1,106.5,Walking,89,Low,10.0,120,6.8,7,5709,3.2,22,63.6,111.9,75.8,Hypertension,Never,14.92
+667,2024-10-08,34,F,162.1,106.8,Walking,102,Medium,13.8,144,7.1,1,7171,1.5,22,63.6,111.9,75.8,Hypertension,Never,15.04
+667,2024-10-12,34,F,162.1,107.0,Tennis,53,High,16.1,173,6.9,6,7791,3.1,22,63.6,111.9,75.8,Hypertension,Never,15.12
+667,2024-10-14,34,F,162.1,107.3,Swimming,102,High,29.7,159,9.1,4,6780,1.7,22,63.6,111.9,75.8,Hypertension,Never,15.26
+667,2024-10-16,34,F,162.1,107.6,Walking,104,Low,11.8,114,6.8,2,4571,2.5,22,63.6,111.9,75.8,Hypertension,Never,15.36
+667,2024-10-17,34,F,162.1,107.8,Swimming,44,Medium,11.0,120,5.7,7,8247,3.4,22,63.6,111.9,75.8,Hypertension,Never,15.42
+667,2024-10-18,34,F,162.1,108.1,Walking,63,High,10.0,145,7.8,2,5909,2.2,22,63.6,111.9,75.8,Hypertension,Never,15.51
+667,2024-10-19,34,F,162.1,108.3,HIIT,98,Medium,42.4,125,6.2,9,4052,3.4,22,63.6,111.9,75.8,Hypertension,Never,15.62
+667,2024-10-22,34,F,162.1,108.6,HIIT,62,Low,22.4,121,8.2,6,5759,1.9,22,63.6,111.9,75.8,Hypertension,Never,15.68
+667,2024-10-23,34,F,162.1,108.8,Swimming,78,High,23.1,160,5.5,10,7645,3.1,22,63.6,111.9,75.8,Hypertension,Never,15.79
+667,2024-10-25,34,F,162.1,109.1,HIIT,72,Medium,31.3,132,6.9,7,6592,1.8,22,63.6,111.9,75.8,Hypertension,Never,15.88
+667,2024-10-26,34,F,162.1,109.4,HIIT,52,Low,18.9,117,7.5,8,8251,2.8,22,63.6,111.9,75.8,Hypertension,Never,15.93
+667,2024-10-27,34,F,162.1,109.6,Basketball,49,Medium,14.3,123,7.8,4,9663,2.9,22,63.6,111.9,75.8,Hypertension,Never,15.99
+667,2024-10-30,34,F,162.1,109.9,Basketball,39,Low,9.5,131,8.2,7,5502,3.4,22,63.6,111.9,75.8,Hypertension,Never,16.03

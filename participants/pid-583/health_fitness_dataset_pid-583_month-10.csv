@@ -1,0 +1,17 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+583,2024-10-01,53,M,180.7,138.2,Basketball,32,Medium,11.8,118,7.5,5,8067,1.5,27.3,69.5,115.7,70.2,None,Former,15.51
+583,2024-10-03,53,M,180.7,138.5,Basketball,109,Medium,40.2,121,7.2,1,7196,2.1,27.3,69.5,115.7,70.2,None,Former,15.64
+583,2024-10-04,53,M,180.7,138.8,Basketball,110,Medium,40.6,124,6.8,5,7969,2.4,27.3,69.5,115.7,70.2,None,Former,15.77
+583,2024-10-07,53,M,180.7,139.0,Basketball,114,Low,35.2,106,5.5,1,5634,3.1,27.3,69.5,115.7,70.2,None,Former,15.88
+583,2024-10-09,53,M,180.7,139.3,Basketball,110,Low,34.0,104,7.3,1,8056,3.3,27.3,69.5,115.7,70.2,None,Former,15.99
+583,2024-10-11,53,M,180.7,139.5,Basketball,22,Medium,8.2,129,7.6,7,4826,2.3,27.3,69.5,115.7,70.2,None,Former,16.02
+583,2024-10-15,53,M,180.7,139.8,Weight Training,112,Medium,31.3,133,7.1,1,6402,2.2,27.3,69.5,115.7,70.2,None,Former,16.16
+583,2024-10-17,53,M,180.7,140.0,Tennis,64,Medium,21.8,125,7.3,3,7152,3.0,27.3,69.5,115.7,70.2,None,Former,16.23
+583,2024-10-20,53,M,180.7,140.3,Cycling,40,Medium,15.9,124,5.8,3,6204,1.7,27.3,69.5,115.7,70.2,None,Former,16.28
+583,2024-10-21,53,M,180.7,140.6,Cycling,61,Medium,24.2,103,6.4,6,8476,2.9,27.3,69.5,115.7,70.2,None,Former,16.35
+583,2024-10-22,53,M,180.7,140.8,HIIT,23,Medium,12.9,132,6.2,3,8191,2.5,27.3,69.5,115.7,70.2,None,Former,16.38
+583,2024-10-23,53,M,180.7,141.1,Yoga,91,Medium,12.8,121,7.0,9,6817,3.5,27.3,69.5,115.7,70.2,None,Former,16.49
+583,2024-10-25,53,M,180.7,141.3,Yoga,49,High,8.1,141,6.6,7,5448,3.4,27.3,69.5,115.7,70.2,None,Former,16.56
+583,2024-10-26,53,M,180.7,141.6,Weight Training,99,Medium,28.0,119,6.1,3,8333,1.9,27.3,69.5,115.7,70.2,None,Former,16.68
+583,2024-10-28,53,M,180.7,141.8,Yoga,55,High,9.1,139,6.3,8,8737,2.4,27.3,69.5,115.7,70.2,None,Former,16.75
+583,2024-10-30,53,M,180.7,142.1,Yoga,86,Medium,12.2,120,8.2,2,7940,3.2,27.3,69.5,115.7,70.2,None,Former,16.86

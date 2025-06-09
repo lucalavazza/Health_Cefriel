@@ -1,0 +1,17 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+2299,2024-11-02,56,F,164,95.4,Yoga,98,Low,7.8,113,7.4,8,11054,2.4,16.7,61.9,99.4,70.1,None,Current,15.68
+2299,2024-11-05,56,F,164,95.7,Walking,26,High,3.7,148,7.9,4,7005,2.6,16.7,61.9,99.4,70.1,None,Current,15.71
+2299,2024-11-06,56,F,164,95.9,Yoga,110,Low,8.8,109,8.4,4,7117,3.3,16.7,61.9,99.4,70.1,None,Current,15.82
+2299,2024-11-08,56,F,164,96.2,Yoga,49,Medium,4.7,129,7.0,10,5558,1.5,16.7,61.9,99.4,70.1,None,Current,15.88
+2299,2024-11-09,56,F,164,96.4,Yoga,51,Medium,4.9,128,6.7,4,9321,1.8,16.7,61.9,99.4,70.1,None,Current,15.94
+2299,2024-11-12,56,F,164,96.7,Weight Training,43,Medium,8.3,132,6.0,9,7936,2.8,16.7,61.9,99.4,70.1,None,Current,15.99
+2299,2024-11-13,56,F,164,96.9,Weight Training,52,Medium,10.1,111,6.8,1,6422,2.2,16.7,61.9,99.4,70.1,None,Current,16.06
+2299,2024-11-14,56,F,164,97.2,Tennis,37,Medium,8.7,123,6.9,6,8155,3.2,16.7,61.9,99.4,70.1,None,Current,16.1
+2299,2024-11-16,56,F,164,97.5,Weight Training,45,Medium,8.7,131,5.9,7,9488,1.7,16.7,61.9,99.4,70.1,None,Current,16.16
+2299,2024-11-20,56,F,164,97.7,Weight Training,35,Medium,6.8,106,6.0,5,5400,3.3,16.7,61.9,99.4,70.1,None,Current,16.2
+2299,2024-11-22,56,F,164,98.0,Weight Training,53,Medium,10.4,120,8.4,1,5171,3.4,16.7,61.9,99.4,70.1,None,Current,16.26
+2299,2024-11-23,56,F,164,98.2,HIIT,74,Low,24.2,112,8.2,7,7659,3.2,16.7,61.9,99.4,70.1,None,Current,16.33
+2299,2024-11-25,56,F,164,98.5,Swimming,108,Low,20.6,102,6.8,7,5087,2.1,16.7,61.9,99.4,70.1,None,Current,16.44
+2299,2024-11-27,56,F,164,98.7,HIIT,48,Medium,18.9,140,6.4,1,6407,2.1,16.7,61.9,99.4,70.1,None,Current,16.5
+2299,2024-11-28,56,F,164,99.0,HIIT,100,High,46.1,139,6.5,5,8560,2.9,16.7,61.9,99.4,70.1,None,Current,16.64
+2299,2024-11-29,56,F,164,99.3,Swimming,114,Low,21.9,112,6.3,6,6538,1.8,16.7,61.9,99.4,70.1,None,Current,16.75

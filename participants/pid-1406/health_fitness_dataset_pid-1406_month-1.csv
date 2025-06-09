@@ -1,0 +1,17 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+1406,2024-01-02,55,M,185.8,90.9,Weight Training,77,Medium,14.0,106,4.6,8,7042,2.5,26.3,68,118.1,85.7,Hypertension,Never,0.09
+1406,2024-01-03,55,M,185.8,91.2,Dancing,118,Low,16.4,110,7.0,4,4673,3.5,26.3,68,118.1,85.7,Hypertension,Never,0.21
+1406,2024-01-05,55,M,185.8,91.4,Weight Training,36,High,7.7,122,8.1,5,8485,2.6,26.3,68,118.1,85.7,Hypertension,Never,0.26
+1406,2024-01-09,55,M,185.8,91.7,Swimming,111,Medium,23.7,125,7.6,7,6982,2.0,26.3,68,118.1,85.7,Hypertension,Never,0.39
+1406,2024-01-13,55,M,185.8,91.9,Dancing,46,Medium,7.7,130,7.9,7,9900,2.5,26.3,68,118.1,85.7,Hypertension,Never,0.45
+1406,2024-01-14,55,M,185.8,92.2,Weight Training,100,High,21.4,152,7.2,10,10091,2.6,26.3,68,118.1,85.7,Hypertension,Never,0.59
+1406,2024-01-15,55,M,185.8,92.4,Cycling,94,Low,20.5,108,6.3,4,8287,2.7,26.3,68,118.1,85.7,Hypertension,Never,0.68
+1406,2024-01-16,55,M,185.8,92.7,Dancing,54,Low,7.6,111,8.1,2,9081,2.4,26.3,68,118.1,85.7,Hypertension,Never,0.74
+1406,2024-01-17,55,M,185.8,93.0,Dancing,66,High,13.1,139,7.1,5,7777,1.5,26.3,68,118.1,85.7,Hypertension,Never,0.83
+1406,2024-01-20,55,M,185.8,93.2,Dancing,31,High,6.2,145,6.6,5,10665,2.2,26.3,68,118.1,85.7,Hypertension,Never,0.87
+1406,2024-01-21,55,M,185.8,93.5,Dancing,96,Low,13.7,110,8.4,7,7668,2.2,26.3,68,118.1,85.7,Hypertension,Never,0.97
+1406,2024-01-22,55,M,185.8,93.7,Dancing,92,Medium,15.8,114,7.4,4,7336,2.0,26.3,68,118.1,85.7,Hypertension,Never,1.08
+1406,2024-01-24,55,M,185.8,94.0,HIIT,106,Medium,39.7,99,6.3,10,10245,2.7,26.3,68,118.1,85.7,Hypertension,Never,1.21
+1406,2024-01-26,55,M,185.8,94.2,HIIT,41,Medium,15.4,125,6.9,4,9188,3.3,26.3,68,118.1,85.7,Hypertension,Never,1.26
+1406,2024-01-28,55,M,185.8,94.5,Dancing,62,Medium,10.7,111,7.4,4,8238,1.7,26.3,68,118.1,85.7,Hypertension,Never,1.33
+1406,2024-01-31,55,M,185.8,94.8,HIIT,65,Medium,24.6,113,8.0,1,10567,2.4,26.3,68,118.1,85.7,Hypertension,Never,1.41

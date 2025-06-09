@@ -1,0 +1,19 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+827,2024-11-01,51,M,179.9,119.5,Tennis,97,Medium,28.2,129,6.9,2,5577,1.8,21.4,63.4,123.8,77,None,Current,16.26
+827,2024-11-05,51,M,179.9,119.8,Tennis,94,Low,22.8,107,7.7,2,4448,2.6,21.4,63.4,123.8,77,None,Current,16.35
+827,2024-11-06,51,M,179.9,120.0,Tennis,77,High,26.2,156,8.3,8,4631,3.2,21.4,63.4,123.8,77,None,Current,16.46
+827,2024-11-07,51,M,179.9,120.3,Tennis,111,High,37.8,145,7.7,2,9720,2.2,21.4,63.4,123.8,77,None,Current,16.62
+827,2024-11-08,51,M,179.9,120.5,Swimming,32,Medium,9.0,117,8.5,6,6886,2.7,21.4,63.4,123.8,77,None,Current,16.66
+827,2024-11-10,51,M,179.9,120.8,Basketball,81,Medium,26.0,121,7.7,10,7784,2.6,21.4,63.4,123.8,77,None,Current,16.75
+827,2024-11-11,51,M,179.9,121.1,Basketball,38,Medium,12.2,121,7.2,4,7186,3.4,21.4,63.4,123.8,77,None,Current,16.8
+827,2024-11-12,51,M,179.9,121.3,Basketball,76,Medium,24.5,122,6.4,2,4039,2.3,21.4,63.4,123.8,77,None,Current,16.89
+827,2024-11-13,51,M,179.9,121.6,Basketball,108,Medium,34.9,125,6.2,4,7476,2.0,21.4,63.4,123.8,77,None,Current,17.02
+827,2024-11-15,51,M,179.9,121.8,Walking,82,Medium,12.6,141,6.1,2,5696,1.6,21.4,63.4,123.8,77,None,Current,17.12
+827,2024-11-19,51,M,179.9,122.1,Walking,28,Medium,4.3,132,8.4,1,9636,1.5,21.4,63.4,123.8,77,None,Current,17.15
+827,2024-11-21,51,M,179.9,122.3,Walking,108,Low,13.9,112,4.8,3,8725,3.3,21.4,63.4,123.8,77,None,Current,17.26
+827,2024-11-22,51,M,179.9,122.6,HIIT,49,Medium,24.0,146,6.1,9,7164,3.3,21.4,63.4,123.8,77,None,Current,17.32
+827,2024-11-24,51,M,179.9,122.9,Weight Training,28,Medium,6.9,137,6.4,4,10313,2.3,21.4,63.4,123.8,77,None,Current,17.35
+827,2024-11-26,51,M,179.9,123.1,HIIT,76,High,43.6,159,8.7,6,8655,2.1,21.4,63.4,123.8,77,None,Current,17.46
+827,2024-11-28,51,M,179.9,123.4,Weight Training,48,Medium,11.8,133,5.9,7,7710,1.7,21.4,63.4,123.8,77,None,Current,17.52
+827,2024-11-29,51,M,179.9,123.6,HIIT,24,Low,9.9,112,7.1,3,5434,2.5,21.4,63.4,123.8,77,None,Current,17.54
+827,2024-11-30,51,M,179.9,123.9,Weight Training,116,Low,23.9,111,7.0,5,6883,2.6,21.4,63.4,123.8,77,None,Current,17.66

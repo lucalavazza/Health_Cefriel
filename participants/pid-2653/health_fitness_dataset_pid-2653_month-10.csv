@@ -1,0 +1,15 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+2653,2024-10-01,29,F,151.9,94.3,Weight Training,51,Medium,9.6,130,5.6,7,7784,2.2,19.5,70.8,117.4,82.2,None,Current,16.13
+2653,2024-10-02,29,F,151.9,94.6,Weight Training,106,Low,16.7,127,6.0,3,7546,1.6,19.5,70.8,117.4,82.2,None,Current,16.23
+2653,2024-10-03,29,F,151.9,94.9,Weight Training,73,Medium,13.8,125,6.9,2,4512,2.6,19.5,70.8,117.4,82.2,None,Current,16.32
+2653,2024-10-04,29,F,151.9,95.1,Weight Training,97,Low,15.3,121,8.2,10,7544,2.1,19.5,70.8,117.4,82.2,None,Current,16.42
+2653,2024-10-05,29,F,151.9,95.4,Weight Training,66,Medium,12.6,138,6.5,4,4817,3.0,19.5,70.8,117.4,82.2,None,Current,16.5
+2653,2024-10-08,29,F,151.9,95.6,Weight Training,38,Medium,7.2,143,7.2,8,6275,2.5,19.5,70.8,117.4,82.2,None,Current,16.54
+2653,2024-10-12,29,F,151.9,95.9,Weight Training,53,Low,8.4,128,7.4,7,6886,3.2,19.5,70.8,117.4,82.2,None,Current,16.59
+2653,2024-10-13,29,F,151.9,96.1,HIIT,107,Medium,41.0,138,7.8,10,8230,3.0,19.5,70.8,117.4,82.2,None,Current,16.72
+2653,2024-10-15,29,F,151.9,96.4,HIIT,107,Low,34.3,119,5.7,1,5534,3.0,19.5,70.8,117.4,82.2,None,Current,16.83
+2653,2024-10-21,29,F,151.9,96.7,Weight Training,86,Medium,16.6,149,8.0,7,6532,1.6,19.5,70.8,117.4,82.2,None,Current,16.93
+2653,2024-10-24,29,F,151.9,96.9,Weight Training,76,Medium,14.7,144,9.3,7,9543,3.4,19.5,70.8,117.4,82.2,None,Current,17.02
+2653,2024-10-27,29,F,151.9,97.2,HIIT,87,Medium,33.7,144,8.4,5,8213,3.0,19.5,70.8,117.4,82.2,None,Current,17.13
+2653,2024-10-29,29,F,151.9,97.4,Weight Training,36,Low,5.8,124,6.7,10,9394,3.2,19.5,70.8,117.4,82.2,None,Current,17.16
+2653,2024-10-31,29,F,151.9,97.7,HIIT,96,Low,31.2,122,8.1,8,8186,2.2,19.5,70.8,117.4,82.2,None,Current,17.26

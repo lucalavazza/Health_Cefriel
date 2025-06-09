@@ -1,0 +1,15 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+1925,2024-11-01,33,M,167.3,119.3,Swimming,51,Medium,14.2,130,6.2,6,8347,3.0,23.9,73.7,118.3,69.4,Hypertension,Current,16.66
+1925,2024-11-02,33,M,167.3,119.6,Swimming,44,High,14.3,182,6.8,1,8905,3.3,23.9,73.7,118.3,69.4,Hypertension,Current,16.72
+1925,2024-11-08,33,M,167.3,119.8,Swimming,59,Low,13.7,119,7.0,5,3473,3.1,23.9,73.7,118.3,69.4,Hypertension,Current,16.78
+1925,2024-11-10,33,M,167.3,120.1,Yoga,119,Medium,14.3,140,8.3,6,6919,2.8,23.9,73.7,118.3,69.4,Hypertension,Current,16.92
+1925,2024-11-11,33,M,167.3,120.3,Yoga,43,High,6.0,145,7.0,7,5812,2.4,23.9,73.7,118.3,69.4,Hypertension,Current,16.98
+1925,2024-11-12,33,M,167.3,120.6,Yoga,51,Medium,6.1,145,6.0,5,7488,2.1,23.9,73.7,118.3,69.4,Hypertension,Current,17.04
+1925,2024-11-13,33,M,167.3,120.8,HIIT,84,Medium,40.5,135,6.2,2,6872,2.2,23.9,73.7,118.3,69.4,Hypertension,Current,17.14
+1925,2024-11-15,33,M,167.3,121.1,HIIT,30,High,16.9,162,8.4,1,6997,3.0,23.9,73.7,118.3,69.4,Hypertension,Current,17.19
+1925,2024-11-16,33,M,167.3,121.4,HIIT,31,Medium,15.0,144,7.7,8,6650,2.3,23.9,73.7,118.3,69.4,Hypertension,Current,17.22
+1925,2024-11-19,33,M,167.3,121.6,HIIT,67,Low,27.1,123,6.1,5,7459,3.1,23.9,73.7,118.3,69.4,Hypertension,Current,17.29
+1925,2024-11-22,33,M,167.3,121.9,HIIT,113,Medium,55.0,143,6.4,6,6305,1.9,23.9,73.7,118.3,69.4,Hypertension,Current,17.43
+1925,2024-11-23,33,M,167.3,122.1,HIIT,112,Low,45.5,119,6.6,9,7467,2.0,23.9,73.7,118.3,69.4,Hypertension,Current,17.54
+1925,2024-11-27,33,M,167.3,122.4,HIIT,76,Low,30.9,115,7.0,2,8231,3.4,23.9,73.7,118.3,69.4,Hypertension,Current,17.61
+1925,2024-11-28,33,M,167.3,122.6,HIIT,60,High,34.3,173,8.1,10,6981,2.5,23.9,73.7,118.3,69.4,Hypertension,Current,17.7

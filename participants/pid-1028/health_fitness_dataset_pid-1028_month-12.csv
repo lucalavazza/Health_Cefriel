@@ -1,0 +1,15 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+1028,2024-12-04,55,M,175.1,118.0,Dancing,31,High,7.8,139,10.0,4,6866,2.7,19.8,64.4,123.1,83.1,Diabetes,Former,18.97
+1028,2024-12-05,55,M,175.1,118.2,Swimming,21,High,6.7,152,7.2,1,7121,2.2,19.8,64.4,123.1,83.1,Diabetes,Former,19.0
+1028,2024-12-06,55,M,175.1,118.5,Cycling,24,High,9.4,130,7.3,1,6221,2.1,19.8,64.4,123.1,83.1,Diabetes,Former,19.03
+1028,2024-12-08,55,M,175.1,118.7,Dancing,119,Low,21.5,110,6.9,9,9943,1.7,19.8,64.4,123.1,83.1,Diabetes,Former,19.15
+1028,2024-12-10,55,M,175.1,119.0,Cycling,56,Low,15.7,109,6.5,7,7632,3.0,19.8,64.4,123.1,83.1,Diabetes,Former,19.21
+1028,2024-12-11,55,M,175.1,119.2,Cycling,106,Medium,35.7,129,6.9,7,6632,3.2,19.8,64.4,123.1,83.1,Diabetes,Former,19.34
+1028,2024-12-13,55,M,175.1,119.5,Dancing,90,Low,16.4,109,7.8,5,9560,3.3,19.8,64.4,123.1,83.1,Diabetes,Former,19.43
+1028,2024-12-14,55,M,175.1,119.8,Cycling,117,Medium,39.6,124,6.6,7,8752,2.9,19.8,64.4,123.1,83.1,Diabetes,Former,19.57
+1028,2024-12-15,55,M,175.1,120.0,Yoga,46,Medium,5.5,119,6.0,3,8571,2.1,19.8,64.4,123.1,83.1,Diabetes,Former,19.62
+1028,2024-12-16,55,M,175.1,120.3,Dancing,44,Low,8.1,116,7.4,7,7370,2.9,19.8,64.4,123.1,83.1,Diabetes,Former,19.66
+1028,2024-12-18,55,M,175.1,120.5,Yoga,50,Low,5.0,114,8.1,10,8084,1.9,19.8,64.4,123.1,83.1,Diabetes,Former,19.71
+1028,2024-12-20,55,M,175.1,120.8,Yoga,110,Medium,13.3,119,5.5,2,10297,3.4,19.8,64.4,123.1,83.1,Diabetes,Former,19.85
+1028,2024-12-22,55,M,175.1,121.0,Tennis,92,High,31.5,121,4.5,6,10126,2.1,19.8,64.4,123.1,83.1,Diabetes,Former,19.98
+1028,2024-12-24,55,M,175.1,121.3,Cycling,79,High,31.6,149,6.7,9,5806,2.4,19.8,64.4,123.1,83.1,Diabetes,Former,20.09

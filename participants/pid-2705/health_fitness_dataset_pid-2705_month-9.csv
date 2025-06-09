@@ -1,0 +1,16 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+2705,2024-09-02,52,F,157.1,104.6,Cycling,105,Medium,31.0,117,6.5,5,7985,2.2,25,70.2,113.2,89.2,Hypertension,Never,13.48
+2705,2024-09-03,52,F,157.1,104.8,Cycling,81,Low,20.0,113,8.0,8,6547,3.3,25,70.2,113.2,89.2,Hypertension,Never,13.56
+2705,2024-09-06,52,F,157.1,105.1,Cycling,114,Low,28.2,102,4.9,2,7606,2.5,25,70.2,113.2,89.2,Hypertension,Never,13.67
+2705,2024-09-09,52,F,157.1,105.3,Cycling,88,Medium,26.2,127,5.7,4,10112,3.2,25,70.2,113.2,89.2,Hypertension,Never,13.78
+2705,2024-09-11,52,F,157.1,105.6,Cycling,44,Low,10.9,104,5.7,2,6990,3.4,25,70.2,113.2,89.2,Hypertension,Never,13.82
+2705,2024-09-12,52,F,157.1,105.9,Walking,88,Low,9.8,100,6.5,10,5566,2.8,25,70.2,113.2,89.2,Hypertension,Never,13.91
+2705,2024-09-13,52,F,157.1,106.1,Cycling,73,High,25.5,139,7.2,4,5850,2.8,25,70.2,113.2,89.2,Hypertension,Never,14.01
+2705,2024-09-19,52,F,157.1,106.4,Cycling,70,Low,17.5,106,6.9,7,6516,1.9,25,70.2,113.2,89.2,Hypertension,Never,14.08
+2705,2024-09-23,52,F,157.1,106.6,HIIT,84,Low,29.8,110,6.9,7,7718,2.0,25,70.2,113.2,89.2,Hypertension,Never,14.17
+2705,2024-09-24,52,F,157.1,106.9,Tennis,31,Medium,8.0,118,9.2,1,5192,2.5,25,70.2,113.2,89.2,Hypertension,Never,14.2
+2705,2024-09-25,52,F,157.1,107.1,HIIT,91,Medium,38.9,124,6.2,3,5471,2.8,25,70.2,113.2,89.2,Hypertension,Never,14.31
+2705,2024-09-26,52,F,157.1,107.4,HIIT,29,Medium,12.4,123,5.7,6,8258,2.8,25,70.2,113.2,89.2,Hypertension,Never,14.35
+2705,2024-09-27,52,F,157.1,107.7,Tennis,101,High,30.8,128,7.9,1,7843,3.0,25,70.2,113.2,89.2,Hypertension,Never,14.49
+2705,2024-09-28,52,F,157.1,107.9,HIIT,89,Medium,38.3,133,9.6,4,8447,3.0,25,70.2,113.2,89.2,Hypertension,Never,14.6
+2705,2024-09-30,52,F,157.1,108.2,Tennis,32,Low,7.0,117,7.5,5,5279,2.6,25,70.2,113.2,89.2,Hypertension,Never,14.63

@@ -1,0 +1,16 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+2388,2024-10-01,63,F,168.3,123.0,Running,24,Medium,9.6,120,7.7,1,6101,2.2,26.7,73.2,118.3,88.4,Diabetes,Current,15.29
+2388,2024-10-06,63,F,168.3,123.3,Cycling,64,Medium,22.3,116,7.1,7,8397,3.1,26.7,73.2,118.3,88.4,Diabetes,Current,15.36
+2388,2024-10-08,63,F,168.3,123.5,Running,75,Medium,30.2,119,6.7,10,6599,2.5,26.7,73.2,118.3,88.4,Diabetes,Current,15.45
+2388,2024-10-10,63,F,168.3,123.8,Running,100,High,47.1,130,5.9,10,4662,1.9,26.7,73.2,118.3,88.4,Diabetes,Current,15.59
+2388,2024-10-14,63,F,168.3,124.0,Running,95,High,44.8,127,6.7,2,7133,2.0,26.7,73.2,118.3,88.4,Diabetes,Current,15.73
+2388,2024-10-18,63,F,168.3,124.3,Walking,110,Medium,17.3,130,6.7,1,4974,2.6,26.7,73.2,118.3,88.4,Diabetes,Current,15.86
+2388,2024-10-19,63,F,168.3,124.6,Walking,114,Low,15.0,107,7.0,3,8469,3.4,26.7,73.2,118.3,88.4,Diabetes,Current,15.97
+2388,2024-10-20,63,F,168.3,124.8,Running,117,Medium,47.6,95,8.8,4,4767,2.2,26.7,73.2,118.3,88.4,Diabetes,Current,16.11
+2388,2024-10-21,63,F,168.3,125.1,Dancing,111,Medium,25.4,120,7.0,1,6924,1.6,26.7,73.2,118.3,88.4,Diabetes,Current,16.25
+2388,2024-10-23,63,F,168.3,125.3,Running,110,High,52.4,129,6.6,2,8971,2.9,26.7,73.2,118.3,88.4,Diabetes,Current,16.4
+2388,2024-10-25,63,F,168.3,125.6,Cycling,64,Medium,22.7,114,7.2,10,6128,3.0,26.7,73.2,118.3,88.4,Diabetes,Current,16.48
+2388,2024-10-26,63,F,168.3,125.8,Cycling,29,Medium,10.3,125,7.6,5,6762,2.8,26.7,73.2,118.3,88.4,Diabetes,Current,16.51
+2388,2024-10-27,63,F,168.3,126.1,Cycling,84,Low,25.0,99,6.7,2,8964,2.2,26.7,73.2,118.3,88.4,Diabetes,Current,16.59
+2388,2024-10-30,63,F,168.3,126.4,Swimming,50,Medium,14.7,127,8.1,4,6647,2.6,26.7,73.2,118.3,88.4,Diabetes,Current,16.65
+2388,2024-10-31,63,F,168.3,126.6,Running,40,Medium,16.5,120,7.6,3,9022,1.9,26.7,73.2,118.3,88.4,Diabetes,Current,16.7

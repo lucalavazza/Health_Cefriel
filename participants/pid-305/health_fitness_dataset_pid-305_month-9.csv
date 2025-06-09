@@ -1,0 +1,16 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+305,2024-09-01,59,M,178,113.9,Running,69,Low,21.3,110,6.3,5,6439,2.8,21.7,69.1,120.1,66.7,Hypertension,Current,13.45
+305,2024-09-03,59,M,178,114.1,Dancing,74,Medium,15.4,121,6.6,2,7170,2.9,21.7,69.1,120.1,66.7,Hypertension,Current,13.54
+305,2024-09-04,59,M,178,114.4,Running,32,Medium,11.9,107,6.9,4,8750,2.4,21.7,69.1,120.1,66.7,Hypertension,Current,13.58
+305,2024-09-06,59,M,178,114.6,Dancing,88,Low,15.4,106,7.7,4,5372,2.5,21.7,69.1,120.1,66.7,Hypertension,Current,13.66
+305,2024-09-16,59,M,178,114.9,Running,45,Medium,16.9,118,10.0,2,7862,2.4,21.7,69.1,120.1,66.7,Hypertension,Current,13.72
+305,2024-09-18,59,M,178,115.1,Dancing,110,High,27.0,142,6.1,10,3384,3.1,21.7,69.1,120.1,66.7,Hypertension,Current,13.87
+305,2024-09-19,59,M,178,115.4,Yoga,81,Medium,9.3,117,6.7,10,8986,1.8,21.7,69.1,120.1,66.7,Hypertension,Current,13.97
+305,2024-09-20,59,M,178,115.7,Running,77,Low,24.2,96,6.2,4,5482,2.9,21.7,69.1,120.1,66.7,Hypertension,Current,14.05
+305,2024-09-21,59,M,178,115.9,Running,37,Medium,14.0,121,6.0,4,6586,1.9,21.7,69.1,120.1,66.7,Hypertension,Current,14.09
+305,2024-09-22,59,M,178,116.2,Running,95,Low,30.0,106,6.1,6,8447,2.7,21.7,69.1,120.1,66.7,Hypertension,Current,14.19
+305,2024-09-23,59,M,178,116.4,Yoga,78,Medium,9.1,127,5.6,7,3602,2.5,21.7,69.1,120.1,66.7,Hypertension,Current,14.28
+305,2024-09-25,59,M,178,116.7,Running,116,High,51.5,128,7.6,4,7711,2.7,21.7,69.1,120.1,66.7,Hypertension,Current,14.44
+305,2024-09-26,59,M,178,116.9,Running,74,Medium,28.2,124,7.6,7,5888,1.7,21.7,69.1,120.1,66.7,Hypertension,Current,14.53
+305,2024-09-27,59,M,178,117.2,Yoga,106,Low,10.3,97,7.9,4,5859,1.7,21.7,69.1,120.1,66.7,Hypertension,Current,14.64
+305,2024-09-30,59,M,178,117.5,Running,48,Medium,18.4,120,6.1,8,8717,3.1,21.7,69.1,120.1,66.7,Hypertension,Current,14.69

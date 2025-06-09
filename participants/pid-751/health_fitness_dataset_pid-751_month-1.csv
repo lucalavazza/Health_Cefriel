@@ -1,0 +1,20 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+751,2024-01-02,33,M,165.6,68.0,Swimming,36,High,6.6,149,7.2,10,8513,2.2,24.7,64.4,121.9,85.2,Asthma,Never,0.05
+751,2024-01-03,33,M,165.6,68.3,Swimming,80,Low,10.6,123,7.1,2,7636,3.2,24.7,64.4,121.9,85.2,Asthma,Never,0.13
+751,2024-01-04,33,M,165.6,68.6,Swimming,69,Medium,11.0,147,8.7,2,9450,1.5,24.7,64.4,121.9,85.2,Asthma,Never,0.21
+751,2024-01-05,33,M,165.6,68.8,Swimming,99,High,18.5,156,6.4,9,7878,3.3,24.7,64.4,121.9,85.2,Asthma,Never,0.35
+751,2024-01-06,33,M,165.6,69.1,Basketball,28,Low,4.3,122,7.1,1,9702,2.2,24.7,64.4,121.9,85.2,Asthma,Never,0.38
+751,2024-01-10,33,M,165.6,69.3,Swimming,103,High,19.4,157,9.4,7,8319,2.2,24.7,64.4,121.9,85.2,Asthma,Never,0.52
+751,2024-01-14,33,M,165.6,69.6,Swimming,42,Medium,6.8,120,7.5,8,9159,2.0,24.7,64.4,121.9,85.2,Asthma,Never,0.57
+751,2024-01-15,33,M,165.6,69.9,Walking,113,Low,8.3,124,5.7,5,6545,2.0,24.7,64.4,121.9,85.2,Asthma,Never,0.69
+751,2024-01-17,33,M,165.6,70.1,Weight Training,106,Low,12.3,126,8.2,10,6521,3.2,24.7,64.4,121.9,85.2,Asthma,Never,0.79
+751,2024-01-18,33,M,165.6,70.4,Weight Training,55,Medium,7.7,134,8.5,2,6809,1.6,24.7,64.4,121.9,85.2,Asthma,Never,0.86
+751,2024-01-20,33,M,165.6,70.6,Walking,101,Medium,9.0,123,7.8,6,10418,3.1,24.7,64.4,121.9,85.2,Asthma,Never,0.98
+751,2024-01-22,33,M,165.6,70.9,Walking,88,Low,6.6,121,6.7,1,10545,2.3,24.7,64.4,121.9,85.2,Asthma,Never,1.07
+751,2024-01-23,33,M,165.6,71.1,Walking,77,Low,5.8,115,6.2,7,8590,1.5,24.7,64.4,121.9,85.2,Asthma,Never,1.15
+751,2024-01-25,33,M,165.6,71.4,Walking,75,Medium,6.8,126,7.4,6,5951,3.2,24.7,64.4,121.9,85.2,Asthma,Never,1.24
+751,2024-01-27,33,M,165.6,71.7,Weight Training,81,Medium,11.6,151,7.0,3,11129,2.9,24.7,64.4,121.9,85.2,Asthma,Never,1.33
+751,2024-01-28,33,M,165.6,71.9,Walking,52,Low,3.9,113,8.0,6,10463,1.8,24.7,64.4,121.9,85.2,Asthma,Never,1.38
+751,2024-01-29,33,M,165.6,72.2,Weight Training,95,Medium,13.7,151,7.7,6,7394,3.4,24.7,64.4,121.9,85.2,Asthma,Never,1.5
+751,2024-01-30,33,M,165.6,72.4,Weight Training,24,Low,2.9,118,7.3,10,8480,2.7,24.7,64.4,121.9,85.2,Asthma,Never,1.52
+751,2024-01-31,33,M,165.6,72.7,Walking,32,Medium,2.9,129,8.5,6,10482,3.2,24.7,64.4,121.9,85.2,Asthma,Never,1.56

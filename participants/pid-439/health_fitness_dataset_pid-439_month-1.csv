@@ -1,0 +1,21 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+439,2024-01-01,64,F,154.1,45.3,Running,105,Medium,15.4,125,7.6,8,10345,1.9,18.9,69.1,109.1,74,None,Former,0.13
+439,2024-01-04,64,F,154.1,45.5,Running,84,High,14.5,130,7.3,4,8506,1.7,18.9,69.1,109.1,74,None,Former,0.24
+439,2024-01-07,64,F,154.1,45.8,Running,36,Medium,5.4,121,5.9,7,8119,1.9,18.9,69.1,109.1,74,None,Former,0.29
+439,2024-01-09,64,F,154.1,46.0,Running,46,Medium,6.9,123,6.9,8,8780,2.9,18.9,69.1,109.1,74,None,Former,0.34
+439,2024-01-10,64,F,154.1,46.3,Walking,60,High,4.1,126,7.3,10,8480,2.0,18.9,69.1,109.1,74,None,Former,0.43
+439,2024-01-11,64,F,154.1,46.6,Walking,81,Low,4.0,103,7.0,5,7994,3.1,18.9,69.1,109.1,74,None,Former,0.51
+439,2024-01-12,64,F,154.1,46.8,Running,99,Medium,15.1,137,6.6,1,9993,2.8,18.9,69.1,109.1,74,None,Former,0.63
+439,2024-01-13,64,F,154.1,47.1,Cycling,47,Medium,6.2,116,7.6,1,10907,2.2,18.9,69.1,109.1,74,None,Former,0.68
+439,2024-01-14,64,F,154.1,47.3,Cycling,80,Medium,10.7,100,6.3,9,12057,3.5,18.9,69.1,109.1,74,None,Former,0.78
+439,2024-01-15,64,F,154.1,47.6,Cycling,43,Low,4.8,104,7.3,10,8399,3.1,18.9,69.1,109.1,74,None,Former,0.82
+439,2024-01-17,64,F,154.1,47.8,Cycling,70,High,11.0,149,5.8,10,10180,3.1,18.9,69.1,109.1,74,None,Former,0.92
+439,2024-01-20,64,F,154.1,48.1,Weight Training,26,Medium,2.5,126,6.6,4,10628,3.4,18.9,69.1,109.1,74,None,Former,0.95
+439,2024-01-21,64,F,154.1,48.4,Weight Training,57,Low,4.6,95,7.7,9,10000,1.9,18.9,69.1,109.1,74,None,Former,1.01
+439,2024-01-22,64,F,154.1,48.6,Weight Training,22,High,2.5,128,6.9,5,8068,3.3,18.9,69.1,109.1,74,None,Former,1.04
+439,2024-01-24,64,F,154.1,48.9,Weight Training,27,Medium,2.6,116,4.7,2,8715,3.5,18.9,69.1,109.1,74,None,Former,1.07
+439,2024-01-26,64,F,154.1,49.1,Weight Training,25,Low,2.0,101,6.8,3,9594,2.1,18.9,69.1,109.1,74,None,Former,1.1
+439,2024-01-28,64,F,154.1,49.4,Dancing,31,High,3.3,109,7.5,8,10579,1.9,18.9,69.1,109.1,74,None,Former,1.14
+439,2024-01-29,64,F,154.1,49.7,Weight Training,88,Low,7.2,100,5.4,7,9200,3.1,18.9,69.1,109.1,74,None,Former,1.23
+439,2024-01-30,64,F,154.1,49.9,Weight Training,107,High,12.4,114,7.8,5,9071,1.8,18.9,69.1,109.1,74,None,Former,1.38
+439,2024-01-31,64,F,154.1,50.2,Weight Training,81,Low,6.7,95,7.6,6,10303,1.6,18.9,69.1,109.1,74,None,Former,1.46

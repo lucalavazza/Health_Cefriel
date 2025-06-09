@@ -1,0 +1,17 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+2315,2024-10-02,31,M,174.5,117.7,Weight Training,71,High,19.5,158,5.6,1,6945,3.1,23.1,74.6,128.8,87.7,Hypertension,Never,15.9
+2315,2024-10-03,31,M,174.5,117.9,HIIT,102,Medium,48.0,139,6.5,9,5981,2.0,23.1,74.6,128.8,87.7,Hypertension,Never,16.02
+2315,2024-10-04,31,M,174.5,118.2,Weight Training,75,Medium,17.7,142,6.6,2,7977,1.8,23.1,74.6,128.8,87.7,Hypertension,Never,16.11
+2315,2024-10-05,31,M,174.5,118.5,HIIT,72,Medium,34.0,143,6.8,2,5749,2.4,23.1,74.6,128.8,87.7,Hypertension,Never,16.19
+2315,2024-10-08,31,M,174.5,118.7,Dancing,94,High,23.8,156,7.0,6,6010,1.8,23.1,74.6,128.8,87.7,Hypertension,Never,16.33
+2315,2024-10-09,31,M,174.5,119.0,Dancing,100,High,25.4,153,5.4,7,4115,1.6,23.1,74.6,128.8,87.7,Hypertension,Never,16.47
+2315,2024-10-12,31,M,174.5,119.2,HIIT,62,Medium,29.5,145,8.1,4,6694,2.3,23.1,74.6,128.8,87.7,Hypertension,Never,16.54
+2315,2024-10-13,31,M,174.5,119.5,Dancing,22,Medium,4.8,141,7.6,10,6736,1.6,23.1,74.6,128.8,87.7,Hypertension,Never,16.57
+2315,2024-10-19,31,M,174.5,119.7,HIIT,94,High,52.4,151,5.8,10,6621,1.8,23.1,74.6,128.8,87.7,Hypertension,Never,16.7
+2315,2024-10-20,31,M,174.5,120.0,Dancing,65,High,16.6,153,5.0,6,7823,3.2,23.1,74.6,128.8,87.7,Hypertension,Never,16.79
+2315,2024-10-25,31,M,174.5,120.3,Dancing,70,Medium,15.4,140,9.0,8,4720,3.5,23.1,74.6,128.8,87.7,Hypertension,Never,16.87
+2315,2024-10-26,31,M,174.5,120.5,Dancing,46,Low,8.5,130,8.5,1,8821,3.3,23.1,74.6,128.8,87.7,Hypertension,Never,16.92
+2315,2024-10-27,31,M,174.5,120.8,Dancing,74,Low,13.6,121,6.3,7,8405,2.8,23.1,74.6,128.8,87.7,Hypertension,Never,16.99
+2315,2024-10-28,31,M,174.5,121.0,Basketball,117,High,44.0,151,6.6,7,5756,3.2,23.1,74.6,128.8,87.7,Hypertension,Never,17.16
+2315,2024-10-29,31,M,174.5,121.3,Basketball,76,High,28.6,161,7.3,4,6365,2.6,23.1,74.6,128.8,87.7,Hypertension,Never,17.26
+2315,2024-10-30,31,M,174.5,121.5,Dancing,65,Low,12.0,131,8.4,5,6363,3.3,23.1,74.6,128.8,87.7,Hypertension,Never,17.33

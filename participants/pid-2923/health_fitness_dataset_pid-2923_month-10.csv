@@ -1,0 +1,16 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+2923,2024-10-03,59,M,186.5,138.8,Running,84,Low,31.7,104,5.6,4,3952,1.7,26,74.3,112.3,81.7,Hypertension,Current,15.52
+2923,2024-10-04,59,M,186.5,139.1,Walking,25,Low,3.7,106,7.7,9,5535,1.6,26,74.3,112.3,81.7,Hypertension,Current,15.54
+2923,2024-10-06,59,M,186.5,139.3,Walking,118,High,24.3,143,7.3,5,5526,1.7,26,74.3,112.3,81.7,Hypertension,Current,15.71
+2923,2024-10-07,59,M,186.5,139.6,Running,70,Medium,31.9,129,7.0,8,6630,3.0,26,74.3,112.3,81.7,Hypertension,Current,15.79
+2923,2024-10-09,59,M,186.5,139.8,Walking,49,Medium,8.7,126,7.0,9,7470,2.4,26,74.3,112.3,81.7,Hypertension,Current,15.85
+2923,2024-10-12,59,M,186.5,140.1,Swimming,104,Medium,33.9,130,9.4,5,8048,2.7,26,74.3,112.3,81.7,Hypertension,Current,15.98
+2923,2024-10-14,59,M,186.5,140.4,Running,113,Medium,51.7,123,10.0,9,6346,2.9,26,74.3,112.3,81.7,Hypertension,Current,16.11
+2923,2024-10-18,59,M,186.5,140.6,Swimming,58,Medium,19.0,132,7.8,5,6558,1.8,26,74.3,112.3,81.7,Hypertension,Current,16.18
+2923,2024-10-19,59,M,186.5,140.9,Swimming,38,Medium,12.5,118,8.1,3,7672,2.6,26,74.3,112.3,81.7,Hypertension,Current,16.23
+2923,2024-10-22,59,M,186.5,141.1,Swimming,81,Medium,26.6,120,8.4,10,5960,1.9,26,74.3,112.3,81.7,Hypertension,Current,16.32
+2923,2024-10-25,59,M,186.5,141.4,Swimming,103,High,39.6,140,7.7,3,8913,2.1,26,74.3,112.3,81.7,Hypertension,Current,16.47
+2923,2024-10-26,59,M,186.5,141.6,Swimming,25,Medium,8.2,122,8.4,1,5892,3.3,26,74.3,112.3,81.7,Hypertension,Current,16.5
+2923,2024-10-27,59,M,186.5,141.9,Swimming,58,Low,16.0,109,6.7,4,9032,2.5,26,74.3,112.3,81.7,Hypertension,Current,16.56
+2923,2024-10-28,59,M,186.5,142.2,HIIT,113,Low,53.4,98,6.3,6,8438,3.3,26,74.3,112.3,81.7,Hypertension,Current,16.67
+2923,2024-10-30,59,M,186.5,142.4,Basketball,89,High,39.4,129,6.4,7,7056,2.2,26,74.3,112.3,81.7,Hypertension,Current,16.79

@@ -1,0 +1,16 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+319,2024-08-04,61,M,177.5,96.3,Tennis,67,High,18.3,141,7.2,4,6841,1.9,18.8,71.3,109.3,85.3,None,Former,12.13
+319,2024-08-05,61,M,177.5,96.5,Tennis,100,Low,19.5,101,7.2,4,7164,2.8,18.8,71.3,109.3,85.3,None,Former,12.23
+319,2024-08-10,61,M,177.5,96.8,Weight Training,43,High,9.7,123,7.6,5,9433,1.6,18.8,71.3,109.3,85.3,None,Former,12.29
+319,2024-08-14,61,M,177.5,97.1,Weight Training,111,Low,17.9,103,7.8,3,6460,2.7,18.8,71.3,109.3,85.3,None,Former,12.4
+319,2024-08-15,61,M,177.5,97.3,Weight Training,75,Medium,14.6,118,6.8,1,9922,2.9,18.8,71.3,109.3,85.3,None,Former,12.49
+319,2024-08-16,61,M,177.5,97.6,Weight Training,81,Medium,15.8,124,8.9,6,6142,3.4,18.8,71.3,109.3,85.3,None,Former,12.59
+319,2024-08-18,61,M,177.5,97.8,Weight Training,70,Low,11.4,106,6.6,8,8037,2.7,18.8,71.3,109.3,85.3,None,Former,12.66
+319,2024-08-20,61,M,177.5,98.1,Weight Training,117,High,26.7,129,8.3,3,6293,2.5,18.8,71.3,109.3,85.3,None,Former,12.82
+319,2024-08-21,61,M,177.5,98.4,Weight Training,31,Medium,6.1,117,7.6,8,7061,2.1,18.8,71.3,109.3,85.3,None,Former,12.86
+319,2024-08-23,61,M,177.5,98.6,Weight Training,84,Low,13.8,96,5.7,4,8533,2.3,18.8,71.3,109.3,85.3,None,Former,12.95
+319,2024-08-25,61,M,177.5,98.9,Weight Training,32,Low,5.3,91,6.5,8,7943,2.5,18.8,71.3,109.3,85.3,None,Former,12.98
+319,2024-08-27,61,M,177.5,99.1,Weight Training,25,Medium,4.9,119,6.4,2,6602,1.9,18.8,71.3,109.3,85.3,None,Former,13.01
+319,2024-08-28,61,M,177.5,99.4,Weight Training,85,Low,14.0,100,8.2,7,7245,2.2,18.8,71.3,109.3,85.3,None,Former,13.09
+319,2024-08-29,61,M,177.5,99.6,Weight Training,82,Medium,16.3,111,8.7,7,6730,3.4,18.8,71.3,109.3,85.3,None,Former,13.19
+319,2024-08-30,61,M,177.5,99.9,Tennis,45,High,12.7,124,6.6,1,6959,3.0,18.8,71.3,109.3,85.3,None,Former,13.25

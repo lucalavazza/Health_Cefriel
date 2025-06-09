@@ -1,0 +1,17 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+2464,2024-07-01,58,F,165,83.3,Walking,45,Medium,4.7,119,7.4,4,6420,2.2,19,72.1,126.7,91.5,None,Current,10.9
+2464,2024-07-03,58,F,165,83.6,Swimming,77,Medium,15.0,122,6.3,8,7326,2.2,19,72.1,126.7,91.5,None,Current,10.99
+2464,2024-07-04,58,F,165,83.9,Walking,91,High,11.2,139,8.0,3,7115,3.0,19,72.1,126.7,91.5,None,Current,11.12
+2464,2024-07-07,58,F,165,84.1,Dancing,46,Medium,7.1,114,8.3,5,8716,3.0,19,72.1,126.7,91.5,None,Current,11.17
+2464,2024-07-09,58,F,165,84.4,Cycling,89,Low,17.7,107,7.6,4,6883,3.1,19,72.1,126.7,91.5,None,Current,11.26
+2464,2024-07-13,58,F,165,84.6,Dancing,107,Medium,16.6,113,8.3,10,10429,2.0,19,72.1,126.7,91.5,None,Current,11.39
+2464,2024-07-17,58,F,165,84.9,Cycling,69,Medium,16.5,121,8.1,6,8447,2.2,19,72.1,126.7,91.5,None,Current,11.47
+2464,2024-07-20,58,F,165,85.1,Basketball,39,Medium,8.8,107,6.1,4,10474,2.5,19,72.1,126.7,91.5,None,Current,11.52
+2464,2024-07-21,58,F,165,85.4,Basketball,83,Medium,18.8,124,8.4,4,7205,1.5,19,72.1,126.7,91.5,None,Current,11.62
+2464,2024-07-22,58,F,165,85.7,Basketball,119,Low,22.6,106,7.2,10,8393,2.2,19,72.1,126.7,91.5,None,Current,11.74
+2464,2024-07-24,58,F,165,85.9,Basketball,24,Low,4.6,103,7.5,2,7685,2.3,19,72.1,126.7,91.5,None,Current,11.76
+2464,2024-07-26,58,F,165,86.2,Basketball,34,Medium,7.8,123,7.9,8,6030,1.8,19,72.1,126.7,91.5,None,Current,11.8
+2464,2024-07-27,58,F,165,86.4,Basketball,67,Medium,15.4,117,7.0,10,11349,1.8,19,72.1,126.7,91.5,None,Current,11.88
+2464,2024-07-28,58,F,165,86.7,Cycling,63,Low,12.9,110,9.0,5,4898,2.2,19,72.1,126.7,91.5,None,Current,11.94
+2464,2024-07-30,58,F,165,87.0,Cycling,63,Low,12.9,105,6.3,4,8749,2.4,19,72.1,126.7,91.5,None,Current,12.01
+2464,2024-07-31,58,F,165,87.2,Basketball,34,Low,6.6,106,8.4,10,7759,2.2,19,72.1,126.7,91.5,None,Current,12.04

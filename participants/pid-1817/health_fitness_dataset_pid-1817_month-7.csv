@@ -1,0 +1,16 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+1817,2024-07-01,29,F,175.6,110.1,Basketball,120,High,41.0,161,7.3,4,8729,2.0,24,67.5,103.1,62.8,Hypertension,Never,11.54
+1817,2024-07-03,29,F,175.6,110.4,Basketball,99,Medium,29.1,136,7.0,6,8130,2.8,24,67.5,103.1,62.8,Hypertension,Never,11.66
+1817,2024-07-04,29,F,175.6,110.6,Basketball,35,Medium,10.3,159,7.1,1,10861,2.4,24,67.5,103.1,62.8,Hypertension,Never,11.7
+1817,2024-07-10,29,F,175.6,110.9,Walking,120,High,19.6,184,7.1,5,9384,3.0,24,67.5,103.1,62.8,Hypertension,Never,11.87
+1817,2024-07-11,29,F,175.6,111.1,Yoga,55,Medium,6.1,140,7.0,4,7335,2.4,24,67.5,103.1,62.8,Hypertension,Never,11.94
+1817,2024-07-12,29,F,175.6,111.4,Swimming,119,Medium,30.9,136,6.8,2,7858,1.6,24,67.5,103.1,62.8,Hypertension,Never,12.08
+1817,2024-07-13,29,F,175.6,111.7,Cycling,105,Medium,33.1,143,9.2,8,8008,2.8,24,67.5,103.1,62.8,Hypertension,Never,12.21
+1817,2024-07-16,29,F,175.6,111.9,Yoga,62,Medium,6.9,131,7.9,2,7022,3.4,24,67.5,103.1,62.8,Hypertension,Never,12.28
+1817,2024-07-17,29,F,175.6,112.2,Swimming,87,Low,18.9,123,7.2,10,5088,3.1,24,67.5,103.1,62.8,Hypertension,Never,12.37
+1817,2024-07-19,29,F,175.6,112.4,Cycling,110,Medium,35.0,147,6.0,10,5662,1.8,24,67.5,103.1,62.8,Hypertension,Never,12.5
+1817,2024-07-20,29,F,175.6,112.7,Yoga,96,Medium,10.8,148,6.9,8,9413,3.0,24,67.5,103.1,62.8,Hypertension,Never,12.61
+1817,2024-07-22,29,F,175.6,112.9,Yoga,99,Medium,11.2,154,7.4,2,7813,1.7,24,67.5,103.1,62.8,Hypertension,Never,12.73
+1817,2024-07-25,29,F,175.6,113.2,Cycling,52,Medium,16.6,144,7.6,7,4198,1.7,24,67.5,103.1,62.8,Hypertension,Never,12.8
+1817,2024-07-30,29,F,175.6,113.5,Yoga,71,Low,6.7,118,6.2,1,7022,1.7,24,67.5,103.1,62.8,Hypertension,Never,12.87
+1817,2024-07-31,29,F,175.6,113.7,Cycling,87,Medium,28.0,136,6.8,4,9648,2.8,24,67.5,103.1,62.8,Hypertension,Never,12.97

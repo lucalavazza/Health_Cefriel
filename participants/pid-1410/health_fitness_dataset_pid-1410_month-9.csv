@@ -1,0 +1,17 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+1410,2024-09-01,49,F,162,97.6,HIIT,110,Medium,42.9,124,7.8,9,6751,3.4,21.1,74.6,119.8,84.7,Hypertension,Never,14.01
+1410,2024-09-03,49,F,162,97.9,Dancing,50,Medium,9.0,119,7.3,7,4324,2.2,21.1,74.6,119.8,84.7,Hypertension,Never,14.07
+1410,2024-09-04,49,F,162,98.2,Dancing,63,Low,9.4,115,6.7,1,7732,2.1,21.1,74.6,119.8,84.7,Hypertension,Never,14.13
+1410,2024-09-08,49,F,162,98.4,Dancing,28,High,5.9,144,7.3,10,8388,1.8,21.1,74.6,119.8,84.7,Hypertension,Never,14.17
+1410,2024-09-09,49,F,162,98.7,Walking,112,Medium,14.0,140,6.7,8,4660,1.7,21.1,74.6,119.8,84.7,Hypertension,Never,14.31
+1410,2024-09-10,49,F,162,98.9,Walking,106,Medium,13.2,137,8.2,6,5366,2.6,21.1,74.6,119.8,84.7,Hypertension,Never,14.43
+1410,2024-09-12,49,F,162,99.2,Dancing,108,Medium,19.6,128,8.1,6,6609,1.9,21.1,74.6,119.8,84.7,Hypertension,Never,14.56
+1410,2024-09-16,49,F,162,99.5,Dancing,77,High,16.3,145,8.5,1,7128,2.9,21.1,74.6,119.8,84.7,Hypertension,Never,14.67
+1410,2024-09-18,49,F,162,99.7,Walking,48,Medium,6.0,131,6.5,7,4924,3.3,21.1,74.6,119.8,84.7,Hypertension,Never,14.73
+1410,2024-09-19,49,F,162,100.0,Walking,84,High,12.4,130,7.8,6,6049,2.2,21.1,74.6,119.8,84.7,Hypertension,Never,14.84
+1410,2024-09-21,49,F,162,100.2,Walking,66,Low,7.0,113,7.5,5,7631,1.6,21.1,74.6,119.8,84.7,Hypertension,Never,14.91
+1410,2024-09-22,49,F,162,100.5,Walking,92,Medium,11.7,122,7.8,6,7054,3.3,21.1,74.6,119.8,84.7,Hypertension,Never,15.02
+1410,2024-09-23,49,F,162,100.7,Walking,63,Low,6.7,119,6.4,8,7996,2.2,21.1,74.6,119.8,84.7,Hypertension,Never,15.08
+1410,2024-09-24,49,F,162,101.0,Dancing,116,Medium,21.4,118,7.1,7,7951,2.2,21.1,74.6,119.8,84.7,Hypertension,Never,15.22
+1410,2024-09-26,49,F,162,101.3,Walking,23,Medium,2.9,136,6.3,7,5818,2.0,21.1,74.6,119.8,84.7,Hypertension,Never,15.25
+1410,2024-09-30,49,F,162,101.5,Walking,99,Medium,12.7,131,5.1,4,7413,3.4,21.1,74.6,119.8,84.7,Hypertension,Never,15.37

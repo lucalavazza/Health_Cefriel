@@ -1,0 +1,17 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+496,2024-02-01,54,M,165.7,73.2,Basketball,81,Low,13.1,115,6.4,5,7900,2.8,24,58.7,122.8,100.4,Hypertension,Never,2.45
+496,2024-02-02,54,M,165.7,73.4,Yoga,84,High,7.2,125,6.5,4,10117,3.1,24,58.7,122.8,100.4,Hypertension,Never,2.56
+496,2024-02-03,54,M,165.7,73.7,Yoga,38,Low,2.3,105,7.8,4,11012,2.0,24,58.7,122.8,100.4,Hypertension,Never,2.6
+496,2024-02-04,54,M,165.7,74.0,Basketball,43,Medium,8.5,109,7.4,2,11420,2.2,24,58.7,122.8,100.4,Hypertension,Never,2.65
+496,2024-02-05,54,M,165.7,74.2,Basketball,39,Medium,7.7,113,8.4,5,9848,1.9,24,58.7,122.8,100.4,Hypertension,Never,2.7
+496,2024-02-08,54,M,165.7,74.5,Dancing,111,Low,12.6,108,7.1,7,9732,3.4,24,58.7,122.8,100.4,Hypertension,Never,2.81
+496,2024-02-09,54,M,165.7,74.7,Dancing,86,Medium,11.7,125,6.6,8,9824,2.4,24,58.7,122.8,100.4,Hypertension,Never,2.91
+496,2024-02-14,54,M,165.7,75.0,Basketball,79,Medium,15.7,133,7.5,10,9996,2.3,24,58.7,122.8,100.4,Hypertension,Never,3.01
+496,2024-02-16,54,M,165.7,75.3,Dancing,66,Low,7.6,115,7.1,7,11625,2.9,24,58.7,122.8,100.4,Hypertension,Never,3.08
+496,2024-02-20,54,M,165.7,75.5,Yoga,30,Low,1.9,109,6.9,8,8318,2.7,24,58.7,122.8,100.4,Hypertension,Never,3.1
+496,2024-02-21,54,M,165.7,75.8,HIIT,65,Low,16.4,100,6.5,8,9354,3.1,24,58.7,122.8,100.4,Hypertension,Never,3.17
+496,2024-02-22,54,M,165.7,76.0,Yoga,30,Low,1.9,114,6.2,9,9466,3.2,24,58.7,122.8,100.4,Hypertension,Never,3.2
+496,2024-02-24,54,M,165.7,76.3,Yoga,25,Medium,1.9,117,7.4,4,14638,2.8,24,58.7,122.8,100.4,Hypertension,Never,3.23
+496,2024-02-25,54,M,165.7,76.5,HIIT,64,Low,16.3,116,7.0,5,9659,2.8,24,58.7,122.8,100.4,Hypertension,Never,3.29
+496,2024-02-27,54,M,165.7,76.8,Yoga,53,Medium,4.1,108,7.5,3,10689,2.5,24,58.7,122.8,100.4,Hypertension,Never,3.36
+496,2024-02-28,54,M,165.7,77.1,HIIT,83,Medium,25.5,139,7.0,4,10645,1.7,24,58.7,122.8,100.4,Hypertension,Never,3.46

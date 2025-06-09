@@ -1,0 +1,13 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+2574,2024-12-01,27,F,168.4,109.4,Yoga,76,Low,6.9,112,5.8,6,9263,2.7,19.4,65.7,140.3,82.9,Hypertension,Never,17.7
+2574,2024-12-02,27,F,168.4,109.7,Yoga,41,Low,3.7,120,6.6,1,6468,1.9,19.4,65.7,140.3,82.9,Hypertension,Never,17.74
+2574,2024-12-06,27,F,168.4,109.9,Yoga,37,Medium,4.1,141,7.6,6,11550,2.7,19.4,65.7,140.3,82.9,Hypertension,Never,17.79
+2574,2024-12-10,27,F,168.4,110.2,Yoga,91,Medium,10.0,135,9.1,5,7533,3.0,19.4,65.7,140.3,82.9,Hypertension,Never,17.9
+2574,2024-12-12,27,F,168.4,110.4,Weight Training,86,Low,15.8,122,7.8,3,7354,2.7,19.4,65.7,140.3,82.9,Hypertension,Never,17.98
+2574,2024-12-16,27,F,168.4,110.7,Yoga,114,High,14.7,172,4.1,8,8333,1.9,19.4,65.7,140.3,82.9,Hypertension,Never,18.14
+2574,2024-12-18,27,F,168.4,110.9,Yoga,56,High,7.2,168,8.0,1,6613,1.7,19.4,65.7,140.3,82.9,Hypertension,Never,18.22
+2574,2024-12-19,27,F,168.4,111.2,Yoga,53,Medium,5.9,151,7.3,2,7568,2.8,19.4,65.7,140.3,82.9,Hypertension,Never,18.29
+2574,2024-12-20,27,F,168.4,111.5,Yoga,48,Medium,5.3,137,7.0,5,8759,2.4,19.4,65.7,140.3,82.9,Hypertension,Never,18.34
+2574,2024-12-21,27,F,168.4,111.7,Yoga,106,Low,9.8,123,5.9,6,9578,1.6,19.4,65.7,140.3,82.9,Hypertension,Never,18.45
+2574,2024-12-22,27,F,168.4,112.0,Yoga,49,Medium,5.5,147,6.8,5,8790,2.3,19.4,65.7,140.3,82.9,Hypertension,Never,18.51
+2574,2024-12-24,27,F,168.4,112.2,HIIT,34,Medium,15.2,147,8.5,8,9944,1.7,19.4,65.7,140.3,82.9,Hypertension,Never,18.55

@@ -1,0 +1,19 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+625,2024-02-01,64,F,165.7,66.2,Basketball,53,Medium,9.3,108,8.9,3,7435,3.4,22,70.1,122.3,65.9,None,Never,1.92
+625,2024-02-02,64,F,165.7,66.5,Dancing,23,High,3.3,129,7.4,8,9378,1.8,22,70.1,122.3,65.9,None,Never,1.95
+625,2024-02-09,64,F,165.7,66.8,Running,20,Medium,4.3,112,5.7,2,8079,2.8,22,70.1,122.3,65.9,None,Never,1.98
+625,2024-02-12,64,F,165.7,67.0,Weight Training,110,Medium,14.7,99,8.2,4,7394,2.2,22,70.1,122.3,65.9,None,Never,2.11
+625,2024-02-13,64,F,165.7,67.3,Running,106,Medium,23.2,107,8.2,7,9281,2.5,22,70.1,122.3,65.9,None,Never,2.23
+625,2024-02-15,64,F,165.7,67.5,Walking,78,Medium,6.6,124,7.4,2,8382,3.4,22,70.1,122.3,65.9,None,Never,2.33
+625,2024-02-16,64,F,165.7,67.8,Walking,95,Low,6.8,103,6.4,1,9560,3.1,22,70.1,122.3,65.9,None,Never,2.42
+625,2024-02-17,64,F,165.7,68.0,Running,48,Medium,10.6,97,7.7,2,11907,2.7,22,70.1,122.3,65.9,None,Never,2.48
+625,2024-02-18,64,F,165.7,68.3,Basketball,42,Low,6.4,98,5.8,8,12396,1.6,22,70.1,122.3,65.9,None,Never,2.52
+625,2024-02-20,64,F,165.7,68.6,Running,92,Medium,20.5,118,6.8,2,9452,3.3,22,70.1,122.3,65.9,None,Never,2.63
+625,2024-02-21,64,F,165.7,68.8,Running,24,Medium,5.4,112,7.5,4,9511,2.4,22,70.1,122.3,65.9,None,Never,2.66
+625,2024-02-22,64,F,165.7,69.1,Basketball,49,High,10.5,157,7.7,5,10512,2.0,22,70.1,122.3,65.9,None,Never,2.73
+625,2024-02-23,64,F,165.7,69.3,Weight Training,32,Low,3.7,110,7.4,9,11752,2.9,22,70.1,122.3,65.9,None,Never,2.76
+625,2024-02-24,64,F,165.7,69.6,Basketball,21,Low,3.2,100,6.7,1,8556,2.2,22,70.1,122.3,65.9,None,Never,2.78
+625,2024-02-26,64,F,165.7,69.9,Weight Training,72,Medium,10.0,126,8.6,2,7582,2.7,22,70.1,122.3,65.9,None,Never,2.87
+625,2024-02-27,64,F,165.7,70.1,Weight Training,20,Low,2.3,107,4.9,9,9729,3.0,22,70.1,122.3,65.9,None,Never,2.89
+625,2024-02-28,64,F,165.7,70.4,Basketball,96,Low,15.0,102,8.1,2,7607,2.4,22,70.1,122.3,65.9,None,Never,2.99
+625,2024-02-29,64,F,165.7,70.6,Basketball,38,Low,5.9,106,7.7,6,9194,3.2,22,70.1,122.3,65.9,None,Never,3.02

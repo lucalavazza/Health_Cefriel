@@ -1,0 +1,11 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+1182,2024-08-01,46,F,164.2,100.4,Running,50,High,19.1,164,6.7,4,4049,2.0,23.1,70.6,123,87.1,None,Never,11.75
+1182,2024-08-03,46,F,164.2,100.6,Running,116,Medium,38.0,136,8.0,6,6914,3.3,23.1,70.6,123,87.1,None,Never,11.89
+1182,2024-08-11,46,F,164.2,100.9,Basketball,64,Medium,17.2,141,6.9,6,10021,1.6,23.1,70.6,123,87.1,None,Never,11.97
+1182,2024-08-16,46,F,164.2,101.1,Running,109,Low,29.9,121,7.4,9,7400,2.0,23.1,70.6,123,87.1,None,Never,12.08
+1182,2024-08-19,46,F,164.2,101.4,Basketball,45,Low,10.1,110,7.1,5,8082,3.0,23.1,70.6,123,87.1,None,Never,12.12
+1182,2024-08-22,46,F,164.2,101.6,Basketball,74,Low,16.7,108,6.2,4,7582,1.6,23.1,70.6,123,87.1,None,Never,12.2
+1182,2024-08-24,46,F,164.2,101.9,Basketball,25,Medium,6.8,133,5.7,5,5686,2.9,23.1,70.6,123,87.1,None,Never,12.23
+1182,2024-08-26,46,F,164.2,102.2,Cycling,34,Medium,9.8,137,7.8,3,8778,2.9,23.1,70.6,123,87.1,None,Never,12.27
+1182,2024-08-27,46,F,164.2,102.4,Cycling,64,Medium,18.5,119,5.9,5,1842,2.1,23.1,70.6,123,87.1,None,Never,12.34
+1182,2024-08-31,46,F,164.2,102.7,Basketball,86,Medium,23.5,138,8.7,3,10287,3.3,23.1,70.6,123,87.1,None,Never,12.45

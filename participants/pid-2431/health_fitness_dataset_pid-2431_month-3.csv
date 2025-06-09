@@ -1,0 +1,24 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+2431,2024-03-01,61,M,173.3,98.0,HIIT,64,Medium,25.0,125,6.2,1,8398,3.3,29.5,78.9,132.8,80.1,Hypertension,Current,3.12
+2431,2024-03-02,61,M,173.3,98.3,Dancing,35,Medium,6.3,137,6.7,6,10984,1.7,29.5,78.9,132.8,80.1,Hypertension,Current,3.16
+2431,2024-03-03,61,M,173.3,98.5,HIIT,74,High,33.9,147,8.1,8,8876,3.4,29.5,78.9,132.8,80.1,Hypertension,Current,3.27
+2431,2024-03-05,61,M,173.3,98.8,HIIT,80,Medium,31.5,137,7.6,10,9336,1.5,29.5,78.9,132.8,80.1,Hypertension,Current,3.36
+2431,2024-03-07,61,M,173.3,99.1,Tennis,120,Low,24.0,106,6.3,1,10708,2.8,29.5,78.9,132.8,80.1,Hypertension,Current,3.48
+2431,2024-03-09,61,M,173.3,99.3,Tennis,23,Low,4.6,102,8.9,6,11801,3.2,29.5,78.9,132.8,80.1,Hypertension,Current,3.51
+2431,2024-03-11,61,M,173.3,99.6,Weight Training,42,Low,7.0,105,7.3,6,6278,2.2,29.5,78.9,132.8,80.1,Hypertension,Current,3.55
+2431,2024-03-12,61,M,173.3,99.8,Tennis,30,Medium,7.3,106,4.4,3,7036,2.6,29.5,78.9,132.8,80.1,Hypertension,Current,3.59
+2431,2024-03-13,61,M,173.3,100.1,Tennis,53,Medium,12.9,114,6.6,9,8083,3.3,29.5,78.9,132.8,80.1,Hypertension,Current,3.65
+2431,2024-03-14,61,M,173.3,100.4,Weight Training,102,Medium,20.4,118,7.1,3,13548,1.5,29.5,78.9,132.8,80.1,Hypertension,Current,3.77
+2431,2024-03-16,61,M,173.3,100.6,Tennis,117,High,33.3,150,6.7,4,10701,2.8,29.5,78.9,132.8,80.1,Hypertension,Current,3.94
+2431,2024-03-17,61,M,173.3,100.9,Tennis,38,High,10.9,132,6.0,7,9259,1.6,29.5,78.9,132.8,80.1,Hypertension,Current,3.99
+2431,2024-03-18,61,M,173.3,101.1,Yoga,40,Medium,4.0,116,7.4,3,11220,1.7,29.5,78.9,132.8,80.1,Hypertension,Current,4.04
+2431,2024-03-21,61,M,173.3,101.4,Yoga,23,Low,1.9,106,5.4,4,8672,2.9,29.5,78.9,132.8,80.1,Hypertension,Current,4.06
+2431,2024-03-22,61,M,173.3,101.6,Tennis,109,Low,22.4,106,7.1,9,9465,2.6,29.5,78.9,132.8,80.1,Hypertension,Current,4.17
+2431,2024-03-23,61,M,173.3,101.9,Tennis,33,Medium,8.2,119,6.6,3,14997,2.3,29.5,78.9,132.8,80.1,Hypertension,Current,4.21
+2431,2024-03-24,61,M,173.3,102.2,Tennis,20,Low,4.1,104,7.8,9,10916,2.5,29.5,78.9,132.8,80.1,Hypertension,Current,4.23
+2431,2024-03-25,61,M,173.3,102.4,Tennis,79,Medium,19.6,123,6.9,3,8930,2.3,29.5,78.9,132.8,80.1,Hypertension,Current,4.32
+2431,2024-03-26,61,M,173.3,102.7,Running,61,Medium,20.4,119,6.6,1,9231,2.2,29.5,78.9,132.8,80.1,Hypertension,Current,4.4
+2431,2024-03-27,61,M,173.3,102.9,Running,98,Low,27.4,108,8.7,4,9152,1.8,29.5,78.9,132.8,80.1,Hypertension,Current,4.49
+2431,2024-03-28,61,M,173.3,103.2,Tennis,48,Low,10.0,101,6.1,9,10997,2.8,29.5,78.9,132.8,80.1,Hypertension,Current,4.54
+2431,2024-03-29,61,M,173.3,103.4,Running,80,Low,22.5,99,6.1,1,10247,2.4,29.5,78.9,132.8,80.1,Hypertension,Current,4.62
+2431,2024-03-31,61,M,173.3,103.7,Swimming,58,Medium,14.0,123,9.0,5,10690,3.1,29.5,78.9,132.8,80.1,Hypertension,Current,4.69

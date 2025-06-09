@@ -1,0 +1,18 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+2017,2024-06-01,61,M,169.1,114.6,Cycling,49,Medium,15.9,128,7.2,7,10753,3.4,30.4,65.4,127.5,80.6,Hypertension,Former,9.01
+2017,2024-06-03,61,M,169.1,114.8,Cycling,97,Low,26.2,110,8.7,7,10337,2.3,30.4,65.4,127.5,80.6,Hypertension,Former,9.11
+2017,2024-06-04,61,M,169.1,115.1,Cycling,58,Low,15.7,97,6.8,6,11243,2.3,30.4,65.4,127.5,80.6,Hypertension,Former,9.17
+2017,2024-06-05,61,M,169.1,115.3,Cycling,83,Medium,27.1,127,6.5,10,8676,2.2,30.4,65.4,127.5,80.6,Hypertension,Former,9.27
+2017,2024-06-06,61,M,169.1,115.6,Cycling,82,Low,22.3,112,7.4,9,9444,2.8,30.4,65.4,127.5,80.6,Hypertension,Former,9.35
+2017,2024-06-07,61,M,169.1,115.8,Cycling,74,Low,20.2,105,7.6,5,10101,2.2,30.4,65.4,127.5,80.6,Hypertension,Former,9.42
+2017,2024-06-10,61,M,169.1,116.1,Cycling,63,Medium,20.7,122,6.3,5,6597,2.1,30.4,65.4,127.5,80.6,Hypertension,Former,9.5
+2017,2024-06-12,61,M,169.1,116.4,Cycling,94,High,36.1,130,8.0,6,8771,1.7,30.4,65.4,127.5,80.6,Hypertension,Former,9.63
+2017,2024-06-13,61,M,169.1,116.6,Weight Training,59,Low,11.4,104,9.2,3,8743,2.1,30.4,65.4,127.5,80.6,Hypertension,Former,9.69
+2017,2024-06-14,61,M,169.1,116.9,Tennis,45,Low,10.6,89,6.3,2,6788,3.2,30.4,65.4,127.5,80.6,Hypertension,Former,9.73
+2017,2024-06-15,61,M,169.1,117.1,Cycling,58,Low,16.0,107,6.0,10,10905,2.2,30.4,65.4,127.5,80.6,Hypertension,Former,9.79
+2017,2024-06-17,61,M,169.1,117.4,Cycling,120,Medium,39.8,134,9.5,10,8587,1.9,30.4,65.4,127.5,80.6,Hypertension,Former,9.93
+2017,2024-06-20,61,M,169.1,117.6,Tennis,89,Medium,25.4,127,6.5,9,6273,2.5,30.4,65.4,127.5,80.6,Hypertension,Former,10.04
+2017,2024-06-23,61,M,169.1,117.9,Cycling,103,Medium,34.3,107,7.3,8,8850,2.3,30.4,65.4,127.5,80.6,Hypertension,Former,10.16
+2017,2024-06-24,61,M,169.1,118.2,Tennis,30,Low,7.2,99,5.6,1,8511,1.9,30.4,65.4,127.5,80.6,Hypertension,Former,10.2
+2017,2024-06-27,61,M,169.1,118.4,Walking,100,High,17.5,137,4.9,8,7422,1.7,30.4,65.4,127.5,80.6,Hypertension,Former,10.34
+2017,2024-06-30,61,M,169.1,118.7,Tennis,55,Medium,15.8,131,6.8,4,10063,2.2,30.4,65.4,127.5,80.6,Hypertension,Former,10.4

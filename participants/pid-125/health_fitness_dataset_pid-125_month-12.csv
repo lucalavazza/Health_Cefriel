@@ -1,0 +1,15 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+125,2024-12-02,57,F,158.9,121.8,Tennis,22,Medium,6.5,137,6.6,8,6204,2.7,27.2,61.3,104.5,80.2,Asthma,Former,16.22
+125,2024-12-05,57,F,158.9,122.0,Yoga,117,Medium,14.2,121,8.2,10,7250,3.0,27.2,61.3,104.5,80.2,Asthma,Former,16.36
+125,2024-12-08,57,F,158.9,122.3,Yoga,75,Medium,9.2,119,6.6,8,9734,2.6,27.2,61.3,104.5,80.2,Asthma,Former,16.45
+125,2024-12-09,57,F,158.9,122.5,Tennis,81,Low,20.1,103,4.9,1,8359,1.6,27.2,61.3,104.5,80.2,Asthma,Former,16.53
+125,2024-12-10,57,F,158.9,122.8,Yoga,107,Medium,13.1,135,7.1,2,6011,3.2,27.2,61.3,104.5,80.2,Asthma,Former,16.66
+125,2024-12-11,57,F,158.9,123.0,HIIT,38,Medium,18.7,137,8.2,4,5404,1.5,27.2,61.3,104.5,80.2,Asthma,Former,16.71
+125,2024-12-12,57,F,158.9,123.3,Tennis,85,Medium,25.4,122,7.6,1,8296,2.1,27.2,61.3,104.5,80.2,Asthma,Former,16.81
+125,2024-12-13,57,F,158.9,123.6,HIIT,56,High,32.2,136,5.6,8,6111,3.2,27.2,61.3,104.5,80.2,Asthma,Former,16.89
+125,2024-12-16,57,F,158.9,123.8,Running,94,Low,31.6,111,6.9,6,6767,2.0,27.2,61.3,104.5,80.2,Asthma,Former,16.98
+125,2024-12-17,57,F,158.9,124.1,Cycling,39,Low,11.4,100,8.0,7,10530,2.6,27.2,61.3,104.5,80.2,Asthma,Former,17.02
+125,2024-12-19,57,F,158.9,124.3,HIIT,113,High,65.4,136,7.6,5,11390,2.7,27.2,61.3,104.5,80.2,Asthma,Former,17.18
+125,2024-12-21,57,F,158.9,124.6,Cycling,36,Medium,12.7,126,6.4,7,9865,2.3,27.2,61.3,104.5,80.2,Asthma,Former,17.22
+125,2024-12-23,57,F,158.9,124.8,HIIT,48,Medium,23.9,118,6.9,7,7414,3.3,27.2,61.3,104.5,80.2,Asthma,Former,17.28
+125,2024-12-24,57,F,158.9,125.1,Weight Training,118,High,34.4,139,6.5,6,6836,3.3,27.2,61.3,104.5,80.2,Asthma,Former,17.44

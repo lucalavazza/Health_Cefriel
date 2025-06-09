@@ -1,0 +1,16 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+375,2024-08-01,18,M,179.9,117.5,Dancing,73,Medium,15.7,149,4.9,9,7910,1.7,24.6,67.9,133.9,83.3,Hypertension,Never,12.54
+375,2024-08-03,18,M,179.9,117.8,Dancing,80,High,20.1,173,7.0,5,8441,2.2,24.6,67.9,133.9,83.3,Hypertension,Never,12.65
+375,2024-08-05,18,M,179.9,118.1,Dancing,106,Medium,22.9,138,6.3,7,6976,3.2,24.6,67.9,133.9,83.3,Hypertension,Never,12.78
+375,2024-08-07,18,M,179.9,118.3,Dancing,113,Medium,24.5,141,8.0,5,7091,2.1,24.6,67.9,133.9,83.3,Hypertension,Never,12.91
+375,2024-08-08,18,M,179.9,118.6,Dancing,109,High,27.6,156,7.3,5,7957,3.1,24.6,67.9,133.9,83.3,Hypertension,Never,13.07
+375,2024-08-12,18,M,179.9,118.8,Basketball,93,High,34.3,166,6.6,1,5960,1.5,24.6,67.9,133.9,83.3,Hypertension,Never,13.2
+375,2024-08-13,18,M,179.9,119.1,Basketball,23,High,8.5,189,5.8,2,8931,3.1,24.6,67.9,133.9,83.3,Hypertension,Never,13.23
+375,2024-08-15,18,M,179.9,119.3,Walking,32,Low,4.0,127,6.8,5,5931,3.3,24.6,67.9,133.9,83.3,Hypertension,Never,13.26
+375,2024-08-17,18,M,179.9,119.6,Dancing,34,High,8.7,170,6.0,8,5269,2.0,24.6,67.9,133.9,83.3,Hypertension,Never,13.31
+375,2024-08-19,18,M,179.9,119.9,Dancing,41,Medium,9.0,138,6.0,4,6722,2.1,24.6,67.9,133.9,83.3,Hypertension,Never,13.36
+375,2024-08-20,18,M,179.9,120.1,Dancing,76,Medium,16.7,147,6.9,8,7055,2.2,24.6,67.9,133.9,83.3,Hypertension,Never,13.45
+375,2024-08-21,18,M,179.9,120.4,Dancing,34,Medium,7.5,146,8.4,1,5891,3.4,24.6,67.9,133.9,83.3,Hypertension,Never,13.49
+375,2024-08-23,18,M,179.9,120.6,Tennis,67,Medium,19.6,151,6.5,7,5369,3.0,24.6,67.9,133.9,83.3,Hypertension,Never,13.57
+375,2024-08-28,18,M,179.9,120.9,Weight Training,25,Low,5.0,124,7.0,8,8131,1.7,24.6,67.9,133.9,83.3,Hypertension,Never,13.59
+375,2024-08-30,18,M,179.9,121.1,Swimming,109,Medium,30.7,157,6.5,4,4541,1.5,24.6,67.9,133.9,83.3,Hypertension,Never,13.73

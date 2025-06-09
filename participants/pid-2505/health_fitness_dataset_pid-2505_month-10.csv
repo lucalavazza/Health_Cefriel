@@ -1,0 +1,16 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+2505,2024-10-02,48,F,170.6,113.3,Running,118,Low,36.3,104,6.0,7,5600,1.9,22.6,79.8,122.3,85.6,Hypertension,Current,15.66
+2505,2024-10-07,48,F,170.6,113.6,Running,96,Low,29.6,114,5.5,4,6268,3.2,22.6,79.8,122.3,85.6,Hypertension,Current,15.76
+2505,2024-10-11,48,F,170.6,113.8,Running,58,High,25.1,141,9.2,10,8045,2.5,22.6,79.8,122.3,85.6,Hypertension,Current,15.84
+2505,2024-10-12,48,F,170.6,114.1,Cycling,28,Medium,9.0,126,6.3,7,7760,2.8,22.6,79.8,122.3,85.6,Hypertension,Current,15.88
+2505,2024-10-15,48,F,170.6,114.3,Running,49,Medium,18.3,128,6.7,1,7506,2.4,22.6,79.8,122.3,85.6,Hypertension,Current,15.93
+2505,2024-10-19,48,F,170.6,114.6,Cycling,112,Medium,36.3,123,6.2,8,8295,3.0,22.6,79.8,122.3,85.6,Hypertension,Current,16.07
+2505,2024-10-20,48,F,170.6,114.9,Running,56,Medium,21.0,126,7.0,6,8178,3.4,22.6,79.8,122.3,85.6,Hypertension,Current,16.14
+2505,2024-10-21,48,F,170.6,115.1,Running,48,Medium,18.0,140,5.6,6,4015,3.1,22.6,79.8,122.3,85.6,Hypertension,Current,16.19
+2505,2024-10-22,48,F,170.6,115.4,Cycling,110,High,41.9,143,7.5,8,6148,2.7,22.6,79.8,122.3,85.6,Hypertension,Current,16.35
+2505,2024-10-23,48,F,170.6,115.6,Swimming,107,Medium,28.8,143,7.1,9,7141,3.1,22.6,79.8,122.3,85.6,Hypertension,Current,16.48
+2505,2024-10-24,48,F,170.6,115.9,Swimming,85,High,26.8,145,5.5,9,8191,2.5,22.6,79.8,122.3,85.6,Hypertension,Current,16.59
+2505,2024-10-25,48,F,170.6,116.1,Tennis,58,Medium,16.4,126,6.1,10,7167,2.6,22.6,79.8,122.3,85.6,Hypertension,Current,16.66
+2505,2024-10-26,48,F,170.6,116.4,Swimming,88,Medium,23.8,122,7.4,7,9341,3.1,22.6,79.8,122.3,85.6,Hypertension,Current,16.77
+2505,2024-10-28,48,F,170.6,116.7,Basketball,59,Medium,18.3,134,5.9,10,5301,1.5,22.6,79.8,122.3,85.6,Hypertension,Current,16.84
+2505,2024-10-31,48,F,170.6,116.9,Basketball,53,Medium,16.5,142,6.1,4,4870,3.1,22.6,79.8,122.3,85.6,Hypertension,Current,16.9

@@ -1,0 +1,19 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+669,2024-08-01,56,M,172.1,113.2,Swimming,67,Medium,17.7,102,5.8,2,6675,3.4,24.6,66.1,113.2,87.4,None,Never,13.12
+669,2024-08-05,56,M,172.1,113.5,Swimming,46,Medium,12.2,117,6.9,10,8829,2.7,24.6,66.1,113.2,87.4,None,Never,13.18
+669,2024-08-07,56,M,172.1,113.7,Weight Training,84,High,22.2,137,5.8,8,10305,2.0,24.6,66.1,113.2,87.4,None,Never,13.29
+669,2024-08-08,56,M,172.1,114.0,Walking,66,Medium,9.5,130,7.2,3,7215,2.5,24.6,66.1,113.2,87.4,None,Never,13.37
+669,2024-08-11,56,M,172.1,114.3,Weight Training,59,Medium,13.5,120,6.9,8,10173,1.7,24.6,66.1,113.2,87.4,None,Never,13.44
+669,2024-08-12,56,M,172.1,114.5,Weight Training,49,Medium,11.2,127,5.0,4,8246,1.9,24.6,66.1,113.2,87.4,None,Never,13.5
+669,2024-08-13,56,M,172.1,114.8,Walking,29,Medium,4.2,120,7.6,6,11151,1.6,24.6,66.1,113.2,87.4,None,Never,13.54
+669,2024-08-17,56,M,172.1,115.0,Walking,26,Medium,3.8,128,5.7,9,9035,3.3,24.6,66.1,113.2,87.4,None,Never,13.57
+669,2024-08-18,56,M,172.1,115.3,Weight Training,40,Medium,9.2,107,7.3,5,9956,2.3,24.6,66.1,113.2,87.4,None,Never,13.62
+669,2024-08-19,56,M,172.1,115.5,Dancing,23,Medium,4.9,117,8.6,5,5155,2.3,24.6,66.1,113.2,87.4,None,Never,13.65
+669,2024-08-21,56,M,172.1,115.8,Weight Training,93,High,25.1,135,7.5,9,4760,2.4,24.6,66.1,113.2,87.4,None,Never,13.78
+669,2024-08-22,56,M,172.1,116.1,Weight Training,39,Medium,9.0,119,6.6,2,6135,3.0,24.6,66.1,113.2,87.4,None,Never,13.82
+669,2024-08-23,56,M,172.1,116.3,Weight Training,23,Medium,5.3,131,6.3,5,6618,1.6,24.6,66.1,113.2,87.4,None,Never,13.85
+669,2024-08-24,56,M,172.1,116.6,Weight Training,59,Medium,13.7,119,7.2,7,9330,2.6,24.6,66.1,113.2,87.4,None,Never,13.92
+669,2024-08-25,56,M,172.1,116.8,Basketball,22,Medium,6.8,103,6.0,10,7234,3.4,24.6,66.1,113.2,87.4,None,Never,13.95
+669,2024-08-28,56,M,172.1,117.1,Weight Training,52,Medium,12.2,120,6.7,6,6595,2.7,24.6,66.1,113.2,87.4,None,Never,14.01
+669,2024-08-29,56,M,172.1,117.4,Weight Training,41,High,11.2,142,6.4,2,6837,2.1,24.6,66.1,113.2,87.4,None,Never,14.07
+669,2024-08-30,56,M,172.1,117.6,Running,47,High,21.0,147,7.4,5,7175,2.0,24.6,66.1,113.2,87.4,None,Never,14.13

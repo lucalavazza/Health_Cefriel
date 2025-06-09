@@ -1,0 +1,22 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+2655,2024-07-02,24,M,179.6,123.1,Swimming,112,Medium,32.1,147,6.8,6,7997,3.4,27.8,66.1,123.4,79.5,Diabetes,Former,10.16
+2655,2024-07-04,24,M,179.6,123.3,Walking,94,High,17.1,165,5.9,6,6041,1.6,27.8,66.1,123.4,79.5,Diabetes,Former,10.29
+2655,2024-07-05,24,M,179.6,123.6,HIIT,77,Medium,38.0,148,8.0,6,8390,3.1,27.8,66.1,123.4,79.5,Diabetes,Former,10.38
+2655,2024-07-06,24,M,179.6,123.8,HIIT,90,Low,37.1,125,6.9,10,9611,1.6,27.8,66.1,123.4,79.5,Diabetes,Former,10.47
+2655,2024-07-07,24,M,179.6,124.1,Walking,56,Medium,8.8,143,6.2,1,7912,3.0,27.8,66.1,123.4,79.5,Diabetes,Former,10.54
+2655,2024-07-08,24,M,179.6,124.4,Cycling,61,Medium,21.4,132,7.1,5,9365,3.4,27.8,66.1,123.4,79.5,Diabetes,Former,10.61
+2655,2024-07-09,24,M,179.6,124.6,Weight Training,90,Medium,22.4,135,6.6,2,8856,2.0,27.8,66.1,123.4,79.5,Diabetes,Former,10.72
+2655,2024-07-10,24,M,179.6,124.9,Weight Training,90,Medium,22.4,136,6.5,4,9954,3.4,27.8,66.1,123.4,79.5,Diabetes,Former,10.83
+2655,2024-07-11,24,M,179.6,125.1,Weight Training,78,Low,16.2,129,7.0,10,8133,2.6,27.8,66.1,123.4,79.5,Diabetes,Former,10.9
+2655,2024-07-15,24,M,179.6,125.4,Swimming,43,Medium,12.6,148,7.4,5,8861,1.7,27.8,66.1,123.4,79.5,Diabetes,Former,10.96
+2655,2024-07-16,24,M,179.6,125.6,Weight Training,71,Medium,17.8,131,6.8,3,8099,2.5,27.8,66.1,123.4,79.5,Diabetes,Former,11.04
+2655,2024-07-18,24,M,179.6,125.9,Tennis,111,High,39.6,155,7.4,3,8496,1.9,27.8,66.1,123.4,79.5,Diabetes,Former,11.2
+2655,2024-07-19,24,M,179.6,126.2,Weight Training,58,Medium,14.6,154,6.9,3,5180,2.8,27.8,66.1,123.4,79.5,Diabetes,Former,11.27
+2655,2024-07-20,24,M,179.6,126.4,Weight Training,62,Low,13.0,130,6.5,6,12054,3.0,27.8,66.1,123.4,79.5,Diabetes,Former,11.33
+2655,2024-07-23,24,M,179.6,126.7,Basketball,50,Medium,16.9,133,6.9,9,6863,2.8,27.8,66.1,123.4,79.5,Diabetes,Former,11.39
+2655,2024-07-25,24,M,179.6,126.9,Weight Training,84,Medium,21.3,159,6.9,5,9128,1.6,27.8,66.1,123.4,79.5,Diabetes,Former,11.49
+2655,2024-07-27,24,M,179.6,127.2,Weight Training,20,Low,4.2,129,7.8,9,7247,1.7,27.8,66.1,123.4,79.5,Diabetes,Former,11.51
+2655,2024-07-28,24,M,179.6,127.5,Dancing,90,Low,17.5,125,7.0,2,8123,1.7,27.8,66.1,123.4,79.5,Diabetes,Former,11.6
+2655,2024-07-29,24,M,179.6,127.7,Dancing,44,Medium,10.3,148,6.8,1,4425,1.8,27.8,66.1,123.4,79.5,Diabetes,Former,11.65
+2655,2024-07-30,24,M,179.6,128.0,Running,107,High,52.1,149,8.3,10,5854,3.2,27.8,66.1,123.4,79.5,Diabetes,Former,11.8
+2655,2024-07-31,24,M,179.6,128.2,Running,52,High,25.4,155,9.0,4,9063,3.3,27.8,66.1,123.4,79.5,Diabetes,Former,11.87

@@ -1,0 +1,19 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+917,2024-01-01,29,F,163.4,62.3,Weight Training,115,Low,11.9,126,5.4,10,10641,3.2,23.2,71.4,112.4,81.3,None,Never,0.12
+917,2024-01-02,29,F,163.4,62.5,Weight Training,57,Medium,7.1,152,7.9,1,10178,2.8,23.2,71.4,112.4,81.3,None,Never,0.18
+917,2024-01-03,29,F,163.4,62.8,Weight Training,108,Medium,13.5,148,7.5,5,8521,2.9,23.2,71.4,112.4,81.3,None,Never,0.31
+917,2024-01-04,29,F,163.4,63.0,Weight Training,54,Medium,6.8,142,8.0,6,8650,1.7,23.2,71.4,112.4,81.3,None,Never,0.38
+917,2024-01-05,29,F,163.4,63.3,Weight Training,103,High,15.2,164,7.9,9,7305,1.8,23.2,71.4,112.4,81.3,None,Never,0.52
+917,2024-01-06,29,F,163.4,63.6,Weight Training,20,Medium,2.5,144,6.2,1,11282,1.9,23.2,71.4,112.4,81.3,None,Never,0.55
+917,2024-01-10,29,F,163.4,63.8,Weight Training,97,Medium,12.3,131,8.1,4,7839,2.9,23.2,71.4,112.4,81.3,None,Never,0.66
+917,2024-01-12,29,F,163.4,64.1,Weight Training,50,Medium,6.4,159,6.5,8,9715,3.1,23.2,71.4,112.4,81.3,None,Never,0.72
+917,2024-01-13,29,F,163.4,64.3,Weight Training,71,High,10.6,152,6.5,4,11241,3.0,23.2,71.4,112.4,81.3,None,Never,0.82
+917,2024-01-14,29,F,163.4,64.6,Weight Training,90,Medium,11.6,137,7.5,5,12954,3.2,23.2,71.4,112.4,81.3,None,Never,0.93
+917,2024-01-15,29,F,163.4,64.9,Weight Training,105,Medium,13.6,139,5.9,1,5650,2.1,23.2,71.4,112.4,81.3,None,Never,1.06
+917,2024-01-18,29,F,163.4,65.1,Cycling,31,Low,4.7,123,7.4,3,9596,1.7,23.2,71.4,112.4,81.3,None,Never,1.09
+917,2024-01-19,29,F,163.4,65.4,Cycling,89,Low,13.7,140,8.9,4,7825,3.0,23.2,71.4,112.4,81.3,None,Never,1.18
+917,2024-01-22,29,F,163.4,65.6,Walking,54,Low,3.7,133,6.9,1,7349,1.8,23.2,71.4,112.4,81.3,None,Never,1.23
+917,2024-01-23,29,F,163.4,65.9,Walking,87,Medium,7.2,152,6.6,6,8004,2.3,23.2,71.4,112.4,81.3,None,Never,1.33
+917,2024-01-25,29,F,163.4,66.1,Cycling,28,Medium,5.2,139,7.7,8,8245,2.7,23.2,71.4,112.4,81.3,None,Never,1.37
+917,2024-01-27,29,F,163.4,66.4,Basketball,33,Low,4.9,126,8.7,7,9952,2.5,23.2,71.4,112.4,81.3,None,Never,1.4
+917,2024-01-31,29,F,163.4,66.7,Yoga,35,Low,1.9,111,7.9,9,7584,3.4,23.2,71.4,112.4,81.3,None,Never,1.44

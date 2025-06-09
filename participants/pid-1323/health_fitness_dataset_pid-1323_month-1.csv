@@ -1,0 +1,20 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+1323,2024-01-01,41,M,185.6,71.4,Weight Training,84,Medium,12.0,117,6.6,9,6418,3.1,20.7,69.9,120.7,71,None,Never,0.1
+1323,2024-01-02,41,M,185.6,71.7,Weight Training,105,High,17.5,142,7.6,5,6388,2.5,20.7,69.9,120.7,71,None,Never,0.25
+1323,2024-01-04,41,M,185.6,71.9,Weight Training,119,Low,14.2,122,8.8,3,8023,3.3,20.7,69.9,120.7,71,None,Never,0.37
+1323,2024-01-05,41,M,185.6,72.2,Weight Training,48,Low,5.8,119,6.7,7,9059,1.7,20.7,69.9,120.7,71,None,Never,0.41
+1323,2024-01-06,41,M,185.6,72.5,Weight Training,49,Medium,7.1,133,7.0,6,11345,1.8,20.7,69.9,120.7,71,None,Never,0.47
+1323,2024-01-07,41,M,185.6,72.7,Weight Training,81,Low,9.8,118,6.7,2,9459,3.4,20.7,69.9,120.7,71,None,Never,0.55
+1323,2024-01-08,41,M,185.6,73.0,Weight Training,28,Medium,4.1,123,4.3,1,10184,3.4,20.7,69.9,120.7,71,None,Never,0.59
+1323,2024-01-10,41,M,185.6,73.2,Weight Training,21,Medium,3.1,141,8.3,10,7253,2.5,20.7,69.9,120.7,71,None,Never,0.61
+1323,2024-01-11,41,M,185.6,73.5,Weight Training,40,Low,4.9,115,7.6,5,9622,2.1,20.7,69.9,120.7,71,None,Never,0.65
+1323,2024-01-15,41,M,185.6,73.7,Walking,84,Low,6.5,102,7.1,8,7402,2.6,20.7,69.9,120.7,71,None,Never,0.74
+1323,2024-01-17,41,M,185.6,74.0,Weight Training,117,Medium,17.3,141,5.5,9,9118,3.4,20.7,69.9,120.7,71,None,Never,0.88
+1323,2024-01-21,41,M,185.6,74.3,Yoga,105,Medium,7.8,128,8.8,1,14671,1.8,20.7,69.9,120.7,71,None,Never,1.0
+1323,2024-01-23,41,M,185.6,74.5,Walking,64,Low,5.0,125,6.6,1,10708,2.1,20.7,69.9,120.7,71,None,Never,1.07
+1323,2024-01-24,41,M,185.6,74.8,Yoga,104,Medium,7.8,134,6.3,6,4431,2.9,20.7,69.9,120.7,71,None,Never,1.19
+1323,2024-01-25,41,M,185.6,75.0,Walking,102,Medium,9.7,124,7.3,9,8300,3.1,20.7,69.9,120.7,71,None,Never,1.32
+1323,2024-01-26,41,M,185.6,75.3,Running,28,High,8.0,148,6.9,6,9497,2.1,20.7,69.9,120.7,71,None,Never,1.35
+1323,2024-01-28,41,M,185.6,75.6,Running,87,Low,17.8,116,7.2,1,8898,2.6,20.7,69.9,120.7,71,None,Never,1.44
+1323,2024-01-30,41,M,185.6,75.8,Running,78,Medium,19.3,127,9.1,8,7006,1.8,20.7,69.9,120.7,71,None,Never,1.53
+1323,2024-01-31,41,M,185.6,76.1,Running,50,Medium,12.4,128,7.7,5,8383,2.2,20.7,69.9,120.7,71,None,Never,1.59

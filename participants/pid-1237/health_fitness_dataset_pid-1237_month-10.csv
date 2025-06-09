@@ -1,0 +1,17 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+1237,2024-10-02,58,F,163.1,105.1,Yoga,99,Medium,10.4,114,7.4,6,5397,1.8,21.5,74.1,128.3,87.2,None,Current,14.68
+1237,2024-10-04,58,F,163.1,105.3,Yoga,70,Medium,7.4,111,6.5,2,7552,2.8,21.5,74.1,128.3,87.2,None,Current,14.77
+1237,2024-10-05,58,F,163.1,105.6,Weight Training,44,Low,7.7,105,6.5,1,8528,2.3,21.5,74.1,128.3,87.2,None,Current,14.81
+1237,2024-10-07,58,F,163.1,105.9,Weight Training,68,Low,12.0,106,6.6,8,6096,1.8,21.5,74.1,128.3,87.2,None,Current,14.88
+1237,2024-10-08,58,F,163.1,106.1,Yoga,54,High,6.7,147,8.6,9,6705,2.7,21.5,74.1,128.3,87.2,None,Current,14.95
+1237,2024-10-09,58,F,163.1,106.4,Yoga,52,Low,4.6,104,7.3,2,6332,2.5,21.5,74.1,128.3,87.2,None,Current,15.01
+1237,2024-10-10,58,F,163.1,106.6,Weight Training,27,High,6.7,146,7.6,7,6213,1.9,21.5,74.1,128.3,87.2,None,Current,15.04
+1237,2024-10-12,58,F,163.1,106.9,Weight Training,73,High,18.2,127,6.3,2,6525,2.0,21.5,74.1,128.3,87.2,None,Current,15.15
+1237,2024-10-13,58,F,163.1,107.2,Weight Training,87,Low,15.5,105,7.2,2,7706,1.9,21.5,74.1,128.3,87.2,None,Current,15.23
+1237,2024-10-14,58,F,163.1,107.4,Yoga,57,Low,5.1,108,8.0,9,5623,2.4,21.5,74.1,128.3,87.2,None,Current,15.29
+1237,2024-10-21,58,F,163.1,107.7,Yoga,60,Medium,6.4,122,5.8,9,5592,2.6,21.5,74.1,128.3,87.2,None,Current,15.36
+1237,2024-10-22,58,F,163.1,107.9,Weight Training,98,Medium,21.1,120,8.4,9,6748,2.0,21.5,74.1,128.3,87.2,None,Current,15.48
+1237,2024-10-26,58,F,163.1,108.2,Yoga,24,Medium,2.6,117,6.7,6,8092,1.7,21.5,74.1,128.3,87.2,None,Current,15.51
+1237,2024-10-27,58,F,163.1,108.4,Weight Training,95,High,24.0,180,8.9,8,7847,3.5,21.5,74.1,128.3,87.2,None,Current,15.64
+1237,2024-10-28,58,F,163.1,108.7,Weight Training,114,Medium,24.7,124,6.6,3,5807,2.2,21.5,74.1,128.3,87.2,None,Current,15.78
+1237,2024-10-30,58,F,163.1,109.0,Yoga,67,Medium,7.3,119,7.1,9,5822,1.9,21.5,74.1,128.3,87.2,None,Current,15.86

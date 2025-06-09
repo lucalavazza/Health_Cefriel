@@ -1,0 +1,18 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+1685,2024-11-01,19,M,166,99.1,Walking,56,Medium,7.0,156,8.3,7,7172,1.5,18.1,69,115.1,83.5,None,Former,15.64
+1685,2024-11-02,19,M,166,99.3,Walking,83,High,12.2,160,5.3,1,6383,2.2,18.1,69,115.1,83.5,None,Former,15.76
+1685,2024-11-05,19,M,166,99.6,Walking,98,High,14.4,189,7.3,3,6044,3.5,18.1,69,115.1,83.5,None,Former,15.9
+1685,2024-11-06,19,M,166,99.9,Walking,24,Low,2.5,134,7.0,4,6478,3.4,18.1,69,115.1,83.5,None,Former,15.92
+1685,2024-11-07,19,M,166,100.1,Walking,48,Low,5.1,133,6.1,2,8823,3.4,18.1,69,115.1,83.5,None,Former,15.97
+1685,2024-11-08,19,M,166,100.4,Running,104,High,39.7,167,6.5,1,4455,2.1,18.1,69,115.1,83.5,None,Former,16.11
+1685,2024-11-09,19,M,166,100.6,Running,94,Medium,30.8,136,6.8,3,8827,2.9,18.1,69,115.1,83.5,None,Former,16.23
+1685,2024-11-12,19,M,166,100.9,Cycling,83,Medium,23.7,144,7.2,5,8981,2.5,18.1,69,115.1,83.5,None,Former,16.33
+1685,2024-11-15,19,M,166,101.1,Weight Training,67,High,15.8,185,6.6,3,8030,3.0,18.1,69,115.1,83.5,None,Former,16.42
+1685,2024-11-18,19,M,166,101.4,Cycling,119,Medium,34.1,168,7.4,3,5865,2.2,18.1,69,115.1,83.5,None,Former,16.56
+1685,2024-11-19,19,M,166,101.6,Cycling,68,Low,16.3,128,7.4,6,6577,2.4,18.1,69,115.1,83.5,None,Former,16.63
+1685,2024-11-20,19,M,166,101.9,Weight Training,92,Medium,18.7,147,7.0,5,6193,2.7,18.1,69,115.1,83.5,None,Former,16.74
+1685,2024-11-21,19,M,166,102.2,Weight Training,48,Medium,9.8,145,7.8,1,5664,2.7,18.1,69,115.1,83.5,None,Former,16.8
+1685,2024-11-24,19,M,166,102.4,Cycling,90,Medium,26.1,156,8.4,1,8078,1.8,18.1,69,115.1,83.5,None,Former,16.91
+1685,2024-11-26,19,M,166,102.7,Cycling,111,Low,26.8,132,8.4,6,6913,2.7,18.1,69,115.1,83.5,None,Former,17.02
+1685,2024-11-28,19,M,166,102.9,Weight Training,25,Low,4.3,134,7.4,10,8144,3.3,18.1,69,115.1,83.5,None,Former,17.04
+1685,2024-11-30,19,M,166,103.2,Cycling,61,Medium,17.8,128,8.1,2,10264,2.0,18.1,69,115.1,83.5,None,Former,17.12

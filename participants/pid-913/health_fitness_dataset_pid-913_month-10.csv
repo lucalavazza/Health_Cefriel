@@ -1,0 +1,17 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+913,2024-10-02,42,M,184.6,136.6,Running,47,High,24.4,142,4.6,6,6557,2.5,27.1,68.1,136.8,65.2,Diabetes,Never,13.63
+913,2024-10-07,42,M,184.6,136.9,Cycling,99,Medium,38.3,133,6.2,5,6808,2.6,27.1,68.1,136.8,65.2,Diabetes,Never,13.74
+913,2024-10-09,42,M,184.6,137.2,Running,26,Medium,11.6,133,5.9,9,6881,1.8,27.1,68.1,136.8,65.2,Diabetes,Never,13.78
+913,2024-10-11,42,M,184.6,137.4,Cycling,31,Low,10.0,113,7.0,5,3571,2.8,27.1,68.1,136.8,65.2,Diabetes,Never,13.81
+913,2024-10-12,42,M,184.6,137.7,Cycling,49,High,22.3,143,6.2,5,7042,2.4,27.1,68.1,136.8,65.2,Diabetes,Never,13.88
+913,2024-10-15,42,M,184.6,137.9,Dancing,115,Medium,29.0,133,7.8,4,4726,2.9,27.1,68.1,136.8,65.2,Diabetes,Never,14.01
+913,2024-10-16,42,M,184.6,138.2,Weight Training,94,High,30.3,157,7.4,4,4084,2.5,27.1,68.1,136.8,65.2,Diabetes,Never,14.14
+913,2024-10-17,42,M,184.6,138.4,Dancing,78,Medium,19.8,146,6.9,6,6031,2.9,27.1,68.1,136.8,65.2,Diabetes,Never,14.24
+913,2024-10-19,42,M,184.6,138.7,Dancing,114,Low,24.1,120,6.6,6,7650,1.6,27.1,68.1,136.8,65.2,Diabetes,Never,14.35
+913,2024-10-20,42,M,184.6,139.0,Dancing,98,Medium,24.9,141,7.9,6,5929,2.1,27.1,68.1,136.8,65.2,Diabetes,Never,14.47
+913,2024-10-22,42,M,184.6,139.2,Dancing,57,Medium,14.5,143,6.6,4,6838,2.3,27.1,68.1,136.8,65.2,Diabetes,Never,14.54
+913,2024-10-23,42,M,184.6,139.5,Dancing,106,Low,22.5,114,6.7,1,5644,3.3,27.1,68.1,136.8,65.2,Diabetes,Never,14.64
+913,2024-10-24,42,M,184.6,139.7,Dancing,69,Medium,17.6,129,5.1,4,8151,3.1,27.1,68.1,136.8,65.2,Diabetes,Never,14.73
+913,2024-10-26,42,M,184.6,140.0,Basketball,21,High,9.1,160,5.3,8,7484,2.0,27.1,68.1,136.8,65.2,Diabetes,Never,14.76
+913,2024-10-28,42,M,184.6,140.2,Yoga,107,Low,12.5,109,4.8,3,6803,2.0,27.1,68.1,136.8,65.2,Diabetes,Never,14.86
+913,2024-10-29,42,M,184.6,140.5,Dancing,116,Low,24.9,120,6.7,5,5668,2.6,27.1,68.1,136.8,65.2,Diabetes,Never,14.98

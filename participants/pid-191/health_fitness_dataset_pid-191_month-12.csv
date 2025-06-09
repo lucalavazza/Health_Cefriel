@@ -1,0 +1,18 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+191,2024-12-01,55,M,171.9,128.9,Running,63,Medium,26.5,142,6.9,2,9282,2.4,24.3,67.8,125.4,79.6,Asthma,Former,18.59
+191,2024-12-02,55,M,171.9,129.2,Running,46,Medium,19.4,122,6.4,6,7333,1.7,24.3,67.8,125.4,79.6,Asthma,Former,18.65
+191,2024-12-03,55,M,171.9,129.5,Cycling,91,Medium,33.3,127,6.4,3,4709,2.1,24.3,67.8,125.4,79.6,Asthma,Former,18.76
+191,2024-12-07,55,M,171.9,129.7,Cycling,118,Low,36.1,103,6.9,9,9426,3.0,24.3,67.8,125.4,79.6,Asthma,Former,18.87
+191,2024-12-12,55,M,171.9,130.0,Running,39,Medium,16.5,118,5.4,8,5903,3.2,24.3,67.8,125.4,79.6,Asthma,Former,18.92
+191,2024-12-13,55,M,171.9,130.2,Yoga,109,Medium,14.2,116,4.5,6,5282,1.9,24.3,67.8,125.4,79.6,Asthma,Former,19.05
+191,2024-12-14,55,M,171.9,130.5,Cycling,77,Medium,28.4,113,8.9,2,11001,2.3,24.3,67.8,125.4,79.6,Asthma,Former,19.14
+191,2024-12-15,55,M,171.9,130.7,Weight Training,115,Low,25.0,106,5.5,7,9197,1.7,24.3,67.8,125.4,79.6,Asthma,Former,19.26
+191,2024-12-17,55,M,171.9,131.0,Weight Training,69,Low,15.0,105,7.6,9,7043,3.5,24.3,67.8,125.4,79.6,Asthma,Former,19.33
+191,2024-12-18,55,M,171.9,131.3,Cycling,45,Low,13.9,101,7.2,7,7086,1.6,24.3,67.8,125.4,79.6,Asthma,Former,19.37
+191,2024-12-19,55,M,171.9,131.5,Cycling,31,Medium,11.5,116,8.7,7,7193,1.7,24.3,67.8,125.4,79.6,Asthma,Former,19.41
+191,2024-12-20,55,M,171.9,131.8,Cycling,45,High,19.6,133,8.2,1,6904,2.6,24.3,67.8,125.4,79.6,Asthma,Former,19.47
+191,2024-12-21,55,M,171.9,132.0,Cycling,89,Medium,33.2,130,5.7,6,9524,2.8,24.3,67.8,125.4,79.6,Asthma,Former,19.58
+191,2024-12-22,55,M,171.9,132.3,Cycling,72,Medium,26.9,132,7.0,3,7830,3.1,24.3,67.8,125.4,79.6,Asthma,Former,19.67
+191,2024-12-23,55,M,171.9,132.5,Cycling,95,Low,29.7,104,7.5,7,7212,2.4,24.3,67.8,125.4,79.6,Asthma,Former,19.76
+191,2024-12-24,55,M,171.9,132.8,Tennis,87,High,32.7,129,6.5,7,8084,1.8,24.3,67.8,125.4,79.6,Asthma,Former,19.88
+191,2024-12-25,55,M,171.9,133.1,Cycling,28,Low,8.8,105,6.5,1,6470,1.7,24.3,67.8,125.4,79.6,Asthma,Former,19.91

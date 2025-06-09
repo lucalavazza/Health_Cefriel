@@ -1,0 +1,17 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+302,2024-09-01,19,F,155.1,94.4,Swimming,99,Medium,21.7,141,7.1,8,9136,3.0,21.3,68.4,124.3,90.5,Diabetes,Former,14.22
+302,2024-09-06,19,F,155.1,94.7,Swimming,48,Low,8.8,129,5.4,9,9372,3.1,21.3,68.4,124.3,90.5,Diabetes,Former,14.27
+302,2024-09-07,19,F,155.1,94.9,Swimming,54,Low,9.9,135,8.2,10,10165,2.2,21.3,68.4,124.3,90.5,Diabetes,Former,14.32
+302,2024-09-09,19,F,155.1,95.2,Swimming,62,Medium,13.7,148,5.5,1,7849,2.4,21.3,68.4,124.3,90.5,Diabetes,Former,14.39
+302,2024-09-10,19,F,155.1,95.4,Swimming,112,High,29.0,187,8.5,2,7093,1.8,21.3,68.4,124.3,90.5,Diabetes,Former,14.55
+302,2024-09-12,19,F,155.1,95.7,Running,94,High,34.2,164,7.8,3,7648,1.5,21.3,68.4,124.3,90.5,Diabetes,Former,14.68
+302,2024-09-14,19,F,155.1,96.0,Running,48,High,17.5,159,7.8,2,7111,2.3,21.3,68.4,124.3,90.5,Diabetes,Former,14.75
+302,2024-09-15,19,F,155.1,96.2,Yoga,33,Low,2.6,132,7.5,2,5623,2.9,21.3,68.4,124.3,90.5,Diabetes,Former,14.78
+302,2024-09-18,19,F,155.1,96.5,Running,89,High,32.6,168,8.8,6,6852,2.5,21.3,68.4,124.3,90.5,Diabetes,Former,14.91
+302,2024-09-20,19,F,155.1,96.7,Running,104,Medium,32.8,160,6.8,8,7403,2.1,21.3,68.4,124.3,90.5,Diabetes,Former,15.03
+302,2024-09-23,19,F,155.1,97.0,Yoga,104,Medium,10.1,164,7.1,4,6163,2.1,21.3,68.4,124.3,90.5,Diabetes,Former,15.16
+302,2024-09-25,19,F,155.1,97.2,Yoga,26,Low,2.1,128,6.5,2,6243,3.2,21.3,68.4,124.3,90.5,Diabetes,Former,15.18
+302,2024-09-26,19,F,155.1,97.5,Running,92,Medium,29.2,145,7.2,3,7161,1.7,21.3,68.4,124.3,90.5,Diabetes,Former,15.29
+302,2024-09-28,19,F,155.1,97.8,Swimming,27,Medium,6.1,156,7.3,4,5485,3.4,21.3,68.4,124.3,90.5,Diabetes,Former,15.33
+302,2024-09-29,19,F,155.1,98.0,Running,79,Low,21.0,128,4.7,1,7360,3.2,21.3,68.4,124.3,90.5,Diabetes,Former,15.4
+302,2024-09-30,19,F,155.1,98.3,Swimming,103,Medium,23.6,161,6.0,9,5637,2.8,21.3,68.4,124.3,90.5,Diabetes,Former,15.53

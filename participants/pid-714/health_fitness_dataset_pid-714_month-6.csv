@@ -1,0 +1,17 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+714,2024-06-02,43,M,174.9,109.4,Tennis,120,Medium,31.9,127,7.2,7,7281,3.1,26.5,69.7,107.5,81.5,Diabetes,Never,8.64
+714,2024-06-03,43,M,174.9,109.6,Tennis,46,Low,10.2,112,7.1,4,8841,3.0,26.5,69.7,107.5,81.5,Diabetes,Never,8.68
+714,2024-06-05,43,M,174.9,109.9,HIIT,107,High,54.7,147,8.6,4,8037,3.0,26.5,69.7,107.5,81.5,Diabetes,Never,8.83
+714,2024-06-06,43,M,174.9,110.1,Tennis,53,High,16.5,146,7.3,2,6343,1.7,26.5,69.7,107.5,81.5,Diabetes,Never,8.91
+714,2024-06-09,43,M,174.9,110.4,HIIT,119,Low,43.7,111,5.6,3,12496,2.9,26.5,69.7,107.5,81.5,Diabetes,Never,9.03
+714,2024-06-11,43,M,174.9,110.7,Weight Training,99,Medium,21.9,125,8.3,8,11263,2.9,26.5,69.7,107.5,81.5,Diabetes,Never,9.15
+714,2024-06-12,43,M,174.9,110.9,Running,114,Medium,41.2,141,9.7,8,8103,2.4,26.5,69.7,107.5,81.5,Diabetes,Never,9.28
+714,2024-06-15,43,M,174.9,111.2,HIIT,24,High,12.4,138,7.0,2,10129,3.4,26.5,69.7,107.5,81.5,Diabetes,Never,9.32
+714,2024-06-16,43,M,174.9,111.4,Weight Training,85,Medium,18.9,138,5.4,8,8681,2.2,26.5,69.7,107.5,81.5,Diabetes,Never,9.42
+714,2024-06-18,43,M,174.9,111.7,Weight Training,73,Low,13.6,107,7.9,5,7771,3.0,26.5,69.7,107.5,81.5,Diabetes,Never,9.49
+714,2024-06-20,43,M,174.9,111.9,HIIT,62,Low,23.1,113,7.8,8,8408,3.5,26.5,69.7,107.5,81.5,Diabetes,Never,9.55
+714,2024-06-21,43,M,174.9,112.2,Basketball,95,High,33.1,148,9.7,7,10663,2.8,26.5,69.7,107.5,81.5,Diabetes,Never,9.69
+714,2024-06-25,43,M,174.9,112.5,HIIT,48,Medium,21.5,132,6.7,5,11063,1.6,26.5,69.7,107.5,81.5,Diabetes,Never,9.74
+714,2024-06-26,43,M,174.9,112.7,Basketball,37,Medium,11.1,136,7.9,3,9314,3.0,26.5,69.7,107.5,81.5,Diabetes,Never,9.79
+714,2024-06-28,43,M,174.9,113.0,HIIT,106,High,55.8,140,6.3,9,7352,2.8,26.5,69.7,107.5,81.5,Diabetes,Never,9.94
+714,2024-06-30,43,M,174.9,113.2,HIIT,33,Medium,14.9,150,6.3,2,11737,2.9,26.5,69.7,107.5,81.5,Diabetes,Never,9.98

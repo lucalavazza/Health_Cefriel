@@ -1,0 +1,16 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+1222,2024-08-01,21,F,171.2,92.1,Tennis,70,Medium,15.6,146,6.8,1,9777,2.0,18.3,81.2,114,76.2,Hypertension,Never,12.37
+1222,2024-08-02,21,F,171.2,92.3,Tennis,93,Medium,20.8,146,5.9,7,6315,1.9,18.3,81.2,114,76.2,Hypertension,Never,12.48
+1222,2024-08-03,21,F,171.2,92.6,Yoga,101,Medium,9.3,153,6.3,10,11301,2.6,18.3,81.2,114,76.2,Hypertension,Never,12.6
+1222,2024-08-04,21,F,171.2,92.8,Yoga,86,Medium,8.0,167,6.3,7,9399,1.5,18.3,81.2,114,76.2,Hypertension,Never,12.71
+1222,2024-08-05,21,F,171.2,93.1,Tennis,98,Medium,22.1,145,6.6,8,7181,2.8,18.3,81.2,114,76.2,Hypertension,Never,12.82
+1222,2024-08-06,21,F,171.2,93.3,Yoga,78,Medium,7.3,141,7.2,9,4758,2.4,18.3,81.2,114,76.2,Hypertension,Never,12.92
+1222,2024-08-07,21,F,171.2,93.6,Yoga,34,High,3.7,175,8.3,4,8301,1.6,18.3,81.2,114,76.2,Hypertension,Never,12.96
+1222,2024-08-10,21,F,171.2,93.9,Yoga,107,High,11.7,154,8.2,10,9946,2.9,18.3,81.2,114,76.2,Hypertension,Never,13.11
+1222,2024-08-14,21,F,171.2,94.1,Yoga,87,Low,6.8,140,7.3,10,7476,1.9,18.3,81.2,114,76.2,Hypertension,Never,13.2
+1222,2024-08-17,21,F,171.2,94.4,Dancing,49,High,9.9,145,8.0,8,5596,1.9,18.3,81.2,114,76.2,Hypertension,Never,13.27
+1222,2024-08-20,21,F,171.2,94.6,HIIT,89,Low,28.0,120,7.6,7,6518,3.1,18.3,81.2,114,76.2,Hypertension,Never,13.36
+1222,2024-08-21,21,F,171.2,94.9,HIIT,81,High,35.8,167,6.3,10,6222,3.3,18.3,81.2,114,76.2,Hypertension,Never,13.47
+1222,2024-08-22,21,F,171.2,95.1,HIIT,115,Medium,43.7,137,6.2,3,5111,2.9,18.3,81.2,114,76.2,Hypertension,Never,13.61
+1222,2024-08-27,21,F,171.2,95.4,Running,81,Medium,25.2,142,6.1,6,7519,1.7,18.3,81.2,114,76.2,Hypertension,Never,13.71
+1222,2024-08-29,21,F,171.2,95.7,HIIT,84,Medium,32.1,154,5.3,7,3828,1.9,18.3,81.2,114,76.2,Hypertension,Never,13.81

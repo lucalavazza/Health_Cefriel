@@ -1,0 +1,16 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+2219,2024-09-01,34,M,183.8,135.5,Cycling,65,Medium,24.9,139,4.8,8,7604,3.3,27.6,70.1,126.1,79.3,Hypertension,Former,13.09
+2219,2024-09-04,34,M,183.8,135.8,Running,94,Low,34.7,128,6.5,4,8585,2.1,27.6,70.1,126.1,79.3,Hypertension,Former,13.19
+2219,2024-09-05,34,M,183.8,136.0,Cycling,40,Medium,15.4,143,7.4,5,7671,3.1,27.6,70.1,126.1,79.3,Hypertension,Former,13.23
+2219,2024-09-06,34,M,183.8,136.3,Running,23,High,11.9,149,4.9,7,6353,1.5,27.6,70.1,126.1,79.3,Hypertension,Former,13.27
+2219,2024-09-07,34,M,183.8,136.5,Running,69,Medium,30.7,135,6.9,3,7134,3.3,27.6,70.1,126.1,79.3,Hypertension,Former,13.35
+2219,2024-09-12,34,M,183.8,136.8,Cycling,45,Low,14.5,117,6.9,2,5279,3.3,27.6,70.1,126.1,79.3,Hypertension,Former,13.39
+2219,2024-09-14,34,M,183.8,137.0,Weight Training,79,Low,18.0,116,8.2,8,9885,1.9,27.6,70.1,126.1,79.3,Hypertension,Former,13.47
+2219,2024-09-15,34,M,183.8,137.3,Running,40,High,20.9,149,7.4,3,6726,1.9,27.6,70.1,126.1,79.3,Hypertension,Former,13.53
+2219,2024-09-18,34,M,183.8,137.6,Cycling,46,Medium,17.9,139,9.0,10,7564,1.6,27.6,70.1,126.1,79.3,Hypertension,Former,13.58
+2219,2024-09-20,34,M,183.8,137.8,Weight Training,109,Low,25.0,125,6.8,1,6144,1.8,27.6,70.1,126.1,79.3,Hypertension,Former,13.69
+2219,2024-09-23,34,M,183.8,138.1,Tennis,56,Low,15.7,121,6.2,3,8479,2.6,27.6,70.1,126.1,79.3,Hypertension,Former,13.75
+2219,2024-09-24,34,M,183.8,138.3,Weight Training,43,Low,9.9,127,7.8,3,5684,1.8,27.6,70.1,126.1,79.3,Hypertension,Former,13.79
+2219,2024-09-26,34,M,183.8,138.6,Tennis,47,Medium,15.8,137,7.1,2,8570,3.3,27.6,70.1,126.1,79.3,Hypertension,Former,13.85
+2219,2024-09-29,34,M,183.8,138.8,Tennis,68,Low,19.1,126,8.8,8,9379,3.0,27.6,70.1,126.1,79.3,Hypertension,Former,13.92
+2219,2024-09-30,34,M,183.8,139.1,Tennis,113,Low,31.8,121,7.6,8,4997,2.6,27.6,70.1,126.1,79.3,Hypertension,Former,14.03

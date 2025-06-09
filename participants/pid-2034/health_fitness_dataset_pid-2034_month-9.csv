@@ -1,0 +1,16 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+2034,2024-09-01,23,M,178.6,145.6,Tennis,61,Medium,21.6,147,7.9,9,7669,2.2,31.3,84.6,127.9,79.6,Hypertension,Former,14.2
+2034,2024-09-02,23,M,178.6,145.8,Tennis,92,Medium,32.6,145,7.0,7,6539,2.2,31.3,84.6,127.9,79.6,Hypertension,Former,14.31
+2034,2024-09-03,23,M,178.6,146.1,Swimming,68,Medium,23.1,159,6.3,6,5763,3.4,31.3,84.6,127.9,79.6,Hypertension,Former,14.39
+2034,2024-09-05,23,M,178.6,146.4,Swimming,70,High,27.8,165,7.7,5,7653,1.8,31.3,84.6,127.9,79.6,Hypertension,Former,14.49
+2034,2024-09-10,23,M,178.6,146.6,Swimming,67,High,26.7,171,9.1,5,6522,1.5,31.3,84.6,127.9,79.6,Hypertension,Former,14.58
+2034,2024-09-11,23,M,178.6,146.9,Yoga,109,Low,13.3,124,8.4,5,7851,3.3,31.3,84.6,127.9,79.6,Hypertension,Former,14.69
+2034,2024-09-13,23,M,178.6,147.1,Dancing,86,Medium,23.2,152,7.3,6,7288,2.1,31.3,84.6,127.9,79.6,Hypertension,Former,14.79
+2034,2024-09-17,23,M,178.6,147.4,Running,83,High,46.5,166,6.9,9,5258,2.6,31.3,84.6,127.9,79.6,Hypertension,Former,14.91
+2034,2024-09-18,23,M,178.6,147.6,Running,114,High,64.0,148,4.6,2,4529,2.1,31.3,84.6,127.9,79.6,Hypertension,Former,15.07
+2034,2024-09-19,23,M,178.6,147.9,Dancing,84,Medium,22.7,138,8.3,2,6455,2.9,31.3,84.6,127.9,79.6,Hypertension,Former,15.17
+2034,2024-09-20,23,M,178.6,148.1,Running,73,Low,29.4,130,7.0,3,4251,2.6,31.3,84.6,127.9,79.6,Hypertension,Former,15.24
+2034,2024-09-21,23,M,178.6,148.4,HIIT,76,Medium,45.0,144,7.3,1,9090,2.0,31.3,84.6,127.9,79.6,Hypertension,Former,15.33
+2034,2024-09-23,23,M,178.6,148.7,Running,85,Medium,41.2,154,8.2,9,5535,1.8,31.3,84.6,127.9,79.6,Hypertension,Former,15.44
+2034,2024-09-26,23,M,178.6,148.9,Walking,97,Low,15.2,128,7.8,3,8828,3.4,31.3,84.6,127.9,79.6,Hypertension,Former,15.53
+2034,2024-09-29,23,M,178.6,149.2,Cycling,83,Low,29.2,122,6.0,5,9276,2.6,31.3,84.6,127.9,79.6,Hypertension,Former,15.62

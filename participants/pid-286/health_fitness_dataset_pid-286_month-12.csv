@@ -1,0 +1,16 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+286,2024-12-01,43,M,168,118.7,Running,23,High,10.4,136,5.6,1,6695,3.4,21.5,70.2,120.3,93.7,Hypertension,Former,19.18
+286,2024-12-02,43,M,168,118.9,Tennis,107,Medium,30.9,144,7.6,6,7807,2.4,21.5,70.2,120.3,93.7,Hypertension,Former,19.31
+286,2024-12-03,43,M,168,119.2,Running,100,Low,32.4,112,6.8,2,5313,3.0,21.5,70.2,120.3,93.7,Hypertension,Former,19.41
+286,2024-12-06,43,M,168,119.4,Running,21,High,9.5,153,5.6,10,6285,2.1,21.5,70.2,120.3,93.7,Hypertension,Former,19.44
+286,2024-12-09,43,M,168,119.7,Weight Training,21,Low,4.2,114,5.6,7,6411,3.0,21.5,70.2,120.3,93.7,Hypertension,Former,19.46
+286,2024-12-10,43,M,168,120.0,Running,56,Medium,21.9,117,7.7,9,6564,2.6,21.5,70.2,120.3,93.7,Hypertension,Former,19.53
+286,2024-12-12,43,M,168,120.2,Weight Training,86,High,24.1,152,7.2,1,6323,2.9,21.5,70.2,120.3,93.7,Hypertension,Former,19.65
+286,2024-12-13,43,M,168,120.5,Running,29,High,13.3,163,7.2,5,7622,3.2,21.5,70.2,120.3,93.7,Hypertension,Former,19.69
+286,2024-12-15,43,M,168,120.7,Weight Training,62,Medium,14.9,132,7.3,3,7003,2.0,21.5,70.2,120.3,93.7,Hypertension,Former,19.76
+286,2024-12-16,43,M,168,121.0,Weight Training,120,Medium,29.0,133,6.4,4,9920,2.4,21.5,70.2,120.3,93.7,Hypertension,Former,19.91
+286,2024-12-18,43,M,168,121.2,Weight Training,92,Low,18.6,119,6.9,7,9165,1.5,21.5,70.2,120.3,93.7,Hypertension,Former,20.0
+286,2024-12-19,43,M,168,121.5,Weight Training,101,Medium,24.5,119,6.8,7,7173,2.0,21.5,70.2,120.3,93.7,Hypertension,Former,20.12
+286,2024-12-21,43,M,168,121.8,Weight Training,33,Low,6.7,114,7.2,6,7315,2.1,21.5,70.2,120.3,93.7,Hypertension,Former,20.15
+286,2024-12-24,43,M,168,122.0,HIIT,118,Medium,57.5,143,6.7,4,8050,2.6,21.5,70.2,120.3,93.7,Hypertension,Former,20.3
+286,2024-12-25,43,M,168,122.3,Basketball,56,Low,15.2,117,6.5,8,7986,3.1,21.5,70.2,120.3,93.7,Hypertension,Former,20.35

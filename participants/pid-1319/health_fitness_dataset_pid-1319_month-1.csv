@@ -1,0 +1,19 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+1319,2024-01-01,36,F,166,67.4,Dancing,36,Low,3.7,117,9.1,5,7755,1.6,24.4,71.4,131.5,73.1,None,Former,0.04
+1319,2024-01-02,36,F,166,67.7,Dancing,108,Medium,13.4,143,7.7,4,6186,2.4,24.4,71.4,131.5,73.1,None,Former,0.17
+1319,2024-01-03,36,F,166,68.0,Dancing,112,Medium,13.9,134,7.8,10,12172,3.2,24.4,71.4,131.5,73.1,None,Former,0.3
+1319,2024-01-04,36,F,166,68.2,Dancing,101,Low,10.5,111,7.3,1,9473,3.0,24.4,71.4,131.5,73.1,None,Former,0.4
+1319,2024-01-05,36,F,166,68.5,Walking,31,Medium,2.7,139,7.4,6,5796,1.6,24.4,71.4,131.5,73.1,None,Former,0.44
+1319,2024-01-06,36,F,166,68.7,Dancing,33,Medium,4.1,139,7.6,10,10686,2.2,24.4,71.4,131.5,73.1,None,Former,0.48
+1319,2024-01-09,36,F,166,69.0,Dancing,104,Low,10.9,121,5.7,1,4993,2.6,24.4,71.4,131.5,73.1,None,Former,0.58
+1319,2024-01-12,36,F,166,69.3,Dancing,57,Medium,7.2,148,8.4,2,7156,1.9,24.4,71.4,131.5,73.1,None,Former,0.65
+1319,2024-01-15,36,F,166,69.5,Cycling,52,Medium,10.2,142,7.3,4,9917,3.1,24.4,71.4,131.5,73.1,None,Former,0.71
+1319,2024-01-18,36,F,166,69.8,Cycling,117,Low,19.2,121,6.8,1,8216,2.7,24.4,71.4,131.5,73.1,None,Former,0.83
+1319,2024-01-19,36,F,166,70.0,Dancing,54,Medium,6.9,163,7.9,6,8965,2.6,24.4,71.4,131.5,73.1,None,Former,0.89
+1319,2024-01-20,36,F,166,70.3,Dancing,57,High,8.5,183,7.1,9,8069,1.9,24.4,71.4,131.5,73.1,None,Former,0.97
+1319,2024-01-21,36,F,166,70.5,Weight Training,118,Medium,16.6,145,6.1,2,9981,2.4,24.4,71.4,131.5,73.1,None,Former,1.12
+1319,2024-01-25,36,F,166,70.8,Weight Training,21,Low,2.5,120,9.7,2,9257,2.7,24.4,71.4,131.5,73.1,None,Former,1.14
+1319,2024-01-26,36,F,166,71.1,Weight Training,120,Medium,17.0,132,6.9,1,7810,3.0,24.4,71.4,131.5,73.1,None,Former,1.28
+1319,2024-01-28,36,F,166,71.3,Weight Training,34,Medium,4.8,129,6.5,7,9995,2.0,24.4,71.4,131.5,73.1,None,Former,1.32
+1319,2024-01-29,36,F,166,71.6,Weight Training,120,Medium,17.1,147,7.6,7,8295,3.4,24.4,71.4,131.5,73.1,None,Former,1.47
+1319,2024-01-31,36,F,166,71.8,Weight Training,68,Medium,9.7,141,6.6,7,10118,2.4,24.4,71.4,131.5,73.1,None,Former,1.55

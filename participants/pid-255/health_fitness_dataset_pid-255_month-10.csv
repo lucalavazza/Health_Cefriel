@@ -1,0 +1,19 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+255,2024-10-02,53,M,190.6,122.5,Walking,82,High,14.8,131,4.9,5,8213,2.7,20.5,80.5,121.1,79.1,None,Current,15.44
+255,2024-10-03,53,M,190.6,122.7,HIIT,86,High,49.1,134,9.1,2,6659,2.7,20.5,80.5,121.1,79.1,None,Current,15.56
+255,2024-10-04,53,M,190.6,123.0,HIIT,68,Medium,33.4,137,7.8,5,7663,2.4,20.5,80.5,121.1,79.1,None,Current,15.64
+255,2024-10-06,53,M,190.6,123.2,HIIT,52,Medium,25.6,136,7.0,3,9126,3.5,20.5,80.5,121.1,79.1,None,Current,15.7
+255,2024-10-07,53,M,190.6,123.5,HIIT,44,Medium,21.7,121,8.6,2,5540,1.6,20.5,80.5,121.1,79.1,None,Current,15.76
+255,2024-10-10,53,M,190.6,123.7,HIIT,110,Medium,54.3,123,6.8,3,6514,2.8,20.5,80.5,121.1,79.1,None,Current,15.89
+255,2024-10-11,53,M,190.6,124.0,HIIT,38,Medium,18.8,115,7.4,3,6766,3.1,20.5,80.5,121.1,79.1,None,Current,15.93
+255,2024-10-12,53,M,190.6,124.3,HIIT,98,Medium,48.6,130,5.4,8,6851,3.2,20.5,80.5,121.1,79.1,None,Current,16.05
+255,2024-10-18,53,M,190.6,124.5,Weight Training,75,Medium,18.6,140,8.2,2,6174,1.5,20.5,80.5,121.1,79.1,None,Current,16.14
+255,2024-10-19,53,M,190.6,124.8,Weight Training,58,Low,12.0,106,7.4,9,8538,2.0,20.5,80.5,121.1,79.1,None,Current,16.2
+255,2024-10-20,53,M,190.6,125.0,Walking,80,Medium,12.6,129,6.2,10,6937,2.8,20.5,80.5,121.1,79.1,None,Current,16.3
+255,2024-10-23,53,M,190.6,125.3,Walking,112,Medium,17.7,114,6.1,5,6662,2.4,20.5,80.5,121.1,79.1,None,Current,16.43
+255,2024-10-24,53,M,190.6,125.5,Weight Training,64,Medium,16.0,122,6.3,8,6204,1.7,20.5,80.5,121.1,79.1,None,Current,16.51
+255,2024-10-25,53,M,190.6,125.8,Walking,81,Medium,12.9,116,8.0,6,8628,2.2,20.5,80.5,121.1,79.1,None,Current,16.6
+255,2024-10-26,53,M,190.6,126.1,Weight Training,119,High,34.9,139,5.3,10,8251,3.0,20.5,80.5,121.1,79.1,None,Current,16.77
+255,2024-10-27,53,M,190.6,126.3,Weight Training,35,Medium,8.8,119,5.4,8,7576,2.9,20.5,80.5,121.1,79.1,None,Current,16.81
+255,2024-10-28,53,M,190.6,126.6,Weight Training,95,Low,20.0,108,7.2,4,7713,3.0,20.5,80.5,121.1,79.1,None,Current,16.91
+255,2024-10-30,53,M,190.6,126.8,Weight Training,25,Low,5.3,107,6.9,3,5683,3.2,20.5,80.5,121.1,79.1,None,Current,16.93

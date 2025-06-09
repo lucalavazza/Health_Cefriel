@@ -1,0 +1,20 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+1028,2024-11-01,55,M,175.1,113.1,Running,68,High,29.2,146,7.9,3,8063,2.4,19.8,64.4,123.1,83.1,Diabetes,Former,17.32
+1028,2024-11-02,55,M,175.1,113.3,Running,43,Low,13.2,97,7.2,3,9967,1.9,19.8,64.4,123.1,83.1,Diabetes,Former,17.36
+1028,2024-11-05,55,M,175.1,113.6,Weight Training,105,Medium,23.8,112,7.9,6,4487,1.5,19.8,64.4,123.1,83.1,Diabetes,Former,17.49
+1028,2024-11-06,55,M,175.1,113.8,Weight Training,75,Medium,17.0,114,6.4,2,4996,2.3,19.8,64.4,123.1,83.1,Diabetes,Former,17.58
+1028,2024-11-07,55,M,175.1,114.1,Basketball,23,Low,5.8,110,7.8,8,6750,2.9,19.8,64.4,123.1,83.1,Diabetes,Former,17.6
+1028,2024-11-08,55,M,175.1,114.4,Weight Training,22,Low,4.2,102,7.7,6,4293,2.5,19.8,64.4,123.1,83.1,Diabetes,Former,17.63
+1028,2024-11-09,55,M,175.1,114.6,Basketball,62,Medium,18.9,123,6.4,10,12044,2.6,19.8,64.4,123.1,83.1,Diabetes,Former,17.7
+1028,2024-11-11,55,M,175.1,114.9,Basketball,113,Medium,34.5,111,5.6,4,7562,2.0,19.8,64.4,123.1,83.1,Diabetes,Former,17.84
+1028,2024-11-12,55,M,175.1,115.1,Weight Training,102,High,27.3,147,7.5,8,6149,1.8,19.8,64.4,123.1,83.1,Diabetes,Former,17.98
+1028,2024-11-13,55,M,175.1,115.4,Tennis,62,Medium,17.4,117,7.0,5,5599,1.8,19.8,64.4,123.1,83.1,Diabetes,Former,18.05
+1028,2024-11-14,55,M,175.1,115.6,Basketball,78,Low,20.0,109,6.0,10,5598,2.9,19.8,64.4,123.1,83.1,Diabetes,Former,18.13
+1028,2024-11-19,55,M,175.1,115.9,Weight Training,80,Low,15.4,112,6.0,7,6753,2.1,19.8,64.4,123.1,83.1,Diabetes,Former,18.21
+1028,2024-11-21,55,M,175.1,116.2,Basketball,64,High,23.1,138,7.4,9,7245,3.4,19.8,64.4,123.1,83.1,Diabetes,Former,18.3
+1028,2024-11-22,55,M,175.1,116.4,Basketball,90,Low,23.2,105,7.2,3,4511,2.2,19.8,64.4,123.1,83.1,Diabetes,Former,18.39
+1028,2024-11-25,55,M,175.1,116.7,Basketball,120,High,43.5,147,7.2,9,6348,1.6,19.8,64.4,123.1,83.1,Diabetes,Former,18.56
+1028,2024-11-26,55,M,175.1,116.9,Dancing,120,High,29.9,148,8.1,7,10811,3.4,19.8,64.4,123.1,83.1,Diabetes,Former,18.73
+1028,2024-11-28,55,M,175.1,117.2,Dancing,59,Low,10.5,115,6.5,4,8139,3.2,19.8,64.4,123.1,83.1,Diabetes,Former,18.79
+1028,2024-11-29,55,M,175.1,117.4,Dancing,43,Medium,9.2,121,5.3,3,7102,2.5,19.8,64.4,123.1,83.1,Diabetes,Former,18.84
+1028,2024-11-30,55,M,175.1,117.7,Cycling,64,High,24.8,141,7.3,8,8957,1.8,19.8,64.4,123.1,83.1,Diabetes,Former,18.93

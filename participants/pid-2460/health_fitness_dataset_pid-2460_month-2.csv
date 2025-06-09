@@ -1,0 +1,21 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+2460,2024-02-01,30,F,159.4,69.9,Basketball,104,Low,16.1,130,8.1,7,7793,2.7,25.6,66.9,114.3,53.8,None,Current,1.7
+2460,2024-02-03,30,F,159.4,70.1,Basketball,45,Medium,8.4,145,7.7,8,9008,3.4,25.6,66.9,114.3,53.8,None,Current,1.75
+2460,2024-02-06,30,F,159.4,70.4,Weight Training,27,High,4.4,146,7.9,6,9824,2.9,25.6,66.9,114.3,53.8,None,Current,1.79
+2460,2024-02-08,30,F,159.4,70.7,Weight Training,106,High,17.4,174,4.3,7,9589,3.1,25.6,66.9,114.3,53.8,None,Current,1.94
+2460,2024-02-09,30,F,159.4,70.9,Basketball,111,Low,17.4,125,7.9,8,6616,3.3,25.6,66.9,114.3,53.8,None,Current,2.05
+2460,2024-02-11,30,F,159.4,71.2,Weight Training,109,Low,12.9,118,7.9,5,8976,3.5,25.6,66.9,114.3,53.8,None,Current,2.16
+2460,2024-02-13,30,F,159.4,71.4,Running,27,Medium,6.3,144,7.3,6,11293,2.9,25.6,66.9,114.3,53.8,None,Current,2.19
+2460,2024-02-14,30,F,159.4,71.7,Running,62,Low,12.1,124,6.8,2,10171,1.5,25.6,66.9,114.3,53.8,None,Current,2.25
+2460,2024-02-15,30,F,159.4,72.0,Basketball,78,Medium,14.9,148,6.6,10,8824,1.7,25.6,66.9,114.3,53.8,None,Current,2.35
+2460,2024-02-17,30,F,159.4,72.2,Running,40,Low,7.8,116,6.5,1,11343,2.2,25.6,66.9,114.3,53.8,None,Current,2.39
+2460,2024-02-18,30,F,159.4,72.5,Running,98,Low,19.3,120,7.7,8,9594,3.2,25.6,66.9,114.3,53.8,None,Current,2.48
+2460,2024-02-19,30,F,159.4,72.7,Weight Training,50,Medium,7.2,141,7.9,2,9109,3.4,25.6,66.9,114.3,53.8,None,Current,2.54
+2460,2024-02-20,30,F,159.4,73.0,Weight Training,70,High,11.9,177,6.1,10,7601,3.3,25.6,66.9,114.3,53.8,None,Current,2.64
+2460,2024-02-21,30,F,159.4,73.2,Weight Training,89,Medium,13.0,140,5.4,4,8599,3.4,25.6,66.9,114.3,53.8,None,Current,2.75
+2460,2024-02-22,30,F,159.4,73.5,Dancing,82,Low,9.2,122,7.1,4,10726,3.5,25.6,66.9,114.3,53.8,None,Current,2.83
+2460,2024-02-25,30,F,159.4,73.8,Weight Training,87,Medium,12.8,147,5.8,10,10662,2.3,25.6,66.9,114.3,53.8,None,Current,2.94
+2460,2024-02-26,30,F,159.4,74.0,Dancing,80,Medium,10.8,155,6.0,2,6730,2.1,25.6,66.9,114.3,53.8,None,Current,3.03
+2460,2024-02-27,30,F,159.4,74.3,Weight Training,108,Medium,16.0,147,8.4,7,8037,1.8,25.6,66.9,114.3,53.8,None,Current,3.16
+2460,2024-02-28,30,F,159.4,74.5,HIIT,114,Low,28.2,118,6.7,7,6967,2.3,25.6,66.9,114.3,53.8,None,Current,3.27
+2460,2024-02-29,30,F,159.4,74.8,Tennis,63,High,13.3,163,6.6,1,10415,2.6,25.6,66.9,114.3,53.8,None,Current,3.36

@@ -1,0 +1,17 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+1076,2024-09-01,26,F,162.6,99.3,Weight Training,109,Medium,21.6,153,6.4,9,7931,1.5,21.7,76.2,131.4,81.7,Diabetes,Current,13.82
+1076,2024-09-02,26,F,162.6,99.6,Weight Training,75,High,17.4,164,7.7,10,6531,1.9,21.7,76.2,131.4,81.7,Diabetes,Current,13.93
+1076,2024-09-05,26,F,162.6,99.8,Weight Training,110,Medium,21.9,147,6.6,1,5470,2.6,21.7,76.2,131.4,81.7,Diabetes,Current,14.06
+1076,2024-09-06,26,F,162.6,100.1,Weight Training,20,Medium,4.0,126,7.4,2,4960,2.7,21.7,76.2,131.4,81.7,Diabetes,Current,14.08
+1076,2024-09-16,26,F,162.6,100.4,Weight Training,73,Medium,14.6,142,6.4,3,7212,3.3,21.7,76.2,131.4,81.7,Diabetes,Current,14.17
+1076,2024-09-17,26,F,162.6,100.6,Weight Training,63,Medium,12.6,138,6.1,2,5833,1.7,21.7,76.2,131.4,81.7,Diabetes,Current,14.24
+1076,2024-09-18,26,F,162.6,100.9,Walking,62,Medium,7.9,153,7.0,1,5967,2.8,21.7,76.2,131.4,81.7,Diabetes,Current,14.32
+1076,2024-09-19,26,F,162.6,101.1,Walking,53,Medium,6.8,136,7.2,1,7746,3.1,21.7,76.2,131.4,81.7,Diabetes,Current,14.38
+1076,2024-09-21,26,F,162.6,101.4,Walking,108,Low,11.5,123,7.1,1,7823,2.2,21.7,76.2,131.4,81.7,Diabetes,Current,14.49
+1076,2024-09-22,26,F,162.6,101.6,Walking,115,High,17.2,165,5.0,2,9147,3.1,21.7,76.2,131.4,81.7,Diabetes,Current,14.65
+1076,2024-09-23,26,F,162.6,101.9,Basketball,62,Low,14.0,126,7.0,4,6378,2.4,21.7,76.2,131.4,81.7,Diabetes,Current,14.71
+1076,2024-09-24,26,F,162.6,102.2,HIIT,63,Medium,25.7,144,8.4,4,6592,2.4,21.7,76.2,131.4,81.7,Diabetes,Current,14.79
+1076,2024-09-25,26,F,162.6,102.4,HIIT,43,Low,14.6,123,6.7,4,5544,3.1,21.7,76.2,131.4,81.7,Diabetes,Current,14.83
+1076,2024-09-27,26,F,162.6,102.7,HIIT,21,Low,7.2,131,6.3,10,6688,2.4,21.7,76.2,131.4,81.7,Diabetes,Current,14.85
+1076,2024-09-28,26,F,162.6,102.9,HIIT,20,Medium,8.2,131,7.4,1,9451,2.4,21.7,76.2,131.4,81.7,Diabetes,Current,14.88
+1076,2024-09-30,26,F,162.6,103.2,HIIT,115,Low,39.5,125,7.3,8,4329,2.1,21.7,76.2,131.4,81.7,Diabetes,Current,14.99

@@ -1,0 +1,19 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+1977,2024-12-01,64,M,169.1,111.4,Tennis,30,High,9.5,130,8.3,4,9339,2.2,19,63.5,111.3,73.2,Diabetes,Never,18.19
+1977,2024-12-02,64,M,169.1,111.7,Tennis,34,Medium,9.2,104,8.0,2,10119,2.8,19,63.5,111.3,73.2,Diabetes,Never,18.23
+1977,2024-12-04,64,M,169.1,111.9,Tennis,69,Medium,18.7,108,8.2,2,6640,2.7,19,63.5,111.3,73.2,Diabetes,Never,18.32
+1977,2024-12-05,64,M,169.1,112.2,Dancing,116,Low,19.8,105,10.0,2,8083,2.3,19,63.5,111.3,73.2,Diabetes,Never,18.43
+1977,2024-12-07,64,M,169.1,112.4,Swimming,67,High,20.5,132,7.1,7,9576,3.4,19,63.5,111.3,73.2,Diabetes,Never,18.53
+1977,2024-12-08,64,M,169.1,112.7,Cycling,97,Low,25.7,97,6.3,6,9476,1.8,19,63.5,111.3,73.2,Diabetes,Never,18.62
+1977,2024-12-09,64,M,169.1,112.9,Dancing,77,Medium,15.9,116,8.1,3,6368,3.2,19,63.5,111.3,73.2,Diabetes,Never,18.71
+1977,2024-12-10,64,M,169.1,113.2,Cycling,120,Medium,38.4,98,7.2,4,9078,2.1,19,63.5,111.3,73.2,Diabetes,Never,18.86
+1977,2024-12-11,64,M,169.1,113.5,Dancing,51,Low,8.8,96,6.8,7,7475,3.5,19,63.5,111.3,73.2,Diabetes,Never,18.91
+1977,2024-12-13,64,M,169.1,113.7,Dancing,42,Low,7.3,99,6.3,1,6808,2.1,19,63.5,111.3,73.2,Diabetes,Never,18.95
+1977,2024-12-14,64,M,169.1,114.0,Dancing,94,Low,16.3,106,6.7,8,8699,3.2,19,63.5,111.3,73.2,Diabetes,Never,19.05
+1977,2024-12-15,64,M,169.1,114.2,HIIT,91,Medium,41.5,103,7.5,8,7877,1.8,19,63.5,111.3,73.2,Diabetes,Never,19.15
+1977,2024-12-16,64,M,169.1,114.5,Weight Training,89,Low,16.9,97,4.4,6,7400,1.7,19,63.5,111.3,73.2,Diabetes,Never,19.24
+1977,2024-12-18,64,M,169.1,114.7,Running,24,Medium,9.0,121,8.0,7,8800,3.1,19,63.5,111.3,73.2,Diabetes,Never,19.27
+1977,2024-12-22,64,M,169.1,115.0,HIIT,42,Low,16.1,97,6.3,5,11227,1.9,19,63.5,111.3,73.2,Diabetes,Never,19.31
+1977,2024-12-23,64,M,169.1,115.3,HIIT,89,Low,34.1,98,6.1,6,7098,3.1,19,63.5,111.3,73.2,Diabetes,Never,19.4
+1977,2024-12-24,64,M,169.1,115.5,Swimming,66,Low,14.8,95,5.9,6,9418,1.6,19,63.5,111.3,73.2,Diabetes,Never,19.47
+1977,2024-12-25,64,M,169.1,115.8,Dancing,74,High,18.3,127,5.5,1,9410,2.2,19,63.5,111.3,73.2,Diabetes,Never,19.57

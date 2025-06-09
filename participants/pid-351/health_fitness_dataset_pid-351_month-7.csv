@@ -1,0 +1,19 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+351,2024-07-01,34,F,163,89.5,Tennis,112,High,28.4,149,6.0,3,7682,2.4,20.9,66.1,130,91.1,None,Never,10.61
+351,2024-07-02,34,F,163,89.7,Weight Training,23,High,4.8,151,8.0,2,8775,2.4,20.9,66.1,130,91.1,None,Never,10.64
+351,2024-07-03,34,F,163,90.0,Walking,39,High,5.2,133,6.0,1,8810,3.2,20.9,66.1,130,91.1,None,Never,10.7
+351,2024-07-04,34,F,163,90.2,Tennis,117,High,29.9,168,8.4,6,7423,2.9,20.9,66.1,130,91.1,None,Never,10.86
+351,2024-07-05,34,F,163,90.5,Walking,31,Low,3.0,120,6.2,4,6261,2.3,20.9,66.1,130,91.1,None,Never,10.89
+351,2024-07-07,34,F,163,90.8,Walking,108,Medium,12.4,138,8.6,5,10764,1.6,20.9,66.1,130,91.1,None,Never,11.02
+351,2024-07-10,34,F,163,91.0,Walking,101,High,13.5,159,5.9,3,7534,2.1,20.9,66.1,130,91.1,None,Never,11.16
+351,2024-07-11,34,F,163,91.3,Walking,38,Medium,4.4,143,9.0,3,6653,2.7,20.9,66.1,130,91.1,None,Never,11.21
+351,2024-07-13,34,F,163,91.5,Walking,118,Low,11.4,120,6.1,8,9548,1.8,20.9,66.1,130,91.1,None,Never,11.33
+351,2024-07-15,34,F,163,91.8,Walking,30,High,4.1,186,6.6,9,8346,3.2,20.9,66.1,130,91.1,None,Never,11.37
+351,2024-07-17,34,F,163,92.1,Weight Training,48,Medium,8.8,125,7.5,5,7803,3.2,20.9,66.1,130,91.1,None,Never,11.43
+351,2024-07-18,34,F,163,92.3,Weight Training,45,Medium,8.3,155,8.1,1,9142,3.5,20.9,66.1,130,91.1,None,Never,11.48
+351,2024-07-20,34,F,163,92.6,Weight Training,117,Low,18.0,121,7.4,10,11853,2.0,20.9,66.1,130,91.1,None,Never,11.6
+351,2024-07-22,34,F,163,92.8,Weight Training,117,Medium,21.7,125,7.2,4,6802,2.7,20.9,66.1,130,91.1,None,Never,11.74
+351,2024-07-23,34,F,163,93.1,Weight Training,102,Medium,18.9,132,6.4,7,9520,2.6,20.9,66.1,130,91.1,None,Never,11.86
+351,2024-07-24,34,F,163,93.3,Basketball,49,Low,10.1,132,7.1,8,9076,1.7,20.9,66.1,130,91.1,None,Never,11.91
+351,2024-07-26,34,F,163,93.6,Weight Training,87,Low,13.5,124,8.3,9,5320,2.8,20.9,66.1,130,91.1,None,Never,12.0
+351,2024-07-28,34,F,163,93.9,Basketball,24,Medium,6.0,136,6.0,8,8245,1.5,20.9,66.1,130,91.1,None,Never,12.03

@@ -1,0 +1,17 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+1800,2024-01-01,20,F,170.4,72.2,Tennis,104,Medium,18.2,135,8.2,2,8940,3.4,24.8,66.2,124.6,95.3,Hypertension,Never,0.12
+1800,2024-01-03,20,F,170.4,72.4,HIIT,119,Medium,34.4,145,8.1,4,10155,3.1,24.8,66.2,124.6,95.3,Hypertension,Never,0.27
+1800,2024-01-05,20,F,170.4,72.7,HIIT,34,Low,8.2,122,6.9,3,6150,2.9,24.8,66.2,124.6,95.3,Hypertension,Never,0.3
+1800,2024-01-07,20,F,170.4,73.0,Tennis,20,Medium,3.5,138,7.0,6,10608,2.6,24.8,66.2,124.6,95.3,Hypertension,Never,0.33
+1800,2024-01-09,20,F,170.4,73.2,HIIT,26,Low,6.3,129,6.1,5,7947,2.0,24.8,66.2,124.6,95.3,Hypertension,Never,0.35
+1800,2024-01-12,20,F,170.4,73.5,Tennis,116,Medium,20.7,147,6.3,3,7445,1.6,24.8,66.2,124.6,95.3,Hypertension,Never,0.49
+1800,2024-01-13,20,F,170.4,73.7,Tennis,30,Medium,5.4,156,7.3,4,12180,1.9,24.8,66.2,124.6,95.3,Hypertension,Never,0.53
+1800,2024-01-14,20,F,170.4,74.0,Tennis,74,Low,11.1,120,5.5,1,10287,2.2,24.8,66.2,124.6,95.3,Hypertension,Never,0.6
+1800,2024-01-15,20,F,170.4,74.3,Tennis,78,High,16.4,171,8.4,5,8307,2.5,24.8,66.2,124.6,95.3,Hypertension,Never,0.71
+1800,2024-01-17,20,F,170.4,74.5,Tennis,106,High,22.3,176,7.1,5,8930,2.5,24.8,66.2,124.6,95.3,Hypertension,Never,0.86
+1800,2024-01-20,20,F,170.4,74.8,Tennis,118,Low,17.8,128,6.1,3,13227,2.1,24.8,66.2,124.6,95.3,Hypertension,Never,0.98
+1800,2024-01-23,20,F,170.4,75.0,Basketball,38,Medium,7.6,154,6.3,7,6007,2.6,24.8,66.2,124.6,95.3,Hypertension,Never,1.02
+1800,2024-01-24,20,F,170.4,75.3,Weight Training,57,Medium,8.6,147,5.9,7,7679,2.9,24.8,66.2,124.6,95.3,Hypertension,Never,1.09
+1800,2024-01-26,20,F,170.4,75.5,Basketball,30,Low,5.0,125,8.4,3,9244,2.4,24.8,66.2,124.6,95.3,Hypertension,Never,1.12
+1800,2024-01-28,20,F,170.4,75.8,Basketball,40,Medium,8.1,161,7.6,10,10647,3.0,24.8,66.2,124.6,95.3,Hypertension,Never,1.17
+1800,2024-01-29,20,F,170.4,76.1,Weight Training,101,Medium,15.3,146,5.4,9,10508,1.7,24.8,66.2,124.6,95.3,Hypertension,Never,1.29

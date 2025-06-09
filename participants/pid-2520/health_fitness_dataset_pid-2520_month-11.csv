@@ -1,0 +1,17 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+2520,2024-11-03,24,M,173.1,119.5,Cycling,49,Medium,16.5,153,8.1,8,8117,3.5,23,76.3,127.9,70.3,None,Former,16.15
+2520,2024-11-05,24,M,173.1,119.7,Cycling,82,Medium,27.8,141,7.4,5,7742,1.8,23,76.3,127.9,70.3,None,Former,16.24
+2520,2024-11-09,24,M,173.1,120.0,Basketball,108,Low,28.7,126,6.6,2,8988,2.1,23,76.3,127.9,70.3,None,Former,16.35
+2520,2024-11-11,24,M,173.1,120.2,Basketball,85,High,31.7,176,7.6,2,9467,2.5,23,76.3,127.9,70.3,None,Former,16.47
+2520,2024-11-13,24,M,173.1,120.5,Basketball,73,Medium,23.4,151,6.2,1,4225,2.9,23,76.3,127.9,70.3,None,Former,16.56
+2520,2024-11-14,24,M,173.1,120.7,Basketball,77,Medium,24.7,130,5.8,5,6557,3.4,23,76.3,127.9,70.3,None,Former,16.65
+2520,2024-11-16,24,M,173.1,121.0,Walking,44,Low,5.6,124,8.1,7,10540,2.3,23,76.3,127.9,70.3,None,Former,16.69
+2520,2024-11-17,24,M,173.1,121.3,Walking,70,Medium,10.7,146,6.3,6,9804,2.8,23,76.3,127.9,70.3,None,Former,16.78
+2520,2024-11-20,24,M,173.1,121.5,Weight Training,65,High,18.4,155,6.8,5,9524,2.0,23,76.3,127.9,70.3,None,Former,16.87
+2520,2024-11-23,24,M,173.1,121.8,Walking,85,Medium,13.1,158,6.2,2,7802,1.8,23,76.3,127.9,70.3,None,Former,16.97
+2520,2024-11-24,24,M,173.1,122.0,Weight Training,25,Medium,6.1,142,9.1,8,6293,2.4,23,76.3,127.9,70.3,None,Former,17.0
+2520,2024-11-26,24,M,173.1,122.3,Weight Training,42,Medium,10.3,148,7.8,7,7328,3.3,23,76.3,127.9,70.3,None,Former,17.05
+2520,2024-11-27,24,M,173.1,122.6,Weight Training,36,Low,7.3,131,7.2,5,4550,1.9,23,76.3,127.9,70.3,None,Former,17.09
+2520,2024-11-28,24,M,173.1,122.8,Weight Training,58,Medium,14.2,150,10.0,8,6491,3.5,23,76.3,127.9,70.3,None,Former,17.16
+2520,2024-11-29,24,M,173.1,123.1,Weight Training,55,Medium,13.5,146,6.6,5,6176,2.0,23,76.3,127.9,70.3,None,Former,17.22
+2520,2024-11-30,24,M,173.1,123.3,Running,47,Low,15.7,122,7.2,2,6584,3.2,23,76.3,127.9,70.3,None,Former,17.27

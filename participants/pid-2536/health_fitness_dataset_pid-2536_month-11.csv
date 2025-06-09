@@ -1,0 +1,17 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+2536,2024-11-01,39,Other,172,118.2,Walking,108,High,18.8,154,8.8,7,5616,2.5,21.9,67.1,124.1,77.5,None,Former,17.65
+2536,2024-11-03,39,Other,172,118.5,Walking,113,High,19.7,148,6.3,4,9115,2.1,21.9,67.1,124.1,77.5,None,Former,17.81
+2536,2024-11-04,39,Other,172,118.7,Cycling,30,High,11.7,143,7.5,3,5101,2.2,21.9,67.1,124.1,77.5,None,Former,17.85
+2536,2024-11-05,39,Other,172,119.0,Cycling,69,Low,19.3,127,6.9,7,6125,1.7,21.9,67.1,124.1,77.5,None,Former,17.92
+2536,2024-11-06,39,Other,172,119.3,Cycling,113,Medium,38.1,132,9.2,1,9033,3.4,21.9,67.1,124.1,77.5,None,Former,18.06
+2536,2024-11-09,39,Other,172,119.5,Cycling,38,High,15.0,163,6.2,8,7783,3.1,21.9,67.1,124.1,77.5,None,Former,18.11
+2536,2024-11-12,39,Other,172,119.8,Cycling,64,Low,18.1,115,6.0,6,6230,2.5,21.9,67.1,124.1,77.5,None,Former,18.17
+2536,2024-11-13,39,Other,172,120.0,Cycling,50,High,19.8,157,5.4,7,6885,1.8,21.9,67.1,124.1,77.5,None,Former,18.24
+2536,2024-11-15,39,Other,172,120.3,Basketball,110,Medium,35.2,150,8.3,9,8516,2.4,21.9,67.1,124.1,77.5,None,Former,18.38
+2536,2024-11-16,39,Other,172,120.5,Basketball,100,Medium,32.1,129,7.1,5,6907,2.5,21.9,67.1,124.1,77.5,None,Former,18.5
+2536,2024-11-18,39,Other,172,120.8,Basketball,43,Medium,13.8,148,6.7,6,6182,2.0,21.9,67.1,124.1,77.5,None,Former,18.55
+2536,2024-11-20,39,Other,172,121.1,Basketball,26,Medium,8.4,144,6.6,7,7650,2.8,21.9,67.1,124.1,77.5,None,Former,18.58
+2536,2024-11-23,39,Other,172,121.3,Basketball,74,Medium,23.9,141,10.0,3,9238,2.8,21.9,67.1,124.1,77.5,None,Former,18.67
+2536,2024-11-24,39,Other,172,121.6,Basketball,65,Medium,21.0,142,7.0,7,5556,3.2,21.9,67.1,124.1,77.5,None,Former,18.75
+2536,2024-11-25,39,Other,172,121.8,Basketball,108,Low,29.2,112,6.9,7,7989,2.3,21.9,67.1,124.1,77.5,None,Former,18.85
+2536,2024-11-26,39,Other,172,122.1,Weight Training,78,Medium,19.0,145,6.9,2,6306,2.3,21.9,67.1,124.1,77.5,None,Former,18.95

@@ -1,0 +1,18 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+860,2024-01-01,48,F,165.3,56.2,Weight Training,23,Low,2.1,110,7.6,5,8210,1.8,20.5,70.3,127.2,74.7,None,Never,0.02
+860,2024-01-07,48,F,165.3,56.5,Weight Training,46,Low,4.3,116,7.1,2,11945,3.2,20.5,70.3,127.2,74.7,None,Never,0.07
+860,2024-01-08,48,F,165.3,56.7,Weight Training,88,Low,8.3,105,6.4,5,8243,2.4,20.5,70.3,127.2,74.7,None,Never,0.16
+860,2024-01-09,48,F,165.3,57.0,Weight Training,109,High,14.4,149,5.6,5,9402,3.0,20.5,70.3,127.2,74.7,None,Never,0.31
+860,2024-01-10,48,F,165.3,57.2,Weight Training,22,Medium,2.5,123,5.7,5,10130,2.0,20.5,70.3,127.2,74.7,None,Never,0.34
+860,2024-01-11,48,F,165.3,57.5,Walking,103,Medium,7.5,126,7.6,6,8582,1.7,20.5,70.3,127.2,74.7,None,Never,0.46
+860,2024-01-12,48,F,165.3,57.8,Weight Training,67,Low,6.4,105,7.2,6,9223,1.9,20.5,70.3,127.2,74.7,None,Never,0.53
+860,2024-01-14,48,F,165.3,58.0,Yoga,109,Medium,6.3,128,5.3,5,10481,2.3,20.5,70.3,127.2,74.7,None,Never,0.66
+860,2024-01-15,48,F,165.3,58.3,Weight Training,34,High,4.6,134,7.8,1,8526,2.1,20.5,70.3,127.2,74.7,None,Never,0.7
+860,2024-01-16,48,F,165.3,58.5,Dancing,49,Medium,5.2,126,7.3,9,10095,2.3,20.5,70.3,127.2,74.7,None,Never,0.76
+860,2024-01-17,48,F,165.3,58.8,Weight Training,103,Medium,12.1,131,8.1,4,8656,1.7,20.5,70.3,127.2,74.7,None,Never,0.89
+860,2024-01-19,48,F,165.3,59.1,Weight Training,39,Low,3.8,110,7.4,8,9373,2.3,20.5,70.3,127.2,74.7,None,Never,0.93
+860,2024-01-25,48,F,165.3,59.3,Dancing,113,Medium,12.2,120,8.7,5,8047,2.7,20.5,70.3,127.2,74.7,None,Never,1.06
+860,2024-01-26,48,F,165.3,59.6,Weight Training,20,Low,2.0,104,6.9,7,9462,2.5,20.5,70.3,127.2,74.7,None,Never,1.08
+860,2024-01-27,48,F,165.3,59.8,Yoga,42,Low,2.1,111,7.2,7,11311,1.8,20.5,70.3,127.2,74.7,None,Never,1.12
+860,2024-01-29,48,F,165.3,60.1,Dancing,67,Low,6.1,115,7.0,5,9564,3.2,20.5,70.3,127.2,74.7,None,Never,1.19
+860,2024-01-31,48,F,165.3,60.4,Dancing,31,Medium,3.4,121,7.1,10,8161,3.4,20.5,70.3,127.2,74.7,None,Never,1.23

@@ -1,0 +1,20 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+343,2024-05-02,26,F,159.4,80.8,Walking,105,Medium,10.7,148,7.5,6,9096,2.9,22.7,71.9,126.7,78,Hypertension,Never,7.32
+343,2024-05-03,26,F,159.4,81.1,Walking,45,Medium,4.6,142,7.1,4,8830,2.6,22.7,71.9,126.7,78,Hypertension,Never,7.37
+343,2024-05-06,26,F,159.4,81.3,Walking,80,High,9.6,169,6.2,1,8591,3.5,22.7,71.9,126.7,78,Hypertension,Never,7.49
+343,2024-05-07,26,F,159.4,81.6,Walking,113,Medium,11.6,147,6.9,5,10310,2.5,22.7,71.9,126.7,78,Hypertension,Never,7.62
+343,2024-05-08,26,F,159.4,81.8,Walking,89,Medium,9.2,153,6.7,6,10505,2.5,22.7,71.9,126.7,78,Hypertension,Never,7.73
+343,2024-05-09,26,F,159.4,82.1,Walking,85,Medium,8.8,141,6.2,5,7324,2.9,22.7,71.9,126.7,78,Hypertension,Never,7.83
+343,2024-05-10,26,F,159.4,82.3,Walking,44,Low,3.8,130,6.8,4,7735,2.2,22.7,71.9,126.7,78,Hypertension,Never,7.87
+343,2024-05-12,26,F,159.4,82.6,Walking,103,Low,9.0,132,9.7,3,11949,1.6,22.7,71.9,126.7,78,Hypertension,Never,7.98
+343,2024-05-13,26,F,159.4,82.9,Weight Training,112,High,21.6,160,4.9,7,10556,3.2,22.7,71.9,126.7,78,Hypertension,Never,8.13
+343,2024-05-15,26,F,159.4,83.1,Walking,58,Low,5.1,131,6.7,2,12506,2.2,22.7,71.9,126.7,78,Hypertension,Never,8.19
+343,2024-05-16,26,F,159.4,83.4,Walking,22,Medium,2.3,129,7.3,6,10562,2.2,22.7,71.9,126.7,78,Hypertension,Never,8.22
+343,2024-05-18,26,F,159.4,83.6,Walking,87,Medium,9.2,156,8.2,6,10033,2.0,22.7,71.9,126.7,78,Hypertension,Never,8.32
+343,2024-05-19,26,F,159.4,83.9,Walking,71,Low,6.3,123,8.3,1,11701,2.2,22.7,71.9,126.7,78,Hypertension,Never,8.39
+343,2024-05-20,26,F,159.4,84.2,Walking,69,Medium,7.3,147,6.1,2,7886,3.1,22.7,71.9,126.7,78,Hypertension,Never,8.48
+343,2024-05-21,26,F,159.4,84.4,Walking,88,Medium,9.4,157,5.7,9,8754,2.2,22.7,71.9,126.7,78,Hypertension,Never,8.58
+343,2024-05-23,26,F,159.4,84.7,Walking,66,Medium,7.1,140,8.4,10,10034,2.6,22.7,71.9,126.7,78,Hypertension,Never,8.66
+343,2024-05-24,26,F,159.4,84.9,Swimming,27,Medium,5.3,155,4.5,9,8428,3.4,22.7,71.9,126.7,78,Hypertension,Never,8.69
+343,2024-05-29,26,F,159.4,85.2,Walking,90,Low,8.1,132,6.9,6,7311,3.0,22.7,71.9,126.7,78,Hypertension,Never,8.78
+343,2024-05-30,26,F,159.4,85.5,HIIT,28,Medium,9.5,143,6.3,7,7176,1.7,22.7,71.9,126.7,78,Hypertension,Never,8.82

@@ -1,0 +1,16 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+2043,2024-10-02,63,F,162.3,119.9,Running,43,Medium,16.8,123,6.9,2,6491,2.8,28,64.4,110,81.2,Diabetes,Current,14.07
+2043,2024-10-08,63,F,162.3,120.1,Tennis,110,Low,26.7,106,4.9,4,8026,3.3,28,64.4,110,81.2,Diabetes,Current,14.18
+2043,2024-10-09,63,F,162.3,120.4,Tennis,20,Low,4.9,107,6.7,5,6632,2.8,28,64.4,110,81.2,Diabetes,Current,14.2
+2043,2024-10-10,63,F,162.3,120.7,Walking,110,High,19.6,144,7.4,9,4644,2.0,28,64.4,110,81.2,Diabetes,Current,14.36
+2043,2024-10-11,63,F,162.3,120.9,Walking,89,Low,11.3,95,7.6,1,4570,2.9,28,64.4,110,81.2,Diabetes,Current,14.45
+2043,2024-10-13,63,F,162.3,121.2,Tennis,91,Medium,26.8,104,6.6,8,9079,3.0,28,64.4,110,81.2,Diabetes,Current,14.55
+2043,2024-10-14,63,F,162.3,121.4,Walking,70,Medium,10.7,111,7.0,6,8094,1.9,28,64.4,110,81.2,Diabetes,Current,14.64
+2043,2024-10-18,63,F,162.3,121.7,Tennis,50,Low,12.3,108,8.4,8,4978,2.4,28,64.4,110,81.2,Diabetes,Current,14.69
+2043,2024-10-20,63,F,162.3,122.0,Walking,32,Low,4.1,100,7.3,5,8150,1.7,28,64.4,110,81.2,Diabetes,Current,14.72
+2043,2024-10-23,63,F,162.3,122.2,Swimming,119,Medium,33.9,111,6.8,2,6247,2.7,28,64.4,110,81.2,Diabetes,Current,14.86
+2043,2024-10-24,63,F,162.3,122.5,Running,29,High,13.5,131,6.9,8,5133,2.0,28,64.4,110,81.2,Diabetes,Current,14.9
+2043,2024-10-25,63,F,162.3,122.7,Swimming,108,Medium,30.9,124,7.7,3,6079,3.0,28,64.4,110,81.2,Diabetes,Current,15.03
+2043,2024-10-26,63,F,162.3,123.0,Swimming,102,High,34.1,138,7.1,9,5041,1.7,28,64.4,110,81.2,Diabetes,Current,15.18
+2043,2024-10-27,63,F,162.3,123.2,Running,71,Low,23.8,104,8.1,2,6416,2.4,28,64.4,110,81.2,Diabetes,Current,15.25
+2043,2024-10-29,63,F,162.3,123.5,Swimming,74,High,24.8,139,7.6,4,6338,3.4,28,64.4,110,81.2,Diabetes,Current,15.35

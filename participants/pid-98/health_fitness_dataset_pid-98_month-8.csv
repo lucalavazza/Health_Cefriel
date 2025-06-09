@@ -1,0 +1,21 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+98,2024-08-01,54,M,180.8,103.3,Running,52,Low,14.6,103,7.8,1,8506,3.0,19.1,64,108,94.4,Hypertension,Current,13.44
+98,2024-08-03,54,M,180.8,103.6,Tennis,44,High,12.9,133,7.0,2,8749,2.1,19.1,64,108,94.4,Hypertension,Current,13.5
+98,2024-08-04,54,M,180.8,103.8,Running,120,Medium,40.6,128,7.4,6,8672,3.0,19.1,64,108,94.4,Hypertension,Current,13.65
+98,2024-08-05,54,M,180.8,104.1,Tennis,66,Low,13.9,109,5.5,1,5117,2.1,19.1,64,108,94.4,Hypertension,Current,13.71
+98,2024-08-06,54,M,180.8,104.3,Yoga,20,Low,1.7,103,7.4,3,7653,3.4,19.1,64,108,94.4,Hypertension,Current,13.73
+98,2024-08-07,54,M,180.8,104.6,Tennis,64,High,19.0,154,8.0,8,5745,1.7,19.1,64,108,94.4,Hypertension,Current,13.82
+98,2024-08-08,54,M,180.8,104.9,Yoga,47,Medium,4.9,120,7.0,7,7363,3.3,19.1,64,108,94.4,Hypertension,Current,13.88
+98,2024-08-10,54,M,180.8,105.1,Tennis,79,High,23.5,143,7.0,6,7436,3.5,19.1,64,108,94.4,Hypertension,Current,13.99
+98,2024-08-13,54,M,180.8,105.4,Yoga,32,Low,2.8,109,7.2,8,10406,1.9,19.1,64,108,94.4,Hypertension,Current,14.02
+98,2024-08-14,54,M,180.8,105.6,Yoga,110,Medium,11.6,113,7.6,3,8832,2.5,19.1,64,108,94.4,Hypertension,Current,14.15
+98,2024-08-18,54,M,180.8,105.9,Yoga,44,Medium,4.6,132,5.7,4,8516,2.3,19.1,64,108,94.4,Hypertension,Current,14.21
+98,2024-08-19,54,M,180.8,106.1,Yoga,74,High,9.1,153,7.6,3,6986,3.0,19.1,64,108,94.4,Hypertension,Current,14.31
+98,2024-08-20,54,M,180.8,106.4,Yoga,91,Medium,9.7,111,5.8,8,7606,1.6,19.1,64,108,94.4,Hypertension,Current,14.42
+98,2024-08-21,54,M,180.8,106.7,Yoga,102,Low,9.0,105,7.5,7,3892,2.4,19.1,64,108,94.4,Hypertension,Current,14.52
+98,2024-08-23,54,M,180.8,106.9,Yoga,35,Medium,3.7,124,6.6,5,8253,3.1,19.1,64,108,94.4,Hypertension,Current,14.56
+98,2024-08-25,54,M,180.8,107.2,Weight Training,82,Medium,17.5,115,6.2,3,9632,3.0,19.1,64,108,94.4,Hypertension,Current,14.66
+98,2024-08-26,54,M,180.8,107.4,Yoga,88,Low,7.9,106,7.3,7,6024,2.8,19.1,64,108,94.4,Hypertension,Current,14.75
+98,2024-08-27,54,M,180.8,107.7,Weight Training,117,High,29.3,139,7.2,1,9003,1.7,19.1,64,108,94.4,Hypertension,Current,14.91
+98,2024-08-28,54,M,180.8,107.9,Weight Training,100,Medium,21.5,129,6.5,2,6876,3.4,19.1,64,108,94.4,Hypertension,Current,15.03
+98,2024-08-29,54,M,180.8,108.2,Weight Training,97,Medium,20.9,130,7.3,9,8523,3.3,19.1,64,108,94.4,Hypertension,Current,15.15

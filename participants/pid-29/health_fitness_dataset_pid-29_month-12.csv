@@ -1,0 +1,18 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+29,2024-12-01,40,M,177.7,124.1,Dancing,34,Low,6.4,119,6.2,2,7964,2.3,22.1,71.8,127.9,83.8,Hypertension,Current,17.12
+29,2024-12-02,40,M,177.7,124.4,Swimming,41,Medium,11.9,141,5.0,8,9113,2.5,22.1,71.8,127.9,83.8,Hypertension,Current,17.17
+29,2024-12-03,40,M,177.7,124.7,Dancing,74,Low,14.1,118,5.9,8,7402,1.9,22.1,71.8,127.9,83.8,Hypertension,Current,17.24
+29,2024-12-06,40,M,177.7,124.9,Yoga,45,Medium,5.6,125,7.2,9,5519,2.2,22.1,71.8,127.9,83.8,Hypertension,Current,17.29
+29,2024-12-07,40,M,177.7,125.2,Swimming,115,Low,27.9,115,7.9,7,8752,2.2,22.1,71.8,127.9,83.8,Hypertension,Current,17.41
+29,2024-12-08,40,M,177.7,125.4,Dancing,23,Medium,5.3,142,8.3,1,6795,1.8,22.1,71.8,127.9,83.8,Hypertension,Current,17.44
+29,2024-12-10,40,M,177.7,125.7,Yoga,46,Medium,5.8,135,9.2,9,6129,2.2,22.1,71.8,127.9,83.8,Hypertension,Current,17.49
+29,2024-12-11,40,M,177.7,126.0,Basketball,70,Low,19.6,117,7.3,10,6970,2.5,22.1,71.8,127.9,83.8,Hypertension,Current,17.56
+29,2024-12-13,40,M,177.7,126.2,Yoga,71,Medium,8.9,137,6.7,3,6358,1.7,22.1,71.8,127.9,83.8,Hypertension,Current,17.65
+29,2024-12-15,40,M,177.7,126.5,Cycling,24,Low,7.2,112,6.2,9,7728,2.5,22.1,71.8,127.9,83.8,Hypertension,Current,17.67
+29,2024-12-16,40,M,177.7,126.7,Dancing,26,Low,5.0,116,7.0,7,9756,3.2,22.1,71.8,127.9,83.8,Hypertension,Current,17.7
+29,2024-12-18,40,M,177.7,127.0,Basketball,110,Medium,37.2,150,6.6,5,6380,3.5,22.1,71.8,127.9,83.8,Hypertension,Current,17.83
+29,2024-12-20,40,M,177.7,127.2,Cycling,116,High,48.7,152,8.0,1,7374,3.1,22.1,71.8,127.9,83.8,Hypertension,Current,17.99
+29,2024-12-21,40,M,177.7,127.5,Swimming,39,Medium,11.6,138,7.4,6,12519,1.8,22.1,71.8,127.9,83.8,Hypertension,Current,18.04
+29,2024-12-23,40,M,177.7,127.8,Swimming,118,Medium,35.1,141,7.5,5,7801,1.9,22.1,71.8,127.9,83.8,Hypertension,Current,18.18
+29,2024-12-24,40,M,177.7,128.0,Swimming,64,Low,15.9,117,7.5,5,8331,2.1,22.1,71.8,127.9,83.8,Hypertension,Current,18.24
+29,2024-12-25,40,M,177.7,128.3,Weight Training,35,Medium,9.0,136,8.2,8,8610,3.4,22.1,71.8,127.9,83.8,Hypertension,Current,18.28

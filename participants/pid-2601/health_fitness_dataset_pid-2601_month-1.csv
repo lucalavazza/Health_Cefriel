@@ -1,0 +1,17 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+2601,2024-01-04,35,M,172,59.7,Weight Training,73,Medium,8.7,142,8.4,2,10716,2.6,20.1,67.4,118.4,82.9,Diabetes,Never,0.09
+2601,2024-01-06,35,M,172,59.9,Running,54,High,12.3,162,6.8,7,7421,2.8,20.1,67.4,118.4,82.9,Diabetes,Never,0.16
+2601,2024-01-07,35,M,172,60.2,Weight Training,80,Low,8.0,117,6.9,6,8946,2.7,20.1,67.4,118.4,82.9,Diabetes,Never,0.24
+2601,2024-01-08,35,M,172,60.5,Weight Training,90,Medium,10.8,135,7.2,10,9964,2.8,20.1,67.4,118.4,82.9,Diabetes,Never,0.35
+2601,2024-01-09,35,M,172,60.7,Weight Training,113,Low,11.4,111,6.6,7,6600,2.6,20.1,67.4,118.4,82.9,Diabetes,Never,0.46
+2601,2024-01-10,35,M,172,61.0,Cycling,101,Medium,17.4,134,7.1,1,7858,2.0,20.1,67.4,118.4,82.9,Diabetes,Never,0.59
+2601,2024-01-14,35,M,172,61.2,Weight Training,57,Medium,7.0,137,7.9,8,11314,1.8,20.1,67.4,118.4,82.9,Diabetes,Never,0.65
+2601,2024-01-17,35,M,172,61.5,Swimming,57,Medium,8.1,138,7.9,4,9130,2.6,20.1,67.4,118.4,82.9,Diabetes,Never,0.72
+2601,2024-01-19,35,M,172,61.7,Cycling,40,High,8.1,167,8.6,9,10974,2.9,20.1,67.4,118.4,82.9,Diabetes,Never,0.78
+2601,2024-01-20,35,M,172,62.0,Cycling,51,High,10.4,148,7.9,2,10644,2.0,20.1,67.4,118.4,82.9,Diabetes,Never,0.85
+2601,2024-01-22,35,M,172,62.3,Swimming,66,High,11.1,167,5.2,4,7245,1.5,20.1,67.4,118.4,82.9,Diabetes,Never,0.94
+2601,2024-01-25,35,M,172,62.5,Cycling,67,High,13.8,154,7.6,5,7277,3.1,20.1,67.4,118.4,82.9,Diabetes,Never,1.04
+2601,2024-01-27,35,M,172,62.8,Cycling,65,Medium,11.5,123,5.8,6,8758,3.4,20.1,67.4,118.4,82.9,Diabetes,Never,1.11
+2601,2024-01-29,35,M,172,63.0,Tennis,119,Low,15.1,117,6.5,3,4338,3.0,20.1,67.4,118.4,82.9,Diabetes,Never,1.23
+2601,2024-01-30,35,M,172,63.3,Cycling,106,Medium,18.9,139,8.5,2,7834,3.1,20.1,67.4,118.4,82.9,Diabetes,Never,1.36
+2601,2024-01-31,35,M,172,63.6,Tennis,54,High,9.7,146,5.7,5,10271,1.6,20.1,67.4,118.4,82.9,Diabetes,Never,1.44

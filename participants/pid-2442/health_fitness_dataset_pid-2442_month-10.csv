@@ -1,0 +1,17 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+2442,2024-10-01,47,F,162.3,104.5,Running,78,High,31.0,123,6.2,5,8031,1.9,22.6,70.5,115.4,79,None,Former,13.85
+2442,2024-10-02,47,F,162.3,104.7,Walking,69,Medium,9.1,125,7.6,3,6681,2.7,22.6,70.5,115.4,79,None,Former,13.94
+2442,2024-10-05,47,F,162.3,105.0,Weight Training,106,High,25.9,153,7.7,8,6867,1.8,22.6,70.5,115.4,79,None,Former,14.09
+2442,2024-10-06,47,F,162.3,105.2,Running,81,Medium,27.8,134,7.3,9,6282,3.0,22.6,70.5,115.4,79,None,Former,14.18
+2442,2024-10-11,47,F,162.3,105.5,Tennis,113,Medium,28.9,123,6.9,7,6916,2.8,22.6,70.5,115.4,79,None,Former,14.32
+2442,2024-10-12,47,F,162.3,105.8,Basketball,94,Medium,26.4,115,7.4,8,5502,3.1,22.6,70.5,115.4,79,None,Former,14.43
+2442,2024-10-13,47,F,162.3,106.0,Running,52,High,21.0,154,7.2,10,7834,2.9,22.6,70.5,115.4,79,None,Former,14.5
+2442,2024-10-14,47,F,162.3,106.3,Tennis,117,Medium,30.2,141,5.7,6,5091,2.4,22.6,70.5,115.4,79,None,Former,14.64
+2442,2024-10-16,47,F,162.3,106.5,Swimming,48,Medium,11.9,105,6.3,9,7072,2.3,22.6,70.5,115.4,79,None,Former,14.7
+2442,2024-10-17,47,F,162.3,106.8,Running,94,Medium,32.7,109,7.2,6,7089,3.4,22.6,70.5,115.4,79,None,Former,14.82
+2442,2024-10-21,47,F,162.3,107.0,Running,51,Medium,17.8,120,7.2,6,6054,2.3,22.6,70.5,115.4,79,None,Former,14.88
+2442,2024-10-22,47,F,162.3,107.3,Swimming,78,Medium,19.5,136,8.8,5,5247,1.9,22.6,70.5,115.4,79,None,Former,14.97
+2442,2024-10-23,47,F,162.3,107.6,Swimming,76,Medium,19.0,124,7.5,8,6733,2.3,22.6,70.5,115.4,79,None,Former,15.06
+2442,2024-10-24,47,F,162.3,107.8,Swimming,104,Low,21.8,113,5.4,5,6522,1.6,22.6,70.5,115.4,79,None,Former,15.17
+2442,2024-10-27,47,F,162.3,108.1,Swimming,70,Medium,17.6,130,6.7,5,6760,1.7,22.6,70.5,115.4,79,None,Former,15.25
+2442,2024-10-30,47,F,162.3,108.3,Tennis,82,Medium,21.6,121,6.6,6,8340,1.7,22.6,70.5,115.4,79,None,Former,15.35

@@ -1,0 +1,17 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+1845,2024-12-01,43,M,174.9,122.1,HIIT,85,High,48.3,155,8.2,9,7059,2.0,22.9,60.9,126.8,75.2,Hypertension,Former,16.55
+1845,2024-12-02,43,M,174.9,122.4,Yoga,107,High,15.2,150,5.0,8,7486,2.9,22.9,60.9,126.8,75.2,Hypertension,Former,16.7
+1845,2024-12-05,43,M,174.9,122.6,Yoga,103,Medium,12.6,128,7.9,6,7915,3.2,22.9,60.9,126.8,75.2,Hypertension,Former,16.82
+1845,2024-12-06,43,M,174.9,122.9,Yoga,75,Medium,9.2,143,6.4,7,8470,1.7,22.9,60.9,126.8,75.2,Hypertension,Former,16.91
+1845,2024-12-10,43,M,174.9,123.1,Basketball,78,Medium,25.6,139,7.8,4,10498,2.3,22.9,60.9,126.8,75.2,Hypertension,Former,17.01
+1845,2024-12-11,43,M,174.9,123.4,Basketball,73,High,28.0,146,6.9,2,6189,2.7,22.9,60.9,126.8,75.2,Hypertension,Former,17.11
+1845,2024-12-12,43,M,174.9,123.6,Walking,90,Medium,14.1,144,6.4,10,8254,2.3,22.9,60.9,126.8,75.2,Hypertension,Former,17.22
+1845,2024-12-14,43,M,174.9,123.9,Running,102,Medium,41.2,124,6.7,9,6520,2.3,22.9,60.9,126.8,75.2,Hypertension,Former,17.34
+1845,2024-12-15,43,M,174.9,124.2,Basketball,47,Medium,15.5,139,7.9,1,6532,1.9,22.9,60.9,126.8,75.2,Hypertension,Former,17.4
+1845,2024-12-16,43,M,174.9,124.4,Running,33,Medium,13.4,134,6.6,6,8558,1.9,22.9,60.9,126.8,75.2,Hypertension,Former,17.44
+1845,2024-12-19,43,M,174.9,124.7,Running,51,Medium,20.7,123,7.5,2,8948,3.3,22.9,60.9,126.8,75.2,Hypertension,Former,17.5
+1845,2024-12-20,43,M,174.9,124.9,Running,108,Medium,44.0,138,6.4,4,7363,2.1,22.9,60.9,126.8,75.2,Hypertension,Former,17.63
+1845,2024-12-21,43,M,174.9,125.2,Running,114,Medium,46.5,134,6.5,6,7616,3.0,22.9,60.9,126.8,75.2,Hypertension,Former,17.76
+1845,2024-12-23,43,M,174.9,125.4,Weight Training,50,High,14.6,150,7.7,9,8042,2.9,22.9,60.9,126.8,75.2,Hypertension,Former,17.83
+1845,2024-12-24,43,M,174.9,125.7,Running,73,Low,24.9,114,7.2,9,6740,3.1,22.9,60.9,126.8,75.2,Hypertension,Former,17.91
+1845,2024-12-25,43,M,174.9,125.9,Weight Training,113,Medium,28.4,133,6.8,6,9430,3.5,22.9,60.9,126.8,75.2,Hypertension,Former,18.04

@@ -1,0 +1,17 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+2497,2024-11-02,29,F,166.5,94.6,Yoga,120,High,13.2,139,7.2,6,9057,1.6,16.2,70.6,106.7,84.8,None,Current,15.46
+2497,2024-11-03,29,F,166.5,94.9,Weight Training,118,Low,18.6,124,7.3,2,8301,2.1,16.2,70.6,106.7,84.8,None,Current,15.58
+2497,2024-11-05,29,F,166.5,95.1,Weight Training,44,Medium,8.3,121,8.4,10,5691,3.3,16.2,70.6,106.7,84.8,None,Current,15.63
+2497,2024-11-06,29,F,166.5,95.4,Yoga,107,Medium,10.2,146,9.2,2,8632,1.6,16.2,70.6,106.7,84.8,None,Current,15.76
+2497,2024-11-09,29,F,166.5,95.6,Running,80,Medium,24.9,151,8.3,9,6958,2.5,16.2,70.6,106.7,84.8,None,Current,15.85
+2497,2024-11-12,29,F,166.5,95.9,Basketball,52,Medium,13.3,144,6.9,7,6995,3.4,16.2,70.6,106.7,84.8,None,Current,15.92
+2497,2024-11-14,29,F,166.5,96.2,Basketball,29,Medium,7.4,157,7.6,5,4185,3.0,16.2,70.6,106.7,84.8,None,Current,15.95
+2497,2024-11-15,29,F,166.5,96.4,Dancing,47,Medium,8.3,154,6.9,1,6962,2.5,16.2,70.6,106.7,84.8,None,Current,16.01
+2497,2024-11-16,29,F,166.5,96.7,Running,58,Low,15.2,127,7.2,9,9794,3.0,16.2,70.6,106.7,84.8,None,Current,16.07
+2497,2024-11-17,29,F,166.5,96.9,Basketball,83,High,25.0,161,8.7,3,8162,1.7,16.2,70.6,106.7,84.8,None,Current,16.18
+2497,2024-11-21,29,F,166.5,97.2,Weight Training,71,Medium,13.8,157,8.7,4,6034,1.6,16.2,70.6,106.7,84.8,None,Current,16.27
+2497,2024-11-23,29,F,166.5,97.4,Basketball,43,Medium,11.1,135,9.0,9,4816,3.4,16.2,70.6,106.7,84.8,None,Current,16.32
+2497,2024-11-25,29,F,166.5,97.7,Basketball,53,Low,11.5,128,8.6,3,8119,1.6,16.2,70.6,106.7,84.8,None,Current,16.37
+2497,2024-11-26,29,F,166.5,98.0,Basketball,33,Medium,8.6,151,8.3,3,9323,2.1,16.2,70.6,106.7,84.8,None,Current,16.41
+2497,2024-11-27,29,F,166.5,98.2,Weight Training,100,Medium,19.6,152,7.8,5,10468,2.1,16.2,70.6,106.7,84.8,None,Current,16.53
+2497,2024-11-29,29,F,166.5,98.5,Basketball,38,Medium,10.0,137,7.5,8,7523,1.9,16.2,70.6,106.7,84.8,None,Current,16.58

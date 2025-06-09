@@ -1,0 +1,17 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+903,2024-02-01,54,F,172.5,72.8,Basketball,112,High,25.3,152,7.3,8,9779,1.7,22.8,74.8,112.5,87.2,None,Never,1.52
+903,2024-02-04,54,F,172.5,73.1,Swimming,39,Medium,6.6,116,6.3,3,11585,2.5,22.8,74.8,112.5,87.2,None,Never,1.57
+903,2024-02-05,54,F,172.5,73.3,Basketball,43,High,9.8,130,7.3,3,6388,1.6,22.8,74.8,112.5,87.2,None,Never,1.63
+903,2024-02-06,54,F,172.5,73.6,Swimming,83,High,16.6,150,7.8,10,9215,2.2,22.8,74.8,112.5,87.2,None,Never,1.74
+903,2024-02-09,54,F,172.5,73.9,Basketball,33,Medium,6.5,123,8.7,1,9036,2.2,22.8,74.8,112.5,87.2,None,Never,1.78
+903,2024-02-11,54,F,172.5,74.1,Basketball,64,Medium,12.6,139,6.0,2,11600,2.8,22.8,74.8,112.5,87.2,None,Never,1.86
+903,2024-02-13,54,F,172.5,74.4,Basketball,60,Medium,11.9,123,6.9,9,5938,3.3,22.8,74.8,112.5,87.2,None,Never,1.93
+903,2024-02-16,54,F,172.5,74.6,Swimming,112,Medium,19.4,133,7.9,7,7759,2.7,22.8,74.8,112.5,87.2,None,Never,2.07
+903,2024-02-17,54,F,172.5,74.9,Running,110,Low,22.3,106,8.1,8,11310,1.8,22.8,74.8,112.5,87.2,None,Never,2.18
+903,2024-02-18,54,F,172.5,75.1,Swimming,25,Low,3.6,111,7.9,9,11865,3.4,22.8,74.8,112.5,87.2,None,Never,2.2
+903,2024-02-20,54,F,172.5,75.4,Running,35,Medium,8.6,124,7.4,1,7835,1.6,22.8,74.8,112.5,87.2,None,Never,2.24
+903,2024-02-21,54,F,172.5,75.7,Swimming,110,Medium,19.4,126,7.2,6,6506,3.1,22.8,74.8,112.5,87.2,None,Never,2.37
+903,2024-02-22,54,F,172.5,75.9,Running,32,Low,6.6,117,6.2,8,12495,3.5,22.8,74.8,112.5,87.2,None,Never,2.41
+903,2024-02-24,54,F,172.5,76.2,Running,115,Medium,28.5,107,6.2,8,9628,2.0,22.8,74.8,112.5,87.2,None,Never,2.54
+903,2024-02-27,54,F,172.5,76.4,Basketball,46,High,10.9,154,7.5,6,7804,1.6,22.8,74.8,112.5,87.2,None,Never,2.61
+903,2024-02-28,54,F,172.5,76.7,Basketball,108,Medium,22.0,141,5.6,4,8247,3.2,22.8,74.8,112.5,87.2,None,Never,2.74

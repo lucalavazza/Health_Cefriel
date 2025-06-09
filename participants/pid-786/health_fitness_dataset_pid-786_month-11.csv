@@ -1,0 +1,19 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+786,2024-11-01,21,F,171.7,97.6,Swimming,93,Low,17.6,126,5.6,5,7739,2.9,15.8,70.7,126.7,98.2,None,Current,16.53
+786,2024-11-02,21,F,171.7,97.9,Swimming,85,Medium,19.4,142,7.2,5,5774,2.1,15.8,70.7,126.7,98.2,None,Current,16.63
+786,2024-11-04,21,F,171.7,98.1,Basketball,71,Low,15.4,130,9.0,1,5465,1.8,15.8,70.7,126.7,98.2,None,Current,16.71
+786,2024-11-05,21,F,171.7,98.4,Tennis,22,Medium,5.3,147,7.9,8,7051,2.3,15.8,70.7,126.7,98.2,None,Current,16.73
+786,2024-11-06,21,F,171.7,98.6,Cycling,55,High,17.9,189,8.8,2,7566,2.4,15.8,70.7,126.7,98.2,None,Current,16.81
+786,2024-11-09,21,F,171.7,98.9,Cycling,91,Medium,25.4,146,5.0,2,9907,2.7,15.8,70.7,126.7,98.2,None,Current,16.92
+786,2024-11-10,21,F,171.7,99.1,Cycling,39,Medium,10.9,159,8.1,10,9871,2.2,15.8,70.7,126.7,98.2,None,Current,16.97
+786,2024-11-11,21,F,171.7,99.4,Cycling,33,Medium,9.3,142,10.0,10,9504,2.6,15.8,70.7,126.7,98.2,None,Current,17.0
+786,2024-11-12,21,F,171.7,99.7,Cycling,25,High,8.2,178,6.5,6,6280,2.0,15.8,70.7,126.7,98.2,None,Current,17.04
+786,2024-11-15,21,F,171.7,99.9,Basketball,80,Medium,21.3,155,5.6,8,5970,3.1,15.8,70.7,126.7,98.2,None,Current,17.14
+786,2024-11-19,21,F,171.7,100.2,Weight Training,118,High,27.5,178,7.4,1,8490,2.6,15.8,70.7,126.7,98.2,None,Current,17.3
+786,2024-11-20,21,F,171.7,100.4,Weight Training,53,Medium,10.6,149,8.2,5,6347,2.7,15.8,70.7,126.7,98.2,None,Current,17.36
+786,2024-11-21,21,F,171.7,100.7,Weight Training,50,Low,8.4,124,9.6,3,4825,1.6,15.8,70.7,126.7,98.2,None,Current,17.41
+786,2024-11-22,21,F,171.7,101.0,Weight Training,57,Low,9.6,129,6.2,4,7270,1.5,15.8,70.7,126.7,98.2,None,Current,17.47
+786,2024-11-24,21,F,171.7,101.2,Weight Training,45,Low,7.6,125,8.4,5,9438,1.7,15.8,70.7,126.7,98.2,None,Current,17.52
+786,2024-11-27,21,F,171.7,101.5,Weight Training,104,Medium,21.1,143,5.6,6,7538,3.3,15.8,70.7,126.7,98.2,None,Current,17.64
+786,2024-11-28,21,F,171.7,101.7,Weight Training,60,Medium,12.2,142,6.6,2,6937,2.7,15.8,70.7,126.7,98.2,None,Current,17.71
+786,2024-11-30,21,F,171.7,102.0,Weight Training,107,Medium,21.8,143,7.0,6,8612,1.5,15.8,70.7,126.7,98.2,None,Current,17.84

@@ -1,0 +1,23 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+635,2024-01-01,26,M,171.7,83.1,Swimming,82,Low,13.2,118,5.1,8,8388,3.1,28.1,70.2,111.9,95,None,Current,0.08
+635,2024-01-02,26,M,171.7,83.3,Swimming,59,Medium,11.4,146,7.5,4,6665,2.2,28.1,70.2,111.9,95,None,Current,0.15
+635,2024-01-05,26,M,171.7,83.6,Weight Training,97,Medium,16.2,144,6.6,4,7363,3.5,28.1,70.2,111.9,95,None,Current,0.27
+635,2024-01-07,26,M,171.7,83.8,Swimming,100,Medium,19.5,155,6.0,3,11341,2.0,28.1,70.2,111.9,95,None,Current,0.39
+635,2024-01-08,26,M,171.7,84.1,Weight Training,57,Low,8.0,120,6.4,9,8019,2.2,28.1,70.2,111.9,95,None,Current,0.45
+635,2024-01-09,26,M,171.7,84.4,Weight Training,109,Low,15.3,131,6.5,6,7523,1.6,28.1,70.2,111.9,95,None,Current,0.56
+635,2024-01-10,26,M,171.7,84.6,Weight Training,109,Low,15.3,127,6.7,10,7990,2.2,28.1,70.2,111.9,95,None,Current,0.66
+635,2024-01-11,26,M,171.7,84.9,Weight Training,104,Medium,17.6,142,5.6,3,8681,2.5,28.1,70.2,111.9,95,None,Current,0.79
+635,2024-01-12,26,M,171.7,85.1,Weight Training,88,Medium,14.9,151,7.4,2,7101,2.2,28.1,70.2,111.9,95,None,Current,0.89
+635,2024-01-14,26,M,171.7,85.4,Weight Training,74,Medium,12.6,136,7.1,5,11909,1.7,28.1,70.2,111.9,95,None,Current,0.98
+635,2024-01-15,26,M,171.7,85.6,Weight Training,90,Medium,15.4,144,7.0,9,10691,2.8,28.1,70.2,111.9,95,None,Current,1.09
+635,2024-01-16,26,M,171.7,85.9,Weight Training,92,Low,13.1,124,7.6,5,5220,2.7,28.1,70.2,111.9,95,None,Current,1.18
+635,2024-01-17,26,M,171.7,86.2,Weight Training,50,Medium,8.6,151,7.6,5,8092,2.8,28.1,70.2,111.9,95,None,Current,1.24
+635,2024-01-18,26,M,171.7,86.4,Weight Training,30,Medium,5.2,152,6.0,6,9056,1.9,28.1,70.2,111.9,95,None,Current,1.28
+635,2024-01-20,26,M,171.7,86.7,Weight Training,78,Medium,13.5,142,6.3,3,10461,3.5,28.1,70.2,111.9,95,None,Current,1.37
+635,2024-01-21,26,M,171.7,86.9,Walking,30,Low,2.7,126,7.4,9,9414,2.7,28.1,70.2,111.9,95,None,Current,1.4
+635,2024-01-22,26,M,171.7,87.2,Walking,50,Medium,5.5,136,7.8,5,8666,2.3,28.1,70.2,111.9,95,None,Current,1.46
+635,2024-01-23,26,M,171.7,87.4,HIIT,104,High,42.3,176,7.1,1,8442,2.8,28.1,70.2,111.9,95,None,Current,1.61
+635,2024-01-24,26,M,171.7,87.7,Walking,120,Low,11.1,127,5.9,7,7036,3.0,28.1,70.2,111.9,95,None,Current,1.73
+635,2024-01-27,26,M,171.7,88.0,Tennis,40,Medium,8.5,145,9.0,1,9051,2.1,28.1,70.2,111.9,95,None,Current,1.78
+635,2024-01-30,26,M,171.7,88.2,Tennis,71,Medium,15.2,134,7.5,6,5793,3.2,28.1,70.2,111.9,95,None,Current,1.86
+635,2024-01-31,26,M,171.7,88.5,Basketball,86,High,23.6,167,7.3,10,7656,1.9,28.1,70.2,111.9,95,None,Current,1.98

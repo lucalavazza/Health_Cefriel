@@ -1,0 +1,17 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+1220,2024-11-01,36,F,161.8,93.5,Swimming,86,Medium,18.7,124,6.6,8,6732,3.3,17.2,68.3,119.3,87.3,Asthma,Never,16.29
+1220,2024-11-03,36,F,161.8,93.8,Swimming,88,Low,16.0,120,7.6,8,11354,2.5,17.2,68.3,119.3,87.3,Asthma,Never,16.38
+1220,2024-11-04,36,F,161.8,94.1,Swimming,91,Low,16.6,115,5.1,4,4228,3.4,17.2,68.3,119.3,87.3,Asthma,Never,16.47
+1220,2024-11-05,36,F,161.8,94.3,Swimming,33,Low,6.0,120,6.4,10,6430,2.1,17.2,68.3,119.3,87.3,Asthma,Never,16.5
+1220,2024-11-06,36,F,161.8,94.6,Swimming,95,Medium,20.9,131,7.3,9,8243,1.6,17.2,68.3,119.3,87.3,Asthma,Never,16.62
+1220,2024-11-08,36,F,161.8,94.8,Swimming,26,Low,4.8,125,7.1,7,10048,3.4,17.2,68.3,119.3,87.3,Asthma,Never,16.64
+1220,2024-11-10,36,F,161.8,95.1,Tennis,44,Low,8.5,121,7.2,4,7236,2.1,17.2,68.3,119.3,87.3,Asthma,Never,16.69
+1220,2024-11-11,36,F,161.8,95.4,Cycling,110,Low,24.7,129,5.6,7,6332,1.6,17.2,68.3,119.3,87.3,Asthma,Never,16.8
+1220,2024-11-14,36,F,161.8,95.6,Basketball,109,Low,23.1,120,7.2,5,6370,2.2,17.2,68.3,119.3,87.3,Asthma,Never,16.91
+1220,2024-11-15,36,F,161.8,95.9,Tennis,48,Medium,11.2,130,7.7,4,5318,3.2,17.2,68.3,119.3,87.3,Asthma,Never,16.96
+1220,2024-11-18,36,F,161.8,96.1,Cycling,118,High,37.4,146,6.0,8,6080,1.7,17.2,68.3,119.3,87.3,Asthma,Never,17.13
+1220,2024-11-20,36,F,161.8,96.4,Dancing,42,Low,6.2,116,8.1,4,6353,1.7,17.2,68.3,119.3,87.3,Asthma,Never,17.17
+1220,2024-11-22,36,F,161.8,96.6,Weight Training,104,Low,16.7,118,6.8,5,4956,2.1,17.2,68.3,119.3,87.3,Asthma,Never,17.28
+1220,2024-11-23,36,F,161.8,96.9,Tennis,26,Medium,6.1,139,6.6,8,8644,2.5,17.2,68.3,119.3,87.3,Asthma,Never,17.31
+1220,2024-11-24,36,F,161.8,97.2,Weight Training,83,Medium,16.1,129,7.6,5,7949,2.0,17.2,68.3,119.3,87.3,Asthma,Never,17.41
+1220,2024-11-26,36,F,161.8,97.4,Weight Training,76,Medium,14.8,126,8.7,2,5210,2.5,17.2,68.3,119.3,87.3,Asthma,Never,17.5

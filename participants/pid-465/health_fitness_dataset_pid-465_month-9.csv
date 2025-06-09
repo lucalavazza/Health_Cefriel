@@ -1,0 +1,17 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+465,2024-09-02,61,F,151.3,88.4,Cycling,106,Medium,26.5,105,7.4,8,6321,2.2,19.7,68.4,136.2,87.9,None,Current,14.35
+465,2024-09-03,61,F,151.3,88.6,Cycling,27,Low,5.6,98,6.1,1,7989,2.1,19.7,68.4,136.2,87.9,None,Current,14.38
+465,2024-09-05,61,F,151.3,88.9,Cycling,35,Medium,8.8,133,7.0,3,5120,1.5,19.7,68.4,136.2,87.9,None,Current,14.42
+465,2024-09-07,61,F,151.3,89.1,Cycling,47,Low,9.9,109,8.6,9,10755,2.4,19.7,68.4,136.2,87.9,None,Current,14.47
+465,2024-09-08,61,F,151.3,89.4,Cycling,77,Low,16.2,104,6.9,8,8079,3.4,19.7,68.4,136.2,87.9,None,Current,14.55
+465,2024-09-09,61,F,151.3,89.7,Cycling,116,Medium,29.4,130,5.0,7,5179,3.0,19.7,68.4,136.2,87.9,None,Current,14.69
+465,2024-09-10,61,F,151.3,89.9,Cycling,105,Low,22.2,97,8.1,7,8442,2.4,19.7,68.4,136.2,87.9,None,Current,14.79
+465,2024-09-11,61,F,151.3,90.2,Cycling,47,Medium,12.0,120,6.6,2,4185,1.6,19.7,68.4,136.2,87.9,None,Current,14.85
+465,2024-09-12,61,F,151.3,90.4,Cycling,54,Medium,13.8,116,8.9,5,6551,3.5,19.7,68.4,136.2,87.9,None,Current,14.91
+465,2024-09-13,61,F,151.3,90.7,Cycling,65,Low,13.9,104,9.0,4,6404,3.1,19.7,68.4,136.2,87.9,None,Current,14.98
+465,2024-09-16,61,F,151.3,90.9,Cycling,119,High,35.7,149,6.9,9,3023,2.9,19.7,68.4,136.2,87.9,None,Current,15.14
+465,2024-09-17,61,F,151.3,91.2,Cycling,63,Low,13.5,102,5.9,8,8247,3.1,19.7,68.4,136.2,87.9,None,Current,15.21
+465,2024-09-18,61,F,151.3,91.5,Cycling,31,Low,6.7,100,6.0,3,5030,2.0,19.7,68.4,136.2,87.9,None,Current,15.24
+465,2024-09-22,61,F,151.3,91.7,Cycling,36,Medium,9.3,131,6.9,8,8219,3.2,19.7,68.4,136.2,87.9,None,Current,15.28
+465,2024-09-26,61,F,151.3,92.0,Cycling,57,Medium,14.8,123,8.6,3,8272,1.9,19.7,68.4,136.2,87.9,None,Current,15.35
+465,2024-09-27,61,F,151.3,92.2,Cycling,89,Medium,23.2,121,7.1,9,5314,2.1,19.7,68.4,136.2,87.9,None,Current,15.46

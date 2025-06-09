@@ -14,6 +14,8 @@ from causalnex.network import BayesianNetwork
 fit_data = pd.read_csv('health_fitness_dataset.csv')
 
 drop_cols = ['participant_id', 'date', 'gender', 'height_cm', 'weight_kg', 'activity_type', 'health_condition', 'stress_level']
+# do not remove health_condition
+# try with a subsample
 participants_considered = 3
 drop_rows = range(participants_considered*365+1, len(fit_data))
 fit_data = fit_data.drop(drop_rows, axis=0)

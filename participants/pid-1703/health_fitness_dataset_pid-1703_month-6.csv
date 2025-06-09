@@ -1,0 +1,22 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+1703,2024-06-01,29,F,160.9,81.1,Basketball,111,Medium,23.9,132,7.8,7,9975,3.0,20,68.9,112.6,77.5,Asthma,Former,9.88
+1703,2024-06-02,29,F,160.9,81.4,Weight Training,88,Medium,14.3,147,6.8,2,8870,2.4,20,68.9,112.6,77.5,Asthma,Former,9.98
+1703,2024-06-03,29,F,160.9,81.6,Weight Training,86,Low,11.7,125,7.6,2,10298,2.1,20,68.9,112.6,77.5,Asthma,Former,10.07
+1703,2024-06-04,29,F,160.9,81.9,Basketball,32,Medium,7.0,128,7.3,2,8084,2.6,20,68.9,112.6,77.5,Asthma,Former,10.11
+1703,2024-06-06,29,F,160.9,82.2,Weight Training,58,Medium,9.5,144,6.0,5,7926,2.7,20,68.9,112.6,77.5,Asthma,Former,10.17
+1703,2024-06-07,29,F,160.9,82.4,Weight Training,22,Medium,3.6,162,6.4,6,7363,2.9,20,68.9,112.6,77.5,Asthma,Former,10.2
+1703,2024-06-08,29,F,160.9,82.7,Weight Training,55,Medium,9.1,151,6.3,10,6373,3.1,20,68.9,112.6,77.5,Asthma,Former,10.27
+1703,2024-06-09,29,F,160.9,82.9,Weight Training,43,High,8.3,155,7.1,8,10417,1.9,20,68.9,112.6,77.5,Asthma,Former,10.33
+1703,2024-06-10,29,F,160.9,83.2,Weight Training,31,Medium,5.1,159,8.1,4,12536,3.4,20,68.9,112.6,77.5,Asthma,Former,10.36
+1703,2024-06-11,29,F,160.9,83.5,Weight Training,65,Medium,10.8,139,8.0,8,7544,1.9,20,68.9,112.6,77.5,Asthma,Former,10.44
+1703,2024-06-12,29,F,160.9,83.7,Weight Training,23,Low,3.2,125,8.2,7,6796,2.7,20,68.9,112.6,77.5,Asthma,Former,10.47
+1703,2024-06-13,29,F,160.9,84.0,Weight Training,24,Low,3.3,123,7.0,2,9416,1.8,20,68.9,112.6,77.5,Asthma,Former,10.49
+1703,2024-06-14,29,F,160.9,84.2,Weight Training,58,Low,8.1,119,7.4,6,8313,3.1,20,68.9,112.6,77.5,Asthma,Former,10.55
+1703,2024-06-15,29,F,160.9,84.5,Dancing,65,Low,8.4,123,5.8,9,10522,1.8,20,68.9,112.6,77.5,Asthma,Former,10.61
+1703,2024-06-17,29,F,160.9,84.7,Basketball,23,Low,4.3,125,6.9,4,7320,1.7,20,68.9,112.6,77.5,Asthma,Former,10.64
+1703,2024-06-20,29,F,160.9,85.0,Dancing,27,Low,3.5,131,7.2,4,7948,2.4,20,68.9,112.6,77.5,Asthma,Former,10.66
+1703,2024-06-23,29,F,160.9,85.3,Dancing,43,Low,5.6,120,6.7,2,9670,3.0,20,68.9,112.6,77.5,Asthma,Former,10.71
+1703,2024-06-25,29,F,160.9,85.5,Basketball,93,High,24.7,174,6.1,2,9057,2.7,20,68.9,112.6,77.5,Asthma,Former,10.84
+1703,2024-06-26,29,F,160.9,85.8,Dancing,28,High,5.1,178,7.4,3,9538,3.4,20,68.9,112.6,77.5,Asthma,Former,10.88
+1703,2024-06-27,29,F,160.9,86.0,Basketball,33,Medium,7.5,151,9.1,6,7229,1.9,20,68.9,112.6,77.5,Asthma,Former,10.91
+1703,2024-06-28,29,F,160.9,86.3,Dancing,110,Medium,17.4,140,7.0,7,8120,1.6,20,68.9,112.6,77.5,Asthma,Former,11.05

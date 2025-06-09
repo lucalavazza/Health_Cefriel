@@ -1,0 +1,17 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+2603,2024-06-01,46,M,174.1,100.3,Basketball,32,Medium,8.5,120,8.2,9,10177,3.2,23.2,70.8,110.3,81,None,Never,9.78
+2603,2024-06-02,46,M,174.1,100.6,Basketball,112,Medium,30.0,129,6.1,1,12613,2.6,23.2,70.8,110.3,81,None,Never,9.92
+2603,2024-06-05,46,M,174.1,100.8,Basketball,96,Medium,25.7,109,7.3,10,9088,2.6,23.2,70.8,110.3,81,None,Never,10.03
+2603,2024-06-07,46,M,174.1,101.1,Basketball,58,Low,13.0,115,8.1,6,8748,2.5,23.2,70.8,110.3,81,None,Never,10.09
+2603,2024-06-08,46,M,174.1,101.3,Basketball,47,Medium,12.7,135,6.8,7,8105,3.3,23.2,70.8,110.3,81,None,Never,10.15
+2603,2024-06-09,46,M,174.1,101.6,HIIT,21,Low,7.1,106,5.7,4,10877,3.2,23.2,70.8,110.3,81,None,Never,10.17
+2603,2024-06-10,46,M,174.1,101.9,Basketball,62,Low,14.0,108,6.3,7,9458,2.3,23.2,70.8,110.3,81,None,Never,10.23
+2603,2024-06-11,46,M,174.1,102.1,HIIT,22,Low,7.5,107,7.0,6,12415,1.6,23.2,70.8,110.3,81,None,Never,10.25
+2603,2024-06-12,46,M,174.1,102.4,Basketball,72,Medium,19.6,133,6.6,10,8112,1.9,23.2,70.8,110.3,81,None,Never,10.34
+2603,2024-06-13,46,M,174.1,102.6,Basketball,100,Medium,27.3,115,6.1,1,7093,3.2,23.2,70.8,110.3,81,None,Never,10.46
+2603,2024-06-14,46,M,174.1,102.9,Basketball,106,High,33.8,144,7.7,6,7302,2.3,23.2,70.8,110.3,81,None,Never,10.61
+2603,2024-06-15,46,M,174.1,103.1,Basketball,109,Medium,29.9,126,6.6,5,13199,2.9,23.2,70.8,110.3,81,None,Never,10.74
+2603,2024-06-17,46,M,174.1,103.4,Running,93,Medium,31.3,122,6.5,2,6876,3.3,23.2,70.8,110.3,81,None,Never,10.85
+2603,2024-06-18,46,M,174.1,103.7,Running,105,Medium,35.5,124,8.7,3,6705,3.4,23.2,70.8,110.3,81,None,Never,10.97
+2603,2024-06-21,46,M,174.1,103.9,Weight Training,107,Medium,22.2,137,6.8,6,7320,3.2,23.2,70.8,110.3,81,None,Never,11.1
+2603,2024-06-22,46,M,174.1,104.2,Running,43,Medium,14.6,123,8.4,6,9378,1.8,23.2,70.8,110.3,81,None,Never,11.15

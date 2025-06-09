@@ -1,0 +1,18 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+2709,2024-11-03,54,M,180.9,133.0,Running,103,Medium,44.7,128,7.7,1,8732,2.3,24.8,70.4,113.1,73.2,Hypertension,Never,16.29
+2709,2024-11-04,54,M,180.9,133.2,Cycling,76,High,33.4,146,5.4,6,8837,2.4,24.8,70.4,113.1,73.2,Hypertension,Never,16.39
+2709,2024-11-05,54,M,180.9,133.5,Cycling,89,High,39.2,131,6.7,7,7879,3.3,24.8,70.4,113.1,73.2,Hypertension,Never,16.52
+2709,2024-11-06,54,M,180.9,133.7,Running,83,Low,30.2,99,7.5,5,6445,3.1,24.8,70.4,113.1,73.2,Hypertension,Never,16.6
+2709,2024-11-08,54,M,180.9,134.0,Cycling,92,Low,29.1,110,8.5,5,6799,2.2,24.8,70.4,113.1,73.2,Hypertension,Never,16.69
+2709,2024-11-09,54,M,180.9,134.3,Tennis,43,Medium,14.0,119,8.0,4,9825,2.7,24.8,70.4,113.1,73.2,Hypertension,Never,16.75
+2709,2024-11-10,54,M,180.9,134.5,Running,34,High,17.4,128,6.7,1,4066,1.8,24.8,70.4,113.1,73.2,Hypertension,Never,16.79
+2709,2024-11-11,54,M,180.9,134.8,Weight Training,101,Medium,27.2,130,9.0,1,6527,3.3,24.8,70.4,113.1,73.2,Hypertension,Never,16.91
+2709,2024-11-13,54,M,180.9,135.0,Weight Training,79,Medium,21.3,137,6.8,10,9982,2.5,24.8,70.4,113.1,73.2,Hypertension,Never,17.01
+2709,2024-11-17,54,M,180.9,135.3,Running,69,Low,25.4,110,6.9,2,8077,1.6,24.8,70.4,113.1,73.2,Hypertension,Never,17.08
+2709,2024-11-18,54,M,180.9,135.5,Basketball,111,Low,33.4,109,7.3,7,3898,2.7,24.8,70.4,113.1,73.2,Hypertension,Never,17.19
+2709,2024-11-20,54,M,180.9,135.8,Weight Training,23,High,7.3,141,6.8,7,6932,2.3,24.8,70.4,113.1,73.2,Hypertension,Never,17.22
+2709,2024-11-22,54,M,180.9,136.1,Running,117,Medium,51.9,119,6.6,8,7437,2.0,24.8,70.4,113.1,73.2,Hypertension,Never,17.36
+2709,2024-11-23,54,M,180.9,136.3,Cycling,24,Medium,9.3,112,6.8,1,7208,1.6,24.8,70.4,113.1,73.2,Hypertension,Never,17.39
+2709,2024-11-26,54,M,180.9,136.6,Running,80,Low,29.7,99,7.2,5,10049,3.0,24.8,70.4,113.1,73.2,Hypertension,Never,17.47
+2709,2024-11-27,54,M,180.9,136.8,Cycling,50,High,22.6,133,8.6,1,5061,3.4,24.8,70.4,113.1,73.2,Hypertension,Never,17.54
+2709,2024-11-30,54,M,180.9,137.1,Cycling,72,Low,23.3,96,6.8,4,8009,2.1,24.8,70.4,113.1,73.2,Hypertension,Never,17.61

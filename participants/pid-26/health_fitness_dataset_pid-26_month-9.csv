@@ -1,0 +1,17 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+26,2024-09-01,26,F,174.2,97.5,Cycling,98,Medium,27.0,126,6.3,2,10769,1.7,18.4,75.5,115.2,89,Hypertension,Never,13.49
+26,2024-09-04,26,F,174.2,97.8,Yoga,81,Medium,7.9,136,8.1,3,4147,1.6,18.4,75.5,115.2,89,Hypertension,Never,13.59
+26,2024-09-09,26,F,174.2,98.1,Swimming,47,Low,8.9,126,7.2,8,4530,1.9,18.4,75.5,115.2,89,Hypertension,Never,13.64
+26,2024-09-13,26,F,174.2,98.3,Yoga,70,Low,5.7,130,7.4,1,7258,1.6,18.4,75.5,115.2,89,Hypertension,Never,13.71
+26,2024-09-15,26,F,174.2,98.6,Yoga,30,Medium,2.9,139,5.3,7,8179,1.7,18.4,75.5,115.2,89,Hypertension,Never,13.74
+26,2024-09-16,26,F,174.2,98.8,Yoga,65,High,7.5,170,7.5,3,6353,1.8,18.4,75.5,115.2,89,Hypertension,Never,13.83
+26,2024-09-18,26,F,174.2,99.1,Yoga,68,High,7.8,155,6.4,6,7646,3.1,18.4,75.5,115.2,89,Hypertension,Never,13.93
+26,2024-09-19,26,F,174.2,99.4,Yoga,63,Low,5.2,127,6.2,2,5462,2.9,18.4,75.5,115.2,89,Hypertension,Never,13.99
+26,2024-09-20,26,F,174.2,99.6,Yoga,36,High,4.2,165,6.2,4,3906,2.1,18.4,75.5,115.2,89,Hypertension,Never,14.04
+26,2024-09-21,26,F,174.2,99.9,Yoga,63,High,7.3,171,7.1,6,8982,3.3,18.4,75.5,115.2,89,Hypertension,Never,14.13
+26,2024-09-22,26,F,174.2,100.1,Yoga,86,Low,7.2,120,7.9,4,6918,2.2,18.4,75.5,115.2,89,Hypertension,Never,14.22
+26,2024-09-23,26,F,174.2,100.4,Yoga,20,Medium,2.0,138,5.9,1,7688,3.3,18.4,75.5,115.2,89,Hypertension,Never,14.24
+26,2024-09-24,26,F,174.2,100.6,Yoga,103,High,12.1,153,5.9,7,5604,2.9,18.4,75.5,115.2,89,Hypertension,Never,14.38
+26,2024-09-27,26,F,174.2,100.9,Yoga,31,Medium,3.1,143,7.4,3,5816,2.1,18.4,75.5,115.2,89,Hypertension,Never,14.42
+26,2024-09-28,26,F,174.2,101.2,Dancing,29,High,6.3,178,6.2,7,10137,2.4,18.4,75.5,115.2,89,Hypertension,Never,14.46
+26,2024-09-30,26,F,174.2,101.4,Running,110,Medium,36.4,155,8.2,2,5622,1.8,18.4,75.5,115.2,89,Hypertension,Never,14.59

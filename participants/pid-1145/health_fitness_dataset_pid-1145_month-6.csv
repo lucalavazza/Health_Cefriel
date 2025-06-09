@@ -1,0 +1,18 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+1145,2024-06-03,30,F,168.6,81.8,Running,108,High,33.6,163,6.9,6,9234,2.8,18.4,74.5,126.1,101.8,None,Former,9.28
+1145,2024-06-04,30,F,168.6,82.1,Weight Training,84,Low,11.5,125,5.8,6,6426,3.0,18.4,74.5,126.1,101.8,None,Former,9.36
+1145,2024-06-05,30,F,168.6,82.4,Running,69,Medium,18.5,143,6.5,1,9423,1.5,18.4,74.5,126.1,101.8,None,Former,9.45
+1145,2024-06-06,30,F,168.6,82.6,Running,106,Medium,28.5,133,5.2,3,10468,1.8,18.4,74.5,126.1,101.8,None,Former,9.57
+1145,2024-06-08,30,F,168.6,82.9,Weight Training,110,Medium,18.2,140,8.5,5,12896,2.9,18.4,74.5,126.1,101.8,None,Former,9.71
+1145,2024-06-11,30,F,168.6,83.1,Weight Training,107,Low,14.8,125,7.9,4,8976,2.1,18.4,74.5,126.1,101.8,None,Former,9.81
+1145,2024-06-13,30,F,168.6,83.4,Weight Training,90,Medium,15.0,138,7.2,3,9708,1.6,18.4,74.5,126.1,101.8,None,Former,9.92
+1145,2024-06-14,30,F,168.6,83.6,Tennis,20,Low,3.4,112,6.8,10,7778,2.3,18.4,74.5,126.1,101.8,None,Former,9.94
+1145,2024-06-16,30,F,168.6,83.9,Weight Training,102,Medium,17.1,129,8.4,4,9507,1.5,18.4,74.5,126.1,101.8,None,Former,10.06
+1145,2024-06-19,30,F,168.6,84.2,Weight Training,89,Medium,14.9,142,5.1,1,7700,2.1,18.4,74.5,126.1,101.8,None,Former,10.17
+1145,2024-06-20,30,F,168.6,84.4,Dancing,42,Low,5.4,119,6.9,3,10826,2.9,18.4,74.5,126.1,101.8,None,Former,10.21
+1145,2024-06-21,30,F,168.6,84.7,Weight Training,34,High,6.7,167,6.9,2,8563,3.3,18.4,74.5,126.1,101.8,None,Former,10.26
+1145,2024-06-22,30,F,168.6,84.9,Weight Training,79,High,15.6,161,7.7,9,9400,2.2,18.4,74.5,126.1,101.8,None,Former,10.37
+1145,2024-06-25,30,F,168.6,85.2,Dancing,76,Low,9.9,131,6.7,4,8230,3.4,18.4,74.5,126.1,101.8,None,Former,10.45
+1145,2024-06-26,30,F,168.6,85.4,Dancing,34,Medium,5.3,156,7.1,4,8640,3.5,18.4,74.5,126.1,101.8,None,Former,10.49
+1145,2024-06-27,30,F,168.6,85.7,Walking,56,Low,5.1,113,5.8,8,7967,3.1,18.4,74.5,126.1,101.8,None,Former,10.54
+1145,2024-06-28,30,F,168.6,86.0,Basketball,72,High,19.2,156,7.0,10,9245,1.9,18.4,74.5,126.1,101.8,None,Former,10.64

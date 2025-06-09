@@ -1,0 +1,20 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+195,2024-10-01,53,F,155.2,99.3,Running,32,High,12.1,148,6.3,1,6161,1.8,21.9,69.4,128.5,91.2,Asthma,Former,15.18
+195,2024-10-02,53,F,155.2,99.6,Running,63,Low,17.0,108,6.3,1,7683,1.6,21.9,69.4,128.5,91.2,Asthma,Former,15.24
+195,2024-10-04,53,F,155.2,99.8,Running,55,High,20.9,150,7.7,4,6330,2.2,21.9,69.4,128.5,91.2,Asthma,Former,15.32
+195,2024-10-06,53,F,155.2,100.1,Cycling,60,Medium,17.0,124,5.7,9,6138,2.1,21.9,69.4,128.5,91.2,Asthma,Former,15.39
+195,2024-10-07,53,F,155.2,100.4,Weight Training,120,Low,20.0,114,8.5,4,8304,2.7,21.9,69.4,128.5,91.2,Asthma,Former,15.51
+195,2024-10-09,53,F,155.2,100.6,Running,118,Medium,38.7,115,8.2,10,7627,2.1,21.9,69.4,128.5,91.2,Asthma,Former,15.65
+195,2024-10-11,53,F,155.2,100.9,Weight Training,89,Medium,17.9,123,6.9,2,7355,3.3,21.9,69.4,128.5,91.2,Asthma,Former,15.76
+195,2024-10-13,53,F,155.2,101.1,Basketball,32,Medium,8.6,112,9.1,2,8472,2.4,21.9,69.4,128.5,91.2,Asthma,Former,15.79
+195,2024-10-14,53,F,155.2,101.4,Running,32,Low,8.8,112,6.4,1,5894,2.6,21.9,69.4,128.5,91.2,Asthma,Former,15.83
+195,2024-10-16,53,F,155.2,101.6,Basketball,83,Low,18.7,113,7.2,7,6401,2.1,21.9,69.4,128.5,91.2,Asthma,Former,15.91
+195,2024-10-17,53,F,155.2,101.9,Basketball,54,Medium,14.6,123,5.7,9,5472,2.2,21.9,69.4,128.5,91.2,Asthma,Former,15.97
+195,2024-10-18,53,F,155.2,102.2,Basketball,58,Medium,15.8,132,6.5,8,4137,2.7,21.9,69.4,128.5,91.2,Asthma,Former,16.04
+195,2024-10-21,53,F,155.2,102.4,Basketball,89,Medium,24.2,128,6.8,1,7541,3.2,21.9,69.4,128.5,91.2,Asthma,Former,16.15
+195,2024-10-25,53,F,155.2,102.7,Basketball,70,Medium,19.1,117,5.8,3,3515,3.2,21.9,69.4,128.5,91.2,Asthma,Former,16.23
+195,2024-10-26,53,F,155.2,102.9,Basketball,20,Medium,5.5,121,7.6,5,9478,3.1,21.9,69.4,128.5,91.2,Asthma,Former,16.26
+195,2024-10-27,53,F,155.2,103.2,Walking,46,Low,5.0,110,6.4,3,6598,2.1,21.9,69.4,128.5,91.2,Asthma,Former,16.3
+195,2024-10-28,53,F,155.2,103.5,Yoga,67,High,8.1,133,9.3,4,5019,2.6,21.9,69.4,128.5,91.2,Asthma,Former,16.4
+195,2024-10-29,53,F,155.2,103.7,Yoga,114,High,13.8,143,8.2,9,4896,3.5,21.9,69.4,128.5,91.2,Asthma,Former,16.56
+195,2024-10-31,53,F,155.2,104.0,Walking,102,Medium,13.4,123,7.8,8,5596,2.0,21.9,69.4,128.5,91.2,Asthma,Former,16.68

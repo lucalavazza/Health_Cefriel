@@ -1,0 +1,18 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+1700,2024-08-01,20,M,168.7,96.4,Weight Training,23,Medium,4.4,159,6.6,2,6416,2.6,20.5,81,131.6,75.6,None,Never,11.53
+1700,2024-08-03,20,M,168.7,96.7,Running,102,Medium,32.1,152,5.4,7,12345,3.2,20.5,81,131.6,75.6,None,Never,11.65
+1700,2024-08-04,20,M,168.7,96.9,Basketball,95,Medium,24.5,147,7.3,1,7876,2.3,20.5,81,131.6,75.6,None,Never,11.77
+1700,2024-08-06,20,M,168.7,97.2,Weight Training,43,Medium,8.3,163,5.8,2,5553,2.0,20.5,81,131.6,75.6,None,Never,11.82
+1700,2024-08-10,20,M,168.7,97.4,Basketball,96,High,29.0,157,7.1,6,8809,3.5,20.5,81,131.6,75.6,None,Never,11.95
+1700,2024-08-11,20,M,168.7,97.7,Basketball,46,Medium,12.0,136,6.4,5,7156,2.5,20.5,81,131.6,75.6,None,Never,12.01
+1700,2024-08-12,20,M,168.7,97.9,Basketball,96,Low,20.8,128,7.5,10,5607,1.7,20.5,81,131.6,75.6,None,Never,12.1
+1700,2024-08-14,20,M,168.7,98.2,Basketball,31,Low,6.7,132,5.5,4,6813,2.8,20.5,81,131.6,75.6,None,Never,12.13
+1700,2024-08-15,20,M,168.7,98.5,Basketball,78,Medium,20.4,151,6.5,8,8017,2.0,20.5,81,131.6,75.6,None,Never,12.23
+1700,2024-08-16,20,M,168.7,98.7,Basketball,95,Low,20.8,126,7.8,7,8401,2.3,20.5,81,131.6,75.6,None,Never,12.32
+1700,2024-08-17,20,M,168.7,99.0,Basketball,100,Low,21.9,130,5.5,4,7038,1.5,20.5,81,131.6,75.6,None,Never,12.42
+1700,2024-08-19,20,M,168.7,99.2,Basketball,39,Medium,10.3,146,7.5,8,5417,2.5,20.5,81,131.6,75.6,None,Never,12.47
+1700,2024-08-26,20,M,168.7,99.5,Swimming,25,Medium,5.8,156,6.2,2,9283,3.0,20.5,81,131.6,75.6,None,Never,12.5
+1700,2024-08-27,20,M,168.7,99.7,Running,29,Low,7.9,130,6.9,2,4086,2.8,20.5,81,131.6,75.6,None,Never,12.53
+1700,2024-08-28,20,M,168.7,100.0,Basketball,67,High,20.8,168,7.1,5,5735,3.4,20.5,81,131.6,75.6,None,Never,12.62
+1700,2024-08-29,20,M,168.7,100.3,Running,49,Medium,16.0,150,6.9,5,4000,1.6,20.5,81,131.6,75.6,None,Never,12.68
+1700,2024-08-30,20,M,168.7,100.5,Running,105,Low,28.7,135,7.5,2,7037,1.8,20.5,81,131.6,75.6,None,Never,12.79

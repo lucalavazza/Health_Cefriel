@@ -1,0 +1,23 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+608,2024-01-01,40,F,159.2,45.3,Weight Training,63,Low,4.7,112,6.6,7,10103,1.8,17.8,73,117,76.3,Asthma,Never,0.06
+608,2024-01-03,40,F,159.2,45.5,Weight Training,64,Low,4.8,121,7.8,10,8671,2.4,17.8,73,117,76.3,Asthma,Never,0.13
+608,2024-01-04,40,F,159.2,45.8,Dancing,48,Low,3.3,112,7.0,3,7770,2.7,17.8,73,117,76.3,Asthma,Never,0.17
+608,2024-01-05,40,F,159.2,46.0,Weight Training,58,Medium,5.3,137,5.4,8,8277,2.4,17.8,73,117,76.3,Asthma,Never,0.24
+608,2024-01-07,40,F,159.2,46.3,Weight Training,23,High,2.5,165,9.0,7,12141,1.9,17.8,73,117,76.3,Asthma,Never,0.28
+608,2024-01-08,40,F,159.2,46.6,Weight Training,94,Medium,8.7,148,5.4,2,6928,2.3,17.8,73,117,76.3,Asthma,Never,0.39
+608,2024-01-09,40,F,159.2,46.8,Basketball,117,Medium,14.5,137,5.8,5,9152,1.8,17.8,73,117,76.3,Asthma,Never,0.53
+608,2024-01-10,40,F,159.2,47.1,HIIT,82,Low,12.8,116,6.3,4,7897,2.7,17.8,73,117,76.3,Asthma,Never,0.61
+608,2024-01-12,40,F,159.2,47.3,Yoga,105,Medium,4.9,125,7.4,4,9667,1.9,17.8,73,117,76.3,Asthma,Never,0.74
+608,2024-01-13,40,F,159.2,47.6,Yoga,25,High,1.4,157,7.3,3,9402,2.4,17.8,73,117,76.3,Asthma,Never,0.77
+608,2024-01-14,40,F,159.2,47.8,Basketball,105,Medium,13.3,140,8.3,9,9240,2.8,17.8,73,117,76.3,Asthma,Never,0.9
+608,2024-01-15,40,F,159.2,48.1,Basketball,38,Medium,4.8,127,8.1,8,9831,2.5,17.8,73,117,76.3,Asthma,Never,0.94
+608,2024-01-16,40,F,159.2,48.4,Basketball,89,Low,9.5,105,8.0,4,11103,2.2,17.8,73,117,76.3,Asthma,Never,1.03
+608,2024-01-20,40,F,159.2,48.6,Basketball,93,Medium,12.0,147,6.7,9,10418,2.9,17.8,73,117,76.3,Asthma,Never,1.15
+608,2024-01-21,40,F,159.2,48.9,Basketball,98,High,14.8,138,5.6,5,11265,2.4,17.8,73,117,76.3,Asthma,Never,1.28
+608,2024-01-22,40,F,159.2,49.1,Yoga,103,Medium,5.0,125,6.9,4,9659,3.1,17.8,73,117,76.3,Asthma,Never,1.41
+608,2024-01-25,40,F,159.2,49.4,Yoga,111,Medium,5.5,148,8.6,10,9917,3.1,17.8,73,117,76.3,Asthma,Never,1.54
+608,2024-01-27,40,F,159.2,49.7,Basketball,26,Medium,3.4,131,7.6,6,9255,3.4,17.8,73,117,76.3,Asthma,Never,1.57
+608,2024-01-28,40,F,159.2,49.9,Yoga,49,Low,2.0,114,7.7,4,10834,1.6,17.8,73,117,76.3,Asthma,Never,1.62
+608,2024-01-29,40,F,159.2,50.2,Basketball,58,Medium,7.7,121,8.3,4,7247,2.5,17.8,73,117,76.3,Asthma,Never,1.69
+608,2024-01-30,40,F,159.2,50.4,Yoga,50,Low,2.1,108,6.6,7,6976,2.9,17.8,73,117,76.3,Asthma,Never,1.74
+608,2024-01-31,40,F,159.2,50.7,Walking,69,Medium,4.4,127,7.7,8,8209,1.8,17.8,73,117,76.3,Asthma,Never,1.82

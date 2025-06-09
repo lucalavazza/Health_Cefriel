@@ -1,0 +1,16 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+2004,2024-10-03,56,F,165.2,98.9,Tennis,34,Medium,8.2,129,6.6,10,7328,2.5,17.9,77.2,128.1,83.2,Hypertension,Never,15.52
+2004,2024-10-06,56,F,165.2,99.2,Cycling,70,High,22.9,139,7.4,7,6399,3.1,17.9,77.2,128.1,83.2,Hypertension,Never,15.61
+2004,2024-10-07,56,F,165.2,99.4,Cycling,120,Medium,33.7,120,6.3,4,8875,1.9,17.9,77.2,128.1,83.2,Hypertension,Never,15.76
+2004,2024-10-08,56,F,165.2,99.7,Basketball,74,Medium,19.6,125,7.2,2,8212,2.3,17.9,77.2,128.1,83.2,Hypertension,Never,15.85
+2004,2024-10-09,56,F,165.2,99.9,HIIT,37,Medium,14.8,117,6.6,4,7810,2.4,17.9,77.2,128.1,83.2,Hypertension,Never,15.89
+2004,2024-10-11,56,F,165.2,100.2,Basketball,118,Low,26.2,109,6.2,8,6028,2.0,17.9,77.2,128.1,83.2,Hypertension,Never,16.01
+2004,2024-10-12,56,F,165.2,100.5,Basketball,62,High,19.3,146,6.3,3,7264,2.6,17.9,77.2,128.1,83.2,Hypertension,Never,16.1
+2004,2024-10-13,56,F,165.2,100.7,Basketball,73,Low,16.3,111,4.5,3,5765,2.6,17.9,77.2,128.1,83.2,Hypertension,Never,16.17
+2004,2024-10-15,56,F,165.2,101.0,Basketball,117,Low,26.2,106,7.0,8,3889,2.7,17.9,77.2,128.1,83.2,Hypertension,Never,16.29
+2004,2024-10-18,56,F,165.2,101.2,HIIT,37,Medium,14.9,123,7.2,1,6553,2.2,17.9,77.2,128.1,83.2,Hypertension,Never,16.33
+2004,2024-10-20,56,F,165.2,101.5,Basketball,98,Medium,26.5,123,7.2,3,10166,3.2,17.9,77.2,128.1,83.2,Hypertension,Never,16.45
+2004,2024-10-21,56,F,165.2,101.7,Basketball,83,Medium,22.5,124,6.4,3,7816,2.2,17.9,77.2,128.1,83.2,Hypertension,Never,16.55
+2004,2024-10-22,56,F,165.2,102.0,HIIT,47,Medium,19.1,129,8.3,1,4716,2.4,17.9,77.2,128.1,83.2,Hypertension,Never,16.6
+2004,2024-10-26,56,F,165.2,102.3,HIIT,24,Low,8.2,104,5.8,8,7031,1.9,17.9,77.2,128.1,83.2,Hypertension,Never,16.63
+2004,2024-10-29,56,F,165.2,102.5,HIIT,59,Medium,24.1,124,7.1,6,7119,3.0,17.9,77.2,128.1,83.2,Hypertension,Never,16.7

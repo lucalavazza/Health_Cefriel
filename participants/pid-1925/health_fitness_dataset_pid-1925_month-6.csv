@@ -1,0 +1,16 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+1925,2024-06-02,33,M,167.3,95.1,Basketball,120,Low,25.3,116,6.0,5,10654,1.9,23.9,73.7,118.3,69.4,Hypertension,Current,9.03
+1925,2024-06-04,33,M,167.3,95.3,Basketball,44,Medium,11.2,125,9.2,3,10069,3.2,23.9,73.7,118.3,69.4,Hypertension,Current,9.08
+1925,2024-06-07,33,M,167.3,95.6,Basketball,34,Medium,8.6,144,6.0,7,9043,2.7,23.9,73.7,118.3,69.4,Hypertension,Current,9.12
+1925,2024-06-09,33,M,167.3,95.8,Basketball,52,Medium,13.3,142,8.7,1,11276,2.6,23.9,73.7,118.3,69.4,Hypertension,Current,9.19
+1925,2024-06-10,33,M,167.3,96.1,Basketball,88,High,26.2,156,6.6,10,10407,2.3,23.9,73.7,118.3,69.4,Hypertension,Current,9.31
+1925,2024-06-11,33,M,167.3,96.3,Tennis,82,Medium,19.2,147,7.5,6,8009,2.5,23.9,73.7,118.3,69.4,Hypertension,Current,9.41
+1925,2024-06-12,33,M,167.3,96.6,Dancing,116,High,23.9,164,7.7,7,9020,2.1,23.9,73.7,118.3,69.4,Hypertension,Current,9.57
+1925,2024-06-13,33,M,167.3,96.9,Tennis,43,High,11.8,172,6.8,7,7903,3.2,23.9,73.7,118.3,69.4,Hypertension,Current,9.63
+1925,2024-06-21,33,M,167.3,97.1,Weight Training,85,Low,13.7,124,5.6,9,8197,2.4,23.9,73.7,118.3,69.4,Hypertension,Current,9.71
+1925,2024-06-22,33,M,167.3,97.4,Dancing,118,Medium,21.0,121,6.5,7,9633,2.3,23.9,73.7,118.3,69.4,Hypertension,Current,9.86
+1925,2024-06-24,33,M,167.3,97.6,Walking,70,Medium,8.6,147,7.5,6,7603,3.4,23.9,73.7,118.3,69.4,Hypertension,Current,9.94
+1925,2024-06-25,33,M,167.3,97.9,Walking,62,Medium,7.7,148,8.0,9,7753,2.4,23.9,73.7,118.3,69.4,Hypertension,Current,10.01
+1925,2024-06-26,33,M,167.3,98.2,Cycling,116,Medium,32.2,152,5.0,10,10100,3.0,23.9,73.7,118.3,69.4,Hypertension,Current,10.15
+1925,2024-06-28,33,M,167.3,98.4,Cycling,55,Low,12.7,120,6.7,8,8615,2.4,23.9,73.7,118.3,69.4,Hypertension,Current,10.21
+1925,2024-06-30,33,M,167.3,98.7,Dancing,89,High,18.7,159,7.7,4,9855,2.5,23.9,73.7,118.3,69.4,Hypertension,Current,10.33

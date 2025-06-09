@@ -1,0 +1,17 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+1583,2024-10-01,55,F,162.4,115.3,Running,83,High,36.4,140,5.9,7,5461,2.0,25.9,70,111,81.6,None,Former,14.48
+1583,2024-10-03,55,F,162.4,115.6,Basketball,54,Low,13.8,106,9.2,5,7532,2.5,25.9,70,111,81.6,None,Former,14.53
+1583,2024-10-05,55,F,162.4,115.8,Dancing,64,Medium,13.6,115,5.4,8,8202,2.9,25.9,70,111,81.6,None,Former,14.61
+1583,2024-10-06,55,F,162.4,116.1,Running,69,Medium,26.1,128,6.5,3,8998,3.2,25.9,70,111,81.6,None,Former,14.69
+1583,2024-10-09,55,F,162.4,116.4,Basketball,85,High,30.7,137,7.3,9,9574,2.5,25.9,70,111,81.6,None,Former,14.81
+1583,2024-10-12,55,F,162.4,116.6,Dancing,38,Medium,8.1,109,8.1,3,8870,2.2,25.9,70,111,81.6,None,Former,14.86
+1583,2024-10-13,55,F,162.4,116.9,Running,83,Medium,31.6,120,7.6,10,8211,2.1,25.9,70,111,81.6,None,Former,14.96
+1583,2024-10-15,55,F,162.4,117.1,Dancing,89,High,22.2,148,6.1,4,6625,3.3,25.9,70,111,81.6,None,Former,15.08
+1583,2024-10-16,55,F,162.4,117.4,Dancing,35,Medium,7.5,108,6.9,6,8063,2.6,25.9,70,111,81.6,None,Former,15.12
+1583,2024-10-19,55,F,162.4,117.6,Running,40,Medium,15.3,124,7.6,7,7089,1.9,25.9,70,111,81.6,None,Former,15.17
+1583,2024-10-23,55,F,162.4,117.9,Walking,107,Low,13.3,119,7.4,3,5600,2.3,25.9,70,111,81.6,None,Former,15.28
+1583,2024-10-25,55,F,162.4,118.2,Dancing,68,Medium,14.7,120,8.0,4,5616,1.6,25.9,70,111,81.6,None,Former,15.36
+1583,2024-10-26,55,F,162.4,118.4,Dancing,52,High,13.1,135,7.0,3,7945,2.5,25.9,70,111,81.6,None,Former,15.43
+1583,2024-10-29,55,F,162.4,118.7,Walking,45,Low,5.6,99,4.8,3,4571,2.3,25.9,70,111,81.6,None,Former,15.48
+1583,2024-10-30,55,F,162.4,118.9,Tennis,24,Low,5.8,118,7.7,1,7113,3.1,25.9,70,111,81.6,None,Former,15.5
+1583,2024-10-31,55,F,162.4,119.2,Tennis,42,Medium,12.2,131,4.0,3,6066,3.3,25.9,70,111,81.6,None,Former,15.55

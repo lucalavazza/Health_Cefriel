@@ -1,0 +1,18 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+502,2024-09-01,55,F,156,107.5,Walking,65,Low,7.4,104,8.2,3,7293,2.4,27,75.4,118.3,78.6,Hypertension,Never,13.51
+502,2024-09-03,55,F,156,107.7,Cycling,93,High,33.0,121,5.9,9,5736,2.8,27,75.4,118.3,78.6,Hypertension,Never,13.64
+502,2024-09-04,55,F,156,108.0,Cycling,117,Low,29.8,102,7.3,6,6412,2.2,27,75.4,118.3,78.6,Hypertension,Never,13.76
+502,2024-09-05,55,F,156,108.2,Yoga,32,Low,2.9,106,7.4,4,7206,2.4,27,75.4,118.3,78.6,Hypertension,Never,13.79
+502,2024-09-09,55,F,156,108.5,Yoga,86,Medium,9.3,115,6.2,10,3910,1.6,27,75.4,118.3,78.6,Hypertension,Never,13.89
+502,2024-09-12,55,F,156,108.8,Cycling,99,Medium,30.4,120,7.5,3,5575,1.8,27,75.4,118.3,78.6,Hypertension,Never,14.01
+502,2024-09-13,55,F,156,109.0,Yoga,39,Medium,4.2,126,7.3,4,5605,2.5,27,75.4,118.3,78.6,Hypertension,Never,14.06
+502,2024-09-15,55,F,156,109.3,Cycling,113,Medium,34.9,119,6.6,8,5942,2.9,27,75.4,118.3,78.6,Hypertension,Never,14.2
+502,2024-09-16,55,F,156,109.5,Yoga,119,Medium,13.0,133,7.8,1,5406,3.4,27,75.4,118.3,78.6,Hypertension,Never,14.34
+502,2024-09-17,55,F,156,109.8,Weight Training,67,Medium,14.7,118,6.9,4,5624,3.0,27,75.4,118.3,78.6,Hypertension,Never,14.42
+502,2024-09-22,55,F,156,110.0,Weight Training,46,Low,8.4,110,4.9,7,5884,1.7,27,75.4,118.3,78.6,Hypertension,Never,14.47
+502,2024-09-23,55,F,156,110.3,Weight Training,88,Low,16.1,111,6.6,8,6108,3.4,27,75.4,118.3,78.6,Hypertension,Never,14.55
+502,2024-09-25,55,F,156,110.6,Weight Training,109,Medium,24.0,131,6.8,2,5120,2.6,27,75.4,118.3,78.6,Hypertension,Never,14.68
+502,2024-09-26,55,F,156,110.8,Weight Training,78,High,20.1,149,8.0,4,8576,3.2,27,75.4,118.3,78.6,Hypertension,Never,14.79
+502,2024-09-27,55,F,156,111.1,Tennis,99,High,31.1,163,7.5,4,7064,2.0,27,75.4,118.3,78.6,Hypertension,Never,14.93
+502,2024-09-28,55,F,156,111.3,Tennis,80,Low,18.0,109,8.8,7,6887,3.1,27,75.4,118.3,78.6,Hypertension,Never,15.01
+502,2024-09-29,55,F,156,111.6,Basketball,98,Medium,29.1,125,6.9,1,6407,2.3,27,75.4,118.3,78.6,Hypertension,Never,15.13

@@ -1,0 +1,16 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+2676,2024-12-06,64,F,159.2,121.3,Running,104,High,48.0,123,7.7,10,5215,1.8,25.1,67.7,113.1,84.7,None,Current,19.31
+2676,2024-12-07,64,F,159.2,121.6,Running,97,Medium,38.4,114,6.8,8,6274,2.7,25.1,67.7,113.1,84.7,None,Current,19.43
+2676,2024-12-08,64,F,159.2,121.8,Swimming,106,High,35.1,142,7.4,1,9870,2.2,25.1,67.7,113.1,84.7,None,Current,19.58
+2676,2024-12-09,64,F,159.2,122.1,Running,101,Low,33.5,107,6.8,6,6687,2.5,25.1,67.7,113.1,84.7,None,Current,19.68
+2676,2024-12-10,64,F,159.2,122.4,Running,34,Medium,13.6,115,8.0,10,3724,3.4,25.1,67.7,113.1,84.7,None,Current,19.72
+2676,2024-12-11,64,F,159.2,122.6,Weight Training,35,Low,7.1,100,9.1,8,6560,2.9,25.1,67.7,113.1,84.7,None,Current,19.76
+2676,2024-12-12,64,F,159.2,122.9,Weight Training,57,Medium,14.0,112,5.0,1,7653,3.3,25.1,67.7,113.1,84.7,None,Current,19.82
+2676,2024-12-16,64,F,159.2,123.1,Tennis,52,Medium,15.5,125,7.2,2,8865,2.4,25.1,67.7,113.1,84.7,None,Current,19.89
+2676,2024-12-17,64,F,159.2,123.4,Weight Training,26,Medium,6.4,108,7.5,6,8762,2.7,25.1,67.7,113.1,84.7,None,Current,19.92
+2676,2024-12-18,64,F,159.2,123.6,Tennis,29,Low,7.3,101,6.6,4,7588,2.3,25.1,67.7,113.1,84.7,None,Current,19.95
+2676,2024-12-19,64,F,159.2,123.9,Weight Training,26,Medium,6.4,114,5.5,7,9844,1.8,25.1,67.7,113.1,84.7,None,Current,19.98
+2676,2024-12-21,64,F,159.2,124.2,Running,84,Medium,34.0,118,7.5,8,8400,3.1,25.1,67.7,113.1,84.7,None,Current,20.08
+2676,2024-12-22,64,F,159.2,124.4,Cycling,37,Medium,13.0,126,6.2,4,9718,2.4,25.1,67.7,113.1,84.7,None,Current,20.12
+2676,2024-12-23,64,F,159.2,124.7,Running,99,Medium,40.2,116,6.8,7,7661,3.5,25.1,67.7,113.1,84.7,None,Current,20.24
+2676,2024-12-24,64,F,159.2,124.9,Running,48,High,22.8,133,8.1,1,6783,2.3,25.1,67.7,113.1,84.7,None,Current,20.31

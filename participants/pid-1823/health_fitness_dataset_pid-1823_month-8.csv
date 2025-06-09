@@ -1,0 +1,17 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+1823,2024-08-01,49,Other,173,86.8,Walking,71,Medium,7.8,123,6.2,3,8558,2.2,16.8,68.5,125.3,76.6,None,Former,11.51
+1823,2024-08-02,49,Other,173,87.1,HIIT,108,Medium,37.5,138,7.5,2,5459,2.6,16.8,68.5,125.3,76.6,None,Former,11.64
+1823,2024-08-03,49,Other,173,87.3,Walking,114,Medium,12.6,132,6.5,10,7594,2.2,16.8,68.5,125.3,76.6,None,Former,11.78
+1823,2024-08-04,49,Other,173,87.6,Running,119,High,39.6,125,6.6,5,8289,2.5,16.8,68.5,125.3,76.6,None,Former,11.94
+1823,2024-08-06,49,Other,173,87.8,HIIT,83,Medium,29.1,137,7.0,5,7223,3.3,16.8,68.5,125.3,76.6,None,Former,12.04
+1823,2024-08-07,49,Other,173,88.1,Walking,38,Low,3.5,107,9.0,3,4171,3.1,16.8,68.5,125.3,76.6,None,Former,12.08
+1823,2024-08-13,49,Other,173,88.4,Basketball,99,Low,19.4,114,6.7,1,7682,2.0,16.8,68.5,125.3,76.6,None,Former,12.18
+1823,2024-08-15,49,Other,173,88.6,Basketball,41,Low,8.1,118,7.9,4,7532,3.0,16.8,68.5,125.3,76.6,None,Former,12.22
+1823,2024-08-17,49,Other,173,88.9,Basketball,61,Medium,14.4,129,4.9,7,8736,2.5,16.8,68.5,125.3,76.6,None,Former,12.29
+1823,2024-08-19,49,Other,173,89.1,Basketball,75,Medium,17.8,125,4.5,10,5101,1.9,16.8,68.5,125.3,76.6,None,Former,12.38
+1823,2024-08-20,49,Other,173,89.4,Basketball,27,High,7.5,155,6.3,6,6073,2.0,16.8,68.5,125.3,76.6,None,Former,12.42
+1823,2024-08-23,49,Other,173,89.7,Yoga,86,High,9.0,144,8.1,10,5593,3.1,16.8,68.5,125.3,76.6,None,Former,12.54
+1823,2024-08-24,49,Other,173,89.9,Basketball,45,High,12.6,160,6.7,10,8499,1.8,16.8,68.5,125.3,76.6,None,Former,12.6
+1823,2024-08-27,49,Other,173,90.2,Yoga,41,Medium,3.7,137,6.8,6,4336,3.2,16.8,68.5,125.3,76.6,None,Former,12.65
+1823,2024-08-28,49,Other,173,90.4,Basketball,97,Low,19.4,109,6.9,8,9202,3.4,16.8,68.5,125.3,76.6,None,Former,12.75
+1823,2024-08-30,49,Other,173,90.7,Basketball,51,Medium,12.3,130,7.1,1,6225,1.9,16.8,68.5,125.3,76.6,None,Former,12.81

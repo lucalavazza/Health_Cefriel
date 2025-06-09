@@ -1,0 +1,19 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+457,2024-01-04,33,F,165,65.2,Basketball,104,Low,15.0,120,8.2,2,10281,1.8,23.8,76.9,109.9,63.4,None,Never,0.1
+457,2024-01-05,33,F,165,65.5,Basketball,42,Medium,7.3,145,6.4,3,7387,2.7,23.8,76.9,109.9,63.4,None,Never,0.15
+457,2024-01-06,33,F,165,65.7,Basketball,75,High,15.3,155,7.6,3,9018,3.3,23.8,76.9,109.9,63.4,None,Never,0.26
+457,2024-01-07,33,F,165,66.0,Cycling,45,Low,7.0,121,6.5,4,9385,3.0,23.8,76.9,109.9,63.4,None,Never,0.3
+457,2024-01-10,33,F,165,66.2,Weight Training,103,High,15.9,169,8.3,7,8652,2.0,23.8,76.9,109.9,63.4,None,Never,0.45
+457,2024-01-12,33,F,165,66.5,Basketball,107,Medium,18.9,131,6.2,9,8185,2.3,23.8,76.9,109.9,63.4,None,Never,0.58
+457,2024-01-13,33,F,165,66.8,Basketball,89,Medium,15.8,132,6.6,9,12102,1.9,23.8,76.9,109.9,63.4,None,Never,0.68
+457,2024-01-15,33,F,165,67.0,Weight Training,72,Medium,9.6,146,8.2,5,7419,2.9,23.8,76.9,109.9,63.4,None,Never,0.77
+457,2024-01-17,33,F,165,67.3,Weight Training,66,Low,7.4,119,6.9,3,7066,2.0,23.8,76.9,109.9,63.4,None,Never,0.84
+457,2024-01-18,33,F,165,67.5,Weight Training,46,Low,5.2,123,7.0,1,12177,2.4,23.8,76.9,109.9,63.4,None,Never,0.88
+457,2024-01-19,33,F,165,67.8,Weight Training,96,Low,10.8,117,7.7,4,5464,1.8,23.8,76.9,109.9,63.4,None,Never,0.98
+457,2024-01-20,33,F,165,68.1,Weight Training,23,Low,2.6,121,8.2,5,11423,1.6,23.8,76.9,109.9,63.4,None,Never,1.0
+457,2024-01-24,33,F,165,68.3,Weight Training,77,Low,8.7,119,7.3,4,4359,3.2,23.8,76.9,109.9,63.4,None,Never,1.08
+457,2024-01-25,33,F,165,68.6,Dancing,62,Medium,7.8,138,7.3,1,9305,2.9,23.8,76.9,109.9,63.4,None,Never,1.15
+457,2024-01-27,33,F,165,68.8,Dancing,106,Medium,13.3,121,6.8,6,10466,2.6,23.8,76.9,109.9,63.4,None,Never,1.28
+457,2024-01-28,33,F,165,69.1,Weight Training,69,Low,7.9,124,7.6,10,12489,2.3,23.8,76.9,109.9,63.4,None,Never,1.35
+457,2024-01-29,33,F,165,69.3,Weight Training,66,High,10.6,159,9.2,5,8913,2.4,23.8,76.9,109.9,63.4,None,Never,1.44
+457,2024-01-31,33,F,165,69.6,HIIT,65,High,21.0,169,6.6,10,7232,3.0,23.8,76.9,109.9,63.4,None,Never,1.53

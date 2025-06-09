@@ -1,0 +1,16 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+1978,2024-09-01,52,F,151.1,93.5,Tennis,96,Medium,21.8,127,7.3,8,9135,3.2,21.5,68,137.3,84.2,None,Current,14.46
+1978,2024-09-04,52,F,151.1,93.7,Weight Training,86,Medium,16.1,128,7.3,7,5668,2.4,21.5,68,137.3,84.2,None,Current,14.57
+1978,2024-09-07,52,F,151.1,94.0,Weight Training,67,High,14.7,149,6.5,4,8405,2.4,21.5,68,137.3,84.2,None,Current,14.66
+1978,2024-09-09,52,F,151.1,94.2,Tennis,46,Medium,10.5,127,6.5,6,7881,1.8,21.5,68,137.3,84.2,None,Current,14.72
+1978,2024-09-12,52,F,151.1,94.5,Tennis,32,Low,6.1,106,7.3,6,4900,2.2,21.5,68,137.3,84.2,None,Current,14.75
+1978,2024-09-13,52,F,151.1,94.8,Yoga,32,Low,2.5,117,7.2,9,5086,1.7,21.5,68,137.3,84.2,None,Current,14.78
+1978,2024-09-17,52,F,151.1,95.0,Yoga,95,Medium,9.0,126,8.2,6,5146,2.0,21.5,68,137.3,84.2,None,Current,14.89
+1978,2024-09-18,52,F,151.1,95.3,Tennis,29,High,7.8,152,7.5,10,7868,3.2,21.5,68,137.3,84.2,None,Current,14.93
+1978,2024-09-19,52,F,151.1,95.5,Yoga,86,Medium,8.2,124,6.9,9,6043,3.3,21.5,68,137.3,84.2,None,Current,15.04
+1978,2024-09-20,52,F,151.1,95.8,Yoga,45,High,5.0,141,6.8,8,6096,2.5,21.5,68,137.3,84.2,None,Current,15.1
+1978,2024-09-21,52,F,151.1,96.1,Tennis,56,High,15.2,148,8.8,4,8317,1.9,21.5,68,137.3,84.2,None,Current,15.18
+1978,2024-09-24,52,F,151.1,96.3,Yoga,118,Low,9.4,106,7.4,6,5094,2.2,21.5,68,137.3,84.2,None,Current,15.3
+1978,2024-09-25,52,F,151.1,96.6,Yoga,90,Medium,8.7,119,6.4,5,4234,1.8,21.5,68,137.3,84.2,None,Current,15.4
+1978,2024-09-28,52,F,151.1,96.8,Yoga,103,High,11.6,144,7.2,8,5793,2.0,21.5,68,137.3,84.2,None,Current,15.55
+1978,2024-09-30,52,F,151.1,97.1,Swimming,26,Medium,5.9,123,6.1,9,5551,3.0,21.5,68,137.3,84.2,None,Current,15.58

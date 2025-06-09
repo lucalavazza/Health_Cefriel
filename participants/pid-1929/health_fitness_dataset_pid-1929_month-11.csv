@@ -1,0 +1,17 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+1929,2024-11-03,53,F,151.4,96.7,Swimming,119,Medium,26.8,114,6.0,7,8891,1.7,19.6,66.1,106.3,62.4,None,Current,15.69
+1929,2024-11-04,53,F,151.4,96.9,Swimming,44,Low,8.3,108,5.0,10,1419,2.3,19.6,66.1,106.3,62.4,None,Current,15.74
+1929,2024-11-05,53,F,151.4,97.2,Swimming,102,High,26.9,136,5.8,1,6342,2.5,19.6,66.1,106.3,62.4,None,Current,15.88
+1929,2024-11-06,53,F,151.4,97.5,Swimming,73,Medium,16.6,129,5.2,10,7312,3.5,19.6,66.1,106.3,62.4,None,Current,15.97
+1929,2024-11-08,53,F,151.4,97.7,Swimming,102,Low,19.3,101,7.3,8,7145,2.1,19.6,66.1,106.3,62.4,None,Current,16.07
+1929,2024-11-09,53,F,151.4,98.0,Weight Training,52,Low,8.5,110,6.6,5,8078,3.3,19.6,66.1,106.3,62.4,None,Current,16.12
+1929,2024-11-11,53,F,151.4,98.2,Weight Training,90,High,20.6,146,5.7,3,8397,2.3,19.6,66.1,106.3,62.4,None,Current,16.25
+1929,2024-11-13,53,F,151.4,98.5,Swimming,68,Medium,15.6,141,8.3,8,9968,3.2,19.6,66.1,106.3,62.4,None,Current,16.33
+1929,2024-11-15,53,F,151.4,98.7,Dancing,105,Medium,19.0,126,6.7,6,9021,2.5,19.6,66.1,106.3,62.4,None,Current,16.46
+1929,2024-11-17,53,F,151.4,99.0,Swimming,37,Medium,8.5,120,5.6,2,9479,2.2,19.6,66.1,106.3,62.4,None,Current,16.5
+1929,2024-11-21,53,F,151.4,99.3,Dancing,40,Medium,7.3,114,5.4,3,4691,2.8,19.6,66.1,106.3,62.4,None,Current,16.55
+1929,2024-11-22,53,F,151.4,99.5,Swimming,80,Medium,18.5,110,8.0,2,5266,3.4,19.6,66.1,106.3,62.4,None,Current,16.64
+1929,2024-11-23,53,F,151.4,99.8,Dancing,91,Medium,16.6,133,6.8,6,7830,3.3,19.6,66.1,106.3,62.4,None,Current,16.75
+1929,2024-11-25,53,F,151.4,100.0,Running,49,Medium,16.0,123,7.0,6,7633,1.9,19.6,66.1,106.3,62.4,None,Current,16.81
+1929,2024-11-27,53,F,151.4,100.3,Dancing,116,Medium,21.3,118,7.9,3,7256,2.3,19.6,66.1,106.3,62.4,None,Current,16.95
+1929,2024-11-28,53,F,151.4,100.5,Running,119,Medium,39.0,131,6.7,5,7630,1.6,19.6,66.1,106.3,62.4,None,Current,17.09

@@ -1,0 +1,17 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+82,2024-01-02,36,M,169.9,62.0,HIIT,33,Medium,8.2,144,6.8,10,8347,2.2,21.4,70.6,126,88.3,None,Never,0.04
+82,2024-01-03,36,M,169.9,62.3,Basketball,74,Medium,12.2,142,7.4,2,8904,2.8,21.4,70.6,126,88.3,None,Never,0.13
+82,2024-01-04,36,M,169.9,62.5,Basketball,68,High,13.2,153,8.8,5,9834,3.2,21.4,70.6,126,88.3,None,Never,0.22
+82,2024-01-07,36,M,169.9,62.8,Basketball,45,High,8.8,155,6.5,1,9620,2.4,21.4,70.6,126,88.3,None,Never,0.29
+82,2024-01-08,36,M,169.9,63.1,Basketball,26,Medium,4.4,135,7.5,3,8733,2.3,21.4,70.6,126,88.3,None,Never,0.32
+82,2024-01-09,36,M,169.9,63.3,Basketball,27,Medium,4.5,125,6.4,2,11183,2.9,21.4,70.6,126,88.3,None,Never,0.35
+82,2024-01-13,36,M,169.9,63.6,Basketball,46,Medium,7.8,129,7.9,2,9636,3.3,21.4,70.6,126,88.3,None,Never,0.41
+82,2024-01-17,36,M,169.9,63.8,Basketball,57,Low,8.1,117,7.3,5,8794,3.0,21.4,70.6,126,88.3,None,Never,0.46
+82,2024-01-18,36,M,169.9,64.1,Basketball,20,Low,2.8,121,6.5,2,7802,3.2,21.4,70.6,126,88.3,None,Never,0.48
+82,2024-01-19,36,M,169.9,64.4,Basketball,107,Medium,18.3,139,6.8,1,9758,1.6,21.4,70.6,126,88.3,None,Never,0.61
+82,2024-01-23,36,M,169.9,64.6,Basketball,95,Medium,16.3,149,6.3,7,6918,2.6,21.4,70.6,126,88.3,None,Never,0.72
+82,2024-01-24,36,M,169.9,64.9,Basketball,86,Medium,14.8,134,4.8,2,11317,2.2,21.4,70.6,126,88.3,None,Never,0.83
+82,2024-01-25,36,M,169.9,65.1,Basketball,116,High,23.4,156,7.3,1,8693,1.9,21.4,70.6,126,88.3,None,Never,0.99
+82,2024-01-26,36,M,169.9,65.4,Basketball,69,Medium,12.0,155,7.2,1,8328,2.2,21.4,70.6,126,88.3,None,Never,1.07
+82,2024-01-29,36,M,169.9,65.6,Basketball,106,High,21.6,160,7.7,2,6844,2.7,21.4,70.6,126,88.3,None,Never,1.22
+82,2024-01-30,36,M,169.9,65.9,Basketball,118,Medium,20.7,142,6.7,8,9695,2.7,21.4,70.6,126,88.3,None,Never,1.36

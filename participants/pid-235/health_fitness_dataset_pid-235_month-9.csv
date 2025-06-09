@@ -1,0 +1,17 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+235,2024-09-01,30,M,178.9,126.3,Walking,22,Medium,3.5,138,7.4,3,9620,1.6,25.9,70.3,114.3,88.5,Diabetes,Never,13.86
+235,2024-09-03,30,M,178.9,126.5,Cycling,93,Low,27.7,114,6.2,7,8375,2.1,25.9,70.3,114.3,88.5,Diabetes,Never,13.96
+235,2024-09-04,30,M,178.9,126.8,Dancing,104,High,28.1,173,7.6,2,8315,1.6,25.9,70.3,114.3,88.5,Diabetes,Never,14.1
+235,2024-09-06,30,M,178.9,127.0,HIIT,97,Medium,49.2,149,6.3,2,6588,1.6,25.9,70.3,114.3,88.5,Diabetes,Never,14.22
+235,2024-09-09,30,M,178.9,127.3,Dancing,28,Medium,6.5,160,8.2,7,7552,3.3,25.9,70.3,114.3,88.5,Diabetes,Never,14.25
+235,2024-09-11,30,M,178.9,127.6,Dancing,63,High,17.2,161,5.4,7,5215,1.7,25.9,70.3,114.3,88.5,Diabetes,Never,14.34
+235,2024-09-13,30,M,178.9,127.8,Dancing,38,Low,7.4,120,7.8,3,8930,2.7,25.9,70.3,114.3,88.5,Diabetes,Never,14.38
+235,2024-09-14,30,M,178.9,128.1,Dancing,33,Medium,7.7,126,7.4,3,8123,3.2,25.9,70.3,114.3,88.5,Diabetes,Never,14.42
+235,2024-09-15,30,M,178.9,128.3,Dancing,113,Medium,26.5,125,6.2,7,9575,2.3,25.9,70.3,114.3,88.5,Diabetes,Never,14.55
+235,2024-09-17,30,M,178.9,128.6,Dancing,84,Low,16.5,129,6.8,1,8572,2.6,25.9,70.3,114.3,88.5,Diabetes,Never,14.64
+235,2024-09-18,30,M,178.9,128.8,Running,61,Low,21.4,122,7.1,9,8068,2.4,25.9,70.3,114.3,88.5,Diabetes,Never,14.7
+235,2024-09-19,30,M,178.9,129.1,Running,23,Medium,9.7,142,6.9,1,6008,2.1,25.9,70.3,114.3,88.5,Diabetes,Never,14.72
+235,2024-09-20,30,M,178.9,129.4,Running,111,High,54.6,144,7.8,9,4555,2.8,25.9,70.3,114.3,88.5,Diabetes,Never,14.88
+235,2024-09-21,30,M,178.9,129.6,Swimming,71,High,25.0,148,7.1,3,7633,2.7,25.9,70.3,114.3,88.5,Diabetes,Never,14.98
+235,2024-09-27,30,M,178.9,129.9,Swimming,62,Medium,18.8,139,5.9,4,6864,2.7,25.9,70.3,114.3,88.5,Diabetes,Never,15.05
+235,2024-09-29,30,M,178.9,130.1,Running,68,Low,24.0,125,5.4,6,5114,3.4,25.9,70.3,114.3,88.5,Diabetes,Never,15.12

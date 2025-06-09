@@ -1,0 +1,16 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+2143,2024-10-03,32,M,168.8,133.4,Cycling,76,Medium,28.7,140,7.7,4,8636,3.2,29.6,64.7,116.2,83,Hypertension,Never,15.98
+2143,2024-10-05,32,M,168.8,133.7,Cycling,90,Medium,34.0,137,8.8,8,6408,1.9,29.6,64.7,116.2,83,Hypertension,Never,16.09
+2143,2024-10-06,32,M,168.8,133.9,HIIT,42,High,26.2,158,7.4,5,7115,2.7,29.6,64.7,116.2,83,Hypertension,Never,16.15
+2143,2024-10-07,32,M,168.8,134.2,HIIT,31,Low,13.8,122,8.5,1,5472,3.1,29.6,64.7,116.2,83,Hypertension,Never,16.18
+2143,2024-10-09,32,M,168.8,134.4,HIIT,53,High,33.2,133,6.9,6,7481,1.9,29.6,64.7,116.2,83,Hypertension,Never,16.26
+2143,2024-10-10,32,M,168.8,134.7,Weight Training,103,Medium,27.7,140,7.5,3,5859,2.9,29.6,64.7,116.2,83,Hypertension,Never,16.38
+2143,2024-10-11,32,M,168.8,135.0,Weight Training,93,Medium,25.1,136,6.1,5,7787,1.5,29.6,64.7,116.2,83,Hypertension,Never,16.49
+2143,2024-10-15,32,M,168.8,135.2,HIIT,105,Medium,56.7,147,5.8,1,7125,2.8,29.6,64.7,116.2,83,Hypertension,Never,16.62
+2143,2024-10-19,32,M,168.8,135.5,Weight Training,68,Medium,18.4,136,7.9,7,6829,1.9,29.6,64.7,116.2,83,Hypertension,Never,16.7
+2143,2024-10-20,32,M,168.8,135.7,Weight Training,24,Medium,6.5,144,7.0,1,9171,1.8,29.6,64.7,116.2,83,Hypertension,Never,16.73
+2143,2024-10-24,32,M,168.8,136.0,Running,84,High,43.4,150,8.4,8,5395,2.7,29.6,64.7,116.2,83,Hypertension,Never,16.85
+2143,2024-10-25,32,M,168.8,136.2,Cycling,97,Low,31.1,115,7.7,7,4815,2.3,29.6,64.7,116.2,83,Hypertension,Never,16.94
+2143,2024-10-27,32,M,168.8,136.5,Weight Training,45,Medium,12.3,132,6.4,3,5660,3.3,29.6,64.7,116.2,83,Hypertension,Never,17.0
+2143,2024-10-28,32,M,168.8,136.7,Tennis,116,High,44.9,161,7.0,5,7353,2.8,29.6,64.7,116.2,83,Hypertension,Never,17.16
+2143,2024-10-29,32,M,168.8,137.0,Weight Training,112,Medium,30.6,142,7.7,5,7296,2.3,29.6,64.7,116.2,83,Hypertension,Never,17.29

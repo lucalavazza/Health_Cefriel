@@ -1,0 +1,16 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+2728,2024-09-01,49,M,165.5,98.8,Weight Training,105,Low,17.2,111,7.7,3,10791,2.3,20.8,67.1,112.9,92.4,None,Never,13.53
+2728,2024-09-03,49,M,165.5,99.0,Running,100,Low,26.9,107,8.2,4,7760,2.9,20.8,67.1,112.9,92.4,None,Never,13.63
+2728,2024-09-05,49,M,165.5,99.3,Weight Training,62,Medium,12.3,136,7.3,3,6021,2.5,20.8,67.1,112.9,92.4,None,Never,13.7
+2728,2024-09-09,49,M,165.5,99.5,Weight Training,106,Medium,21.0,133,6.1,9,6584,2.3,20.8,67.1,112.9,92.4,None,Never,13.83
+2728,2024-09-10,49,M,165.5,99.8,Weight Training,49,High,11.4,138,7.6,8,6180,2.3,20.8,67.1,112.9,92.4,None,Never,13.9
+2728,2024-09-11,49,M,165.5,100.1,Dancing,20,Medium,3.7,133,7.4,4,5520,2.3,20.8,67.1,112.9,92.4,None,Never,13.92
+2728,2024-09-15,49,M,165.5,100.3,Weight Training,24,Low,4.0,108,8.4,1,8896,2.8,20.8,67.1,112.9,92.4,None,Never,13.95
+2728,2024-09-16,49,M,165.5,100.6,Basketball,45,High,14.0,141,8.3,7,5711,3.2,20.8,67.1,112.9,92.4,None,Never,14.01
+2728,2024-09-17,49,M,165.5,100.8,Basketball,81,High,25.3,137,7.8,6,6534,3.2,20.8,67.1,112.9,92.4,None,Never,14.12
+2728,2024-09-19,49,M,165.5,101.1,Weight Training,53,High,12.5,135,8.0,1,6128,2.0,20.8,67.1,112.9,92.4,None,Never,14.2
+2728,2024-09-21,49,M,165.5,101.3,Swimming,39,High,10.7,150,8.2,10,8169,2.5,20.8,67.1,112.9,92.4,None,Never,14.25
+2728,2024-09-22,49,M,165.5,101.6,Swimming,85,Low,16.8,113,7.2,10,7172,1.6,20.8,67.1,112.9,92.4,None,Never,14.34
+2728,2024-09-24,49,M,165.5,101.9,Swimming,83,Medium,19.7,123,7.3,10,6523,2.4,20.8,67.1,112.9,92.4,None,Never,14.44
+2728,2024-09-27,49,M,165.5,102.1,Tennis,110,High,31.8,130,7.4,6,4705,3.0,20.8,67.1,112.9,92.4,None,Never,14.59
+2728,2024-09-28,49,M,165.5,102.4,Tennis,73,Medium,18.1,123,6.8,1,6998,2.0,20.8,67.1,112.9,92.4,None,Never,14.68

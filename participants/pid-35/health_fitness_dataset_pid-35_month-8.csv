@@ -1,0 +1,16 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+35,2024-08-01,18,M,180.4,109.7,Dancing,36,Medium,7.2,148,6.3,5,5665,1.9,22.7,74.2,118.2,85.6,Diabetes,Former,11.69
+35,2024-08-02,18,M,180.4,110.0,Swimming,35,High,10.5,177,7.4,1,5935,2.9,22.7,74.2,118.2,85.6,Diabetes,Former,11.74
+35,2024-08-03,18,M,180.4,110.2,Swimming,106,Medium,27.2,156,4.7,9,9770,2.8,22.7,74.2,118.2,85.6,Diabetes,Former,11.86
+35,2024-08-04,18,M,180.4,110.5,Cycling,108,Low,28.1,131,5.6,4,7243,3.0,22.7,74.2,118.2,85.6,Diabetes,Former,11.97
+35,2024-08-06,18,M,180.4,110.7,Swimming,114,Low,24.5,135,6.6,7,6660,2.9,22.7,74.2,118.2,85.6,Diabetes,Former,12.09
+35,2024-08-09,18,M,180.4,111.0,Cycling,102,Low,26.7,128,7.1,4,7373,3.0,22.7,74.2,118.2,85.6,Diabetes,Former,12.19
+35,2024-08-11,18,M,180.4,111.3,Cycling,99,Medium,31.1,141,7.7,4,9740,1.6,22.7,74.2,118.2,85.6,Diabetes,Former,12.31
+35,2024-08-13,18,M,180.4,111.5,Cycling,24,Low,6.3,135,7.8,9,6094,2.4,22.7,74.2,118.2,85.6,Diabetes,Former,12.33
+35,2024-08-17,18,M,180.4,111.8,Cycling,79,Low,20.8,130,7.5,8,10530,3.2,22.7,74.2,118.2,85.6,Diabetes,Former,12.41
+35,2024-08-20,18,M,180.4,112.0,Cycling,78,Low,20.6,130,7.0,7,5555,2.0,22.7,74.2,118.2,85.6,Diabetes,Former,12.49
+35,2024-08-21,18,M,180.4,112.3,Cycling,46,Low,12.2,126,8.0,9,10183,2.5,22.7,74.2,118.2,85.6,Diabetes,Former,12.53
+35,2024-08-23,18,M,180.4,112.5,Cycling,89,Low,23.6,125,7.9,8,6099,2.4,22.7,74.2,118.2,85.6,Diabetes,Former,12.62
+35,2024-08-28,18,M,180.4,112.8,Cycling,84,Low,22.3,124,6.3,9,4269,2.0,22.7,74.2,118.2,85.6,Diabetes,Former,12.71
+35,2024-08-29,18,M,180.4,113.1,Weight Training,68,Medium,15.3,155,6.6,10,5715,2.5,22.7,74.2,118.2,85.6,Diabetes,Former,12.79
+35,2024-08-30,18,M,180.4,113.3,Cycling,64,Medium,20.5,143,6.4,9,5557,2.1,22.7,74.2,118.2,85.6,Diabetes,Former,12.86

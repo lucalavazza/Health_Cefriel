@@ -1,0 +1,15 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+1800,2024-10-04,20,F,170.4,119.3,Running,56,Medium,21.8,150,7.2,8,8553,1.6,24.8,66.2,124.6,95.3,Hypertension,Never,15.25
+1800,2024-10-06,20,F,170.4,119.6,HIIT,63,Medium,30.1,157,5.5,4,6353,3.2,24.8,66.2,124.6,95.3,Hypertension,Never,15.33
+1800,2024-10-08,20,F,170.4,119.8,Weight Training,91,Low,18.1,131,7.6,1,5125,3.4,24.8,66.2,124.6,95.3,Hypertension,Never,15.42
+1800,2024-10-09,20,F,170.4,120.1,Weight Training,46,Medium,11.0,150,7.6,3,6572,3.2,24.8,66.2,124.6,95.3,Hypertension,Never,15.48
+1800,2024-10-10,20,F,170.4,120.4,HIIT,108,Low,43.2,135,6.4,1,6545,2.7,24.8,66.2,124.6,95.3,Hypertension,Never,15.58
+1800,2024-10-11,20,F,170.4,120.6,Weight Training,29,Medium,7.0,133,7.3,3,9352,2.2,24.8,66.2,124.6,95.3,Hypertension,Never,15.62
+1800,2024-10-12,20,F,170.4,120.9,Weight Training,21,Medium,5.1,148,8.6,7,9724,2.2,24.8,66.2,124.6,95.3,Hypertension,Never,15.64
+1800,2024-10-14,20,F,170.4,121.1,Swimming,39,Medium,11.0,145,7.0,8,8102,2.0,24.8,66.2,124.6,95.3,Hypertension,Never,15.69
+1800,2024-10-16,20,F,170.4,121.4,Swimming,113,Low,26.6,140,8.6,8,7349,1.6,24.8,66.2,124.6,95.3,Hypertension,Never,15.8
+1800,2024-10-17,20,F,170.4,121.6,Weight Training,77,Medium,18.7,145,6.3,5,8855,1.6,24.8,66.2,124.6,95.3,Hypertension,Never,15.9
+1800,2024-10-19,20,F,170.4,121.9,Tennis,50,High,17.3,161,7.3,4,7560,1.6,24.8,66.2,124.6,95.3,Hypertension,Never,15.97
+1800,2024-10-24,20,F,170.4,122.2,Tennis,34,High,11.8,180,8.3,5,7453,3.2,24.8,66.2,124.6,95.3,Hypertension,Never,16.01
+1800,2024-10-26,20,F,170.4,122.4,Weight Training,110,Medium,26.9,140,8.0,8,8956,2.6,24.8,66.2,124.6,95.3,Hypertension,Never,16.14
+1800,2024-10-29,20,F,170.4,122.7,Weight Training,54,Low,11.0,136,5.3,4,7932,2.1,24.8,66.2,124.6,95.3,Hypertension,Never,16.2

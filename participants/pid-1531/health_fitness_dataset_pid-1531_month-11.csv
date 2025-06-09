@@ -1,0 +1,17 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+1531,2024-11-01,20,F,159.8,95.7,Tennis,54,High,14.6,176,7.1,8,7071,3.4,17.9,68.5,132.3,78.1,Diabetes,Former,15.33
+1531,2024-11-02,20,F,159.8,96.0,Tennis,27,Medium,6.3,158,6.3,7,6874,1.5,17.9,68.5,132.3,78.1,Diabetes,Former,15.36
+1531,2024-11-04,20,F,159.8,96.2,Tennis,100,Low,19.5,131,6.6,7,5986,3.0,17.9,68.5,132.3,78.1,Diabetes,Former,15.46
+1531,2024-11-06,20,F,159.8,96.5,Tennis,25,High,6.8,179,8.4,6,6778,2.1,17.9,68.5,132.3,78.1,Diabetes,Former,15.5
+1531,2024-11-08,20,F,159.8,96.7,Tennis,36,High,9.9,164,8.7,4,6061,1.6,17.9,68.5,132.3,78.1,Diabetes,Former,15.55
+1531,2024-11-10,20,F,159.8,97.0,Tennis,35,Low,6.9,135,6.2,2,9906,2.9,17.9,68.5,132.3,78.1,Diabetes,Former,15.58
+1531,2024-11-13,20,F,159.8,97.2,Tennis,84,High,23.1,190,8.2,6,8839,2.8,17.9,68.5,132.3,78.1,Diabetes,Former,15.7
+1531,2024-11-14,20,F,159.8,97.5,Tennis,25,Medium,5.9,142,5.9,10,7831,2.2,17.9,68.5,132.3,78.1,Diabetes,Former,15.73
+1531,2024-11-18,20,F,159.8,97.8,Tennis,52,Medium,12.3,145,7.6,6,9088,2.5,17.9,68.5,132.3,78.1,Diabetes,Former,15.79
+1531,2024-11-20,20,F,159.8,98.0,Tennis,76,Low,15.1,129,6.9,7,6673,2.7,17.9,68.5,132.3,78.1,Diabetes,Former,15.87
+1531,2024-11-21,20,F,159.8,98.3,Tennis,44,Low,8.7,135,8.7,6,6332,2.6,17.9,68.5,132.3,78.1,Diabetes,Former,15.91
+1531,2024-11-22,20,F,159.8,98.5,Tennis,25,High,7.0,166,6.2,10,8881,3.1,17.9,68.5,132.3,78.1,Diabetes,Former,15.95
+1531,2024-11-23,20,F,159.8,98.8,Running,103,Medium,33.2,140,7.1,7,6333,3.5,17.9,68.5,132.3,78.1,Diabetes,Former,16.07
+1531,2024-11-24,20,F,159.8,99.0,Running,87,Low,23.4,136,6.9,5,9623,2.4,17.9,68.5,132.3,78.1,Diabetes,Former,16.16
+1531,2024-11-25,20,F,159.8,99.3,Tennis,59,Low,11.9,134,5.1,7,6233,2.8,17.9,68.5,132.3,78.1,Diabetes,Former,16.22
+1531,2024-11-29,20,F,159.8,99.6,Running,114,Medium,37.0,148,8.1,5,10495,1.6,17.9,68.5,132.3,78.1,Diabetes,Former,16.35

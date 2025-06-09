@@ -1,0 +1,17 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+2127,2024-11-01,60,M,178.8,129.4,Basketball,94,Low,27.0,103,7.5,5,5489,1.5,24.4,66.8,134.4,94.1,Hypertension,Never,16.5
+2127,2024-11-02,60,M,178.8,129.6,HIIT,82,Medium,42.4,122,7.4,1,6917,2.9,24.4,66.8,134.4,94.1,Hypertension,Never,16.6
+2127,2024-11-07,60,M,178.8,129.9,Basketball,111,Medium,38.4,120,6.8,9,4455,3.0,24.4,66.8,134.4,94.1,Hypertension,Never,16.73
+2127,2024-11-08,60,M,178.8,130.1,HIIT,99,Medium,51.4,114,8.2,6,7466,2.1,24.4,66.8,134.4,94.1,Hypertension,Never,16.85
+2127,2024-11-11,60,M,178.8,130.4,Dancing,85,Medium,20.3,119,8.6,7,6028,1.8,24.4,66.8,134.4,94.1,Hypertension,Never,16.95
+2127,2024-11-13,60,M,178.8,130.6,Tennis,34,Medium,10.8,134,5.3,6,8393,1.9,24.4,66.8,134.4,94.1,Hypertension,Never,17.0
+2127,2024-11-16,60,M,178.8,130.9,HIIT,118,Medium,61.7,126,6.2,6,9784,3.2,24.4,66.8,134.4,94.1,Hypertension,Never,17.14
+2127,2024-11-18,60,M,178.8,131.1,Tennis,20,Low,5.3,97,6.5,7,8336,2.8,24.4,66.8,134.4,94.1,Hypertension,Never,17.16
+2127,2024-11-19,60,M,178.8,131.4,Tennis,99,Medium,31.6,116,7.1,1,3779,2.7,24.4,66.8,134.4,94.1,Hypertension,Never,17.28
+2127,2024-11-20,60,M,178.8,131.7,Walking,34,Medium,5.7,111,7.3,8,8540,2.1,24.4,66.8,134.4,94.1,Hypertension,Never,17.32
+2127,2024-11-22,60,M,178.8,131.9,Walking,120,Medium,20.0,123,7.5,4,8386,1.8,24.4,66.8,134.4,94.1,Hypertension,Never,17.46
+2127,2024-11-23,60,M,178.8,132.2,Tennis,75,Low,20.1,105,6.7,1,9495,2.9,24.4,66.8,134.4,94.1,Hypertension,Never,17.54
+2127,2024-11-27,60,M,178.8,132.4,Tennis,84,Medium,27.0,122,8.4,4,5156,2.0,24.4,66.8,134.4,94.1,Hypertension,Never,17.64
+2127,2024-11-28,60,M,178.8,132.7,Tennis,48,High,18.0,136,5.9,7,5817,2.9,24.4,66.8,134.4,94.1,Hypertension,Never,17.7
+2127,2024-11-29,60,M,178.8,132.9,Tennis,60,High,22.6,129,8.0,2,6144,2.1,24.4,66.8,134.4,94.1,Hypertension,Never,17.79
+2127,2024-11-30,60,M,178.8,133.2,Tennis,69,Medium,22.3,117,4.4,3,11060,2.0,24.4,66.8,134.4,94.1,Hypertension,Never,17.87

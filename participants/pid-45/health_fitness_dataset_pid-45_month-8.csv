@@ -1,0 +1,17 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+45,2024-08-02,36,F,158.3,90.1,HIIT,36,Low,10.8,116,5.8,2,7474,2.2,21.6,76.3,134.1,77.7,Hypertension,Former,11.9
+45,2024-08-03,36,F,158.3,90.4,HIIT,73,Medium,26.3,129,7.5,4,8496,1.5,21.6,76.3,134.1,77.7,Hypertension,Former,11.99
+45,2024-08-04,36,F,158.3,90.7,HIIT,108,Medium,39.1,129,5.0,2,7443,2.6,21.6,76.3,134.1,77.7,Hypertension,Former,12.12
+45,2024-08-07,36,F,158.3,90.9,Cycling,64,Medium,16.4,126,6.5,4,5901,3.4,21.6,76.3,134.1,77.7,Hypertension,Former,12.19
+45,2024-08-08,36,F,158.3,91.2,Cycling,24,High,7.2,153,6.5,5,3129,2.1,21.6,76.3,134.1,77.7,Hypertension,Former,12.23
+45,2024-08-09,36,F,158.3,91.4,Tennis,111,Low,20.5,126,6.7,8,9456,2.3,21.6,76.3,134.1,77.7,Hypertension,Former,12.34
+45,2024-08-10,36,F,158.3,91.7,Cycling,67,Medium,17.4,139,7.1,10,8883,2.2,21.6,76.3,134.1,77.7,Hypertension,Former,12.42
+45,2024-08-11,36,F,158.3,91.9,Cycling,80,High,24.2,171,6.2,5,9056,2.2,21.6,76.3,134.1,77.7,Hypertension,Former,12.53
+45,2024-08-12,36,F,158.3,92.2,HIIT,79,Low,24.2,111,7.4,8,8380,3.2,21.6,76.3,134.1,77.7,Hypertension,Former,12.61
+45,2024-08-15,36,F,158.3,92.4,HIIT,99,Medium,36.5,144,7.4,2,6197,2.6,21.6,76.3,134.1,77.7,Hypertension,Former,12.73
+45,2024-08-16,36,F,158.3,92.7,Walking,59,Low,5.8,117,7.2,4,8696,3.0,21.6,76.3,134.1,77.7,Hypertension,Former,12.79
+45,2024-08-18,36,F,158.3,93.0,HIIT,49,Low,15.1,119,7.7,2,7267,1.5,21.6,76.3,134.1,77.7,Hypertension,Former,12.84
+45,2024-08-21,36,F,158.3,93.2,Walking,99,Medium,11.7,140,6.9,9,5434,1.9,21.6,76.3,134.1,77.7,Hypertension,Former,12.96
+45,2024-08-24,36,F,158.3,93.5,HIIT,94,Medium,35.1,132,9.2,8,8016,2.4,21.6,76.3,134.1,77.7,Hypertension,Former,13.07
+45,2024-08-29,36,F,158.3,93.7,HIIT,98,High,42.8,141,6.8,5,4425,2.2,21.6,76.3,134.1,77.7,Hypertension,Former,13.21
+45,2024-08-30,36,F,158.3,94.0,Walking,65,Medium,7.7,131,6.2,3,8008,1.8,21.6,76.3,134.1,77.7,Hypertension,Former,13.28

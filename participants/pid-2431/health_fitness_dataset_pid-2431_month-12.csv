@@ -1,0 +1,16 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+2431,2024-12-01,61,M,173.3,136.9,Walking,85,Medium,14.7,117,7.6,2,10822,1.8,29.5,78.9,132.8,80.1,Hypertension,Current,15.35
+2431,2024-12-02,61,M,173.3,137.2,Swimming,71,Medium,22.7,130,7.0,1,10037,2.1,29.5,78.9,132.8,80.1,Hypertension,Current,15.43
+2431,2024-12-03,61,M,173.3,137.4,Tennis,99,High,38.6,124,6.0,5,5251,1.6,29.5,78.9,132.8,80.1,Hypertension,Current,15.57
+2431,2024-12-04,61,M,173.3,137.7,Walking,52,Medium,9.1,107,7.2,2,3959,1.8,29.5,78.9,132.8,80.1,Hypertension,Current,15.63
+2431,2024-12-05,61,M,173.3,137.9,Walking,66,Low,9.6,101,6.7,4,7940,2.9,29.5,78.9,132.8,80.1,Hypertension,Current,15.7
+2431,2024-12-06,61,M,173.3,138.2,Tennis,28,Medium,9.4,116,8.5,2,8492,2.9,29.5,78.9,132.8,80.1,Hypertension,Current,15.73
+2431,2024-12-07,61,M,173.3,138.5,Tennis,59,Medium,19.8,127,7.0,8,9952,1.6,29.5,78.9,132.8,80.1,Hypertension,Current,15.8
+2431,2024-12-08,61,M,173.3,138.7,Walking,20,High,4.1,144,7.9,6,10738,2.0,29.5,78.9,132.8,80.1,Hypertension,Current,15.83
+2431,2024-12-11,61,M,173.3,139.0,Basketball,22,Low,6.8,107,6.1,1,4949,3.5,29.5,78.9,132.8,80.1,Hypertension,Current,15.85
+2431,2024-12-12,61,M,173.3,139.2,Basketball,42,Medium,15.6,119,6.9,4,6398,2.0,29.5,78.9,132.8,80.1,Hypertension,Current,15.9
+2431,2024-12-16,61,M,173.3,139.5,Basketball,46,High,19.9,138,7.6,10,7613,2.0,29.5,78.9,132.8,80.1,Hypertension,Current,15.97
+2431,2024-12-17,61,M,173.3,139.8,Dancing,77,Low,16.4,107,6.4,6,8614,3.2,29.5,78.9,132.8,80.1,Hypertension,Current,16.05
+2431,2024-12-18,61,M,173.3,140.0,Dancing,54,Medium,13.8,119,7.1,1,9269,2.3,29.5,78.9,132.8,80.1,Hypertension,Current,16.11
+2431,2024-12-21,61,M,173.3,140.3,Basketball,81,Low,25.2,105,6.6,6,10944,2.7,29.5,78.9,132.8,80.1,Hypertension,Current,16.19
+2431,2024-12-25,61,M,173.3,140.5,Walking,66,Low,9.8,100,6.9,9,6300,3.4,29.5,78.9,132.8,80.1,Hypertension,Current,16.26

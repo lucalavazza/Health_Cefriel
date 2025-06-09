@@ -1,0 +1,13 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+85,2024-11-02,61,F,149.6,100.7,Walking,98,High,14.5,129,7.4,5,5659,3.2,21.6,78.1,128.8,74.4,None,Never,16.62
+85,2024-11-04,61,F,149.6,100.9,Yoga,64,Low,5.4,109,7.8,6,4650,1.9,21.6,78.1,128.8,74.4,None,Never,16.68
+85,2024-11-05,61,F,149.6,101.2,Yoga,105,Medium,10.6,119,6.7,2,4919,2.3,21.6,78.1,128.8,74.4,None,Never,16.81
+85,2024-11-07,61,F,149.6,101.4,Yoga,25,Medium,2.5,116,5.7,10,8517,3.0,21.6,78.1,128.8,74.4,None,Never,16.84
+85,2024-11-10,61,F,149.6,101.7,Yoga,60,Medium,6.1,109,6.8,7,7217,2.2,21.6,78.1,128.8,74.4,None,Never,16.91
+85,2024-11-15,61,F,149.6,102.0,Yoga,84,High,10.0,141,5.7,5,9480,2.0,21.6,78.1,128.8,74.4,None,Never,17.03
+85,2024-11-22,61,F,149.6,102.2,Yoga,91,Low,7.7,97,7.2,7,4200,1.6,21.6,78.1,128.8,74.4,None,Never,17.12
+85,2024-11-24,61,F,149.6,102.5,Yoga,105,Medium,10.7,121,7.6,7,5878,1.8,21.6,78.1,128.8,74.4,None,Never,17.25
+85,2024-11-25,61,F,149.6,102.7,Basketball,56,Low,12.8,98,5.4,2,4764,2.5,21.6,78.1,128.8,74.4,None,Never,17.3
+85,2024-11-26,61,F,149.6,103.0,Weight Training,60,Medium,12.3,115,7.7,7,6496,1.7,21.6,78.1,128.8,74.4,None,Never,17.37
+85,2024-11-29,61,F,149.6,103.3,HIIT,62,Medium,25.5,129,5.5,2,7592,1.9,21.6,78.1,128.8,74.4,None,Never,17.45
+85,2024-11-30,61,F,149.6,103.5,Weight Training,118,High,28.4,139,7.2,6,7075,2.7,21.6,78.1,128.8,74.4,None,Never,17.61

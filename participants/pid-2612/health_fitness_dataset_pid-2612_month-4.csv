@@ -1,0 +1,25 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+2612,2024-04-01,53,M,168.6,92.7,Weight Training,45,Low,6.9,109,7.1,5,10966,1.6,26.6,73.4,120.2,82.5,Hypertension,Former,5.35
+2612,2024-04-03,53,M,168.6,93.0,Weight Training,75,Low,11.6,105,5.6,3,10202,3.4,26.6,73.4,120.2,82.5,Hypertension,Former,5.42
+2612,2024-04-04,53,M,168.6,93.2,Weight Training,72,Low,11.2,109,6.0,4,9470,2.3,26.6,73.4,120.2,82.5,Hypertension,Former,5.5
+2612,2024-04-05,53,M,168.6,93.5,Weight Training,24,Low,3.7,109,6.5,4,10515,2.8,26.6,73.4,120.2,82.5,Hypertension,Former,5.52
+2612,2024-04-06,53,M,168.6,93.7,Weight Training,110,Medium,20.6,128,5.9,6,9957,1.8,26.6,73.4,120.2,82.5,Hypertension,Former,5.65
+2612,2024-04-07,53,M,168.6,94.0,Weight Training,82,Low,12.8,108,5.8,1,10856,2.6,26.6,73.4,120.2,82.5,Hypertension,Former,5.73
+2612,2024-04-08,53,M,168.6,94.3,Dancing,110,High,22.1,124,6.7,2,8764,3.2,26.6,73.4,120.2,82.5,Hypertension,Former,5.89
+2612,2024-04-09,53,M,168.6,94.5,Swimming,111,Low,20.3,115,6.6,2,11306,2.7,26.6,73.4,120.2,82.5,Hypertension,Former,6.0
+2612,2024-04-10,53,M,168.6,94.8,Dancing,109,Medium,18.9,120,6.5,1,7890,2.8,26.6,73.4,120.2,82.5,Hypertension,Former,6.13
+2612,2024-04-11,53,M,168.6,95.0,Swimming,90,Medium,19.9,136,7.6,6,10958,2.8,26.6,73.4,120.2,82.5,Hypertension,Former,6.24
+2612,2024-04-12,53,M,168.6,95.3,Swimming,22,Medium,4.9,129,6.2,6,12093,3.3,26.6,73.4,120.2,82.5,Hypertension,Former,6.26
+2612,2024-04-15,53,M,168.6,95.5,Swimming,100,Medium,22.2,131,7.0,8,6084,3.0,26.6,73.4,120.2,82.5,Hypertension,Former,6.38
+2612,2024-04-16,53,M,168.6,95.8,Swimming,51,Low,9.5,104,8.1,5,11702,2.4,26.6,73.4,120.2,82.5,Hypertension,Former,6.44
+2612,2024-04-18,53,M,168.6,96.1,Walking,118,Low,11.9,107,7.8,3,11430,1.7,26.6,73.4,120.2,82.5,Hypertension,Former,6.55
+2612,2024-04-20,53,M,168.6,96.3,Walking,22,Medium,2.7,115,5.1,1,8669,2.3,26.6,73.4,120.2,82.5,Hypertension,Former,6.58
+2612,2024-04-21,53,M,168.6,96.6,Walking,38,High,5.4,157,6.4,9,11786,1.8,26.6,73.4,120.2,82.5,Hypertension,Former,6.63
+2612,2024-04-22,53,M,168.6,96.8,Walking,25,Low,2.5,112,6.8,8,8119,2.9,26.6,73.4,120.2,82.5,Hypertension,Former,6.66
+2612,2024-04-23,53,M,168.6,97.1,Walking,82,Medium,10.1,120,7.2,4,10425,3.0,26.6,73.4,120.2,82.5,Hypertension,Former,6.76
+2612,2024-04-24,53,M,168.6,97.4,Walking,82,Low,8.4,115,7.2,8,7929,2.2,26.6,73.4,120.2,82.5,Hypertension,Former,6.84
+2612,2024-04-25,53,M,168.6,97.6,Walking,25,Medium,3.1,130,6.4,7,9746,2.2,26.6,73.4,120.2,82.5,Hypertension,Former,6.87
+2612,2024-04-26,53,M,168.6,97.9,Walking,57,Medium,7.0,128,6.8,4,8887,3.4,26.6,73.4,120.2,82.5,Hypertension,Former,6.94
+2612,2024-04-27,53,M,168.6,98.1,Walking,108,High,15.6,125,6.9,1,9119,2.8,26.6,73.4,120.2,82.5,Hypertension,Former,7.09
+2612,2024-04-28,53,M,168.6,98.4,Swimming,32,Medium,7.3,118,6.7,7,9749,3.1,26.6,73.4,120.2,82.5,Hypertension,Former,7.13
+2612,2024-04-30,53,M,168.6,98.7,Walking,74,Low,7.7,106,6.6,1,11475,2.6,26.6,73.4,120.2,82.5,Hypertension,Former,7.2

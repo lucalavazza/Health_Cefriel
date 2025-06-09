@@ -1,0 +1,21 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+1099,2024-11-01,58,F,166.1,102.0,Basketball,45,Medium,12.2,116,8.1,8,4171,1.7,18.3,66.7,126.6,77,None,Current,16.02
+1099,2024-11-03,58,F,166.1,102.3,Basketball,79,Medium,21.5,117,7.3,8,8791,1.7,18.3,66.7,126.6,77,None,Current,16.12
+1099,2024-11-04,58,F,166.1,102.6,Basketball,35,Medium,9.5,127,8.6,6,4351,2.9,18.3,66.7,126.6,77,None,Current,16.16
+1099,2024-11-06,58,F,166.1,102.8,Basketball,79,Medium,21.6,118,6.6,8,4845,3.3,18.3,66.7,126.6,77,None,Current,16.25
+1099,2024-11-07,58,F,166.1,103.1,Basketball,97,Medium,26.6,111,6.0,3,4080,3.0,18.3,66.7,126.6,77,None,Current,16.37
+1099,2024-11-08,58,F,166.1,103.3,Basketball,44,High,14.1,140,7.6,3,5594,2.1,18.3,66.7,126.6,77,None,Current,16.43
+1099,2024-11-09,58,F,166.1,103.6,Basketball,85,Medium,23.4,110,7.2,10,7012,2.1,18.3,66.7,126.6,77,None,Current,16.53
+1099,2024-11-10,58,F,166.1,103.8,Weight Training,28,High,6.8,136,5.2,7,7577,1.6,18.3,66.7,126.6,77,None,Current,16.57
+1099,2024-11-11,58,F,166.1,104.1,Weight Training,75,Medium,15.6,114,6.2,3,6289,3.0,18.3,66.7,126.6,77,None,Current,16.66
+1099,2024-11-13,58,F,166.1,104.4,Basketball,110,Low,25.4,101,6.6,9,6781,3.4,18.3,66.7,126.6,77,None,Current,16.77
+1099,2024-11-16,58,F,166.1,104.6,Weight Training,99,Medium,20.7,107,6.1,6,6673,1.8,18.3,66.7,126.6,77,None,Current,16.89
+1099,2024-11-18,58,F,166.1,104.9,Basketball,69,High,22.5,160,7.1,7,8990,3.3,18.3,66.7,126.6,77,None,Current,16.99
+1099,2024-11-20,58,F,166.1,105.1,Weight Training,45,High,11.0,134,7.6,6,6741,2.8,18.3,66.7,126.6,77,None,Current,17.05
+1099,2024-11-21,58,F,166.1,105.4,Cycling,54,Medium,16.1,112,4.7,4,6322,2.7,18.3,66.7,126.6,77,None,Current,17.12
+1099,2024-11-22,58,F,166.1,105.6,Running,61,High,24.5,124,6.3,3,10160,3.4,18.3,66.7,126.6,77,None,Current,17.2
+1099,2024-11-24,58,F,166.1,105.9,Dancing,73,High,16.5,134,4.8,1,8938,2.3,18.3,66.7,126.6,77,None,Current,17.3
+1099,2024-11-25,58,F,166.1,106.2,Yoga,89,Medium,9.4,114,5.6,2,4744,3.0,18.3,66.7,126.6,77,None,Current,17.41
+1099,2024-11-26,58,F,166.1,106.4,Dancing,49,Medium,9.5,120,6.0,6,4848,2.0,18.3,66.7,126.6,77,None,Current,17.47
+1099,2024-11-28,58,F,166.1,106.7,Yoga,80,Medium,8.5,134,7.0,3,3265,1.5,18.3,66.7,126.6,77,None,Current,17.57
+1099,2024-11-30,58,F,166.1,106.9,Dancing,28,Low,4.6,106,7.7,3,10212,2.5,18.3,66.7,126.6,77,None,Current,17.59

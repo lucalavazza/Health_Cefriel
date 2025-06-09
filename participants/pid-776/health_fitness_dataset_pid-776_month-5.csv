@@ -1,0 +1,18 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+776,2024-05-03,32,F,152.1,68.0,Basketball,64,Low,9.6,119,6.3,1,9846,2.9,19.5,62.7,125.9,76.9,None,Never,7.83
+776,2024-05-05,32,F,152.1,68.3,Basketball,111,Medium,20.1,136,5.7,8,13066,2.6,19.5,62.7,125.9,76.9,None,Never,7.96
+776,2024-05-07,32,F,152.1,68.5,Basketball,106,Medium,19.3,146,8.0,2,12494,2.9,19.5,62.7,125.9,76.9,None,Never,8.09
+776,2024-05-10,32,F,152.1,68.8,Basketball,39,High,8.3,138,7.8,8,7876,2.6,19.5,62.7,125.9,76.9,None,Never,8.15
+776,2024-05-11,32,F,152.1,69.0,Basketball,75,Medium,13.8,144,7.2,7,11256,2.5,19.5,62.7,125.9,76.9,None,Never,8.24
+776,2024-05-12,32,F,152.1,69.3,Basketball,84,Medium,15.5,130,6.2,3,12672,2.3,19.5,62.7,125.9,76.9,None,Never,8.34
+776,2024-05-13,32,F,152.1,69.6,Basketball,25,Medium,4.6,155,8.2,3,7200,2.9,19.5,62.7,125.9,76.9,None,Never,8.37
+776,2024-05-14,32,F,152.1,69.8,Basketball,35,Low,5.4,118,5.5,7,8454,2.9,19.5,62.7,125.9,76.9,None,Never,8.4
+776,2024-05-16,32,F,152.1,70.1,Weight Training,90,Medium,12.6,136,6.5,2,8236,2.3,19.5,62.7,125.9,76.9,None,Never,8.51
+776,2024-05-17,32,F,152.1,70.3,Basketball,57,Low,8.9,124,8.0,1,8490,3.2,19.5,62.7,125.9,76.9,None,Never,8.57
+776,2024-05-19,32,F,152.1,70.6,Weight Training,98,Medium,13.8,127,7.2,5,11655,3.3,19.5,62.7,125.9,76.9,None,Never,8.69
+776,2024-05-21,32,F,152.1,70.9,Dancing,104,Medium,13.5,151,6.6,8,11157,2.3,19.5,62.7,125.9,76.9,None,Never,8.81
+776,2024-05-22,32,F,152.1,71.1,Dancing,65,High,9.9,152,6.7,5,8801,1.8,19.5,62.7,125.9,76.9,None,Never,8.9
+776,2024-05-24,32,F,152.1,71.4,Dancing,30,Medium,3.9,152,4.4,9,10683,3.4,19.5,62.7,125.9,76.9,None,Never,8.94
+776,2024-05-29,32,F,152.1,71.6,Cycling,69,Low,11.6,125,6.4,1,9056,3.3,19.5,62.7,125.9,76.9,None,Never,9.01
+776,2024-05-30,32,F,152.1,71.9,Cycling,76,Medium,15.4,139,6.6,2,11027,1.9,19.5,62.7,125.9,76.9,None,Never,9.1
+776,2024-05-31,32,F,152.1,72.1,Cycling,37,Low,6.3,125,7.7,8,6118,1.8,19.5,62.7,125.9,76.9,None,Never,9.13

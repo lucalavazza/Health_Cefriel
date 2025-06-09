@@ -1,0 +1,20 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+2096,2024-02-02,20,M,174.6,85.6,Running,83,Medium,23.1,147,7.6,3,7398,2.9,26.1,73.9,108.9,84,None,Former,1.98
+2096,2024-02-03,20,M,174.6,85.8,Swimming,47,Medium,9.4,155,7.2,5,11993,2.6,26.1,73.9,108.9,84,None,Former,2.04
+2096,2024-02-04,20,M,174.6,86.1,Basketball,21,Low,4.0,127,5.9,2,10738,1.9,26.1,73.9,108.9,84,None,Former,2.06
+2096,2024-02-05,20,M,174.6,86.4,Running,73,High,24.0,176,7.1,4,8218,2.8,26.1,73.9,108.9,84,None,Former,2.16
+2096,2024-02-12,20,M,174.6,86.6,Swimming,69,High,16.2,173,5.3,3,8522,2.1,26.1,73.9,108.9,84,None,Former,2.26
+2096,2024-02-13,20,M,174.6,86.9,HIIT,118,Low,34.1,135,6.4,8,8827,2.9,26.1,73.9,108.9,84,None,Former,2.38
+2096,2024-02-15,20,M,174.6,87.1,Running,99,High,32.8,163,7.0,7,11920,3.1,26.1,73.9,108.9,84,None,Former,2.52
+2096,2024-02-16,20,M,174.6,87.4,Running,116,Medium,33.0,159,6.4,1,9453,2.5,26.1,73.9,108.9,84,None,Former,2.66
+2096,2024-02-17,20,M,174.6,87.6,Weight Training,85,Medium,14.9,155,6.8,4,11177,1.8,26.1,73.9,108.9,84,None,Former,2.76
+2096,2024-02-19,20,M,174.6,87.9,Weight Training,97,Medium,17.0,157,4.3,2,7357,1.5,26.1,73.9,108.9,84,None,Former,2.88
+2096,2024-02-21,20,M,174.6,88.2,Running,43,High,14.4,176,6.6,3,7683,2.6,26.1,73.9,108.9,84,None,Former,2.94
+2096,2024-02-22,20,M,174.6,88.4,Weight Training,26,High,5.3,168,6.6,7,6623,1.8,26.1,73.9,108.9,84,None,Former,2.97
+2096,2024-02-23,20,M,174.6,88.7,Swimming,115,Low,19.8,133,6.2,2,9394,2.4,26.1,73.9,108.9,84,None,Former,3.09
+2096,2024-02-24,20,M,174.6,88.9,Basketball,47,Low,9.3,131,6.8,3,11575,2.8,26.1,73.9,108.9,84,None,Former,3.13
+2096,2024-02-25,20,M,174.6,89.2,Basketball,69,Medium,16.4,140,8.0,5,9950,2.9,26.1,73.9,108.9,84,None,Former,3.22
+2096,2024-02-26,20,M,174.6,89.4,Basketball,87,Low,17.2,123,5.7,4,9546,2.8,26.1,73.9,108.9,84,None,Former,3.3
+2096,2024-02-27,20,M,174.6,89.7,Basketball,85,Medium,20.3,137,4.2,6,8677,3.4,26.1,73.9,108.9,84,None,Former,3.41
+2096,2024-02-28,20,M,174.6,90.0,Weight Training,77,Medium,13.8,142,7.3,1,8546,2.1,26.1,73.9,108.9,84,None,Former,3.5
+2096,2024-02-29,20,M,174.6,90.2,Weight Training,96,Low,14.4,122,5.2,8,10301,3.0,26.1,73.9,108.9,84,None,Former,3.59

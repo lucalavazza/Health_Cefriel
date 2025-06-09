@@ -1,0 +1,18 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+1004,2024-03-04,54,M,173.7,84.9,Dancing,32,Low,4.1,106,7.1,3,9827,1.8,24,67.1,109.6,79.7,None,Current,4.32
+1004,2024-03-05,54,M,173.7,85.2,Yoga,63,Medium,5.4,116,5.9,4,9082,2.3,24,67.1,109.6,79.7,None,Current,4.4
+1004,2024-03-06,54,M,173.7,85.5,Tennis,27,Medium,5.6,127,7.3,1,9752,1.6,24,67.1,109.6,79.7,None,Current,4.43
+1004,2024-03-09,54,M,173.7,85.7,Dancing,33,Medium,5.2,130,8.5,2,13565,1.9,24,67.1,109.6,79.7,None,Current,4.47
+1004,2024-03-10,54,M,173.7,86.0,Dancing,25,Low,3.3,109,7.4,6,12018,2.7,24,67.1,109.6,79.7,None,Current,4.5
+1004,2024-03-11,54,M,173.7,86.2,Tennis,89,Medium,18.6,121,8.8,9,11824,2.5,24,67.1,109.6,79.7,None,Current,4.6
+1004,2024-03-14,54,M,173.7,86.5,Weight Training,51,High,10.3,156,6.7,9,10687,2.6,24,67.1,109.6,79.7,None,Current,4.67
+1004,2024-03-15,54,M,173.7,86.8,Tennis,98,Low,17.2,113,6.8,2,9782,2.3,24,67.1,109.6,79.7,None,Current,4.77
+1004,2024-03-16,54,M,173.7,87.0,Walking,59,Medium,6.5,124,7.8,1,6916,2.0,24,67.1,109.6,79.7,None,Current,4.84
+1004,2024-03-17,54,M,173.7,87.3,Weight Training,54,Low,7.8,106,6.4,7,11767,2.0,24,67.1,109.6,79.7,None,Current,4.9
+1004,2024-03-18,54,M,173.7,87.5,Tennis,106,Low,18.8,109,6.1,7,11596,2.6,24,67.1,109.6,79.7,None,Current,5.0
+1004,2024-03-20,54,M,173.7,87.8,Weight Training,29,Medium,5.1,123,6.7,6,8744,2.4,24,67.1,109.6,79.7,None,Current,5.04
+1004,2024-03-21,54,M,173.7,88.1,Tennis,92,Low,16.4,108,7.2,3,10082,2.6,24,67.1,109.6,79.7,None,Current,5.13
+1004,2024-03-27,54,M,173.7,88.3,Tennis,25,Medium,5.4,130,7.3,9,8842,3.4,24,67.1,109.6,79.7,None,Current,5.16
+1004,2024-03-29,54,M,173.7,88.6,Weight Training,43,Medium,7.6,117,6.7,3,9834,2.3,24,67.1,109.6,79.7,None,Current,5.21
+1004,2024-03-30,54,M,173.7,88.8,Walking,64,Low,6.0,108,5.4,2,14486,2.2,24,67.1,109.6,79.7,None,Current,5.28
+1004,2024-03-31,54,M,173.7,89.1,Tennis,115,High,29.0,135,8.8,8,12447,2.1,24,67.1,109.6,79.7,None,Current,5.44

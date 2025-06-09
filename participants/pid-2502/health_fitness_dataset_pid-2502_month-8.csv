@@ -1,0 +1,17 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+2502,2024-08-01,57,Other,174.1,109.3,Walking,36,Medium,5.0,130,6.8,9,5306,3.3,22.9,69.3,118.1,75.2,None,Never,12.79
+2502,2024-08-06,57,Other,174.1,109.6,Walking,20,Medium,2.8,126,5.8,1,7030,1.9,22.9,69.3,118.1,75.2,None,Never,12.81
+2502,2024-08-08,57,Other,174.1,109.9,Walking,98,Medium,13.6,118,8.0,1,7469,3.0,22.9,69.3,118.1,75.2,None,Never,12.93
+2502,2024-08-11,57,Other,174.1,110.1,Walking,61,Low,7.1,110,6.0,4,5040,2.4,22.9,69.3,118.1,75.2,None,Never,12.99
+2502,2024-08-14,57,Other,174.1,110.4,Walking,87,Medium,12.1,129,6.3,10,7876,2.5,22.9,69.3,118.1,75.2,None,Never,13.1
+2502,2024-08-15,57,Other,174.1,110.6,Walking,39,Medium,5.5,117,6.3,5,7506,2.2,22.9,69.3,118.1,75.2,None,Never,13.14
+2502,2024-08-16,57,Other,174.1,110.9,Weight Training,39,High,10.1,140,7.5,1,7615,2.0,22.9,69.3,118.1,75.2,None,Never,13.2
+2502,2024-08-17,57,Other,174.1,111.1,Walking,26,Medium,3.7,123,8.3,1,7279,2.4,22.9,69.3,118.1,75.2,None,Never,13.23
+2502,2024-08-18,57,Other,174.1,111.4,Weight Training,63,High,16.3,127,5.5,4,9350,1.6,22.9,69.3,118.1,75.2,None,Never,13.32
+2502,2024-08-21,57,Other,174.1,111.7,Walking,22,Medium,3.1,134,6.2,6,8196,1.6,22.9,69.3,118.1,75.2,None,Never,13.34
+2502,2024-08-22,57,Other,174.1,111.9,Walking,86,Medium,12.2,122,8.0,9,5915,1.5,22.9,69.3,118.1,75.2,None,Never,13.45
+2502,2024-08-24,57,Other,174.1,112.2,HIIT,99,Medium,44.3,123,7.8,2,9201,3.2,22.9,69.3,118.1,75.2,None,Never,13.56
+2502,2024-08-25,57,Other,174.1,112.4,Walking,85,Low,10.1,104,7.4,3,7026,1.6,22.9,69.3,118.1,75.2,None,Never,13.65
+2502,2024-08-26,57,Other,174.1,112.7,HIIT,24,Medium,10.8,117,7.7,3,3974,2.4,22.9,69.3,118.1,75.2,None,Never,13.68
+2502,2024-08-28,57,Other,174.1,113.0,Walking,78,Low,9.3,104,7.0,6,7134,2.6,22.9,69.3,118.1,75.2,None,Never,13.76
+2502,2024-08-29,57,Other,174.1,113.2,Walking,102,High,17.0,150,7.1,7,6527,2.6,22.9,69.3,118.1,75.2,None,Never,13.9

@@ -1,0 +1,16 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+1646,2024-09-02,30,M,179.8,125.7,Running,65,Medium,26.6,139,6.2,10,7560,2.9,25.9,61.3,128.1,76.2,None,Never,13.18
+1646,2024-09-03,30,M,179.8,125.9,Cycling,94,High,39.1,179,8.0,2,6831,1.9,25.9,61.3,128.1,76.2,None,Never,13.31
+1646,2024-09-07,30,M,179.8,126.2,Weight Training,67,Medium,16.9,145,6.1,4,6500,1.7,25.9,61.3,128.1,76.2,None,Never,13.39
+1646,2024-09-08,30,M,179.8,126.5,Running,82,Medium,33.8,141,7.1,2,5996,2.3,25.9,61.3,128.1,76.2,None,Never,13.49
+1646,2024-09-09,30,M,179.8,126.7,Walking,65,Medium,10.4,148,5.6,7,9438,3.2,25.9,61.3,128.1,76.2,None,Never,13.57
+1646,2024-09-11,30,M,179.8,127.0,Running,74,Low,25.5,112,7.3,5,4274,3.1,25.9,61.3,128.1,76.2,None,Never,13.64
+1646,2024-09-12,30,M,179.8,127.2,Running,73,Medium,30.3,139,6.6,5,4350,2.9,25.9,61.3,128.1,76.2,None,Never,13.73
+1646,2024-09-19,30,M,179.8,127.5,Weight Training,20,High,5.9,166,6.6,8,6410,2.1,25.9,61.3,128.1,76.2,None,Never,13.76
+1646,2024-09-20,30,M,179.8,127.7,Running,65,Medium,27.1,147,7.6,2,6252,2.4,25.9,61.3,128.1,76.2,None,Never,13.84
+1646,2024-09-21,30,M,179.8,128.0,Swimming,81,High,28.2,167,5.5,8,5225,2.8,25.9,61.3,128.1,76.2,None,Never,13.95
+1646,2024-09-22,30,M,179.8,128.3,Weight Training,41,High,12.2,148,7.7,2,7274,2.3,25.9,61.3,128.1,76.2,None,Never,14.01
+1646,2024-09-23,30,M,179.8,128.5,Weight Training,24,High,7.2,150,7.0,4,6975,2.2,25.9,61.3,128.1,76.2,None,Never,14.04
+1646,2024-09-25,30,M,179.8,128.8,Weight Training,108,Low,23.1,121,7.2,8,8197,2.4,25.9,61.3,128.1,76.2,None,Never,14.15
+1646,2024-09-27,30,M,179.8,129.0,Weight Training,29,Medium,7.5,151,8.6,8,8619,2.3,25.9,61.3,128.1,76.2,None,Never,14.18
+1646,2024-09-29,30,M,179.8,129.3,Weight Training,87,Medium,22.5,143,8.1,6,8675,2.0,25.9,61.3,128.1,76.2,None,Never,14.29

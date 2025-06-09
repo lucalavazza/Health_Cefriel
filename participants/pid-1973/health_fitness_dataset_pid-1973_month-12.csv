@@ -1,0 +1,13 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+1973,2024-12-07,63,F,169.5,126.4,HIIT,59,Low,24.8,101,6.3,3,7258,3.5,25.1,66.5,111,72.5,None,Never,17.08
+1973,2024-12-08,63,F,169.5,126.7,Running,53,Medium,21.9,112,6.8,2,7743,2.9,25.1,66.5,111,72.5,None,Never,17.15
+1973,2024-12-09,63,F,169.5,127.0,Running,29,High,14.0,122,6.1,5,3328,3.5,25.1,66.5,111,72.5,None,Never,17.19
+1973,2024-12-10,63,F,169.5,127.2,HIIT,59,Medium,30.0,119,5.6,9,5814,2.2,25.1,66.5,111,72.5,None,Never,17.26
+1973,2024-12-11,63,F,169.5,127.5,Yoga,76,Medium,9.7,131,5.5,8,6744,1.8,25.1,66.5,111,72.5,None,Never,17.35
+1973,2024-12-14,63,F,169.5,127.7,Cycling,70,Medium,25.3,114,7.1,6,7878,2.3,25.1,66.5,111,72.5,None,Never,17.43
+1973,2024-12-15,63,F,169.5,128.0,Cycling,110,Low,33.2,97,7.3,8,9399,3.0,25.1,66.5,111,72.5,None,Never,17.54
+1973,2024-12-16,63,F,169.5,128.2,Basketball,49,Medium,16.7,116,7.4,9,6216,3.0,25.1,66.5,111,72.5,None,Never,17.6
+1973,2024-12-17,63,F,169.5,128.5,Cycling,52,High,22.0,146,8.1,5,5505,2.5,25.1,66.5,111,72.5,None,Never,17.67
+1973,2024-12-18,63,F,169.5,128.8,Basketball,102,Medium,35.0,117,8.9,4,10563,2.5,25.1,66.5,111,72.5,None,Never,17.8
+1973,2024-12-19,63,F,169.5,129.0,Running,69,Low,24.2,99,7.4,7,10721,2.8,25.1,66.5,111,72.5,None,Never,17.86
+1973,2024-12-23,63,F,169.5,129.3,Tennis,68,Medium,21.3,133,7.8,7,9979,2.9,25.1,66.5,111,72.5,None,Never,17.95

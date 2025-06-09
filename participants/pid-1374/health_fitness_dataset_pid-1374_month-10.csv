@@ -1,0 +1,17 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+1374,2024-10-01,40,M,163.9,115.5,Dancing,56,Low,9.9,114,7.2,1,5187,2.5,25.1,63.4,111.8,78.8,None,Current,15.46
+1374,2024-10-09,40,M,163.9,115.7,Dancing,80,Medium,16.9,138,7.4,2,3707,3.5,25.1,63.4,111.8,78.8,None,Current,15.56
+1374,2024-10-10,40,M,163.9,116.0,Dancing,72,Medium,15.3,124,5.9,2,7587,2.7,25.1,63.4,111.8,78.8,None,Current,15.64
+1374,2024-10-11,40,M,163.9,116.2,Dancing,66,Medium,14.0,151,6.6,5,5581,2.2,25.1,63.4,111.8,78.8,None,Current,15.72
+1374,2024-10-13,40,M,163.9,116.5,Yoga,67,Low,6.5,120,7.2,2,5886,2.7,25.1,63.4,111.8,78.8,None,Current,15.79
+1374,2024-10-14,40,M,163.9,116.7,Yoga,74,Low,7.2,121,7.7,4,8202,3.2,25.1,63.4,111.8,78.8,None,Current,15.87
+1374,2024-10-18,40,M,163.9,117.0,Yoga,73,Medium,8.5,139,6.2,9,5382,1.7,25.1,63.4,111.8,78.8,None,Current,15.95
+1374,2024-10-19,40,M,163.9,117.3,Walking,25,Medium,3.7,133,7.1,5,7387,2.2,25.1,63.4,111.8,78.8,None,Current,15.98
+1374,2024-10-20,40,M,163.9,117.5,Tennis,82,Medium,23.4,123,7.2,7,7593,2.2,25.1,63.4,111.8,78.8,None,Current,16.08
+1374,2024-10-23,40,M,163.9,117.8,Weight Training,106,Medium,24.9,132,6.0,6,5757,3.1,25.1,63.4,111.8,78.8,None,Current,16.21
+1374,2024-10-24,40,M,163.9,118.0,Weight Training,115,Low,22.6,115,5.9,6,6747,1.8,25.1,63.4,111.8,78.8,None,Current,16.32
+1374,2024-10-25,40,M,163.9,118.3,Weight Training,106,Medium,25.0,135,7.2,10,7555,2.5,25.1,63.4,111.8,78.8,None,Current,16.45
+1374,2024-10-27,40,M,163.9,118.5,Cycling,107,Medium,35.9,132,7.0,10,7867,3.4,25.1,63.4,111.8,78.8,None,Current,16.58
+1374,2024-10-28,40,M,163.9,118.8,Cycling,52,Medium,17.5,134,8.9,2,7021,2.2,25.1,63.4,111.8,78.8,None,Current,16.64
+1374,2024-10-29,40,M,163.9,119.1,Weight Training,70,Medium,16.6,137,7.3,9,3861,2.0,25.1,63.4,111.8,78.8,None,Current,16.73
+1374,2024-10-31,40,M,163.9,119.3,Weight Training,53,Low,10.5,111,6.1,6,6630,2.5,25.1,63.4,111.8,78.8,None,Current,16.78

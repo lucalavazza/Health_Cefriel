@@ -1,0 +1,17 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+1180,2024-11-02,31,M,165,115.6,Running,83,Low,26.1,129,5.4,6,8621,2.1,22.9,76.5,137.4,69,Hypertension,Never,17.12
+1180,2024-11-03,31,M,165,115.9,HIIT,84,Low,32.4,117,7.2,7,7254,2.0,22.9,76.5,137.4,69,Hypertension,Never,17.21
+1180,2024-11-06,31,M,165,116.1,Running,52,Low,16.4,119,7.4,1,6241,2.0,22.9,76.5,137.4,69,Hypertension,Never,17.26
+1180,2024-11-07,31,M,165,116.4,HIIT,110,Medium,51.1,132,7.4,4,8701,3.2,22.9,76.5,137.4,69,Hypertension,Never,17.39
+1180,2024-11-08,31,M,165,116.6,Yoga,57,Medium,6.6,139,7.2,7,5805,1.9,22.9,76.5,137.4,69,Hypertension,Never,17.46
+1180,2024-11-09,31,M,165,116.9,Running,100,Medium,38.1,135,7.3,4,7775,2.1,22.9,76.5,137.4,69,Hypertension,Never,17.58
+1180,2024-11-11,31,M,165,117.1,Weight Training,116,Medium,27.1,149,6.2,8,6447,1.6,22.9,76.5,137.4,69,Hypertension,Never,17.72
+1180,2024-11-13,31,M,165,117.4,Yoga,46,Medium,5.4,140,9.0,6,7873,3.2,22.9,76.5,137.4,69,Hypertension,Never,17.77
+1180,2024-11-14,31,M,165,117.7,Weight Training,71,Medium,16.7,133,8.7,10,6477,3.4,22.9,76.5,137.4,69,Hypertension,Never,17.86
+1180,2024-11-15,31,M,165,117.9,Weight Training,104,Medium,24.5,138,6.6,8,7198,2.8,22.9,76.5,137.4,69,Hypertension,Never,17.98
+1180,2024-11-20,31,M,165,118.2,Yoga,27,Low,2.7,124,7.6,6,7030,2.3,22.9,76.5,137.4,69,Hypertension,Never,18.01
+1180,2024-11-21,31,M,165,118.4,Yoga,83,High,11.4,153,5.9,6,5391,2.5,22.9,76.5,137.4,69,Hypertension,Never,18.13
+1180,2024-11-24,31,M,165,118.7,Weight Training,20,High,5.5,143,6.8,3,10522,2.1,22.9,76.5,137.4,69,Hypertension,Never,18.16
+1180,2024-11-25,31,M,165,118.9,Yoga,85,Medium,10.1,147,4.9,6,7322,2.5,22.9,76.5,137.4,69,Hypertension,Never,18.26
+1180,2024-11-26,31,M,165,119.2,Weight Training,21,High,5.8,158,5.9,9,5915,1.8,22.9,76.5,137.4,69,Hypertension,Never,18.29
+1180,2024-11-27,31,M,165,119.5,Weight Training,82,Low,16.3,131,7.8,4,8330,3.2,22.9,76.5,137.4,69,Hypertension,Never,18.37

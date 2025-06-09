@@ -1,0 +1,17 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+1515,2024-09-01,29,F,155.3,100.0,Cycling,97,Medium,27.4,157,7.4,8,7416,2.3,23.8,69.7,124.6,81.4,None,Former,13.71
+1515,2024-09-04,29,F,155.3,100.3,Running,76,Medium,24.8,144,7.1,7,3425,1.7,23.8,69.7,124.6,81.4,None,Former,13.8
+1515,2024-09-06,29,F,155.3,100.5,Walking,37,High,5.5,174,7.1,5,8994,2.5,23.8,69.7,124.6,81.4,None,Former,13.85
+1515,2024-09-08,29,F,155.3,100.8,Basketball,66,High,20.6,153,6.6,9,7039,1.5,23.8,69.7,124.6,81.4,None,Former,13.94
+1515,2024-09-09,29,F,155.3,101.0,Walking,118,Medium,15.1,137,6.0,5,6844,3.4,23.8,69.7,124.6,81.4,None,Former,14.08
+1515,2024-09-11,29,F,155.3,101.3,Weight Training,70,Low,11.8,125,7.5,1,5990,1.6,23.8,69.7,124.6,81.4,None,Former,14.15
+1515,2024-09-12,29,F,155.3,101.5,Yoga,118,High,13.9,163,7.8,1,4190,2.8,23.8,69.7,124.6,81.4,None,Former,14.32
+1515,2024-09-13,29,F,155.3,101.8,Weight Training,56,High,13.3,156,7.0,8,6835,1.8,23.8,69.7,124.6,81.4,None,Former,14.4
+1515,2024-09-15,29,F,155.3,102.1,Weight Training,78,Medium,15.9,142,6.8,7,7481,2.3,23.8,69.7,124.6,81.4,None,Former,14.49
+1515,2024-09-18,29,F,155.3,102.3,Weight Training,20,Medium,4.1,151,6.7,6,2601,3.3,23.8,69.7,124.6,81.4,None,Former,14.52
+1515,2024-09-20,29,F,155.3,102.6,Swimming,40,Low,8.0,122,7.1,1,6650,2.6,23.8,69.7,124.6,81.4,None,Former,14.56
+1515,2024-09-22,29,F,155.3,102.8,Swimming,81,Medium,19.4,132,7.6,8,7946,3.2,23.8,69.7,124.6,81.4,None,Former,14.65
+1515,2024-09-24,29,F,155.3,103.1,Weight Training,56,Medium,11.5,147,7.9,4,5461,3.4,23.8,69.7,124.6,81.4,None,Former,14.72
+1515,2024-09-25,29,F,155.3,103.4,Swimming,109,Low,21.9,131,6.7,5,7144,3.2,23.8,69.7,124.6,81.4,None,Former,14.83
+1515,2024-09-27,29,F,155.3,103.6,Weight Training,56,Low,9.6,119,7.6,1,6599,3.0,23.8,69.7,124.6,81.4,None,Former,14.89
+1515,2024-09-28,29,F,155.3,103.9,Weight Training,70,Medium,14.5,143,6.4,9,9178,2.5,23.8,69.7,124.6,81.4,None,Former,14.97

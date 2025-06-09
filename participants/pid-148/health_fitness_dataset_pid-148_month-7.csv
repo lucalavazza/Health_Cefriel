@@ -1,0 +1,17 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+148,2024-07-02,43,M,171,95.7,Swimming,106,Medium,23.6,136,7.6,3,8532,2.7,21.7,75.8,111.6,84.9,Asthma,Current,11.54
+148,2024-07-05,43,M,171,95.9,Walking,37,High,5.2,169,9.5,2,7725,2.9,21.7,75.8,111.6,84.9,Asthma,Current,11.59
+148,2024-07-07,43,M,171,96.2,Yoga,97,Medium,9.3,124,7.9,4,8625,3.5,21.7,75.8,111.6,84.9,Asthma,Current,11.7
+148,2024-07-09,43,M,171,96.4,Walking,70,Low,7.1,116,8.1,2,7300,1.7,21.7,75.8,111.6,84.9,Asthma,Current,11.77
+148,2024-07-14,43,M,171,96.7,Walking,110,Low,11.2,115,9.8,2,7836,2.9,21.7,75.8,111.6,84.9,Asthma,Current,11.88
+148,2024-07-19,43,M,171,97.0,Yoga,28,Medium,2.7,141,6.7,7,6813,1.8,21.7,75.8,111.6,84.9,Asthma,Current,11.92
+148,2024-07-20,43,M,171,97.2,Cycling,110,Medium,30.2,131,6.6,4,8383,2.9,21.7,75.8,111.6,84.9,Asthma,Current,12.05
+148,2024-07-21,43,M,171,97.5,Yoga,95,Low,7.7,123,7.1,10,8266,3.1,21.7,75.8,111.6,84.9,Asthma,Current,12.14
+148,2024-07-22,43,M,171,97.7,Yoga,80,High,9.1,138,7.7,2,10347,2.0,21.7,75.8,111.6,84.9,Asthma,Current,12.26
+148,2024-07-23,43,M,171,98.0,Yoga,54,Low,4.4,113,4.9,10,6686,2.2,21.7,75.8,111.6,84.9,Asthma,Current,12.31
+148,2024-07-24,43,M,171,98.2,Yoga,98,Medium,9.6,143,8.4,5,7169,2.5,21.7,75.8,111.6,84.9,Asthma,Current,12.43
+148,2024-07-25,43,M,171,98.5,Yoga,62,High,7.1,163,7.5,10,7119,1.9,21.7,75.8,111.6,84.9,Asthma,Current,12.52
+148,2024-07-26,43,M,171,98.8,Yoga,64,Low,5.3,110,4.6,4,6108,2.9,21.7,75.8,111.6,84.9,Asthma,Current,12.58
+148,2024-07-27,43,M,171,99.0,Yoga,26,High,3.0,150,8.0,4,9688,3.3,21.7,75.8,111.6,84.9,Asthma,Current,12.62
+148,2024-07-30,43,M,171,99.3,Yoga,43,High,5.0,151,5.8,6,7707,2.9,21.7,75.8,111.6,84.9,Asthma,Current,12.68
+148,2024-07-31,43,M,171,99.5,Yoga,82,Medium,8.1,111,7.3,9,6910,2.4,21.7,75.8,111.6,84.9,Asthma,Current,12.77

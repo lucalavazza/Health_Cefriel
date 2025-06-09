@@ -1,0 +1,17 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+1287,2024-10-02,63,M,186.9,138.9,Dancing,95,Medium,24.1,100,6.2,7,6348,3.2,25.8,73.7,113.8,77.9,None,Never,15.17
+1287,2024-10-04,63,M,186.9,139.1,Weight Training,95,Low,22.0,99,8.0,7,3914,1.9,25.8,73.7,113.8,77.9,None,Never,15.27
+1287,2024-10-05,63,M,186.9,139.4,Dancing,119,Low,25.3,95,6.2,6,9137,3.3,25.8,73.7,113.8,77.9,None,Never,15.39
+1287,2024-10-07,63,M,186.9,139.7,Weight Training,39,Medium,10.9,118,7.4,2,4401,2.0,25.8,73.7,113.8,77.9,None,Never,15.43
+1287,2024-10-08,63,M,186.9,139.9,Weight Training,33,Medium,9.2,108,6.7,1,5589,1.5,25.8,73.7,113.8,77.9,None,Never,15.47
+1287,2024-10-09,63,M,186.9,140.2,Weight Training,90,Medium,25.2,96,7.2,3,5794,2.8,25.8,73.7,113.8,77.9,None,Never,15.58
+1287,2024-10-10,63,M,186.9,140.4,Weight Training,97,High,31.7,129,6.5,7,5529,2.6,25.8,73.7,113.8,77.9,None,Never,15.72
+1287,2024-10-11,63,M,186.9,140.7,Weight Training,79,High,25.9,131,7.6,6,4687,2.9,25.8,73.7,113.8,77.9,None,Never,15.83
+1287,2024-10-13,63,M,186.9,140.9,Weight Training,36,Medium,10.1,126,7.8,9,8036,2.3,25.8,73.7,113.8,77.9,None,Never,15.87
+1287,2024-10-14,63,M,186.9,141.2,Running,63,Low,24.2,97,6.4,8,7580,2.9,25.8,73.7,113.8,77.9,None,Never,15.93
+1287,2024-10-15,63,M,186.9,141.5,Running,54,Medium,24.9,107,8.3,1,5216,2.9,25.8,73.7,113.8,77.9,None,Never,16.0
+1287,2024-10-16,63,M,186.9,141.7,Weight Training,44,Low,10.4,107,6.6,1,7563,1.8,25.8,73.7,113.8,77.9,None,Never,16.04
+1287,2024-10-17,63,M,186.9,142.0,HIIT,116,Medium,65.8,104,6.0,4,6502,2.6,25.8,73.7,113.8,77.9,None,Never,16.18
+1287,2024-10-23,63,M,186.9,142.2,Weight Training,109,Medium,30.9,107,7.3,3,5463,2.8,25.8,73.7,113.8,77.9,None,Never,16.31
+1287,2024-10-26,63,M,186.9,142.5,Yoga,42,High,7.0,130,6.1,1,6849,2.3,25.8,73.7,113.8,77.9,None,Never,16.37
+1287,2024-10-27,63,M,186.9,142.7,Basketball,62,Low,19.6,104,8.9,7,10176,1.5,25.8,73.7,113.8,77.9,None,Never,16.43

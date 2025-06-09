@@ -1,0 +1,18 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+2483,2024-07-03,60,M,174.6,124.6,HIIT,117,Low,48.5,103,7.8,2,9263,2.9,30.6,64.8,116,76.9,None,Former,10.31
+2483,2024-07-05,60,M,174.6,124.9,Cycling,120,Medium,42.4,123,6.9,3,9258,3.2,30.6,64.8,116,76.9,None,Former,10.45
+2483,2024-07-06,60,M,174.6,125.1,Cycling,30,Medium,10.6,110,6.1,4,10539,3.2,30.6,64.8,116,76.9,None,Former,10.49
+2483,2024-07-07,60,M,174.6,125.4,Cycling,75,Medium,26.6,119,4.2,3,6892,2.2,30.6,64.8,116,76.9,None,Former,10.58
+2483,2024-07-09,60,M,174.6,125.7,Weight Training,29,Medium,7.3,123,7.1,4,7365,2.1,30.6,64.8,116,76.9,None,Former,10.61
+2483,2024-07-10,60,M,174.6,125.9,Cycling,33,Medium,11.7,108,6.6,8,8613,3.4,30.6,64.8,116,76.9,None,Former,10.65
+2483,2024-07-11,60,M,174.6,126.2,Weight Training,25,Medium,6.3,120,5.8,6,8234,2.8,30.6,64.8,116,76.9,None,Former,10.68
+2483,2024-07-12,60,M,174.6,126.4,Cycling,76,High,31.7,135,7.2,9,5852,1.5,30.6,64.8,116,76.9,None,Former,10.79
+2483,2024-07-14,60,M,174.6,126.7,Cycling,72,Medium,25.8,128,6.4,3,10813,1.8,30.6,64.8,116,76.9,None,Former,10.87
+2483,2024-07-18,60,M,174.6,126.9,Weight Training,47,Medium,11.9,110,7.6,3,8745,3.2,30.6,64.8,116,76.9,None,Former,10.93
+2483,2024-07-19,60,M,174.6,127.2,Weight Training,80,High,23.7,138,8.2,8,5538,2.0,30.6,64.8,116,76.9,None,Former,11.04
+2483,2024-07-21,60,M,174.6,127.5,Weight Training,83,Low,17.6,99,7.5,6,6989,3.0,30.6,64.8,116,76.9,None,Former,11.13
+2483,2024-07-22,60,M,174.6,127.7,Weight Training,96,Medium,24.5,123,6.7,3,8156,2.9,30.6,64.8,116,76.9,None,Former,11.24
+2483,2024-07-23,60,M,174.6,128.0,Weight Training,81,Medium,20.7,119,6.9,3,6036,2.8,30.6,64.8,116,76.9,None,Former,11.34
+2483,2024-07-25,60,M,174.6,128.2,Weight Training,112,Medium,28.7,112,6.0,3,7774,2.6,30.6,64.8,116,76.9,None,Former,11.47
+2483,2024-07-26,60,M,174.6,128.5,Tennis,119,Medium,37.1,131,7.0,8,7718,3.3,30.6,64.8,116,76.9,None,Former,11.62
+2483,2024-07-30,60,M,174.6,128.7,Weight Training,59,High,17.7,129,4.7,1,7033,1.6,30.6,64.8,116,76.9,None,Former,11.7

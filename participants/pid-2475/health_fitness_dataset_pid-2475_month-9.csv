@@ -1,0 +1,17 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+2475,2024-09-02,57,F,172.4,98.0,Walking,29,Low,3.0,99,8.6,8,5339,1.7,19.6,75.3,131,83,None,Current,12.27
+2475,2024-09-05,57,F,172.4,98.3,HIIT,63,Medium,24.7,121,9.3,4,7316,3.1,19.6,75.3,131,83,None,Current,12.34
+2475,2024-09-06,57,F,172.4,98.5,HIIT,85,Low,27.8,108,8.2,5,5605,1.5,19.6,75.3,131,83,None,Current,12.43
+2475,2024-09-09,57,F,172.4,98.8,Walking,33,Low,3.4,98,7.3,4,8184,1.6,19.6,75.3,131,83,None,Current,12.46
+2475,2024-09-10,57,F,172.4,99.0,Walking,108,Medium,13.5,132,8.1,7,6753,3.3,19.6,75.3,131,83,None,Current,12.59
+2475,2024-09-11,57,F,172.4,99.3,Walking,96,Medium,12.0,116,8.3,1,6348,2.2,19.6,75.3,131,83,None,Current,12.71
+2475,2024-09-13,57,F,172.4,99.5,Walking,51,Low,5.3,108,7.8,3,3822,3.0,19.6,75.3,131,83,None,Current,12.76
+2475,2024-09-15,57,F,172.4,99.8,Walking,52,Low,5.5,103,8.2,2,4014,2.1,19.6,75.3,131,83,None,Current,12.81
+2475,2024-09-16,57,F,172.4,100.1,Walking,44,Medium,5.6,124,7.9,9,8882,2.6,19.6,75.3,131,83,None,Current,12.86
+2475,2024-09-18,57,F,172.4,100.3,Walking,48,Low,5.1,100,8.3,2,2884,1.9,19.6,75.3,131,83,None,Current,12.91
+2475,2024-09-19,57,F,172.4,100.6,Walking,58,Medium,7.4,123,7.3,2,5429,1.6,19.6,75.3,131,83,None,Current,12.98
+2475,2024-09-20,57,F,172.4,100.8,Walking,119,Medium,15.2,118,8.1,3,6483,2.8,19.6,75.3,131,83,None,Current,13.12
+2475,2024-09-22,57,F,172.4,101.1,Walking,93,Low,9.9,107,7.3,8,4950,2.9,19.6,75.3,131,83,None,Current,13.22
+2475,2024-09-24,57,F,172.4,101.4,Walking,48,Medium,6.1,128,7.6,2,6441,3.2,19.6,75.3,131,83,None,Current,13.27
+2475,2024-09-25,57,F,172.4,101.6,Walking,87,High,13.0,128,7.4,6,5044,2.1,19.6,75.3,131,83,None,Current,13.4
+2475,2024-09-27,57,F,172.4,101.9,Walking,94,Low,10.1,104,7.8,1,6504,1.7,19.6,75.3,131,83,None,Current,13.49

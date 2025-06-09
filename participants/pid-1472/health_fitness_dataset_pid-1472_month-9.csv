@@ -1,0 +1,17 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+1472,2024-09-02,41,M,173.8,108.8,Dancing,34,Low,5.6,119,6.5,8,7332,2.7,21.1,72.3,110.1,87.4,None,Current,14.05
+1472,2024-09-03,41,M,173.8,109.1,Running,119,Medium,42.3,141,6.3,9,5934,2.4,21.1,72.3,110.1,87.4,None,Current,14.19
+1472,2024-09-04,41,M,173.8,109.3,Weight Training,72,High,18.3,155,7.3,6,6228,2.1,21.1,72.3,110.1,87.4,None,Current,14.29
+1472,2024-09-05,41,M,173.8,109.6,Dancing,96,Medium,19.2,132,8.0,8,7052,2.7,21.1,72.3,110.1,87.4,None,Current,14.4
+1472,2024-09-06,41,M,173.8,109.8,Running,52,Low,15.5,118,7.2,5,3228,2.9,21.1,72.3,110.1,87.4,None,Current,14.46
+1472,2024-09-13,41,M,173.8,110.1,Walking,94,Medium,13.1,136,6.6,7,7158,2.4,21.1,72.3,110.1,87.4,None,Current,14.57
+1472,2024-09-14,41,M,173.8,110.4,Walking,75,Medium,10.5,139,7.6,4,7443,1.7,21.1,72.3,110.1,87.4,None,Current,14.66
+1472,2024-09-15,41,M,173.8,110.6,Swimming,26,Medium,6.7,125,7.0,3,6073,2.7,21.1,72.3,110.1,87.4,None,Current,14.69
+1472,2024-09-16,41,M,173.8,110.9,Swimming,56,Medium,14.5,138,7.7,1,5522,2.2,21.1,72.3,110.1,87.4,None,Current,14.76
+1472,2024-09-18,41,M,173.8,111.1,Walking,87,Low,10.2,105,6.5,5,7592,2.9,21.1,72.3,110.1,87.4,None,Current,14.84
+1472,2024-09-20,41,M,173.8,111.4,Walking,83,Medium,11.7,135,6.1,7,8600,3.4,21.1,72.3,110.1,87.4,None,Current,14.94
+1472,2024-09-21,41,M,173.8,111.7,Walking,69,Medium,9.7,135,7.7,2,9635,2.3,21.1,72.3,110.1,87.4,None,Current,15.03
+1472,2024-09-23,41,M,173.8,111.9,Walking,59,Medium,8.3,130,6.5,8,4706,2.4,21.1,72.3,110.1,87.4,None,Current,15.1
+1472,2024-09-26,41,M,173.8,112.2,Walking,64,Low,7.6,116,8.1,7,6653,1.9,21.1,72.3,110.1,87.4,None,Current,15.16
+1472,2024-09-27,41,M,173.8,112.4,Walking,23,Medium,3.3,126,7.1,5,7198,3.2,21.1,72.3,110.1,87.4,None,Current,15.19
+1472,2024-09-29,41,M,173.8,112.7,Walking,64,Medium,9.1,131,8.8,3,7655,2.3,21.1,72.3,110.1,87.4,None,Current,15.27

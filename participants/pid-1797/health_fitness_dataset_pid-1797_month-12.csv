@@ -1,0 +1,16 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+1797,2024-12-01,37,M,173.1,132.1,Basketball,36,High,14.8,145,7.0,7,7853,2.6,25.5,66.6,127.1,70.4,Hypertension,Current,17.92
+1797,2024-12-02,37,M,173.1,132.3,Running,45,Low,16.2,118,6.2,10,8756,2.5,25.5,66.6,127.1,70.4,Hypertension,Current,17.96
+1797,2024-12-05,37,M,173.1,132.6,Cycling,86,Medium,32.2,133,6.4,5,5822,1.6,25.5,66.6,127.1,70.4,Hypertension,Current,18.06
+1797,2024-12-06,37,M,173.1,132.9,HIIT,91,Medium,48.3,135,8.7,1,7494,2.7,25.5,66.6,127.1,70.4,Hypertension,Current,18.17
+1797,2024-12-08,37,M,173.1,133.1,Cycling,81,Medium,30.5,140,7.4,6,7454,2.4,25.5,66.6,127.1,70.4,Hypertension,Current,18.27
+1797,2024-12-09,37,M,173.1,133.4,Cycling,44,Low,13.8,111,6.5,6,8256,3.2,25.5,66.6,127.1,70.4,Hypertension,Current,18.32
+1797,2024-12-10,37,M,173.1,133.6,Swimming,113,Medium,35.2,119,7.5,6,8517,2.0,25.5,66.6,127.1,70.4,Hypertension,Current,18.45
+1797,2024-12-11,37,M,173.1,133.9,Cycling,24,Medium,9.1,138,7.3,6,7235,2.3,25.5,66.6,127.1,70.4,Hypertension,Current,18.48
+1797,2024-12-13,37,M,173.1,134.1,Swimming,58,Medium,18.1,133,7.1,8,9287,2.0,25.5,66.6,127.1,70.4,Hypertension,Current,18.55
+1797,2024-12-14,37,M,173.1,134.4,Swimming,52,Medium,16.3,127,6.1,8,7035,2.5,25.5,66.6,127.1,70.4,Hypertension,Current,18.61
+1797,2024-12-15,37,M,173.1,134.7,Yoga,32,Medium,4.3,145,8.3,6,8970,2.7,25.5,66.6,127.1,70.4,Hypertension,Current,18.65
+1797,2024-12-17,37,M,173.1,134.9,Swimming,84,Low,22.0,124,9.1,5,5021,1.7,25.5,66.6,127.1,70.4,Hypertension,Current,18.73
+1797,2024-12-20,37,M,173.1,135.2,Yoga,31,Medium,4.2,128,5.4,1,8282,3.0,25.5,66.6,127.1,70.4,Hypertension,Current,18.77
+1797,2024-12-22,37,M,173.1,135.4,Swimming,63,High,23.2,163,6.4,10,9730,3.5,25.5,66.6,127.1,70.4,Hypertension,Current,18.86
+1797,2024-12-24,37,M,173.1,135.7,Basketball,39,Medium,14.1,142,8.8,4,9998,3.1,25.5,66.6,127.1,70.4,Hypertension,Current,18.91

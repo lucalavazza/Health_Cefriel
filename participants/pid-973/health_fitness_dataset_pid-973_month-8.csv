@@ -1,0 +1,19 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+973,2024-08-02,64,M,166.5,106.4,Cycling,95,Medium,28.6,118,7.4,9,8512,2.1,24.2,66.5,145.9,66.6,None,Former,12.68
+973,2024-08-03,64,M,166.5,106.6,Running,109,Low,31.6,103,8.5,7,10365,2.1,24.2,66.5,145.9,66.6,None,Former,12.79
+973,2024-08-04,64,M,166.5,106.9,Running,65,Medium,22.6,111,7.3,7,7835,2.3,24.2,66.5,145.9,66.6,None,Former,12.86
+973,2024-08-05,64,M,166.5,107.1,Running,28,Medium,9.8,118,6.2,3,5074,2.1,24.2,66.5,145.9,66.6,None,Former,12.9
+973,2024-08-07,64,M,166.5,107.4,Running,23,Medium,8.0,117,6.3,6,6352,2.7,24.2,66.5,145.9,66.6,None,Former,12.92
+973,2024-08-08,64,M,166.5,107.7,Running,49,Medium,17.2,126,5.6,8,6318,2.4,24.2,66.5,145.9,66.6,None,Former,12.98
+973,2024-08-12,64,M,166.5,107.9,Running,89,Medium,31.3,120,7.3,1,4406,1.9,24.2,66.5,145.9,66.6,None,Former,13.09
+973,2024-08-13,64,M,166.5,108.2,HIIT,54,Low,19.4,99,6.6,1,6848,3.5,24.2,66.5,145.9,66.6,None,Former,13.14
+973,2024-08-15,64,M,166.5,108.4,Running,29,Medium,10.2,112,7.9,1,7251,2.2,24.2,66.5,145.9,66.6,None,Former,13.18
+973,2024-08-16,64,M,166.5,108.7,Running,72,Medium,25.5,108,6.1,8,7023,3.2,24.2,66.5,145.9,66.6,None,Former,13.27
+973,2024-08-18,64,M,166.5,108.9,Weight Training,24,Medium,5.2,115,7.6,6,7680,2.8,24.2,66.5,145.9,66.6,None,Former,13.29
+973,2024-08-20,64,M,166.5,109.2,Weight Training,99,Low,18.0,100,6.9,9,4256,3.1,24.2,66.5,145.9,66.6,None,Former,13.39
+973,2024-08-21,64,M,166.5,109.5,Weight Training,97,Medium,21.2,120,8.0,10,8978,2.3,24.2,66.5,145.9,66.6,None,Former,13.51
+973,2024-08-22,64,M,166.5,109.7,Weight Training,66,Medium,14.4,128,7.0,3,7176,2.3,24.2,66.5,145.9,66.6,None,Former,13.59
+973,2024-08-24,64,M,166.5,110.0,Weight Training,67,Low,12.3,94,7.4,8,6457,2.1,24.2,66.5,145.9,66.6,None,Former,13.66
+973,2024-08-25,64,M,166.5,110.2,Weight Training,76,Medium,16.7,122,7.1,4,5841,2.2,24.2,66.5,145.9,66.6,None,Former,13.75
+973,2024-08-27,64,M,166.5,110.5,Weight Training,44,Low,8.1,98,7.9,1,7489,2.7,24.2,66.5,145.9,66.6,None,Former,13.79
+973,2024-08-28,64,M,166.5,110.7,Weight Training,67,Low,12.3,102,6.9,3,9645,1.9,24.2,66.5,145.9,66.6,None,Former,13.86

@@ -1,0 +1,18 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+1079,2024-05-03,59,M,178.7,101.0,Weight Training,63,Medium,12.7,123,6.3,8,9912,3.2,25,68.7,117,87.2,None,Former,6.97
+1079,2024-05-04,59,M,178.7,101.3,Running,27,Low,7.4,112,8.3,3,10905,3.3,25,68.7,117,87.2,None,Former,6.99
+1079,2024-05-05,59,M,178.7,101.6,Swimming,21,Low,4.1,106,7.7,6,11020,2.4,25,68.7,117,87.2,None,Former,7.01
+1079,2024-05-07,59,M,178.7,101.8,Cycling,31,High,10.4,119,6.9,4,8610,1.7,25,68.7,117,87.2,None,Former,7.06
+1079,2024-05-08,59,M,178.7,102.1,Weight Training,79,Low,13.4,101,8.3,5,10885,1.8,25,68.7,117,87.2,None,Former,7.14
+1079,2024-05-09,59,M,178.7,102.3,Cycling,120,Medium,34.7,131,4.2,10,12347,1.6,25,68.7,117,87.2,None,Former,7.28
+1079,2024-05-12,59,M,178.7,102.6,Cycling,60,Medium,17.4,110,7.4,10,11441,1.9,25,68.7,117,87.2,None,Former,7.35
+1079,2024-05-13,59,M,178.7,102.8,Cycling,88,Medium,25.6,121,5.3,9,5844,2.6,25,68.7,117,87.2,None,Former,7.46
+1079,2024-05-14,59,M,178.7,103.1,Cycling,103,Medium,30.0,122,6.0,7,8038,2.3,25,68.7,117,87.2,None,Former,7.58
+1079,2024-05-17,59,M,178.7,103.4,Cycling,59,Medium,17.2,120,7.0,4,8150,3.1,25,68.7,117,87.2,None,Former,7.65
+1079,2024-05-19,59,M,178.7,103.6,Cycling,62,Medium,18.2,119,7.7,7,11284,3.3,25,68.7,117,87.2,None,Former,7.73
+1079,2024-05-20,59,M,178.7,103.9,Cycling,45,Medium,13.2,117,6.7,3,9700,3.3,25,68.7,117,87.2,None,Former,7.78
+1079,2024-05-21,59,M,178.7,104.1,Cycling,103,Medium,30.3,129,5.3,7,5006,3.1,25,68.7,117,87.2,None,Former,7.9
+1079,2024-05-22,59,M,178.7,104.4,Cycling,96,Medium,28.3,121,6.9,3,9511,3.1,25,68.7,117,87.2,None,Former,8.02
+1079,2024-05-26,59,M,178.7,104.6,Basketball,57,Medium,15.9,119,8.5,3,10168,1.9,25,68.7,117,87.2,None,Former,8.09
+1079,2024-05-28,59,M,178.7,104.9,Cycling,105,Medium,31.1,126,8.2,6,6453,1.9,25,68.7,117,87.2,None,Former,8.21
+1079,2024-05-30,59,M,178.7,105.2,HIIT,110,Low,38.5,97,6.6,7,10771,2.4,25,68.7,117,87.2,None,Former,8.32

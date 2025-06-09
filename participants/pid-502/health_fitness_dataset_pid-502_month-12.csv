@@ -1,0 +1,17 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+502,2024-12-02,55,F,156,117.7,Basketball,86,High,31.4,148,7.0,3,6848,3.3,27,75.4,118.3,78.6,Hypertension,Never,17.23
+502,2024-12-03,55,F,156,118.0,Running,30,Medium,11.5,132,8.6,2,6322,2.2,27,75.4,118.3,78.6,Hypertension,Never,17.27
+502,2024-12-05,55,F,156,118.3,Basketball,109,High,40.0,136,6.2,5,9250,1.7,27,75.4,118.3,78.6,Hypertension,Never,17.42
+502,2024-12-06,55,F,156,118.5,HIIT,41,Medium,19.4,115,7.5,5,6824,2.2,27,75.4,118.3,78.6,Hypertension,Never,17.47
+502,2024-12-07,55,F,156,118.8,Basketball,70,Medium,22.1,116,6.0,5,8055,2.4,27,75.4,118.3,78.6,Hypertension,Never,17.56
+502,2024-12-08,55,F,156,119.0,Basketball,116,Medium,36.7,110,6.2,1,9087,3.1,27,75.4,118.3,78.6,Hypertension,Never,17.69
+502,2024-12-09,55,F,156,119.3,HIIT,35,Medium,16.7,124,6.3,1,8586,2.8,27,75.4,118.3,78.6,Hypertension,Never,17.74
+502,2024-12-10,55,F,156,119.5,HIIT,77,High,42.9,149,7.5,5,6825,1.8,27,75.4,118.3,78.6,Hypertension,Never,17.84
+502,2024-12-13,55,F,156,119.8,HIIT,37,Medium,17.7,124,6.8,7,6492,2.8,27,75.4,118.3,78.6,Hypertension,Never,17.89
+502,2024-12-14,55,F,156,120.0,Tennis,80,High,27.2,169,7.5,5,6226,3.5,27,75.4,118.3,78.6,Hypertension,Never,18.0
+502,2024-12-16,55,F,156,120.3,Walking,111,Medium,16.9,111,6.8,1,5401,2.6,27,75.4,118.3,78.6,Hypertension,Never,18.13
+502,2024-12-18,55,F,156,120.6,HIIT,85,Low,34.1,98,8.4,10,5447,3.5,27,75.4,118.3,78.6,Hypertension,Never,18.22
+502,2024-12-21,55,F,156,120.8,Walking,67,Medium,10.2,131,6.8,1,10966,1.6,27,75.4,118.3,78.6,Hypertension,Never,18.3
+502,2024-12-23,55,F,156,121.1,HIIT,45,High,25.4,148,7.8,4,5186,2.6,27,75.4,118.3,78.6,Hypertension,Never,18.36
+502,2024-12-24,55,F,156,121.3,HIIT,30,Low,12.1,101,7.0,5,6099,2.5,27,75.4,118.3,78.6,Hypertension,Never,18.39
+502,2024-12-25,55,F,156,121.6,HIIT,106,Medium,51.4,122,7.5,9,8112,3.4,27,75.4,118.3,78.6,Hypertension,Never,18.52

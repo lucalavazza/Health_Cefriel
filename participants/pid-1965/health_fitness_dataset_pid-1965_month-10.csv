@@ -1,0 +1,16 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+1965,2024-10-06,57,M,172.7,127.8,HIIT,27,Medium,13.8,120,4.8,8,7036,2.2,27.2,77.5,133.7,69.6,Diabetes,Never,15.81
+1965,2024-10-10,57,M,172.7,128.1,Walking,60,Medium,9.7,125,6.6,5,7544,3.3,27.2,77.5,133.7,69.6,Diabetes,Never,15.88
+1965,2024-10-12,57,M,172.7,128.3,HIIT,100,Medium,51.2,111,6.8,2,9282,2.6,27.2,77.5,133.7,69.6,Diabetes,Never,16.0
+1965,2024-10-15,57,M,172.7,128.6,Tennis,34,Low,8.8,116,7.1,2,8885,3.4,27.2,77.5,133.7,69.6,Diabetes,Never,16.04
+1965,2024-10-16,57,M,172.7,128.8,Running,84,Low,29.4,105,7.0,10,4277,3.2,27.2,77.5,133.7,69.6,Diabetes,Never,16.12
+1965,2024-10-17,57,M,172.7,129.1,Cycling,93,Medium,34.0,130,7.0,5,6153,2.8,27.2,77.5,133.7,69.6,Diabetes,Never,16.23
+1965,2024-10-18,57,M,172.7,129.4,Swimming,43,Medium,13.0,126,7.0,3,6407,1.8,27.2,77.5,133.7,69.6,Diabetes,Never,16.28
+1965,2024-10-19,57,M,172.7,129.6,Yoga,68,Medium,8.8,116,7.4,10,7438,3.0,27.2,77.5,133.7,69.6,Diabetes,Never,16.37
+1965,2024-10-20,57,M,172.7,129.9,Tennis,87,High,32.0,144,8.0,2,9000,3.3,27.2,77.5,133.7,69.6,Diabetes,Never,16.49
+1965,2024-10-21,57,M,172.7,130.1,Yoga,62,Low,6.7,105,5.4,5,7142,2.8,27.2,77.5,133.7,69.6,Diabetes,Never,16.55
+1965,2024-10-22,57,M,172.7,130.4,Basketball,98,Low,28.3,106,7.2,4,6413,1.8,27.2,77.5,133.7,69.6,Diabetes,Never,16.65
+1965,2024-10-23,57,M,172.7,130.7,Basketball,33,Low,9.6,112,7.5,6,9870,1.8,27.2,77.5,133.7,69.6,Diabetes,Never,16.68
+1965,2024-10-24,57,M,172.7,130.9,Weight Training,119,Low,25.9,109,7.7,5,5445,1.7,27.2,77.5,133.7,69.6,Diabetes,Never,16.8
+1965,2024-10-28,57,M,172.7,131.2,Weight Training,91,High,27.8,136,8.1,10,5463,3.3,27.2,77.5,133.7,69.6,Diabetes,Never,16.93
+1965,2024-10-29,57,M,172.7,131.4,Basketball,82,High,33.5,120,5.4,8,5084,2.3,27.2,77.5,133.7,69.6,Diabetes,Never,17.04

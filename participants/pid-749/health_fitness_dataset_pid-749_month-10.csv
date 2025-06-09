@@ -1,0 +1,19 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+749,2024-10-02,39,F,161.8,92.0,Weight Training,102,Medium,18.7,136,7.4,8,5047,1.5,17.2,60.6,116.1,85.1,None,Current,14.49
+749,2024-10-03,39,F,161.8,92.3,Weight Training,100,Medium,18.4,133,7.4,3,5714,2.1,17.2,60.6,116.1,85.1,None,Current,14.61
+749,2024-10-04,39,F,161.8,92.5,Weight Training,24,Low,3.7,112,6.8,8,6080,2.0,17.2,60.6,116.1,85.1,None,Current,14.64
+749,2024-10-05,39,F,161.8,92.8,Running,82,Low,20.7,126,5.8,5,6199,1.6,17.2,60.6,116.1,85.1,None,Current,14.72
+749,2024-10-08,39,F,161.8,93.1,Weight Training,31,High,6.7,145,8.5,6,6351,3.1,17.2,60.6,116.1,85.1,None,Current,14.76
+749,2024-10-09,39,F,161.8,93.3,Weight Training,71,Low,11.0,116,7.7,9,7915,2.6,17.2,60.6,116.1,85.1,None,Current,14.83
+749,2024-10-10,39,F,161.8,93.6,Weight Training,111,Medium,20.7,130,7.6,10,7944,3.4,17.2,60.6,116.1,85.1,None,Current,14.97
+749,2024-10-13,39,F,161.8,93.8,Weight Training,94,Medium,17.6,150,8.2,9,6795,2.4,17.2,60.6,116.1,85.1,None,Current,15.08
+749,2024-10-14,39,F,161.8,94.1,Dancing,56,Medium,9.6,143,6.1,4,7840,2.2,17.2,60.6,116.1,85.1,None,Current,15.15
+749,2024-10-18,39,F,161.8,94.4,Cycling,44,High,13.7,164,7.3,3,7913,3.0,17.2,60.6,116.1,85.1,None,Current,15.21
+749,2024-10-20,39,F,161.8,94.6,Cycling,119,Medium,31.8,146,8.0,6,7089,2.5,17.2,60.6,116.1,85.1,None,Current,15.35
+749,2024-10-22,39,F,161.8,94.9,Cycling,43,Low,9.6,117,8.2,2,3795,3.1,17.2,60.6,116.1,85.1,None,Current,15.39
+749,2024-10-23,39,F,161.8,95.1,Cycling,83,Medium,22.3,144,8.8,6,8133,3.4,17.2,60.6,116.1,85.1,None,Current,15.49
+749,2024-10-24,39,F,161.8,95.4,Cycling,48,High,15.1,169,7.6,3,7456,1.8,17.2,60.6,116.1,85.1,None,Current,15.56
+749,2024-10-26,39,F,161.8,95.6,Cycling,88,Medium,23.8,118,7.4,8,9088,3.3,17.2,60.6,116.1,85.1,None,Current,15.67
+749,2024-10-27,39,F,161.8,95.9,Cycling,90,Medium,24.4,131,7.9,4,7249,2.3,17.2,60.6,116.1,85.1,None,Current,15.77
+749,2024-10-28,39,F,161.8,96.2,Swimming,48,Medium,10.7,125,7.7,2,6710,2.8,17.2,60.6,116.1,85.1,None,Current,15.83
+749,2024-10-29,39,F,161.8,96.4,Cycling,47,Medium,12.8,121,5.7,2,4861,2.6,17.2,60.6,116.1,85.1,None,Current,15.89

@@ -1,0 +1,17 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+884,2024-07-09,64,F,161.8,93.4,Cycling,89,Low,19.6,97,8.3,4,7574,2.2,22.4,77.1,127,84.4,None,Current,11.76
+884,2024-07-11,64,F,161.8,93.7,Walking,53,Medium,6.3,124,7.4,9,6393,3.5,22.4,77.1,127,84.4,None,Current,11.82
+884,2024-07-12,64,F,161.8,93.9,Swimming,60,Medium,13.1,106,8.7,2,8566,3.0,22.4,77.1,127,84.4,None,Current,11.9
+884,2024-07-13,64,F,161.8,94.2,Cycling,56,Medium,14.9,116,7.2,6,8917,3.2,22.4,77.1,127,84.4,None,Current,11.96
+884,2024-07-15,64,F,161.8,94.4,Cycling,84,Medium,22.4,129,6.4,5,6695,3.4,22.4,77.1,127,84.4,None,Current,12.06
+884,2024-07-17,64,F,161.8,94.7,Cycling,29,Medium,7.8,110,7.1,5,7131,3.1,22.4,77.1,127,84.4,None,Current,12.1
+884,2024-07-18,64,F,161.8,94.9,Cycling,51,High,16.0,137,6.4,1,7713,2.8,22.4,77.1,127,84.4,None,Current,12.17
+884,2024-07-20,64,F,161.8,95.2,Cycling,86,High,27.0,120,6.2,2,10843,2.3,22.4,77.1,127,84.4,None,Current,12.29
+884,2024-07-21,64,F,161.8,95.5,Cycling,104,Low,23.4,92,7.4,6,10275,1.8,22.4,77.1,127,84.4,None,Current,12.4
+884,2024-07-22,64,F,161.8,95.7,Cycling,87,Low,19.6,107,5.2,7,7889,3.3,22.4,77.1,127,84.4,None,Current,12.48
+884,2024-07-23,64,F,161.8,96.0,Cycling,53,Low,12.0,121,7.0,6,6540,1.5,22.4,77.1,127,84.4,None,Current,12.54
+884,2024-07-24,64,F,161.8,96.2,Swimming,30,Low,5.6,107,7.0,3,8780,3.1,22.4,77.1,127,84.4,None,Current,12.57
+884,2024-07-26,64,F,161.8,96.5,Swimming,112,Medium,25.1,114,8.1,4,6949,1.9,22.4,77.1,127,84.4,None,Current,12.7
+884,2024-07-27,64,F,161.8,96.7,Swimming,24,Low,4.5,93,6.5,9,9049,2.3,22.4,77.1,127,84.4,None,Current,12.72
+884,2024-07-29,64,F,161.8,97.0,Swimming,60,Medium,13.5,123,8.0,10,7071,2.5,22.4,77.1,127,84.4,None,Current,12.8
+884,2024-07-31,64,F,161.8,97.3,Dancing,37,Low,5.5,100,6.6,4,4875,2.3,22.4,77.1,127,84.4,None,Current,12.83
