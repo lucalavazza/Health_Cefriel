@@ -1,2 +1,2 @@
 participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
-2636.0,2024-03,35.0,0,178.8,90.98,#TODO,74.32,1.27,13.87,136.32,7.16,5.23,10365.59,2.6,24.6,74.4,114.1,88.7,#TODO,#TODO,4.11
+2636,2024-03,35,0,178.8,90.98,#TODO: fix,74,1.27,13.87,136.32,7.16,5.23,10365,2.6,24.6,74.4,114.1,88.7,2,0,4.11
