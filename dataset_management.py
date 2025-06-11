@@ -73,11 +73,16 @@ for pid in range(1, ids+1):
         # fill the averaged dataset
         averaged_fit_data_pid_test = {}
         special_treatment_cols = ['date', 'gender', 'activity_type']
-        int_columns = ['participant_id', 'age', 'duration_minutes', 'daily_steps', 'smoking_status', 'health_condition']
+        int_columns = ['participant_id', 'age', 'duration_minutes', 'daily_steps', 'smoking_status', 'health_condition',
+                       'avg_heart_rate', 'resting_heart_rate', 'blood_pressure_systolic', 'blood_pressure_diastolic']
+        # the og values are irrealistic, let's bump'em up
+        fix_column = ['calories_burned']
         for col in fit_data_pid_averaging.columns:
             if col not in special_treatment_cols:
                 if col in int_columns:
                     averaged_fit_data_pid_test[col] = trunc(column_avgs[col])
+                elif col in fix_column:
+                    averaged_fit_data_pid_test[col] = round(10*column_avgs[col], 2)
                 else:
                     averaged_fit_data_pid_test[col] = round(column_avgs[col], 2)
             else:
@@ -104,4 +109,5 @@ for pid in range(1, ids+1):
 averaged_dataset = pd.concat(map(pd.read_csv, data_names), ignore_index=True)
 averaged_dataset.to_csv('averaged_health_fitness_dataset.csv', index=False)
 
-# TODO: take care of activity_type
+# TODO: take care of activity_type... or do?
+#  Do I actually need it for the causal graph? Isn't it sufficient to just considered the calories burned?

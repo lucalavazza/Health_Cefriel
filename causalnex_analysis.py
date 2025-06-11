@@ -13,9 +13,20 @@ from causalnex.network import BayesianNetwork
 
 fit_data = pd.read_csv('averaged_health_fitness_dataset.csv')
 
-drop_cols = ['participant_id', 'date', 'gender', 'height_cm', 'weight_kg', 'activity_type']
-participants_considered = 30
-drop_rows = range(participants_considered*365+1, len(fit_data))
+# create the directories for the causal graphs
+graphs_dir = '/Users/luca_lavazza/Documents/GitHub/Health_Cefriel/graphs/'
+try:
+    os.mkdir(graphs_dir)
+except FileExistsError:
+    pass
+except PermissionError:
+    print(f"Permission denied: Unable to create '" + dir_name + "'.")
+except Exception as e:
+    print(f"An error occurred: {e}")
+
+drop_cols = ['participant_id', 'date', 'height_cm', 'weight_kg', 'activity_type']
+participants_considered = 75
+drop_rows = range(participants_considered*12+1, len(fit_data))
 fit_data = fit_data.drop(drop_rows, axis=0)
 fit_data = fit_data.drop(drop_cols, axis=1)
 
@@ -26,9 +37,7 @@ for col in non_numeric_columns:
     struct_fit_data[col] = label.fit_transform(struct_fit_data[col])
 
 # this takes a long time to run
-structure_model = from_pandas(struct_fit_data)
-
-structure_model.remove_edges_below_threshold(1)
+structure_model = from_pandas(struct_fit_data, w_threshold=0.8)
 
 sub_structural_model = structure_model.get_largest_subgraph()
 
@@ -36,13 +45,12 @@ sub_structural_model = structure_model.get_largest_subgraph()
 # sub_structural_model.remove_edge('from_edge', 'to_edge')
 # sub_structural_model.add_edge('from_edge', 'to_edge')
 
-
 plot = plot_structure(sub_structural_model, all_node_attributes=NODE_STYLE.WEAK, all_edge_attributes=EDGE_STYLE.WEAK)
 plot.toggle_physics(False)
-plot.save_graph('causal_graph.html')
+plot.save_graph(graphs_dir+'causal_graph_75-rows_causalnex.html')
 
 edges = np.array(list(sub_structural_model.edges()))
-np.save('edges.npy', edges)
-with open('edges.txt', 'w') as f:
+np.save(graphs_dir+'causal_graph_75-rows_causalnex_edges.npy', edges)
+with open(graphs_dir+'causal_graph_75-rows_causalnex_edges.txt', 'w') as f:
     for edge in edges:
         f.write(f"{edge}\n")
