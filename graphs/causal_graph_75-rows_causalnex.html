@@ -13,7 +13,7 @@
     var selectedNode = params.nodes[0];
     var degrees = 2;
 
-    // mark all nodes as hard to read.
+    // mark all np_nodes as hard to read.
     for (let nodeId in allNodes) {
       // nodeColors[nodeId] = allNodes[nodeId].color;
       allNodes[nodeId].color = "rgba(200,200,200,0.5)";
@@ -25,7 +25,7 @@
     var connectedNodes = network.getConnectedNodes(selectedNode);
     var allConnectedNodes = [];
 
-    // get the second degree nodes
+    // get the second degree np_nodes
     for (i = 1; i < degrees; i++) {
       for (j = 0; j < connectedNodes.length; j++) {
         allConnectedNodes = allConnectedNodes.concat(
@@ -34,7 +34,7 @@
       }
     }
 
-    // all second degree nodes get a different color and their label back
+    // all second degree np_nodes get a different color and their label back
     for (i = 0; i < allConnectedNodes.length; i++) {
       // allNodes[allConnectedNodes[i]].color = "pink";
       allNodes[allConnectedNodes[i]].color = "rgba(150,150,150,0.75)";
@@ -45,7 +45,7 @@
       }
     }
 
-    // all first degree nodes get their own color and their label back
+    // all first degree np_nodes get their own color and their label back
     for (i = 0; i < connectedNodes.length; i++) {
       // allNodes[connectedNodes[i]].color = undefined;
       allNodes[connectedNodes[i]].color = nodeColors[connectedNodes[i]];
@@ -65,7 +65,7 @@
     }
   } else if (highlightActive === true) {
     // console.log("highlightActive was true");
-    // reset all nodes
+    // reset all np_nodes
     for (let nodeId in allNodes) {
       // allNodes[nodeId].color = "purple";
       allNodes[nodeId].color = nodeColors[nodeId];
@@ -108,7 +108,7 @@ function filterHighlight(params) {
     filterActive = true;
     let selectedNodes = params.nodes;
 
-    // hiding all nodes and saving the label
+    // hiding all np_nodes and saving the label
     for (let nodeId in allNodes) {
       allNodes[nodeId].hidden = true;
       if (allNodes[nodeId].savedLabel === undefined) {
@@ -126,7 +126,7 @@ function filterHighlight(params) {
     }
 
   } else if (filterActive === true) {
-    // reset all nodes
+    // reset all np_nodes
     for (let nodeId in allNodes) {
       allNodes[nodeId].hidden = false;
       if (allNodes[nodeId].savedLabel !== undefined) {
@@ -181,7 +181,7 @@ function highlightFilter(filter) {
   }
   else if (filter['item'] === 'edge'){
     let allEdges = edges.get({returnType: 'object'});
-    // check if the selected property exists for selected edge and select the nodes connected to the edge
+    // check if the selected property exists for selected edge and select the np_nodes connected to the edge
     for (let edge in allEdges) {
       if (allEdges[edge][selectedProp] && filter['value'].includes((allEdges[edge][selectedProp]).toString())) {
         selectedNodes.push(allEdges[edge]['from'])
@@ -301,7 +301,7 @@ function highlightFilter(filter) {
 
                   
 
-                  // parsing and collecting nodes and edges from the python
+                  // parsing and collecting np_nodes and edges from the python
                   nodes = new vis.DataSet([{"borderWidth": 5, "color": {"background": "#4a90e2d9", "border": "#FFFFFFD9"}, "font": {"color": "#FFFFFF8c", "face": "Helvetica", "size": 25}, "id": "age", "label": "age", "mass": 1, "shape": "dot", "size": 15}, {"borderWidth": 5, "color": {"background": "#4a90e2d9", "border": "#FFFFFFD9"}, "font": {"color": "#FFFFFF8c", "face": "Helvetica", "size": 25}, "id": "duration_minutes", "label": "duration_minutes", "mass": 1, "shape": "dot", "size": 15}, {"borderWidth": 5, "color": {"background": "#4a90e2d9", "border": "#FFFFFFD9"}, "font": {"color": "#FFFFFF8c", "face": "Helvetica", "size": 25}, "id": "intensity", "label": "intensity", "mass": 1, "shape": "dot", "size": 15}, {"borderWidth": 5, "color": {"background": "#4a90e2d9", "border": "#FFFFFFD9"}, "font": {"color": "#FFFFFF8c", "face": "Helvetica", "size": 25}, "id": "calories_burned", "label": "calories_burned", "mass": 1, "shape": "dot", "size": 15}, {"borderWidth": 5, "color": {"background": "#4a90e2d9", "border": "#FFFFFFD9"}, "font": {"color": "#FFFFFF8c", "face": "Helvetica", "size": 25}, "id": "avg_heart_rate", "label": "avg_heart_rate", "mass": 1, "shape": "dot", "size": 15}, {"borderWidth": 5, "color": {"background": "#4a90e2d9", "border": "#FFFFFFD9"}, "font": {"color": "#FFFFFF8c", "face": "Helvetica", "size": 25}, "id": "hours_sleep", "label": "hours_sleep", "mass": 1, "shape": "dot", "size": 15}, {"borderWidth": 5, "color": {"background": "#4a90e2d9", "border": "#FFFFFFD9"}, "font": {"color": "#FFFFFF8c", "face": "Helvetica", "size": 25}, "id": "stress_level", "label": "stress_level", "mass": 1, "shape": "dot", "size": 15}, {"borderWidth": 5, "color": {"background": "#4a90e2d9", "border": "#FFFFFFD9"}, "font": {"color": "#FFFFFF8c", "face": "Helvetica", "size": 25}, "id": "daily_steps", "label": "daily_steps", "mass": 1, "shape": "dot", "size": 15}, {"borderWidth": 5, "color": {"background": "#4a90e2d9", "border": "#FFFFFFD9"}, "font": {"color": "#FFFFFF8c", "face": "Helvetica", "size": 25}, "id": "hydration_level", "label": "hydration_level", "mass": 1, "shape": "dot", "size": 15}, {"borderWidth": 5, "color": {"background": "#4a90e2d9", "border": "#FFFFFFD9"}, "font": {"color": "#FFFFFF8c", "face": "Helvetica", "size": 25}, "id": "bmi", "label": "bmi", "mass": 1, "shape": "dot", "size": 15}, {"borderWidth": 5, "color": {"background": "#4a90e2d9", "border": "#FFFFFFD9"}, "font": {"color": "#FFFFFF8c", "face": "Helvetica", "size": 25}, "id": "resting_heart_rate", "label": "resting_heart_rate", "mass": 1, "shape": "dot", "size": 15}, {"borderWidth": 5, "color": {"background": "#4a90e2d9", "border": "#FFFFFFD9"}, "font": {"color": "#FFFFFF8c", "face": "Helvetica", "size": 25}, "id": "blood_pressure_systolic", "label": "blood_pressure_systolic", "mass": 1, "shape": "dot", "size": 15}, {"borderWidth": 5, "color": {"background": "#4a90e2d9", "border": "#FFFFFFD9"}, "font": {"color": "#FFFFFF8c", "face": "Helvetica", "size": 25}, "id": "blood_pressure_diastolic", "label": "blood_pressure_diastolic", "mass": 1, "shape": "dot", "size": 15}, {"borderWidth": 5, "color": {"background": "#4a90e2d9", "border": "#FFFFFFD9"}, "font": {"color": "#FFFFFF8c", "face": "Helvetica", "size": 25}, "id": "health_condition", "label": "health_condition", "mass": 1, "shape": "dot", "size": 15}, {"borderWidth": 5, "color": {"background": "#4a90e2d9", "border": "#FFFFFFD9"}, "font": {"color": "#FFFFFF8c", "face": "Helvetica", "size": 25}, "id": "smoking_status", "label": "smoking_status", "mass": 1, "shape": "dot", "size": 15}, {"borderWidth": 5, "color": {"background": "#4a90e2d9", "border": "#FFFFFFD9"}, "font": {"color": "#FFFFFF8c", "face": "Helvetica", "size": 25}, "id": "fitness_level", "label": "fitness_level", "mass": 1, "shape": "dot", "size": 15}]);
                   edges = new vis.DataSet([{"arrows": {"to": {"enabled": true, "scaleFactor": 0.5}}, "color": "#ffffffaa", "endPointOffset": {"from": 1, "to": -1}, "from": "age", "length": 15, "to": "daily_steps", "width": 2}, {"arrows": {"to": {"enabled": true, "scaleFactor": 0.5}}, "color": "#ffffffaa", "endPointOffset": {"from": 1, "to": -1}, "from": "duration_minutes", "length": 15, "to": "calories_burned", "width": 2}, {"arrows": {"to": {"enabled": true, "scaleFactor": 0.5}}, "color": "#ffffffaa", "endPointOffset": {"from": 1, "to": -1}, "from": "duration_minutes", "length": 15, "to": "daily_steps", "width": 2}, {"arrows": {"to": {"enabled": true, "scaleFactor": 0.5}}, "color": "#ffffffaa", "endPointOffset": {"from": 1, "to": -1}, "from": "intensity", "length": 15, "to": "daily_steps", "width": 2}, {"arrows": {"to": {"enabled": true, "scaleFactor": 0.5}}, "color": "#ffffffaa", "endPointOffset": {"from": 1, "to": -1}, "from": "calories_burned", "length": 15, "to": "daily_steps", "width": 2}, {"arrows": {"to": {"enabled": true, "scaleFactor": 0.5}}, "color": "#ffffffaa", "endPointOffset": {"from": 1, "to": -1}, "from": "avg_heart_rate", "length": 15, "to": "daily_steps", "width": 2}, {"arrows": {"to": {"enabled": true, "scaleFactor": 0.5}}, "color": "#ffffffaa", "endPointOffset": {"from": 1, "to": -1}, "from": "hours_sleep", "length": 15, "to": "age", "width": 2}, {"arrows": {"to": {"enabled": true, "scaleFactor": 0.5}}, "color": "#ffffffaa", "endPointOffset": {"from": 1, "to": -1}, "from": "hours_sleep", "length": 15, "to": "avg_heart_rate", "width": 2}, {"arrows": {"to": {"enabled": true, "scaleFactor": 0.5}}, "color": "#ffffffaa", "endPointOffset": {"from": 1, "to": -1}, "from": "hours_sleep", "length": 15, "to": "daily_steps", "width": 2}, {"arrows": {"to": {"enabled": true, "scaleFactor": 0.5}}, "color": "#ffffffaa", "endPointOffset": {"from": 1, "to": -1}, "from": "stress_level", "length": 15, "to": "daily_steps", "width": 2}, {"arrows": {"to": {"enabled": true, "scaleFactor": 0.5}}, "color": "#ffffffaa", "endPointOffset": {"from": 1, "to": -1}, "from": "hydration_level", "length": 15, "to": "daily_steps", "width": 2}, {"arrows": {"to": {"enabled": true, "scaleFactor": 0.5}}, "color": "#ffffffaa", "endPointOffset": {"from": 1, "to": -1}, "from": "bmi", "length": 15, "to": "calories_burned", "width": 2}, {"arrows": {"to": {"enabled": true, "scaleFactor": 0.5}}, "color": "#ffffffaa", "endPointOffset": {"from": 1, "to": -1}, "from": "bmi", "length": 15, "to": "avg_heart_rate", "width": 2}, {"arrows": {"to": {"enabled": true, "scaleFactor": 0.5}}, "color": "#ffffffaa", "endPointOffset": {"from": 1, "to": -1}, "from": "bmi", "length": 15, "to": "daily_steps", "width": 2}, {"arrows": {"to": {"enabled": true, "scaleFactor": 0.5}}, "color": "#ffffffaa", "endPointOffset": {"from": 1, "to": -1}, "from": "bmi", "length": 15, "to": "resting_heart_rate", "width": 2}, {"arrows": {"to": {"enabled": true, "scaleFactor": 0.5}}, "color": "#ffffffaa", "endPointOffset": {"from": 1, "to": -1}, "from": "bmi", "length": 15, "to": "blood_pressure_systolic", "width": 2}, {"arrows": {"to": {"enabled": true, "scaleFactor": 0.5}}, "color": "#ffffffaa", "endPointOffset": {"from": 1, "to": -1}, "from": "bmi", "length": 15, "to": "blood_pressure_diastolic", "width": 2}, {"arrows": {"to": {"enabled": true, "scaleFactor": 0.5}}, "color": "#ffffffaa", "endPointOffset": {"from": 1, "to": -1}, "from": "resting_heart_rate", "length": 15, "to": "daily_steps", "width": 2}, {"arrows": {"to": {"enabled": true, "scaleFactor": 0.5}}, "color": "#ffffffaa", "endPointOffset": {"from": 1, "to": -1}, "from": "blood_pressure_systolic", "length": 15, "to": "daily_steps", "width": 2}, {"arrows": {"to": {"enabled": true, "scaleFactor": 0.5}}, "color": "#ffffffaa", "endPointOffset": {"from": 1, "to": -1}, "from": "blood_pressure_diastolic", "length": 15, "to": "daily_steps", "width": 2}, {"arrows": {"to": {"enabled": true, "scaleFactor": 0.5}}, "color": "#ffffffaa", "endPointOffset": {"from": 1, "to": -1}, "from": "health_condition", "length": 15, "to": "daily_steps", "width": 2}, {"arrows": {"to": {"enabled": true, "scaleFactor": 0.5}}, "color": "#ffffffaa", "endPointOffset": {"from": 1, "to": -1}, "from": "smoking_status", "length": 15, "to": "daily_steps", "width": 2}, {"arrows": {"to": {"enabled": true, "scaleFactor": 0.5}}, "color": "#ffffffaa", "endPointOffset": {"from": 1, "to": -1}, "from": "fitness_level", "length": 15, "to": "calories_burned", "width": 2}, {"arrows": {"to": {"enabled": true, "scaleFactor": 0.5}}, "color": "#ffffffaa", "endPointOffset": {"from": 1, "to": -1}, "from": "fitness_level", "length": 15, "to": "daily_steps", "width": 2}, {"arrows": {"to": {"enabled": true, "scaleFactor": 0.5}}, "color": "#ffffffaa", "endPointOffset": {"from": 1, "to": -1}, "from": "fitness_level", "length": 15, "to": "bmi", "width": 2}]);
 
@@ -311,7 +311,7 @@ function highlightFilter(filter) {
                     nodeColors[nodeId] = allNodes[nodeId].color;
                   }
                   allEdges = edges.get({ returnType: "Object" });
-                  // adding nodes and edges to the graph
+                  // adding np_nodes and edges to the graph
                   data = {nodes: nodes, edges: edges};
 
                   var options = {

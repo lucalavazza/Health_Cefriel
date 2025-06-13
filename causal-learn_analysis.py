@@ -1,19 +1,14 @@
 import pandas as pd
-import seaborn as sns
-import matplotlib.pyplot as plt
-from dowhy import CausalModel
-import numpy as np
-import csv
 import os
-from sklearn.preprocessing import LabelEncoder
-from causallearn.utils.cit import *
+import numpy as np
+import networkx as nx
+import matplotlib.pyplot as plt
+from causallearn.utils import cit
+from causallearn.utils.GraphUtils import *
 from causallearn.search.ConstraintBased.PC import pc
-from causallearn.search.ConstraintBased.FCI import fci
-from causallearn.search.HiddenCausal.GIN.GIN import GIN
-from causallearn.search.PermutationBased.GRaSP import grasp
-from causallearn.search.PermutationBased.BOSS import boss
-from causallearn.search.Granger.Granger import Granger
-from causallearn.utils.GraphUtils import GraphUtils
+from causallearn.utils.PCUtils import BackgroundKnowledge, SkeletonDiscovery
+from causallearn.graph import Graph
+from causallearn.utils.cit import CIT, fisherz
 
 # create the directories for the causal graphs
 graphs_dir = '/Users/luca_lavazza/Documents/GitHub/Health_Cefriel/graphs/'
@@ -27,38 +22,58 @@ except Exception as e:
     print(f"An error occurred: {e}")
 
 fit_data = pd.read_csv('averaged_health_fitness_dataset.csv')
-drop_cols = ['participant_id', 'gender', 'date', 'height_cm', 'weight_kg', 'activity_type']
+drop_cols = ['participant_id', 'gender', 'date', 'height_cm', 'weight_kg', 'activity_type',
+             'hours_sleep', 'stress_level', 'hydration_level']
 fit_data = fit_data.drop(drop_cols, axis=1)
 var_names = fit_data.columns
 fit_data = fit_data.to_numpy()
 
-# CONSTRAINT-BASED METHODS
+# Constraint-based Methods
 # PC
-cg_pc = pc(fit_data)
-pyd_pc = GraphUtils.to_pydot(cg_pc.G, labels=var_names)
-pyd_pc.write_png(graphs_dir+'causal_graph_causal-learn_pc.png')
-# FCI
-cg_fci, edges_fci = fci(fit_data)
-pyd_fci = GraphUtils.to_pydot(cg_fci, labels=var_names)
-pyd_fci.write_png(graphs_dir+'causal_graph_causal-learn_fci.png')
+print('PC, alpha=0.05, cit = fisherz, uc_rule: 0, uc_priority: 0, no bg_knowledge')
+cg_pc = pc(fit_data, alpha=0.05, indep_test='fisherz', uc_rule=0, uc_priority=0)
+pcg_pc = GraphUtils.to_pydot(cg_pc.G, labels=var_names)
+pcg_pc.write_png(graphs_dir + 'causal_graph_causal-learn_pc_alpha05_fisherz_uc0_ucp0.png')
 
-# Generalized Independence Noise (GIN) condition-based method -> it's like a Black Sabbath's riff: slow and heavy
-# G, K = GIN(fit_data)
-# pyd_GIN = GraphUtils.to_pydot(G, labels=var_names)
-# tmp_png = pyd_GIN.create_png(f="png")
-# fp = io.BytesIO(tmp_png)
-# img = mpimg.imread(fp, format='png')
-# plt.axis('off')
-# plt.imshow(img)
-# plt.show()
+edges = cg_pc.find_fully_directed()
 
-# Permutation-based causal discovery methods
-# GRaSP
-cd_grasp = grasp(fit_data)
-pyd_grasp = GraphUtils.to_pydot(cd_grasp, labels=var_names)
-pyd_fci.write_png(graphs_dir+'causal_graph_causal-learn_grasp.png')
-# BOSS
-cd_boss = boss(fit_data)
-pyd_boss = GraphUtils.to_pydot(cd_boss, labels=var_names)
-pyd_boss.write_png(graphs_dir+'causal_graph_causal-learn_boss.png')
+list_edges = []
+for i in range(len(edges)):
+    edge_list = list(edges[i])
+    edge_list[0] = edge_list[0]+1
+    edge_list[1] = edge_list[1]+1
+    list_edges.append(edge_list)
 
+# add bmi --> blood_pressure_diastolic
+list_edges.append([7, 10])
+# add resting_heart_rate --> blood_pressure_systolic
+list_edges.append([8, 9])
+# add smoking_status --> blood_pressure_systolic
+list_edges.append([12, 9])
+# remove duration_minutes --> resting_heart_rate
+list_edges.remove([2, 8])
+
+np_edges = np.array(list_edges)
+np_nodes = []
+for edge in np_edges:
+    for node in edge:
+        if node not in np_nodes:
+            np_nodes.append(node)
+np_names = var_names.to_numpy()
+np_edges_names = []
+np_nodes_names = []
+for edge in np_edges:
+    new_edge = []
+    for node in edge:
+        new_node = var_names[node-1]
+        new_edge.append(new_node)
+    np_edges_names.append(new_edge)
+for node in np_nodes:
+    np_nodes_names.append(var_names[node-1])
+np_edges_names = np.array(np_edges_names)
+
+G = nx.DiGraph()
+G.add_nodes_from(np_nodes_names)
+G.add_edges_from(np_edges_names)
+pcg_pc_bgk = nx.nx_pydot.to_pydot(G)
+pcg_pc_bgk.write_png(graphs_dir + 'causal_graph_causal-learn_pc_alpha05_fisherz_uc0_ucp0_bg.png')
