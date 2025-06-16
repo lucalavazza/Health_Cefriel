@@ -77,3 +77,8 @@ G.add_nodes_from(np_nodes_names)
 G.add_edges_from(np_edges_names)
 pcg_pc_bgk = nx.nx_pydot.to_pydot(G)
 pcg_pc_bgk.write_png(graphs_dir + 'causal_graph_causal-learn_pc_alpha05_fisherz_uc0_ucp0_bg.png')
+
+np.save(graphs_dir+'causal_graph_causal-learn_pc_alpha05_fisherz_uc0_ucp0_bg_edges.npy', np_edges_names)
+with open(graphs_dir+'causal_graph_causal-learn_pc_alpha05_fisherz_uc0_ucp0_bg_edges.npy.txt', 'w') as f:
+    for edge in np_edges_names:
+        f.write(f"{edge}\n")
