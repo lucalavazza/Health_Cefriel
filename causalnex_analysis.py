@@ -41,7 +41,7 @@ structure_model = from_pandas(struct_fit_data, w_threshold=0.8)
 
 sub_structural_model = structure_model.get_largest_subgraph()
 
-# TODO: add/remove edges and/or np_nodes
+# TODO: add/remove pc_edges and/or np_nodes
 # sub_structural_model.remove_edge('from_edge', 'to_edge')
 # sub_structural_model.add_edge('from_edge', 'to_edge')
 

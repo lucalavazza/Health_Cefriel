@@ -6,9 +6,9 @@ import matplotlib.pyplot as plt
 from dowhy import CausalModel
 from dowhy.causal_refuters import refute_placebo_treatment
 
-fit_data = pd.read_csv('health_fitness_dataset.csv')
+fit_data = pd.read_csv('datasets/health_fitness_dataset.csv')
 
-edges = np.load('edges.npy')
+edges = np.load('/Users/luca_lavazza/Documents/GitHub/Health_Cefriel/graphs/causal_graph_causal-learn_pc_alpha05_fisherz_uc0_ucp0_bg_edges.npy')
 nodes = []
 for edge in edges:
     for node in edge:
