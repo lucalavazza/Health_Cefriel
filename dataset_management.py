@@ -60,34 +60,17 @@ for pid in range(1, ids+1):
     for m in range(1, 13):
         fit_data_pid_averaging = pd.read_csv('/Users/luca_lavazza/Documents/GitHub/Health_Cefriel/participants/pid-' + str(pid) + '/health_fitness_dataset_pid-' + str(pid) + '_month-' + str(m) + '.csv')
 
-        # convert string values to numerical values
-        fit_data_pid_averaging.replace(['F', 'M'], [0, 1], inplace=True)
-        fit_data_pid_averaging.replace(['Never', 'Current', 'Former'], [0, 1, 2], inplace=True)
-        fit_data_pid_averaging.replace(['None', 'Hypertension', 'Diabetes', 'Asthma'], [0, 1, 2, 3], inplace=True)
-        non_numeric_columns = list(fit_data_pid_averaging.select_dtypes(exclude=[np.number]).columns)
-        label = LabelEncoder()
-        for col in non_numeric_columns:
-            fit_data_pid_averaging[col] = label.fit_transform(fit_data_pid_averaging[col])
-
-
         # average the values for each month
         column_avgs = fit_data_pid_averaging.mean()
-        list_indexes = column_avgs.index.tolist()
-        list_values = column_avgs.to_list()
-
         # fill the averaged dataset
         averaged_fit_data_pid_test = {}
-        special_treatment_cols = ['date', 'activity_type']
-        int_columns = ['participant_id', 'gender', 'age', 'duration_minutes', 'daily_steps', 'smoking_status', 'health_condition',
-                       'avg_heart_rate', 'resting_heart_rate', 'blood_pressure_systolic', 'blood_pressure_diastolic']
-        # the og values are irrealistic, let's bump'em up
-        fix_column = ['calories_burned']
+        no_averaging_cols = ['date', 'gender', 'activity_type', 'intensity', 'health_condition', 'smoking_status']
+        int_columns = ['participant_id', 'age', 'duration_minutes', 'daily_steps', 'avg_heart_rate',
+                       'resting_heart_rate', 'blood_pressure_systolic', 'blood_pressure_diastolic', 'calories_burned']
         for col in fit_data_pid_averaging.columns:
-            if col not in special_treatment_cols:
+            if col not in no_averaging_cols:
                 if col in int_columns:
                     averaged_fit_data_pid_test[col] = trunc(column_avgs[col])
-                elif col in fix_column:
-                    averaged_fit_data_pid_test[col] = round(10*column_avgs[col], 2)
                 else:
                     averaged_fit_data_pid_test[col] = round(column_avgs[col], 2)
             else:
@@ -97,7 +80,8 @@ for pid in range(1, ids+1):
                     else:
                         averaged_fit_data_pid_test[col] = ('2024-' + str(m))
                 else:
-                    averaged_fit_data_pid_test[col] = 'any activity'
+                    averaged_fit_data_pid_test[col] = fit_data_pid_averaging[col][0]
+
         csv_filename = single_participant_dir + str(pid) + '/health_fitness_dataset_pid-' + str(pid) + '_month-' + str(m) + '_averaged.csv'
         with open(csv_filename, 'w', newline='') as csvfile:
             writer = csv.writer(csvfile)
@@ -114,7 +98,7 @@ averaged_dataset.to_csv(datasets_dir + '/averaged_health_fitness_dataset.csv', i
 
 regularised_fit_data = pd.read_csv(datasets_dir + '/averaged_health_fitness_dataset.csv')
 numeric_columns = list(regularised_fit_data.select_dtypes(include=[np.number]).columns)
-to_be_removed = ['participant_id', 'age', 'gender', 'height_cm', 'weight_kg', 'health_condition', 'smoking_status']
+to_be_removed = ['participant_id', 'age', 'height_cm', 'weight_kg']
 for col in to_be_removed:
     numeric_columns.remove(col)
 numeric_columns = np.asarray(numeric_columns)
@@ -123,4 +107,9 @@ numeric_columns = numeric_columns.reshape(-1, 1)
 for col in numeric_columns:
     regularised_fit_data[col] = scaler.fit_transform(regularised_fit_data[col])
 regularised_fit_data.to_csv(datasets_dir + '/regularised_averaged_health_fitness_dataset.csv', index=False)
+
+to_be_encoded = pd.read_csv('/Users/luca_lavazza/Documents/GitHub/Health_Cefriel/datasets/regularised_averaged_health_fitness_dataset.csv')
+encoded_dataset = pd.get_dummies(data=to_be_encoded, columns=['gender', 'activity_type', 'intensity',
+                                                              'health_condition', 'smoking_status'], dtype='int8')
+encoded_dataset.to_csv(datasets_dir + '/encoded_regularised_averaged_health_fitness_dataset.csv', index=False)
 

@@ -1,2 +1,2 @@
 participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
-822,2024-02,20,1,165.2,77.64,any activity,63,1.35,132.25,145,7.26,5.95,9834,2.5,25.5,68,120,64,0,2,2.5
+822,2024-02,20,M,165.2,77.64,HIIT,63,Low,13,145,7.26,5.95,9834,2.5,25.5,68,120,64,None,Former,2.5

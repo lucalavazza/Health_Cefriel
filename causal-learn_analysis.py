@@ -39,7 +39,7 @@ fit_data = fit_data.to_numpy()
 # PC
 cits = ['fisherz', 'gsq', 'chisq', 'kci']
 for cit in cits:
-    if cit not in ['chisq', 'kci']:
+    if cit not in ['chisq', 'kci']:  # chisq fails after a lot, kci haven't been able to complete it yet (time-wise)
         print('---> PC, alpha=0.05, cit = '+str(cit)+', uc_rule: 0, uc_priority: 0, no bg_knowledge')
         start_pc = time.time()
         cg_pc = pc(fit_data, alpha=0.05, indep_test=cit, uc_rule=0, uc_priority=0)

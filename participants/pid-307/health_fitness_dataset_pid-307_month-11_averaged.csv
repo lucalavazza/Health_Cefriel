@@ -1,2 +1,2 @@
 participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
-307,2024-11,24,0,168.3,106.77,any activity,80,1.62,203.62,142,7.0,4.77,7587,2.58,19.5,70,123,83,0,0,15.85
+307,2024-11,24,F,168.3,106.77,Walking,80,Low,20,142,7.0,4.77,7587,2.58,19.5,70,123,83,None,Never,15.85

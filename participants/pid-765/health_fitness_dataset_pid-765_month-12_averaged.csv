@@ -1,2 +1,2 @@
 participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
-765,2024-12,52,1,175.1,113.3,any activity,64,1.0,191.27,133,7.03,4.47,7775,2.46,18.0,65,111,96,0,0,18.68
+765,2024-12,52,M,175.1,113.3,Tennis,64,High,19,133,7.03,4.47,7775,2.46,18.0,65,111,96,None,Never,18.68
