@@ -96,6 +96,7 @@ for pid in range(1, ids+1):
 averaged_dataset = pd.concat(map(pd.read_csv, data_names), ignore_index=True)
 averaged_dataset.to_csv(datasets_dir + '/averaged_health_fitness_dataset.csv', index=False)
 
+# regularisation with standard scaler
 regularised_fit_data = pd.read_csv(datasets_dir + '/averaged_health_fitness_dataset.csv')
 numeric_columns = list(regularised_fit_data.select_dtypes(include=[np.number]).columns)
 to_be_removed = ['participant_id', 'age', 'height_cm', 'weight_kg']
@@ -108,8 +109,20 @@ for col in numeric_columns:
     regularised_fit_data[col] = scaler.fit_transform(regularised_fit_data[col])
 regularised_fit_data.to_csv(datasets_dir + '/regularised_averaged_health_fitness_dataset.csv', index=False)
 
+# one-hot encoding
 to_be_encoded = pd.read_csv('/Users/luca_lavazza/Documents/GitHub/Health_Cefriel/datasets/regularised_averaged_health_fitness_dataset.csv')
 encoded_dataset = pd.get_dummies(data=to_be_encoded, columns=['gender', 'activity_type', 'intensity',
                                                               'health_condition', 'smoking_status'], dtype='int8')
 encoded_dataset.to_csv(datasets_dir + '/encoded_regularised_averaged_health_fitness_dataset.csv', index=False)
 
+# numerical encoding
+to_be_converted = pd.read_csv('/Users/luca_lavazza/Documents/GitHub/Health_Cefriel/datasets/regularised_averaged_health_fitness_dataset.csv')
+to_be_converted.replace(['F', 'M', 'Others'], [0, 1, 2], inplace=True)
+to_be_converted.replace(['Never', 'Current', 'Former'], [0, 1, 2], inplace=True)
+to_be_converted.replace(['None', 'Hypertension', 'Diabetes', 'Asthma'], [0, 1, 2, 3], inplace=True)
+non_numeric_columns = list(to_be_converted.select_dtypes(exclude=[np.number]).columns)
+label = LabelEncoder()
+for col in non_numeric_columns:
+    if col not in ['date', 'gender']:
+        to_be_converted[col] = label.fit_transform(to_be_converted[col])
+to_be_converted.to_csv(datasets_dir + '/labelled_regularised_averaged_health_fitness_dataset.csv', index=False)
