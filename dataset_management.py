@@ -14,7 +14,7 @@ from sklearn.preprocessing import StandardScaler
 warnings.simplefilter(action='ignore', category=FutureWarning)
 
 # import the dataset
-fit_data = pd.read_csv('datasets/health_fitness_dataset.csv').convert_dtypes()
+fit_data = pd.read_csv('../../TechnicalDeepDiveCefriel/datasets/health_fitness_dataset.csv').convert_dtypes()
 ids = len(pd.unique(fit_data['participant_id']))
 
 # create the directories for the new separate datasets

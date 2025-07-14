@@ -17,9 +17,8 @@ fit_data = pd.read_csv(
 edges = np.load(
     '/Users/luca_lavazza/Documents/GitHub/Health_Cefriel/graphs/causallearn/edges/npy/labelling_causal_graph_causal-learn_pc_fisherz.npy')
 
+# modification suggested by the falsification step
 to_be_removed = np.array(['calories_burned', 'health_condition'])
-
-# suggested by the falsification
 list_edges = edges.tolist()
 list_edges.remove(['calories_burned', 'health_condition'])
 edges = np.array(list_edges)
@@ -48,11 +47,12 @@ def gcm_fal(X, Y, Z=None):
 # STEP 0: Falsification of the Causal Graph: is it informative? Is it rejected?
 # Done already and successful: no need to run it every time
 # Run evaluation for consensus graph and data.
-# result = falsify_graph(G, fit_data, n_permutations=100,
-#                        independence_test=gcm_fal,
-#                        conditional_independence_test=gcm_fal,
-#                        suggestions=True)
-# print(result)
+result = falsify_graph(G, fit_data, n_permutations=100,
+                       independence_test=gcm_fal,
+                       conditional_independence_test=gcm_fal,
+                       plot_histogram=False,
+                       suggestions=True)
+print(result)
 
 # STEP 1: Causal Effects Estimation: If we change X, how much will it cause Y to change?
 # STEP 1.1: Model a causal inference problem using assumptions (i.e., provide data + cg + select Treatment and Outcome)
@@ -96,7 +96,7 @@ gcm.fit(causal_model, fit_data)
 samples = gcm.interventional_samples(causal_model,
                                      {'duration_minutes': lambda x: x + 1},
                                      num_samples_to_draw=1000)
-# At this point, I can check the results from the samples
+# At this point, I can inspect the samples for the result
 
 # STEP 2.2: Computing Counterfactuals: I observed a certain outcome z for a variable Z where variable X was set to a
 #           value x. What would have happened to the value of Z, had I intervened on X to assign it a different value x'?

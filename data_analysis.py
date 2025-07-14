@@ -26,7 +26,7 @@ except Exception as e:
 # General Data Analysis
 print("\n1. General Data Analysis")
 print("-" * 50)
-fit_data = pd.read_csv('datasets/health_fitness_dataset.csv').convert_dtypes()
+fit_data = pd.read_csv('../../TechnicalDeepDiveCefriel/datasets/health_fitness_dataset.csv').convert_dtypes()
 print("Infos on the dataset:\n")
 print(fit_data.info())
 print("\nDescription of the dataset:\n")
