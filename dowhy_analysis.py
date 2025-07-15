@@ -4,11 +4,14 @@ import pandas as pd
 import numpy as np
 from dowhy import CausalModel
 from dowhy import gcm
+from dowhy.utils import plot, bar_plot
 from sklearn.ensemble import GradientBoostingRegressor
 from dowhy.gcm.falsify import falsify_graph
 from dowhy.gcm.independence_test.generalised_cov_measure import generalised_cov_based
 from dowhy.gcm.util.general import set_random_seed
 from dowhy.gcm.ml import SklearnRegressionModel
+import warnings
+warnings.filterwarnings(action='ignore', category=FutureWarning)
 
 set_random_seed(42)
 
@@ -44,59 +47,73 @@ def gcm_fal(X, Y, Z=None):
                                  prediction_model_Y=create_gradient_boost_regressor)
 
 
-# STEP 0: Falsification of the Causal Graph: is it informative? Is it rejected?
-# Done already and successful: no need to run it every time
-# Run evaluation for consensus graph and data.
-result = falsify_graph(G, fit_data, n_permutations=100,
-                       independence_test=gcm_fal,
-                       conditional_independence_test=gcm_fal,
-                       plot_histogram=False,
-                       suggestions=True)
-print(result)
+# # STEP 0: Falsification of the Causal Graph: is it informative? Is it rejected?
+# # Done already and successful: no need to run it every time
+# # Run evaluation for graph and data.
+# result = falsify_graph(G, fit_data, n_permutations=100,
+#                        independence_test=gcm_fal,
+#                        conditional_independence_test=gcm_fal,
+#                        plot_histogram=False,
+#                        suggestions=True)
+# print(result)
+
 
 # STEP 1: Causal Effects Estimation: If we change X, how much will it cause Y to change?
-# STEP 1.1: Model a causal inference problem using assumptions (i.e., provide data + cg + select Treatment and Outcome)
-# STEP 1.2: Identify the causal effect (i.e., the estimand)
-# STEP 1.3: Estimate the causal effect
-# STEP 1.4: Refute the estimate
 
+# STEP 1.1: Model a causal inference problem using assumptions (i.e., provide data + cg + select Treatment and Outcome)
 model = dowhy.CausalModel(
     data=fit_data,
     graph=G,
     treatment="duration_minutes",
     outcome='calories_burned')
-
+# STEP 1.2: Identify the causal effect (i.e., the estimand)
 identified_estimand = model.identify_effect(proceed_when_unidentifiable=True)
 print("\nIDENTIFICATION\n")
 print(identified_estimand)
-
+# STEP 1.3: Estimate the causal effect
 estimate = model.estimate_effect(identified_estimand, method_name="backdoor.linear_regression")
 print("\nESTIMATION\n")
 print(estimate)
-
-refute1_results = model.refute_estimate(identified_estimand, estimate, method_name="random_common_cause")
-print("\nREFUTATION #1\n")
+# STEP 1.4: Refute the estimate
+refute1_results = model.refute_estimate(identified_estimand, estimate, method_name="placebo_treatment_refuter",
+                                        show_progress_bar=True, placebo_type="permute")
+print("\nREFUTATION #1: placebo treatment (effect should go to zero)\n")
 print(refute1_results)
-
-refute2_results = model.refute_estimate(identified_estimand, estimate, method_name="data_subset_refuter",
-                                        subset_fraction=0.8)
-print("\nREFUTATION #2\n")
+refute2_results = model.refute_estimate(identified_estimand, estimate, method_name="random_common_cause",
+                                        show_progress_bar=True)
+print("\nREFUTATION #3: random common causa (effect should be the same)\n")
 print(refute2_results)
-
-refute3_results = model.refute_estimate(identified_estimand, estimate, method_name="placebo_treatment_refuter",
-                                        placebo_type="permute")
-print("\nREFUTATION #3\n")
+refute3_results = model.refute_estimate(identified_estimand, estimate, method_name="data_subset_refuter",
+                                        show_progress_bar=True, subset_fraction=0.8)
+print("\nREFUTATION #4: random common causa (effect should be the same)\n")
 print(refute3_results)
+
 
 # STEP 2: What-if questions: What if X had been changed to a different value than its observed value? What would have been the values of other variables?
 # STEP 2.1: Simulating the Impact of Interventions: What will happen to the variable Z if I intervene on Y?
 causal_model = gcm.ProbabilisticCausalModel(G)
 gcm.auto.assign_causal_mechanisms(causal_model, fit_data)
 gcm.fit(causal_model, fit_data)
-samples = gcm.interventional_samples(causal_model,
-                                     {'duration_minutes': lambda x: x + 1},
-                                     num_samples_to_draw=1000)
-# At this point, I can inspect the samples for the result
+
+median_mean_latencies, uncertainty_mean_latencies = gcm.confidence_intervals(
+    lambda: gcm.fit_and_compute(gcm.interventional_samples,
+                                causal_model,
+                                fit_data,
+                                interventions={
+                                    'duration_minutes': lambda x: x + 1},
+                                observed_data=fit_data)().mean().to_dict(),
+    num_bootstrap_resamples=10)
+avg_calories_burned_before = fit_data.mean().to_dict()['calories_burned']
+
+bar_plot(dict(before=avg_calories_burned_before, after=median_mean_latencies['calories_burned']),
+         dict(before=np.array([avg_calories_burned_before, avg_calories_burned_before]),
+              after=uncertainty_mean_latencies['calories_burned']),
+         ylabel='Avg. Calories Burned',
+         figure_size=(17, 17),
+         bar_width=0.4,
+         xticks=['Before', 'After'],
+         xticks_rotation=45)
 
 # STEP 2.2: Computing Counterfactuals: I observed a certain outcome z for a variable Z where variable X was set to a
 #           value x. What would have happened to the value of Z, had I intervened on X to assign it a different value x'?
+
