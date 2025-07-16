@@ -2,8 +2,10 @@ import dowhy
 import networkx as nx
 import pandas as pd
 import numpy as np
+import matplotlib.pyplot as plt
 from dowhy import CausalModel
 from dowhy import gcm
+from dowhy.gcm import InvertibleStructuralCausalModel
 from dowhy.utils import plot, bar_plot
 from sklearn.ensemble import GradientBoostingRegressor
 from dowhy.gcm.falsify import falsify_graph
@@ -12,6 +14,7 @@ from dowhy.gcm.util.general import set_random_seed
 from dowhy.gcm.ml import SklearnRegressionModel
 import warnings
 warnings.filterwarnings(action='ignore', category=FutureWarning)
+warnings.filterwarnings(action='ignore', category=UserWarning)
 
 set_random_seed(42)
 
@@ -81,11 +84,11 @@ print("\nREFUTATION #1: placebo treatment (effect should go to zero)\n")
 print(refute1_results)
 refute2_results = model.refute_estimate(identified_estimand, estimate, method_name="random_common_cause",
                                         show_progress_bar=True)
-print("\nREFUTATION #3: random common causa (effect should be the same)\n")
+print("\nREFUTATION #2: random common causa (effect should be the same)\n")
 print(refute2_results)
 refute3_results = model.refute_estimate(identified_estimand, estimate, method_name="data_subset_refuter",
                                         show_progress_bar=True, subset_fraction=0.8)
-print("\nREFUTATION #4: random common causa (effect should be the same)\n")
+print("\nREFUTATION #3: random common causa (effect should be the same)\n")
 print(refute3_results)
 
 
@@ -108,12 +111,37 @@ avg_calories_burned_before = fit_data.mean().to_dict()['calories_burned']
 bar_plot(dict(before=avg_calories_burned_before, after=median_mean_latencies['calories_burned']),
          dict(before=np.array([avg_calories_burned_before, avg_calories_burned_before]),
               after=uncertainty_mean_latencies['calories_burned']),
+         filename='/Users/luca_lavazza/Documents/GitHub/Health_Cefriel/graphs/Intervention',
          ylabel='Avg. Calories Burned',
-         figure_size=(17, 17),
+         display_plot=False,
+         figure_size=(15, 15),
          bar_width=0.4,
          xticks=['Before', 'After'],
          xticks_rotation=45)
 
-# STEP 2.2: Computing Counterfactuals: I observed a certain outcome z for a variable Z where variable X was set to a
-#           value x. What would have happened to the value of Z, had I intervened on X to assign it a different value x'?
 
+# STEP 3: Computing counterfactuals: I observed a certain outcome z for a variable Z where variable X was set to a value x.
+# What would have happened to the value of Z, had I intervened on X to assign it a different value x'?
+# As an example, I want to check what happens to the calories_burned of participant_id=42 if they do not train enough or too much.
+
+causal_model_counterfactual = InvertibleStructuralCausalModel(G)
+gcm.auto.assign_causal_mechanisms(causal_model_counterfactual, fit_data)
+gcm.fit(causal_model_counterfactual, fit_data)
+
+fit_data_42 = fit_data[fit_data['participant_id'] == 42]
+counterfactual_data1 = gcm.counterfactual_samples(causal_model_counterfactual,
+                                                  {'duration_minutes': lambda x: -3},
+                                                  observed_data=fit_data_42)
+counterfactual_data2 = gcm.counterfactual_samples(causal_model_counterfactual,
+                                                  {'duration_minutes': lambda x: 3},
+                                                  observed_data=fit_data_42)
+
+
+array_plot = np.array([fit_data_42['calories_burned'], counterfactual_data1['calories_burned'], counterfactual_data2['calories_burned']])
+months = ['january', 'february', 'march', 'april', 'may', 'june', 'july', 'august', 'september', 'october', 'november', 'december']
+df_plot = pd.DataFrame(array_plot, columns=months, index=['regular', 'lack_of', 'too_much'])
+
+bar_plot = df_plot.plot.bar(title="Counterfactual outputs", figsize=(17, 17))
+plt.ylabel('Calories Burned')
+fig = bar_plot.get_figure()
+fig.savefig('/Users/luca_lavazza/Documents/GitHub/Health_Cefriel/graphs/Counterfactuals')
