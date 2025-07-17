@@ -70,12 +70,12 @@ model = dowhy.CausalModel(
     treatment="duration_minutes",
     outcome='calories_burned')
 # STEP 1.2: Identify the causal effect (i.e., the estimand)
-identified_estimand = model.identify_effect(proceed_when_unidentifiable=True)
 print("\nIDENTIFICATION\n")
+identified_estimand = model.identify_effect(proceed_when_unidentifiable=True)
 print(identified_estimand)
 # STEP 1.3: Estimate the causal effect
+print("\nESTIMATION - backdoor\n")
 estimate = model.estimate_effect(identified_estimand, method_name="backdoor.linear_regression")
-print("\nESTIMATION\n")
 print(estimate)
 # STEP 1.4: Refute the estimate
 refute1_results = model.refute_estimate(identified_estimand, estimate, method_name="placebo_treatment_refuter",
