@@ -1,21 +1,10 @@
 import numpy as np
-import os
-
 import pandas as pd
-import tigramite
 from matplotlib import pyplot as plt
-from numpy.ma.extras import average
-from numpy.random import SeedSequence
-from numpy.ma.core import shape
 from tigramite import data_processing as pp
 from tigramite import plotting as tp
-from tigramite.pcmci import PCMCI
 from tigramite.lpcmci import LPCMCI
-from tigramite.independence_tests.gsquared import Gsquared
-from tigramite.independence_tests.cmisymb import CMIsymb
 from tigramite.independence_tests.pairwise_CI import PairwiseMultCI
-from tigramite.independence_tests.gpdc import GPDC
-from tigramite.independence_tests.parcorr import ParCorr
 
 # I want to avoid some warnings
 pd.options.mode.chained_assignment = None
@@ -27,7 +16,7 @@ pids = np.max(fit_data.participant_id.unique())
 
 # I need to do this to compute the var_names. This has no effect on the final data_dict
 modifiable_fit_data = fit_data.copy()
-drop_cols = ['participant_id', 'height_cm', 'weight_kg', 'gender', 'age', 'date']
+drop_cols = ['participant_id', 'height_cm', 'weight_kg', 'gender']
 for d in drop_cols:
     modifiable_fit_data.drop(d, axis=1, inplace=True)
 var_names = modifiable_fit_data.columns
@@ -37,8 +26,7 @@ for pid in range(pids):
     pid += 1
     # I select each participant individually
     fit_data_id = fit_data.loc[fit_data['participant_id'] == pid]
-    # I can drop the date as well, because the temporal order is later computed via the index
-    drop_cols = ['participant_id', 'height_cm', 'weight_kg', 'gender', 'age', 'date']
+    drop_cols = ['participant_id', 'height_cm', 'weight_kg', 'gender']
     for d in drop_cols:
         fit_data_id.drop(d, axis=1, inplace=True)
     fit_data_id.reset_index(drop=True, inplace=True)
@@ -57,7 +45,7 @@ for pid in range(pids):
 dataframe = pp.DataFrame(data_dict, analysis_mode='multiple', var_names=var_names)
 
 taus = [2]
-pcs = [0.02, 0.05, 0.07]
+pcs = [0.05]
 cits = [PairwiseMultCI()]
 
 print('Starting Causal Discovery with PCMCI and LPCMCI\n')

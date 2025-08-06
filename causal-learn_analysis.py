@@ -33,57 +33,56 @@ except Exception as e:
 data_type = 'encoded'
 fit_data = pd.read_csv('/Users/luca_lavazza/Documents/GitHub/Health_Cefriel/datasets/' + data_type + '_regularised_averaged_health_fitness_dataset.csv')
 if data_type == 'encoded':
-    drop_cols = ['participant_id', 'date', 'height_cm', 'weight_kg', 'gender_M', 'gender_F', 'gender_Other']
+    drop_cols = ['participant_id', 'height_cm', 'weight_kg', 'gender_M', 'gender_F', 'gender_Other']
 else:
-    drop_cols = ['participant_id', 'date', 'height_cm', 'weight_kg', 'gender']
+    drop_cols = ['participant_id', 'height_cm', 'weight_kg', 'gender']
 fit_data = fit_data.drop(drop_cols, axis=1)
 var_names = fit_data.columns
 fit_data = fit_data.to_numpy()
 
 # Constraint-based Methods
 # PC
-cits = ['fisherz', 'gsq', 'chisq', 'kci']
+cits = ['fisherz']
 for cit in cits:
-    if cit not in ['chisq', 'kci']:  # TODO: check why chisq and kci do not work properly with PC
-        print('---> PC, alpha=0.05, cit = '+str(cit)+', uc_rule: 0, uc_priority: 0, no bg_knowledge')
-        start_pc = time.time()
-        cg_pc = pc(fit_data, alpha=0.05, indep_test=cit, uc_rule=0, uc_priority=0)
-        print("PC with cit = " + str(cit) + ": " + str((time.time() - start_pc)) + " seconds\n\n")
-        pcg_pc = GraphUtils.to_pydot(cg_pc.G, labels=var_names)
-        if data_type == 'encoded':
-            pcg_pc.write_png(graphs_dir + '/encoding_causal_graph_causal-learn_pc_' + str(cit) + '.png')
-        else:
-            pcg_pc.write_png(graphs_dir + '/labelling_causal_graph_causal-learn_pc_' + str(cit) + '.png')
+    print('---> PC, alpha=0.05, cit = '+str(cit)+', uc_rule: 0, uc_priority: 0, no bg_knowledge')
+    start_pc = time.time()
+    cg_pc = pc(fit_data, alpha=0.05, indep_test=cit, uc_rule=0, uc_priority=0)
+    print("PC with cit = " + str(cit) + ": " + str((time.time() - start_pc)) + " seconds\n\n")
+    pcg_pc = GraphUtils.to_pydot(cg_pc.G, labels=var_names)
+    if data_type == 'encoded':
+        pcg_pc.write_png(graphs_dir + '/onehot/PC-onehot/encoding_causal_graph_causal-learn_pc_' + str(cit) + '.png')
+    else:
+        pcg_pc.write_png(graphs_dir + '/labelling/PC-labelling/labelling_causal_graph_causal-learn_pc_' + str(cit) + '.png')
 
-        np_pc_edges = np.array(cg_pc.find_fully_directed())
-        np_pc_nodes = []
-        for edge in np_pc_edges:
-            for node in edge:
-                if node not in np_pc_nodes:
-                    np_pc_nodes.append(node)
-        np_pc_names = var_names.to_numpy()
-        np_pc_edges_names = []
-        np_pc_nodes_names = []
-        for edge in np_pc_edges:
-            new_edge = []
-            for node in edge:
-                new_node = var_names[node]
-                new_edge.append(new_node)
-            np_pc_edges_names.append(new_edge)
-        for node in np_pc_nodes:
-            np_pc_nodes_names.append(var_names[node])
-        np_pc_edges_names = np.array(np_pc_edges_names)
+    np_pc_edges = np.array(cg_pc.find_fully_directed())
+    np_pc_nodes = []
+    for edge in np_pc_edges:
+        for node in edge:
+            if node not in np_pc_nodes:
+                np_pc_nodes.append(node)
+    np_pc_names = var_names.to_numpy()
+    np_pc_edges_names = []
+    np_pc_nodes_names = []
+    for edge in np_pc_edges:
+        new_edge = []
+        for node in edge:
+            new_node = var_names[node]
+            new_edge.append(new_node)
+        np_pc_edges_names.append(new_edge)
+    for node in np_pc_nodes:
+        np_pc_nodes_names.append(var_names[node])
+    np_pc_edges_names = np.array(np_pc_edges_names)
 
-        if data_type == 'encoded':
-            np.save(npy_dir + '/encoding_causal_graph_causal-learn_pc_' + str(cit) + '.npy', np_pc_edges_names)
-            with open(txt_dir + '/encoding_causal_graph_causal-learn_pc_' + str(cit) + '.txt', 'w') as f:
-                for edge in np_pc_edges_names:
-                    f.write(f"{edge}\n")
-        else:
-            np.save(npy_dir + '/labelling_causal_graph_causal-learn_pc_' + str(cit) + '.npy', np_pc_edges_names)
-            with open(txt_dir + '/labelling_causal_graph_causal-learn_pc_' + str(cit) + '.txt', 'w') as f:
-                for edge in np_pc_edges_names:
-                    f.write(f"{edge}\n")
+    if data_type == 'encoded':
+        np.save(npy_dir + '/encoding_causal_graph_causal-learn_pc_' + str(cit) + '.npy', np_pc_edges_names)
+        with open(txt_dir + '/encoding_causal_graph_causal-learn_pc_' + str(cit) + '.txt', 'w') as f:
+            for edge in np_pc_edges_names:
+                f.write(f"{edge}\n")
+    else:
+        np.save(npy_dir + '/labelling_causal_graph_causal-learn_pc_' + str(cit) + '.npy', np_pc_edges_names)
+        with open(txt_dir + '/labelling_causal_graph_causal-learn_pc_' + str(cit) + '.txt', 'w') as f:
+            for edge in np_pc_edges_names:
+                f.write(f"{edge}\n")
 
 # FCI
 # All CITs output the same graph
@@ -93,9 +92,9 @@ for cit in cits:
     print("FCI with cit = " + str(cit) + ": " + str((time.time() - start_fci)) + " seconds\n\n")
     pcg_fci = GraphUtils.to_pydot(cg_fci, labels=var_names)
     if data_type == 'encoded':
-        pcg_fci.write_png(graphs_dir + '/encoding_causal_graph_causal-learn_fci_' + str(cit) + '.png')
+        pcg_fci.write_png(graphs_dir + '/onehot/FCI-onehot/encoding_causal_graph_causal-learn_fci_' + str(cit) + '.png')
     else:
-        pcg_fci.write_png(graphs_dir + '/labelling_causal_graph_causal-learn_fci_' + str(cit) + '.png')
+        pcg_fci.write_png(graphs_dir + '/labelling/FCI-labelling/labelling_causal_graph_causal-learn_fci_' + str(cit) + '.png')
 
     np_fci_edges = []
     for i in range(len(fci_edges)):

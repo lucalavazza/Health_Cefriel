@@ -14,7 +14,7 @@ from sklearn.preprocessing import StandardScaler
 warnings.simplefilter(action='ignore', category=FutureWarning)
 
 # import the dataset
-fit_data = pd.read_csv('../../TechnicalDeepDiveCefriel/datasets/health_fitness_dataset.csv').convert_dtypes()
+fit_data = pd.read_csv('/Users/luca_lavazza/Documents/GitHub/Health_Cefriel/datasets/health_fitness_dataset.csv').convert_dtypes()
 ids = len(pd.unique(fit_data['participant_id']))
 
 # create the directories for the new separate datasets
@@ -75,10 +75,7 @@ for pid in range(1, ids+1):
                     averaged_fit_data_pid_test[col] = round(column_avgs[col], 2)
             else:
                 if col == 'date':
-                    if m <= 9:
-                        averaged_fit_data_pid_test[col] = ('2024-0' + str(m))
-                    else:
-                        averaged_fit_data_pid_test[col] = ('2024-' + str(m))
+                    averaged_fit_data_pid_test[col] = (str(m))
                 else:
                     averaged_fit_data_pid_test[col] = fit_data_pid_averaging[col][0]
 
@@ -99,6 +96,7 @@ averaged_dataset.to_csv(datasets_dir + '/averaged_health_fitness_dataset.csv', i
 # regularisation with standard scaler
 regularised_fit_data = pd.read_csv(datasets_dir + '/averaged_health_fitness_dataset.csv')
 numeric_columns = list(regularised_fit_data.select_dtypes(include=[np.number]).columns)
+numeric_columns.remove('date')
 to_be_removed = ['participant_id', 'age', 'height_cm', 'weight_kg']
 for col in to_be_removed:
     numeric_columns.remove(col)

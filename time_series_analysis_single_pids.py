@@ -28,38 +28,24 @@ fit_data = pd.read_csv(
 
 pids = np.max(fit_data.participant_id.unique())
 
-# I do this on the whole dataset just to compute the var_names. This has no effect on the final data_dict.
-drop_cols = ['participant_id', 'height_cm', 'weight_kg', 'gender', 'age', 'date']
-for d in drop_cols:
-    fit_data.drop(d, axis=1, inplace=True)
-var_names = fit_data.columns
-
-c_pids = [1]
+c_pids = range(1, pids+1)
 
 for pid in c_pids:
     data_dict = {}
     data_dict_pid = {}
 
-    fit_data_pid = pd.read_csv('/Users/luca_lavazza/Documents/GitHub/Health_Cefriel/participants/pid-'+str(pid+1)+'/health_fitness_dataset_pid-'+str(pid+1)+'.csv')
-
-    # numerical encoding
-    fit_data_pid.replace(['F', 'M', 'Others'], [0, 1, 2], inplace=True)
-    fit_data_pid.replace(['Never', 'Current', 'Former'], [0, 1, 2], inplace=True)
-    fit_data_pid.replace(['None', 'Hypertension', 'Diabetes', 'Asthma'], [0, 1, 2, 3], inplace=True)
-    non_numeric_columns = list(fit_data_pid.select_dtypes(exclude=[np.number]).columns)
-    label = LabelEncoder()
-    for col in non_numeric_columns:
-        if col not in ['date', 'gender']:
-            fit_data_pid[col] = label.fit_transform(fit_data_pid[col])
+    fit_data_pid = fit_data.loc[fit_data['participant_id'] == pid]
 
     days = len(fit_data_pid.date.unique())
     day = []
 
     # I can drop the date as well, because the temporal order it is later computed via the index
-    drop_cols = ['participant_id', 'height_cm', 'weight_kg', 'gender', 'age', 'date']
+    drop_cols = ['participant_id', 'height_cm', 'weight_kg', 'gender']
     for d in drop_cols:
         fit_data_pid.drop(d, axis=1, inplace=True)
     fit_data_pid.reset_index(drop=True, inplace=True)
+
+    var_names = fit_data_pid.columns
 
     data_array_pid = fit_data_pid.to_numpy()
 
@@ -73,8 +59,8 @@ for pid in c_pids:
 
     dataframe = pp.DataFrame(data_dict, analysis_mode='multiple', var_names=var_names)
 
-    taus = [1, 2, 3, 4, 5]
-    pcs = [0.02, 0.05, 0.07]
+    taus = [3]
+    pcs = [0.05]
     cits = [ParCorr()]
 
     for tau in taus:
@@ -86,8 +72,6 @@ for pid in c_pids:
                 lpcmci = LPCMCI(dataframe=dataframe, cond_ind_test=cit, verbosity=0)
                 results = lpcmci.run_lpcmci(pc_alpha=pc, tau_max=tau)
                 val_matrix = results['val_matrix']
-
-                print('LPCMCI completed for pid={}, tau={}, pc={}, cit={}\n'.format(pid, tau, pc, cit))
 
                 tp.plot_graph(
                     figsize=(18, 12),
@@ -103,6 +87,8 @@ for pid in c_pids:
 
                 plt.title('Causal discovery - LPCMCI for pid={} with tau={}, pc={}, cit={}'.format(pid, tau, pc, cit))
 
-                plt.savefig('/Users/luca_lavazza/Documents/GitHub/Health_Cefriel/graphs/time_series_graphs/tsg_pids/pid='
-                            + str(pid) + '_TimeSeriesGraph_LPCMCI_tau=' + str(tau) + '_pc=' + str(pc) + '_cit=' + str(cit) + '.png')
+                plt.savefig(
+                    '/Users/luca_lavazza/Documents/GitHub/Health_Cefriel/graphs/time_series_graphs/tsg_pids/pid='
+                    + str(pid) + '_TimeSeriesGraph_LPCMCI_tau=' + str(tau) + '_pc=' + str(pc) + '_cit=' + str(
+                        cit) + '.png')
                 plt.close()
