@@ -1,21 +1,10 @@
 import numpy as np
-import os
 import pandas as pd
-import tigramite
 import warnings
 from matplotlib import pyplot as plt
-from numpy.ma.extras import average
-from numpy.random import SeedSequence
-from numpy.ma.core import shape
-from sklearn.preprocessing import LabelEncoder
 from tigramite import data_processing as pp
 from tigramite import plotting as tp
-from tigramite.pcmci import PCMCI
 from tigramite.lpcmci import LPCMCI
-from tigramite.independence_tests.gsquared import Gsquared
-from tigramite.independence_tests.cmisymb import CMIsymb
-from tigramite.independence_tests.pairwise_CI import PairwiseMultCI
-from tigramite.independence_tests.gpdc import GPDC
 from tigramite.independence_tests.parcorr import ParCorr
 
 # I want to avoid some warnings

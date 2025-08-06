@@ -3,12 +3,9 @@ import os
 from math import trunc
 import numpy as np
 import pandas as pd
-import seaborn as sns
-import matplotlib.pyplot as plt
 import warnings
 from sklearn.preprocessing import LabelEncoder
 from sklearn.preprocessing import StandardScaler
-
 
 # remove annoying warning
 warnings.simplefilter(action='ignore', category=FutureWarning)

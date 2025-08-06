@@ -4,10 +4,8 @@ import matplotlib.pyplot as plt
 import os
 import warnings
 
-
 # Remove annoying warning
 warnings.simplefilter(action='ignore', category=FutureWarning)
-
 
 # Create a directory for saving the analyses
 analysis_dir = '/Users/luca_lavazza/Documents/GitHub/Health_Cefriel/data_analysis/'
@@ -21,7 +19,6 @@ except PermissionError:
     print(f"Permission denied: Unable to create '" + dir_name + "'.")
 except Exception as e:
     print(f"An error occurred: {e}")
-
 
 # General Data Analysis
 print("\n1. General Data Analysis")
@@ -50,7 +47,6 @@ sns.heatmap(corr_matrix)
 plt.savefig(viol_plots_dir + 'corr_matrix.png')
 plt.close()
 
-
 # Participant Demographics Analysis
 print("\n2. Demographics Analysis")
 print("-" * 50)
@@ -77,7 +73,6 @@ plt.ylabel('BMI')
 plt.tight_layout()
 plt.savefig(analysis_dir + 'demographic_analysis.png')
 
-
 # Activity Analysis
 print("\n3. Activity Patterns")
 print("-" * 50)
@@ -95,7 +90,6 @@ sns.barplot(x=avg_calories.values, y=avg_calories.index, palette='rocket')
 plt.title('Average Calories Burned by Activity Type')
 plt.xlabel('Calories Burned')
 plt.savefig(analysis_dir + 'calories_analysis.png')
-
 
 # Health Metrics Analysis
 print("\n4. Health Metrics")
@@ -117,7 +111,6 @@ plt.title('Distribution of Health Conditions')
 plt.xticks(rotation=45)
 plt.savefig(analysis_dir + 'health_distribution_analysis.png')
 
-
 # Fitness Progress
 print("\n6. Fitness Progress Analysis")
 print("-" * 50)
@@ -127,7 +120,6 @@ sns.violinplot(data=fit_data, x='health_condition', y='fitness_level')
 plt.title('Fitness Level Distribution by Health Condition')
 plt.xticks(rotation=45)
 plt.savefig(analysis_dir + 'fitness_level_analysis.png')
-
 
 # Key Insights
 print("\n7. Key Dataset Insights")

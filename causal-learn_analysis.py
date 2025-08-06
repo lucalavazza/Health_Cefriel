@@ -1,15 +1,9 @@
 import pandas as pd
 import os
 import numpy as np
-import networkx as nx
-import matplotlib.pyplot as plt
-from causallearn.utils import cit
 from causallearn.utils.GraphUtils import *
 from causallearn.search.ConstraintBased.PC import pc
 from causallearn.search.ConstraintBased.FCI import fci
-from causallearn.utils.PCUtils import BackgroundKnowledge, SkeletonDiscovery
-from causallearn.graph import Graph
-from causallearn.utils.cit import CIT, fisherz, chisq, gsq, kci
 import time
 
 np.random.seed(42)
