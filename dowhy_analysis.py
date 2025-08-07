@@ -25,9 +25,9 @@ edges = np.load(
     '/Users/luca_lavazza/Documents/GitHub/Health_Cefriel/graphs/causallearn/edges/npy/labelling_causal_graph_causal-learn_pc_fisherz.npy')
 
 # modification suggested by the falsification step
-to_be_removed = np.array(['calories_burned', 'health_condition'])
 list_edges = edges.tolist()
 list_edges.remove(['calories_burned', 'health_condition'])
+list_edges.remove(['daily_steps', 'fitness_level'])
 edges = np.array(list_edges)
 
 nodes = []
@@ -51,15 +51,15 @@ def gcm_fal(X, Y, Z=None):
                                  prediction_model_Y=create_gradient_boost_regressor)
 
 
-# STEP 0: Falsification of the Causal Graph: is it informative? Is it rejected?
-# Done already and successful: no need to run it every time
-# Run evaluation for graph and data.
-result = falsify_graph(G, fitness_data, n_permutations=100,
-                       independence_test=gcm_fal,
-                       conditional_independence_test=gcm_fal,
-                       plot_histogram=False,
-                       suggestions=True)
-print(result)
+# # STEP 0: Falsification of the Causal Graph: is it informative? Is it rejected?
+# # Done already and successful: no need to run it every time
+# # Run evaluation for graph and data.
+# result = falsify_graph(G, fitness_data, n_permutations=100,
+#                        independence_test=gcm_fal,
+#                        conditional_independence_test=gcm_fal,
+#                        plot_histogram=False,
+#                        suggestions=True)
+# print(result)
 
 
 # STEP 1: Causal Effects Estimation: If we change X, how much will it cause Y to change?
