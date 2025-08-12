@@ -128,7 +128,9 @@ bar_plot(dict(before=avg_calories_burned_before, after=median_mean_latencies['ca
 causal_model_for_counterfactual_analysis = InvertibleStructuralCausalModel(G)
 gcm.auto.assign_causal_mechanisms(causal_model=causal_model_for_counterfactual_analysis, based_on=fitness_data,
                                   quality=AssignmentQuality.BEST)
-gcm.fit(causal_model_for_counterfactual_analysis, fitness_data)
+fitting = gcm.fit(causal_model=causal_model_for_counterfactual_analysis, data=fitness_data, return_evaluation_summary=True)
+
+print(fitting)
 
 fitness_data_42 = fitness_data[fitness_data['participant_id'] == 42]
 counterfactual_data1 = gcm.counterfactual_samples(causal_model_for_counterfactual_analysis,
