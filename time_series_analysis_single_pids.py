@@ -29,7 +29,8 @@ for pid in c_pids:
     day = []
 
     # I can drop the date as well, because the temporal order it is later computed via the index
-    drop_cols = ['participant_id', 'height_cm', 'weight_kg', 'gender']
+    drop_cols = ['participant_id', 'height_cm', 'weight_kg', 'gender', 'bmi', 'resting_heart_rate',
+                 'blood_pressure_systolic', 'blood_pressure_diastolic', 'smoking_status', 'health_condition']
     for d in drop_cols:
         fit_data_pid.drop(d, axis=1, inplace=True)
     fit_data_pid.reset_index(drop=True, inplace=True)

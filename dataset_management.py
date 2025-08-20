@@ -74,6 +74,7 @@ for pid in range(1, ids+1):
                 if col == 'date':
                     averaged_fit_data_pid_test[col] = (str(m))
                 else:
+                    # TODO: I want the most common activity type and intensity, not the first! Fix this.
                     averaged_fit_data_pid_test[col] = fit_data_pid_averaging[col][0]
 
         csv_filename = single_participant_dir + str(pid) + '/health_fitness_dataset_pid-' + str(pid) + '_month-' + str(m) + '_averaged.csv'
