@@ -74,7 +74,6 @@ for pid in range(1, ids+1):
                 if col == 'date':
                     averaged_fit_data_pid_test[col] = (str(m))
                 else:
-                    # TODO: I want the most common activity type and intensity, not the first! Fix this.
                     averaged_fit_data_pid_test[col] = fit_data_pid_averaging[col][0]
 
         csv_filename = single_participant_dir + str(pid) + '/health_fitness_dataset_pid-' + str(pid) + '_month-' + str(m) + '_averaged.csv'
@@ -113,7 +112,7 @@ encoded_dataset.to_csv(datasets_dir + '/encoded_regularised_averaged_health_fitn
 
 # numerical encoding
 to_be_converted = pd.read_csv('/Users/luca_lavazza/Documents/GitHub/Health_Cefriel/datasets/regularised_averaged_health_fitness_dataset.csv')
-to_be_converted.replace(['F', 'M', 'Others'], [0, 1, 2], inplace=True)
+to_be_converted.replace(['F', 'M', 'Other'], [0, 1, 2], inplace=True)
 to_be_converted.replace(['Never', 'Current', 'Former'], [0, 1, 2], inplace=True)
 to_be_converted.replace(['None', 'Hypertension', 'Diabetes', 'Asthma'], [0, 1, 2, 3], inplace=True)
 non_numeric_columns = list(to_be_converted.select_dtypes(exclude=[np.number]).columns)
