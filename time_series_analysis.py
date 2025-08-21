@@ -56,33 +56,33 @@ print('Starting Causal Discovery with PCMCI and LPCMCI\n')
 for tau in taus:
     for pc in pcs:
         for cit in cits:
-            # # LPCMCI
-            # print('Now executing LPCMCI for tau={} pc={} cit={}...\n'.format(tau, pc, cit))
-            #
-            # lpcmci = LPCMCI(dataframe=dataframe, cond_ind_test=cit, verbosity=0)
-            # results = lpcmci.run_lpcmci(pc_alpha=pc, tau_max=tau)
-            # val_matrix = results['val_matrix']
-            #
-            # print('LPCMCI completed for tau={} pc={} cit={}\n'.format(tau, pc, cit))
-            #
-            # tp.plot_graph(
-            #     figsize=(18, 12),
-            #     val_matrix=val_matrix,
-            #     graph=results['graph'],
-            #     var_names=var_names,
-            #     arrow_linewidth=5,
-            #     arrowhead_size=150,
-            #     label_fontsize=15,
-            #     tick_label_size=10,
-            #     link_label_fontsize=15,
-            # )
-            #
-            # plt.title('Causal discovery - LPCMCI with tau={} pc={} cit={}'.format(tau, pc, cit))
-            #
-            # plt.savefig(
-            #     '/Users/luca_lavazza/Documents/GitHub/Health_Cefriel/graphs/time_series_graphs/TimeSeriesGraph_LPCMCI_tau='
-            #     + str(tau) + '_pc=' + str(pc) + '_cit=' + str(cit) + '.png')
-            # plt.close()
+            # LPCMCI
+            print('Now executing LPCMCI for tau={} pc={} cit={}...\n'.format(tau, pc, cit))
+
+            lpcmci = LPCMCI(dataframe=dataframe, cond_ind_test=cit, verbosity=0)
+            results = lpcmci.run_lpcmci(pc_alpha=pc, tau_max=tau)
+            val_matrix = results['val_matrix']
+
+            print('LPCMCI completed for tau={} pc={} cit={}\n'.format(tau, pc, cit))
+
+            tp.plot_graph(
+                figsize=(18, 12),
+                val_matrix=val_matrix,
+                graph=results['graph'],
+                var_names=var_names,
+                arrow_linewidth=5,
+                arrowhead_size=150,
+                label_fontsize=15,
+                tick_label_size=10,
+                link_label_fontsize=15,
+            )
+
+            plt.title('Causal discovery - LPCMCI with tau={} pc={} cit={}'.format(tau, pc, cit))
+
+            plt.savefig(
+                '/Users/luca_lavazza/Documents/GitHub/Health_Cefriel/graphs/time_series_graphs/TimeSeriesGraph_LPCMCI_tau='
+                + str(tau) + '_pc=' + str(pc) + '_cit=' + str(cit) + '.png')
+            plt.close()
 
             # DoWhy Integration
             print('Now executing PCMCI for tau={} pc={} cit={}...\n'.format(tau, pc, cit))

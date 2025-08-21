@@ -149,3 +149,6 @@ bar_plot = df_plot.plot.bar(title="Counterfactual outputs", figsize=(17, 17))
 plt.ylabel('Calories Burned')
 fig = bar_plot.get_figure()
 fig.savefig('/Users/luca_lavazza/Documents/GitHub/Health_Cefriel/graphs/Counterfactual-duration_minutes->calories_burned-pid=42')
+
+
+pids_personas = [41, 6, 262, 30, 108, 165, 2, 26, 172, 11, 8, 5]
