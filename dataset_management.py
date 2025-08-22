@@ -94,7 +94,7 @@ averaged_dataset.to_csv(datasets_dir + '/averaged_health_fitness_dataset.csv', i
 regularised_fit_data = pd.read_csv(datasets_dir + '/averaged_health_fitness_dataset.csv')
 numeric_columns = list(regularised_fit_data.select_dtypes(include=[np.number]).columns)
 numeric_columns.remove('date')
-to_be_removed = ['participant_id', 'age', 'height_cm', 'weight_kg']
+to_be_removed = ['participant_id', 'height_cm', 'weight_kg']
 for col in to_be_removed:
     numeric_columns.remove(col)
 numeric_columns = np.asarray(numeric_columns)

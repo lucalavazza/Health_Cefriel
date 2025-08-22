@@ -23,8 +23,8 @@ except PermissionError:
 except Exception as e:
     print(f"An error occurred: {e}")
 
-data_type = 'labelled'
-# data_type = 'encoded'
+# data_type = 'labelled'
+data_type = 'encoded'
 fit_data = pd.read_csv('/Users/luca_lavazza/Documents/GitHub/Health_Cefriel/datasets/' + data_type + '_regularised_averaged_health_fitness_dataset.csv')
 if data_type == 'encoded':
     drop_cols = ['participant_id', 'height_cm', 'weight_kg', 'gender_M', 'gender_F', 'gender_Other', 'stress_level']
