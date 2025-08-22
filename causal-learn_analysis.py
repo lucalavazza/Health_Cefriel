@@ -27,9 +27,9 @@ data_type = 'labelled'
 # data_type = 'encoded'
 fit_data = pd.read_csv('/Users/luca_lavazza/Documents/GitHub/Health_Cefriel/datasets/' + data_type + '_regularised_averaged_health_fitness_dataset.csv')
 if data_type == 'encoded':
-    drop_cols = ['participant_id', 'height_cm', 'weight_kg', 'gender_M', 'gender_F', 'gender_Other']
+    drop_cols = ['participant_id', 'height_cm', 'weight_kg', 'gender_M', 'gender_F', 'gender_Other', 'stress_level']
 else:
-    drop_cols = ['participant_id', 'height_cm', 'weight_kg', 'gender']
+    drop_cols = ['participant_id', 'height_cm', 'weight_kg', 'gender', 'stress_level']
 fit_data = fit_data.drop(drop_cols, axis=1)
 var_names = fit_data.columns
 fit_data = fit_data.to_numpy()

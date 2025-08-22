@@ -20,7 +20,7 @@ pids = np.max(fit_data.participant_id.unique())
 
 # I need to do this to compute the var_names. This has no effect on the final data_dict
 modifiable_fit_data = fit_data.copy()
-drop_cols = ['participant_id', 'height_cm', 'weight_kg', 'gender']
+drop_cols = ['participant_id', 'height_cm', 'weight_kg', 'gender', 'stress_level']
 for d in drop_cols:
     modifiable_fit_data.drop(d, axis=1, inplace=True)
 var_names = modifiable_fit_data.columns
@@ -30,7 +30,7 @@ for pid in range(pids):
     pid += 1
     # I select each participant individually
     fit_data_id = fit_data.loc[fit_data['participant_id'] == pid]
-    drop_cols = ['participant_id', 'height_cm', 'weight_kg', 'gender']
+    drop_cols = ['participant_id', 'height_cm', 'weight_kg', 'gender', 'stress_level']
     for d in drop_cols:
         fit_data_id.drop(d, axis=1, inplace=True)
     fit_data_id.reset_index(drop=True, inplace=True)
