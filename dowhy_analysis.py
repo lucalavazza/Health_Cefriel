@@ -24,12 +24,6 @@ fitness_data = pd.read_csv(
 edges = np.load(
     '/Users/luca_lavazza/Documents/GitHub/Health_Cefriel/graphs/causallearn/edges/npy/labelling_causal_graph_causal-learn_pc_fisherz.npy')
 
-# modification suggested by the falsification step
-list_edges = edges.tolist()
-list_edges.remove(['calories_burned', 'health_condition'])
-list_edges.remove(['daily_steps', 'fitness_level'])
-edges = np.array(list_edges)
-
 nodes = []
 for edge in edges:
     for node in edge:
@@ -130,8 +124,6 @@ gcm.auto.assign_causal_mechanisms(causal_model=causal_model_for_counterfactual_a
                                   quality=AssignmentQuality.BEST)
 fitting = gcm.fit(causal_model=causal_model_for_counterfactual_analysis, data=fitness_data, return_evaluation_summary=True)
 
-print(fitting)
-
 fitness_data_42 = fitness_data[fitness_data['participant_id'] == 42]
 counterfactual_data1 = gcm.counterfactual_samples(causal_model_for_counterfactual_analysis,
                                                   {'duration_minutes': lambda x: -3},
@@ -149,6 +141,3 @@ bar_plot = df_plot.plot.bar(title="Counterfactual outputs", figsize=(17, 17))
 plt.ylabel('Calories Burned')
 fig = bar_plot.get_figure()
 fig.savefig('/Users/luca_lavazza/Documents/GitHub/Health_Cefriel/graphs/Counterfactual-duration_minutes->calories_burned-pid=42')
-
-
-pids_personas = [41, 6, 262, 30, 108, 165, 2, 26, 172, 11, 8, 5]
