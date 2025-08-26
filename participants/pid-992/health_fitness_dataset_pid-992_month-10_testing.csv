@@ -1,0 +1,11 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+992,2024-10-03,46,M,169.9,109.6,Weight Training,87,Medium,19.0,130,7.6,10,6318,3.4,21.5,81.5,105.4,78.5,None,Never,16.14
+992,2024-10-05,46,M,169.9,109.8,Cycling,98,Medium,30.4,127,6.5,7,6430,1.7,21.5,81.5,105.4,78.5,None,Never,16.26
+992,2024-10-08,46,M,169.9,110.1,Weight Training,86,Medium,18.9,139,7.3,1,7707,3.4,21.5,81.5,105.4,78.5,None,Never,16.36
+992,2024-10-09,46,M,169.9,110.3,Weight Training,23,Low,4.2,106,7.6,5,5491,2.6,21.5,81.5,105.4,78.5,None,Never,16.39
+992,2024-10-18,46,M,169.9,110.6,Cycling,29,Medium,9.1,127,8.3,4,7859,2.9,21.5,81.5,105.4,78.5,None,Never,16.42
+992,2024-10-19,46,M,169.9,110.8,Running,72,Low,21.7,122,5.9,6,7825,2.1,21.5,81.5,105.4,78.5,None,Never,16.49
+992,2024-10-20,46,M,169.9,111.1,Weight Training,53,Low,9.8,107,6.4,4,8778,1.6,21.5,81.5,105.4,78.5,None,Never,16.55
+992,2024-10-21,46,M,169.9,111.4,Cycling,112,Low,29.4,112,7.2,1,6046,3.2,21.5,81.5,105.4,78.5,None,Never,16.66
+992,2024-10-25,46,M,169.9,111.6,HIIT,73,High,37.9,141,6.2,6,6381,2.6,21.5,81.5,105.4,78.5,None,Never,16.76
+992,2024-10-26,46,M,169.9,111.9,HIIT,26,Medium,11.6,117,7.1,2,10708,1.8,21.5,81.5,105.4,78.5,None,Never,16.79

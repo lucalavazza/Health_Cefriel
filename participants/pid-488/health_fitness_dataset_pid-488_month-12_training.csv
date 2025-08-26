@@ -1,0 +1,17 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+488,2024-12-03,47,M,175.5,130.7,Swimming,31,High,11.0,153,8.8,2,5943,1.6,24.2,65.6,116,100.3,None,Former,17.45
+488,2024-12-04,47,M,175.5,131.0,Swimming,62,Low,15.8,113,7.0,7,5871,3.5,24.2,65.6,116,100.3,None,Former,17.51
+488,2024-12-05,47,M,175.5,131.2,Swimming,115,High,41.0,151,8.2,1,5313,1.8,24.2,65.6,116,100.3,None,Former,17.67
+488,2024-12-06,47,M,175.5,131.5,Swimming,83,High,29.7,154,6.3,6,5931,2.5,24.2,65.6,116,100.3,None,Former,17.78
+488,2024-12-07,47,M,175.5,131.8,Swimming,20,Medium,6.1,128,8.4,1,9216,1.6,24.2,65.6,116,100.3,None,Former,17.81
+488,2024-12-08,47,M,175.5,132.0,Swimming,73,Medium,22.4,126,4.6,2,5739,2.2,24.2,65.6,116,100.3,None,Former,17.9
+488,2024-12-09,47,M,175.5,132.3,Swimming,38,Low,9.8,123,7.5,8,7164,2.5,24.2,65.6,116,100.3,None,Former,17.93
+488,2024-12-13,47,M,175.5,132.5,Weight Training,38,Low,8.4,113,5.5,5,3640,2.3,24.2,65.6,116,100.3,None,Former,17.97
+488,2024-12-14,47,M,175.5,132.8,Swimming,88,High,31.7,141,7.6,9,8442,2.2,24.2,65.6,116,100.3,None,Former,18.1
+488,2024-12-15,47,M,175.5,133.0,Weight Training,73,Medium,19.4,132,7.1,6,8188,1.8,24.2,65.6,116,100.3,None,Former,18.18
+488,2024-12-17,47,M,175.5,133.3,Weight Training,52,High,16.1,137,6.3,5,8589,3.3,24.2,65.6,116,100.3,None,Former,18.26
+488,2024-12-18,47,M,175.5,133.6,Weight Training,45,Medium,12.0,125,6.8,3,4991,2.3,24.2,65.6,116,100.3,None,Former,18.31
+488,2024-12-19,47,M,175.5,133.8,Weight Training,110,Low,24.5,109,7.3,9,6753,2.9,24.2,65.6,116,100.3,None,Former,18.42
+488,2024-12-20,47,M,175.5,134.1,Weight Training,32,High,10.0,149,8.5,2,8106,2.2,24.2,65.6,116,100.3,None,Former,18.46
+488,2024-12-23,47,M,175.5,134.3,Weight Training,98,Low,21.9,112,5.4,1,10922,3.4,24.2,65.6,116,100.3,None,Former,18.56
+488,2024-12-24,47,M,175.5,134.6,Weight Training,104,Medium,27.9,126,8.2,3,7875,2.2,24.2,65.6,116,100.3,None,Former,18.69

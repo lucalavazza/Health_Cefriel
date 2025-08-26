@@ -1,0 +1,15 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+868,2024-08-09,42,Other,165.5,88.1,Cycling,81,Medium,20.2,129,6.7,4,7356,3.2,17.3,70.3,114.6,86.5,Hypertension,Former,13.01
+868,2024-08-11,42,Other,165.5,88.4,Weight Training,63,Medium,11.1,136,6.8,6,8182,1.7,17.3,70.3,114.6,86.5,Hypertension,Former,13.08
+868,2024-08-12,42,Other,165.5,88.6,Weight Training,78,Medium,13.8,117,7.2,7,6054,1.6,17.3,70.3,114.6,86.5,Hypertension,Former,13.18
+868,2024-08-13,42,Other,165.5,88.9,Yoga,30,Medium,2.7,137,7.2,7,3666,2.6,17.3,70.3,114.6,86.5,Hypertension,Former,13.21
+868,2024-08-16,42,Other,165.5,89.2,Weight Training,71,Medium,12.6,146,6.6,3,7033,3.3,17.3,70.3,114.6,86.5,Hypertension,Former,13.3
+868,2024-08-18,42,Other,165.5,89.4,Swimming,43,Low,7.5,118,7.7,7,9964,3.0,17.3,70.3,114.6,86.5,Hypertension,Former,13.34
+868,2024-08-19,42,Other,165.5,89.7,Running,48,Medium,14.0,124,8.5,7,7175,3.0,17.3,70.3,114.6,86.5,Hypertension,Former,13.4
+868,2024-08-20,42,Other,165.5,89.9,Running,82,Low,20.0,113,7.7,8,8203,1.9,17.3,70.3,114.6,86.5,Hypertension,Former,13.48
+868,2024-08-22,42,Other,165.5,90.2,Basketball,82,Low,16.4,118,8.9,5,7106,1.9,17.3,70.3,114.6,86.5,Hypertension,Former,13.56
+868,2024-08-24,42,Other,165.5,90.4,Basketball,49,Low,9.8,118,5.4,1,10101,3.4,17.3,70.3,114.6,86.5,Hypertension,Former,13.61
+868,2024-08-26,42,Other,165.5,90.7,Tennis,28,Medium,6.2,139,7.0,8,5471,2.1,17.3,70.3,114.6,86.5,Hypertension,Former,13.65
+868,2024-08-29,42,Other,165.5,91.0,Tennis,101,High,26.0,172,6.6,4,6411,2.4,17.3,70.3,114.6,86.5,Hypertension,Former,13.79
+868,2024-08-30,42,Other,165.5,91.2,Basketball,31,Medium,7.5,131,8.1,7,7700,3.4,17.3,70.3,114.6,86.5,Hypertension,Former,13.82
+868,2024-08-31,42,Other,165.5,91.5,Basketball,30,Medium,7.3,140,8.9,8,8141,2.7,17.3,70.3,114.6,86.5,Hypertension,Former,13.86

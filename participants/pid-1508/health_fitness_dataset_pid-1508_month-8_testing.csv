@@ -1,0 +1,17 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+1508,2024-08-01,51,F,157,103.5,Walking,30,Medium,3.9,120,7.1,6,7466,2.4,25.3,69.4,124,81.4,Hypertension,Never,13.42
+1508,2024-08-04,51,F,157,103.7,Swimming,102,High,28.7,142,6.6,3,8320,2.9,25.3,69.4,124,81.4,Hypertension,Never,13.56
+1508,2024-08-05,51,F,157,104.0,Swimming,78,Medium,18.9,126,7.3,5,5796,2.8,25.3,69.4,124,81.4,Hypertension,Never,13.65
+1508,2024-08-08,51,F,157,104.3,Swimming,78,Low,15.8,96,8.0,6,6795,1.6,25.3,69.4,124,81.4,Hypertension,Never,13.73
+1508,2024-08-13,51,F,157,104.5,Swimming,103,Medium,25.1,142,7.1,9,9238,3.3,25.3,69.4,124,81.4,Hypertension,Never,13.85
+1508,2024-08-15,51,F,157,104.8,Swimming,69,Medium,16.8,122,6.8,5,7555,1.6,25.3,69.4,124,81.4,Hypertension,Never,13.94
+1508,2024-08-16,51,F,157,105.0,Swimming,88,Low,17.9,100,5.6,9,5931,1.6,25.3,69.4,124,81.4,Hypertension,Never,14.03
+1508,2024-08-17,51,F,157,105.3,Cycling,43,High,14.9,150,7.0,3,8522,2.3,25.3,69.4,124,81.4,Hypertension,Never,14.09
+1508,2024-08-18,51,F,157,105.5,Cycling,107,High,37.2,148,6.3,6,8107,2.8,25.3,69.4,124,81.4,Hypertension,Never,14.24
+1508,2024-08-19,51,F,157,105.8,Weight Training,56,High,13.8,162,6.1,8,8132,1.9,25.3,69.4,124,81.4,Hypertension,Never,14.31
+1508,2024-08-20,51,F,157,106.1,HIIT,25,Low,8.8,104,6.7,2,6464,2.1,25.3,69.4,124,81.4,Hypertension,Never,14.34
+1508,2024-08-24,51,F,157,106.3,Basketball,91,High,30.0,132,5.1,5,7443,3.4,25.3,69.4,124,81.4,Hypertension,Never,14.47
+1508,2024-08-25,51,F,157,106.6,HIIT,83,Low,29.4,112,4.6,9,5961,1.8,25.3,69.4,124,81.4,Hypertension,Never,14.55
+1508,2024-08-28,51,F,157,106.8,HIIT,100,High,49.7,129,6.9,4,5338,2.7,25.3,69.4,124,81.4,Hypertension,Never,14.69
+1508,2024-08-29,51,F,157,107.1,Basketball,29,Medium,8.3,138,6.6,6,6682,1.5,25.3,69.4,124,81.4,Hypertension,Never,14.72
+1508,2024-08-30,51,F,157,107.3,HIIT,37,High,18.5,144,6.9,8,8070,3.4,25.3,69.4,124,81.4,Hypertension,Never,14.78

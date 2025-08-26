@@ -1,0 +1,16 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+541,2024-06-01,52,M,181.2,90.1,Weight Training,56,Medium,10.1,121,7.9,4,11517,2.5,18.2,67.3,133,75.7,None,Never,9.95
+541,2024-06-02,52,M,181.2,90.3,Weight Training,47,Medium,8.5,131,7.0,8,9632,3.2,18.2,67.3,133,75.7,None,Never,10.01
+541,2024-06-05,52,M,181.2,90.6,Weight Training,100,Low,15.1,112,6.6,3,9731,3.3,18.2,67.3,133,75.7,None,Never,10.11
+541,2024-06-06,52,M,181.2,90.9,Weight Training,98,High,20.7,136,7.7,8,9506,2.7,18.2,67.3,133,75.7,None,Never,10.24
+541,2024-06-07,52,M,181.2,91.1,Weight Training,94,Low,14.2,115,8.1,9,9944,1.9,18.2,67.3,133,75.7,None,Never,10.34
+541,2024-06-08,52,M,181.2,91.4,Weight Training,110,Medium,20.0,120,8.0,4,10001,2.0,18.2,67.3,133,75.7,None,Never,10.47
+541,2024-06-11,52,M,181.2,91.6,Weight Training,75,Medium,13.7,126,7.2,9,9062,3.4,18.2,67.3,133,75.7,None,Never,10.56
+541,2024-06-13,52,M,181.2,91.9,Weight Training,31,Low,4.7,114,9.1,1,7417,2.3,18.2,67.3,133,75.7,None,Never,10.59
+541,2024-06-15,52,M,181.2,92.1,Weight Training,41,Low,6.3,112,7.0,9,13426,1.5,18.2,67.3,133,75.7,None,Never,10.63
+541,2024-06-16,52,M,181.2,92.4,Weight Training,61,Medium,11.2,132,5.7,8,8415,3.1,18.2,67.3,133,75.7,None,Never,10.71
+541,2024-06-17,52,M,181.2,92.7,Weight Training,65,Medium,12.0,133,8.5,2,6575,3.3,18.2,67.3,133,75.7,None,Never,10.78
+541,2024-06-19,52,M,181.2,92.9,Weight Training,64,Medium,11.9,124,5.6,2,6076,2.3,18.2,67.3,133,75.7,None,Never,10.86
+541,2024-06-25,52,M,181.2,93.2,Weight Training,94,Medium,17.5,132,5.9,1,10324,1.8,18.2,67.3,133,75.7,None,Never,10.97
+541,2024-06-28,52,M,181.2,93.4,Weight Training,102,Low,15.8,105,7.4,8,9267,2.8,18.2,67.3,133,75.7,None,Never,11.08
+541,2024-06-29,52,M,181.2,93.7,Dancing,101,Medium,17.3,127,9.4,5,9241,1.5,18.2,67.3,133,75.7,None,Never,11.2

@@ -1,0 +1,16 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+380,2024-07-01,54,F,158.3,87.0,Tennis,120,Medium,25.3,113,7.5,7,7716,1.7,21,63.9,115.7,93.8,Hypertension,Current,10.77
+380,2024-07-03,54,F,158.3,87.3,Tennis,55,Medium,11.6,108,7.6,3,9464,2.9,21,63.9,115.7,93.8,Hypertension,Current,10.84
+380,2024-07-07,54,F,158.3,87.6,Tennis,24,Low,4.2,107,7.4,6,9611,1.9,21,63.9,115.7,93.8,Hypertension,Current,10.86
+380,2024-07-09,54,F,158.3,87.8,Tennis,85,Low,15.1,103,6.7,1,6530,2.5,21,63.9,115.7,93.8,Hypertension,Current,10.94
+380,2024-07-11,54,F,158.3,88.1,Tennis,60,Low,10.7,105,6.9,4,8716,3.1,21,63.9,115.7,93.8,Hypertension,Current,11.0
+380,2024-07-13,54,F,158.3,88.3,Tennis,20,Low,3.6,104,6.7,5,8576,2.2,21,63.9,115.7,93.8,Hypertension,Current,11.02
+380,2024-07-16,54,F,158.3,88.6,Tennis,43,High,10.8,137,6.2,6,6035,2.9,21,63.9,115.7,93.8,Hypertension,Current,11.09
+380,2024-07-18,54,F,158.3,88.8,Tennis,117,High,29.4,133,6.9,3,7323,2.8,21,63.9,115.7,93.8,Hypertension,Current,11.25
+380,2024-07-20,54,F,158.3,89.1,Basketball,107,Low,21.1,107,6.6,10,9024,2.5,21,63.9,115.7,93.8,Hypertension,Current,11.36
+380,2024-07-21,54,F,158.3,89.4,Tennis,85,High,21.5,141,6.0,10,10010,2.7,21,63.9,115.7,93.8,Hypertension,Current,11.47
+380,2024-07-24,54,F,158.3,89.6,Dancing,114,Medium,18.7,122,5.2,7,7121,3.0,21,63.9,115.7,93.8,Hypertension,Current,11.61
+380,2024-07-25,54,F,158.3,89.9,Dancing,65,High,12.5,127,6.6,4,8015,3.5,21,63.9,115.7,93.8,Hypertension,Current,11.7
+380,2024-07-27,54,F,158.3,90.1,Yoga,27,Medium,2.4,122,5.5,1,8733,2.0,21,63.9,115.7,93.8,Hypertension,Current,11.74
+380,2024-07-28,54,F,158.3,90.4,Tennis,95,Medium,20.8,122,7.2,8,11024,2.0,21,63.9,115.7,93.8,Hypertension,Current,11.85
+380,2024-07-31,54,F,158.3,90.7,Yoga,24,Low,1.8,102,7.8,4,7318,2.7,21,63.9,115.7,93.8,Hypertension,Current,11.87

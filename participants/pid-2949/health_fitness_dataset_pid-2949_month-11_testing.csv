@@ -1,0 +1,17 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+2949,2024-11-05,39,F,157.8,108.2,Weight Training,70,Medium,15.1,121,7.4,3,6872,3.2,22.9,64.2,112.5,78,Diabetes,Never,15.48
+2949,2024-11-06,39,F,157.8,108.4,Cycling,106,Medium,32.5,131,7.3,3,8937,2.5,22.9,64.2,112.5,78,Diabetes,Never,15.6
+2949,2024-11-07,39,F,157.8,108.7,Swimming,120,Low,25.3,122,6.0,4,7405,3.4,22.9,64.2,112.5,78,Diabetes,Never,15.72
+2949,2024-11-12,39,F,157.8,108.9,Swimming,77,Medium,19.5,140,7.4,9,5802,1.6,22.9,64.2,112.5,78,Diabetes,Never,15.82
+2949,2024-11-13,39,F,157.8,109.2,Swimming,65,Low,13.8,113,7.0,1,5144,3.4,22.9,64.2,112.5,78,Diabetes,Never,15.88
+2949,2024-11-14,39,F,157.8,109.5,Running,95,Low,28.2,114,7.5,10,6774,1.8,22.9,64.2,112.5,78,Diabetes,Never,15.98
+2949,2024-11-16,39,F,157.8,109.7,Swimming,105,Low,22.3,107,5.4,10,11036,1.8,22.9,64.2,112.5,78,Diabetes,Never,16.08
+2949,2024-11-17,39,F,157.8,110.0,Swimming,64,High,19.1,139,7.3,1,9784,3.0,22.9,64.2,112.5,78,Diabetes,Never,16.17
+2949,2024-11-18,39,F,157.8,110.2,Running,100,Medium,35.9,145,6.7,1,4931,2.8,22.9,64.2,112.5,78,Diabetes,Never,16.29
+2949,2024-11-20,39,F,157.8,110.5,Running,34,Low,10.2,112,6.4,2,8865,3.0,22.9,64.2,112.5,78,Diabetes,Never,16.33
+2949,2024-11-21,39,F,157.8,110.7,Basketball,54,Medium,15.9,136,6.6,10,4369,2.7,22.9,64.2,112.5,78,Diabetes,Never,16.39
+2949,2024-11-24,39,F,157.8,111.0,Basketball,52,Low,12.8,117,8.3,3,6256,3.3,22.9,64.2,112.5,78,Diabetes,Never,16.44
+2949,2024-11-26,39,F,157.8,111.3,Basketball,81,High,28.0,157,5.6,1,5770,2.4,22.9,64.2,112.5,78,Diabetes,Never,16.56
+2949,2024-11-27,39,F,157.8,111.5,HIIT,76,Low,28.2,115,6.6,7,7003,3.1,22.9,64.2,112.5,78,Diabetes,Never,16.63
+2949,2024-11-29,39,F,157.8,111.8,Basketball,63,Low,15.6,114,7.0,10,9392,3.3,22.9,64.2,112.5,78,Diabetes,Never,16.69
+2949,2024-11-30,39,F,157.8,112.0,HIIT,93,Medium,41.6,124,5.8,10,10045,3.3,22.9,64.2,112.5,78,Diabetes,Never,16.81

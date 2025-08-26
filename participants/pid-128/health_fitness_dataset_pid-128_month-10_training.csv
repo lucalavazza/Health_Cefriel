@@ -1,0 +1,17 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+128,2024-10-03,51,F,163.4,108.8,Cycling,40,Low,10.3,105,7.4,1,9914,3.4,23.6,68.3,128,77.9,Asthma,Former,14.65
+128,2024-10-04,51,F,163.4,109.1,Cycling,61,Low,15.7,109,6.1,4,5997,2.7,23.6,68.3,128,77.9,Asthma,Former,14.72
+128,2024-10-06,51,F,163.4,109.4,Cycling,56,Medium,17.3,130,8.0,10,10453,1.9,23.6,68.3,128,77.9,Asthma,Former,14.78
+128,2024-10-07,51,F,163.4,109.6,Cycling,22,Medium,6.8,115,7.1,5,8401,3.0,23.6,68.3,128,77.9,Asthma,Former,14.81
+128,2024-10-11,51,F,163.4,109.9,Walking,75,Medium,10.4,112,9.0,5,8678,1.8,23.6,68.3,128,77.9,Asthma,Former,14.9
+128,2024-10-13,51,F,163.4,110.1,Walking,23,High,3.7,138,6.6,6,5678,2.8,23.6,68.3,128,77.9,Asthma,Former,14.93
+128,2024-10-16,51,F,163.4,110.4,Walking,23,High,3.7,162,6.4,1,6788,1.7,23.6,68.3,128,77.9,Asthma,Former,14.96
+128,2024-10-17,51,F,163.4,110.6,Walking,93,Low,10.8,114,7.5,5,7232,2.1,23.6,68.3,128,77.9,Asthma,Former,15.06
+128,2024-10-19,51,F,163.4,110.9,Walking,22,Medium,3.1,129,6.7,2,6983,2.2,23.6,68.3,128,77.9,Asthma,Former,15.08
+128,2024-10-23,51,F,163.4,111.2,Swimming,31,High,9.4,135,7.6,9,5090,2.6,23.6,68.3,128,77.9,Asthma,Former,15.13
+128,2024-10-24,51,F,163.4,111.4,HIIT,93,Medium,41.4,121,6.8,10,9262,3.4,23.6,68.3,128,77.9,Asthma,Former,15.24
+128,2024-10-26,51,F,163.4,111.7,Walking,65,Low,7.6,102,8.0,2,7056,3.0,23.6,68.3,128,77.9,Asthma,Former,15.3
+128,2024-10-27,51,F,163.4,111.9,HIIT,94,Medium,42.0,147,6.9,6,6548,1.8,23.6,68.3,128,77.9,Asthma,Former,15.42
+128,2024-10-28,51,F,163.4,112.2,Walking,55,Low,6.5,107,6.3,3,7790,2.0,23.6,68.3,128,77.9,Asthma,Former,15.47
+128,2024-10-29,51,F,163.4,112.4,HIIT,38,Low,14.2,103,6.9,7,7783,2.1,23.6,68.3,128,77.9,Asthma,Former,15.51
+128,2024-10-30,51,F,163.4,112.7,Walking,64,Low,7.6,109,7.7,10,9339,2.5,23.6,68.3,128,77.9,Asthma,Former,15.57

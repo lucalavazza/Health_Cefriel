@@ -1,0 +1,16 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+2502,2024-10-04,57,Other,174.1,117.1,Dancing,106,Medium,22.7,120,8.5,4,8755,2.9,22.9,69.3,118.1,75.2,None,Never,15.12
+2502,2024-10-09,57,Other,174.1,117.3,Dancing,45,Medium,9.7,114,8.4,7,7747,3.2,22.9,69.3,118.1,75.2,None,Never,15.18
+2502,2024-10-11,57,Other,174.1,117.6,Basketball,114,Low,29.7,103,7.7,4,6824,2.8,22.9,69.3,118.1,75.2,None,Never,15.29
+2502,2024-10-14,57,Other,174.1,117.8,Basketball,98,High,35.9,136,7.5,10,5779,1.8,22.9,69.3,118.1,75.2,None,Never,15.43
+2502,2024-10-15,57,Other,174.1,118.1,Basketball,75,Low,19.6,105,8.5,10,8010,3.0,22.9,69.3,118.1,75.2,None,Never,15.5
+2502,2024-10-18,57,Other,174.1,118.4,Basketball,100,Low,26.2,100,7.3,10,6054,2.5,22.9,69.3,118.1,75.2,None,Never,15.6
+2502,2024-10-19,57,Other,174.1,118.6,Basketball,52,High,19.1,136,7.3,3,6843,2.5,22.9,69.3,118.1,75.2,None,Never,15.68
+2502,2024-10-20,57,Other,174.1,118.9,Basketball,106,High,39.1,123,6.7,3,4892,2.8,22.9,69.3,118.1,75.2,None,Never,15.83
+2502,2024-10-21,57,Other,174.1,119.1,Basketball,71,High,26.3,136,7.1,7,8066,2.7,22.9,69.3,118.1,75.2,None,Never,15.93
+2502,2024-10-23,57,Other,174.1,119.4,Running,29,Medium,11.3,117,7.5,7,6561,2.5,22.9,69.3,118.1,75.2,None,Never,15.96
+2502,2024-10-25,57,Other,174.1,119.6,Running,95,Medium,37.1,117,6.8,7,5891,3.3,22.9,69.3,118.1,75.2,None,Never,16.07
+2502,2024-10-26,57,Other,174.1,119.9,Running,68,Low,22.1,111,7.0,8,6750,2.4,22.9,69.3,118.1,75.2,None,Never,16.14
+2502,2024-10-27,57,Other,174.1,120.2,Walking,64,High,11.3,139,5.2,8,10064,2.0,22.9,69.3,118.1,75.2,None,Never,16.23
+2502,2024-10-28,57,Other,174.1,120.4,HIIT,93,Medium,44.7,117,8.2,5,7856,1.9,22.9,69.3,118.1,75.2,None,Never,16.34
+2502,2024-10-30,57,Other,174.1,120.7,HIIT,108,Medium,52.0,113,7.9,2,7323,2.0,22.9,69.3,118.1,75.2,None,Never,16.47

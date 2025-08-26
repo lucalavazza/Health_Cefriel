@@ -1,0 +1,16 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+1424,2024-09-03,32,M,174.8,127.0,Cycling,69,Medium,24.8,144,5.5,3,5594,3.0,27.9,65.1,114.9,67.4,Diabetes,Never,12.34
+1424,2024-09-06,32,M,174.8,127.2,Tennis,41,Low,10.6,120,6.3,6,6761,2.3,27.9,65.1,114.9,67.4,Diabetes,Never,12.38
+1424,2024-09-08,32,M,174.8,127.5,Cycling,66,Low,19.8,118,6.0,1,9866,2.1,27.9,65.1,114.9,67.4,Diabetes,Never,12.45
+1424,2024-09-09,32,M,174.8,127.8,Dancing,93,High,25.4,156,5.8,8,7908,3.5,27.9,65.1,114.9,67.4,Diabetes,Never,12.58
+1424,2024-09-10,32,M,174.8,128.0,Cycling,56,Low,16.9,113,7.4,1,5634,2.4,27.9,65.1,114.9,67.4,Diabetes,Never,12.64
+1424,2024-09-11,32,M,174.8,128.3,Cycling,75,High,31.7,158,6.9,4,5738,3.3,27.9,65.1,114.9,67.4,Diabetes,Never,12.74
+1424,2024-09-12,32,M,174.8,128.5,Dancing,21,Medium,4.9,144,5.4,7,6894,3.0,27.9,65.1,114.9,67.4,Diabetes,Never,12.77
+1424,2024-09-13,32,M,174.8,128.8,Cycling,100,Medium,36.4,132,8.6,4,9238,2.9,27.9,65.1,114.9,67.4,Diabetes,Never,12.89
+1424,2024-09-14,32,M,174.8,129.0,Cycling,48,Medium,17.5,133,5.7,9,7813,2.0,27.9,65.1,114.9,67.4,Diabetes,Never,12.94
+1424,2024-09-16,32,M,174.8,129.3,Dancing,36,Low,7.1,123,6.8,3,4937,3.0,27.9,65.1,114.9,67.4,Diabetes,Never,12.98
+1424,2024-09-18,32,M,174.8,129.6,HIIT,76,Medium,39.3,146,7.3,6,6580,2.4,27.9,65.1,114.9,67.4,Diabetes,Never,13.07
+1424,2024-09-25,32,M,174.8,129.8,Dancing,86,High,23.8,147,6.9,10,7447,3.0,27.9,65.1,114.9,67.4,Diabetes,Never,13.19
+1424,2024-09-26,32,M,174.8,130.1,Running,102,Low,36.0,118,6.4,2,7620,2.2,27.9,65.1,114.9,67.4,Diabetes,Never,13.29
+1424,2024-09-27,32,M,174.8,130.3,Basketball,36,Medium,12.5,136,7.8,9,2262,3.2,27.9,65.1,114.9,67.4,Diabetes,Never,13.34
+1424,2024-09-28,32,M,174.8,130.6,Running,80,Medium,34.1,134,7.2,9,6742,2.8,27.9,65.1,114.9,67.4,Diabetes,Never,13.43

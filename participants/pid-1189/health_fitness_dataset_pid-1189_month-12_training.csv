@@ -1,0 +1,17 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+1189,2024-12-01,18,F,171.4,109.8,Running,57,Medium,20.4,150,8.1,10,7004,3.4,18.4,64.9,119.4,90.3,None,Current,17.19
+1189,2024-12-02,18,F,171.4,110.1,Running,44,Medium,15.8,150,7.4,8,5776,3.5,18.4,64.9,119.4,90.3,None,Current,17.24
+1189,2024-12-03,18,F,171.4,110.4,Weight Training,25,Low,4.6,129,7.8,1,9374,3.2,18.4,64.9,119.4,90.3,None,Current,17.26
+1189,2024-12-05,18,F,171.4,110.6,Swimming,95,Medium,24.5,160,5.9,5,7892,2.2,18.4,64.9,119.4,90.3,None,Current,17.38
+1189,2024-12-06,18,F,171.4,110.9,Running,63,Medium,22.8,127,4.2,5,10104,3.4,18.4,64.9,119.4,90.3,None,Current,17.45
+1189,2024-12-07,18,F,171.4,111.1,Basketball,80,Medium,23.7,159,5.8,5,8120,2.8,18.4,64.9,119.4,90.3,None,Current,17.55
+1189,2024-12-08,18,F,171.4,111.4,Dancing,117,High,27.8,168,8.2,9,13318,1.6,18.4,64.9,119.4,90.3,None,Current,17.71
+1189,2024-12-10,18,F,171.4,111.7,Basketball,30,Medium,8.9,120,7.7,9,9555,2.2,18.4,64.9,119.4,90.3,None,Current,17.75
+1189,2024-12-13,18,F,171.4,111.9,HIIT,43,Low,16.0,134,9.1,6,9116,3.1,18.4,64.9,119.4,90.3,None,Current,17.79
+1189,2024-12-14,18,F,171.4,112.2,HIIT,40,Low,14.9,124,7.7,4,11188,3.4,18.4,64.9,119.4,90.3,None,Current,17.83
+1189,2024-12-15,18,F,171.4,112.4,Basketball,27,High,9.4,153,6.9,3,7676,1.9,18.4,64.9,119.4,90.3,None,Current,17.87
+1189,2024-12-16,18,F,171.4,112.7,Basketball,42,Medium,12.6,162,5.0,8,8488,2.0,18.4,64.9,119.4,90.3,None,Current,17.92
+1189,2024-12-17,18,F,171.4,112.9,Basketball,73,High,25.6,178,6.9,2,6754,1.5,18.4,64.9,119.4,90.3,None,Current,18.02
+1189,2024-12-20,18,F,171.4,113.2,Basketball,115,High,40.4,172,6.0,6,7983,2.9,18.4,64.9,119.4,90.3,None,Current,18.18
+1189,2024-12-22,18,F,171.4,113.5,Basketball,47,Low,11.8,127,6.3,2,9295,2.6,18.4,64.9,119.4,90.3,None,Current,18.23
+1189,2024-12-25,18,F,171.4,113.7,Basketball,29,Medium,8.8,158,7.4,5,8124,2.6,18.4,64.9,119.4,90.3,None,Current,18.26

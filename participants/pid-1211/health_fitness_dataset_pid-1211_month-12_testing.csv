@@ -1,0 +1,17 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+1211,2024-12-01,64,F,161.6,120.1,Weight Training,104,Medium,24.9,111,6.3,3,5300,2.6,24.9,65.9,131,76.7,None,Never,17.77
+1211,2024-12-02,64,F,161.6,120.4,Weight Training,103,Medium,24.7,126,7.9,10,3996,2.6,24.9,65.9,131,76.7,None,Never,17.89
+1211,2024-12-05,64,F,161.6,120.6,Weight Training,93,Medium,22.4,103,7.3,5,6096,2.5,24.9,65.9,131,76.7,None,Never,18.0
+1211,2024-12-06,64,F,161.6,120.9,Weight Training,72,Low,14.5,100,6.6,10,8005,3.3,24.9,65.9,131,76.7,None,Never,18.08
+1211,2024-12-08,64,F,161.6,121.1,Weight Training,69,High,19.5,131,5.6,9,9760,3.4,24.9,65.9,131,76.7,None,Never,18.17
+1211,2024-12-10,64,F,161.6,121.4,Weight Training,107,Medium,25.9,111,7.8,1,4895,2.1,24.9,65.9,131,76.7,None,Never,18.3
+1211,2024-12-11,64,F,161.6,121.6,Weight Training,49,Medium,11.9,113,7.9,6,7314,2.6,24.9,65.9,131,76.7,None,Never,18.36
+1211,2024-12-12,64,F,161.6,121.9,Cycling,48,High,19.3,133,6.9,7,6697,3.1,24.9,65.9,131,76.7,None,Never,18.43
+1211,2024-12-15,64,F,161.6,122.2,Weight Training,59,Medium,14.4,118,8.9,6,8827,2.0,24.9,65.9,131,76.7,None,Never,18.5
+1211,2024-12-16,64,F,161.6,122.4,Cycling,33,Medium,11.4,127,6.3,6,5822,3.3,24.9,65.9,131,76.7,None,Never,18.54
+1211,2024-12-18,64,F,161.6,122.7,Weight Training,23,Medium,5.6,113,7.1,1,7215,3.5,24.9,65.9,131,76.7,None,Never,18.56
+1211,2024-12-19,64,F,161.6,122.9,Cycling,107,High,43.4,144,6.1,6,7731,2.9,24.9,65.9,131,76.7,None,Never,18.71
+1211,2024-12-20,64,F,161.6,123.2,Cycling,96,Low,27.9,98,5.7,10,7659,3.1,24.9,65.9,131,76.7,None,Never,18.81
+1211,2024-12-21,64,F,161.6,123.4,Weight Training,104,Low,21.4,95,6.3,4,10732,3.0,24.9,65.9,131,76.7,None,Never,18.91
+1211,2024-12-22,64,F,161.6,123.7,Weight Training,90,High,25.9,131,6.2,6,9506,2.1,24.9,65.9,131,76.7,None,Never,19.04
+1211,2024-12-23,64,F,161.6,124.0,HIIT,98,Medium,48.5,118,7.9,4,7462,2.6,24.9,65.9,131,76.7,None,Never,19.16

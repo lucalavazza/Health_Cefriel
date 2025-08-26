@@ -1,0 +1,15 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+2540,2024-09-01,28,M,175.2,128.3,Weight Training,72,High,21.5,152,6.3,7,7859,2.5,26.2,74,114.7,72.7,Hypertension,Current,14.77
+2540,2024-09-02,28,M,175.2,128.5,Dancing,27,High,7.4,154,5.6,6,7185,3.1,26.2,74,114.7,72.7,Hypertension,Current,14.81
+2540,2024-09-05,28,M,175.2,128.8,Weight Training,100,High,30.0,148,7.2,10,6763,2.9,26.2,74,114.7,72.7,Hypertension,Current,14.95
+2540,2024-09-06,28,M,175.2,129.0,Weight Training,100,Medium,25.8,126,7.4,10,5742,1.5,26.2,74,114.7,72.7,Hypertension,Current,15.07
+2540,2024-09-07,28,M,175.2,129.3,Weight Training,86,Medium,22.2,146,7.6,5,6835,2.7,26.2,74,114.7,72.7,Hypertension,Current,15.17
+2540,2024-09-08,28,M,175.2,129.5,Weight Training,99,Medium,25.6,140,6.9,10,10050,1.9,26.2,74,114.7,72.7,Hypertension,Current,15.29
+2540,2024-09-13,28,M,175.2,129.8,Yoga,68,Medium,8.8,145,6.8,4,5753,2.3,26.2,74,114.7,72.7,Hypertension,Current,15.37
+2540,2024-09-19,28,M,175.2,130.1,Running,100,Low,35.3,130,7.9,8,4928,2.5,26.2,74,114.7,72.7,Hypertension,Current,15.47
+2540,2024-09-21,28,M,175.2,130.3,Weight Training,30,Medium,7.8,138,5.8,3,6160,2.7,26.2,74,114.7,72.7,Hypertension,Current,15.51
+2540,2024-09-22,28,M,175.2,130.6,Running,40,Medium,17.0,159,7.3,4,6647,3.0,26.2,74,114.7,72.7,Hypertension,Current,15.56
+2540,2024-09-25,28,M,175.2,130.8,Weight Training,63,Medium,16.5,135,7.9,6,8892,2.4,26.2,74,114.7,72.7,Hypertension,Current,15.63
+2540,2024-09-26,28,M,175.2,131.1,Dancing,45,Medium,10.8,145,6.6,7,6600,3.4,26.2,74,114.7,72.7,Hypertension,Current,15.69
+2540,2024-09-28,28,M,175.2,131.3,Tennis,95,Medium,30.3,140,5.9,3,7758,2.5,26.2,74,114.7,72.7,Hypertension,Current,15.8
+2540,2024-09-30,28,M,175.2,131.6,Running,82,Medium,35.2,139,6.5,2,6124,3.2,26.2,74,114.7,72.7,Hypertension,Current,15.9

@@ -1,0 +1,22 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+774,2024-01-01,32,F,164,45.3,Weight Training,50,High,5.2,155,6.4,8,6619,1.9,16.7,67.4,96.5,70.1,None,Current,0.07
+774,2024-01-02,32,F,164,45.5,Weight Training,108,Low,8.1,126,7.0,1,8691,1.9,16.7,67.4,96.5,70.1,None,Current,0.18
+774,2024-01-04,32,F,164,45.8,Weight Training,62,Medium,5.6,143,7.6,10,10028,2.1,16.7,67.4,96.5,70.1,None,Current,0.25
+774,2024-01-05,32,F,164,46.0,Weight Training,92,Low,7.0,120,7.0,8,8919,2.1,16.7,67.4,96.5,70.1,None,Current,0.34
+774,2024-01-07,32,F,164,46.3,Swimming,61,Medium,6.6,131,8.3,5,9047,2.5,16.7,67.4,96.5,70.1,None,Current,0.42
+774,2024-01-08,32,F,164,46.6,Walking,111,Medium,6.5,118,7.2,4,6152,2.3,16.7,67.4,96.5,70.1,None,Current,0.55
+774,2024-01-09,32,F,164,46.8,Walking,24,Medium,1.4,148,6.7,8,7083,3.0,16.7,67.4,96.5,70.1,None,Current,0.58
+774,2024-01-11,32,F,164,47.1,Swimming,112,Medium,12.2,144,6.6,3,7686,2.3,16.7,67.4,96.5,70.1,None,Current,0.71
+774,2024-01-14,32,F,164,47.3,Walking,59,Medium,3.5,140,7.8,7,10486,1.7,16.7,67.4,96.5,70.1,None,Current,0.78
+774,2024-01-15,32,F,164,47.6,Walking,61,Low,3.0,123,6.0,5,10621,2.5,16.7,67.4,96.5,70.1,None,Current,0.85
+774,2024-01-16,32,F,164,47.8,Walking,47,Medium,2.8,136,7.8,3,7871,2.2,16.7,67.4,96.5,70.1,None,Current,0.9
+774,2024-01-17,32,F,164,48.1,HIIT,56,Medium,10.7,148,7.3,5,8670,3.4,16.7,67.4,96.5,70.1,None,Current,0.97
+774,2024-01-19,32,F,164,48.4,Walking,45,Medium,2.7,147,5.7,7,8829,3.2,16.7,67.4,96.5,70.1,None,Current,1.02
+774,2024-01-21,32,F,164,48.6,HIIT,118,Medium,22.8,151,6.0,2,9251,2.5,16.7,67.4,96.5,70.1,None,Current,1.16
+774,2024-01-22,32,F,164,48.9,Cycling,71,Medium,9.8,145,7.3,6,6415,3.4,16.7,67.4,96.5,70.1,None,Current,1.25
+774,2024-01-23,32,F,164,49.1,HIIT,44,Medium,8.6,159,7.7,1,10349,2.0,16.7,67.4,96.5,70.1,None,Current,1.3
+774,2024-01-24,32,F,164,49.4,Cycling,59,Medium,8.2,147,8.2,1,7459,2.9,16.7,67.4,96.5,70.1,None,Current,1.37
+774,2024-01-27,32,F,164,49.7,Cycling,88,Medium,12.3,132,7.6,8,9791,3.2,16.7,67.4,96.5,70.1,None,Current,1.48
+774,2024-01-29,32,F,164,49.9,Cycling,71,Low,8.3,122,5.8,4,7253,2.4,16.7,67.4,96.5,70.1,None,Current,1.55
+774,2024-01-30,32,F,164,50.2,Cycling,91,High,15.0,166,7.0,9,10382,2.0,16.7,67.4,96.5,70.1,None,Current,1.68
+774,2024-01-31,32,F,164,50.4,Running,22,Medium,3.6,130,9.8,3,8962,2.1,16.7,67.4,96.5,70.1,None,Current,1.7

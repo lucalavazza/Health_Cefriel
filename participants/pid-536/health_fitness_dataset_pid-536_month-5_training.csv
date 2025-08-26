@@ -1,0 +1,19 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+536,2024-05-01,42,M,167.2,94.4,Swimming,71,Low,13.0,124,9.6,5,12619,2.7,25,66.1,143.6,83.8,None,Never,7.87
+536,2024-05-03,42,M,167.2,94.6,Basketball,31,Medium,7.8,130,7.6,10,10439,2.3,25,66.1,143.6,83.8,None,Never,7.91
+536,2024-05-04,42,M,167.2,94.9,Basketball,38,Low,8.0,112,8.0,5,11219,3.1,25,66.1,143.6,83.8,None,Never,7.95
+536,2024-05-05,42,M,167.2,95.2,Swimming,119,Medium,26.4,143,7.7,10,12402,3.5,25,66.1,143.6,83.8,None,Never,8.09
+536,2024-05-07,42,M,167.2,95.4,Basketball,69,Medium,17.5,119,6.0,10,8588,1.9,25,66.1,143.6,83.8,None,Never,8.17
+536,2024-05-14,42,M,167.2,95.7,Basketball,115,Medium,29.3,134,4.9,6,9806,3.0,25,66.1,143.6,83.8,None,Never,8.31
+536,2024-05-17,42,M,167.2,95.9,Weight Training,57,Medium,10.9,132,8.8,7,9040,1.6,25,66.1,143.6,83.8,None,Never,8.38
+536,2024-05-18,42,M,167.2,96.2,Basketball,81,Low,17.3,112,6.5,8,10265,2.7,25,66.1,143.6,83.8,None,Never,8.46
+536,2024-05-19,42,M,167.2,96.4,Weight Training,69,Low,11.1,115,7.3,2,9790,2.5,25,66.1,143.6,83.8,None,Never,8.53
+536,2024-05-20,42,M,167.2,96.7,Weight Training,75,Low,12.1,111,5.2,4,6394,2.9,25,66.1,143.6,83.8,None,Never,8.61
+536,2024-05-21,42,M,167.2,97.0,Basketball,102,Low,21.9,116,7.4,7,9295,2.4,25,66.1,143.6,83.8,None,Never,8.71
+536,2024-05-22,42,M,167.2,97.2,Basketball,22,High,6.6,154,6.1,4,10299,3.2,25,66.1,143.6,83.8,None,Never,8.74
+536,2024-05-24,42,M,167.2,97.5,Swimming,104,High,27.5,153,7.2,2,11498,2.1,25,66.1,143.6,83.8,None,Never,8.88
+536,2024-05-25,42,M,167.2,97.7,HIIT,25,Medium,9.7,136,5.7,3,10323,3.2,25,66.1,143.6,83.8,None,Never,8.91
+536,2024-05-26,42,M,167.2,98.0,Basketball,91,Medium,23.7,142,6.2,10,7965,3.5,25,66.1,143.6,83.8,None,Never,9.02
+536,2024-05-27,42,M,167.2,98.3,Swimming,78,Medium,17.8,136,5.5,3,9404,2.8,25,66.1,143.6,83.8,None,Never,9.12
+536,2024-05-28,42,M,167.2,98.5,Swimming,21,Low,4.0,115,6.8,4,11399,2.3,25,66.1,143.6,83.8,None,Never,9.14
+536,2024-05-30,42,M,167.2,98.8,Basketball,82,Medium,21.5,114,7.2,1,8529,2.7,25,66.1,143.6,83.8,None,Never,9.24

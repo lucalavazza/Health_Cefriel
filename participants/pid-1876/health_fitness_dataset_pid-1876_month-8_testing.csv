@@ -1,0 +1,18 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+1876,2024-08-02,61,F,171.7,91.0,Weight Training,98,High,20.8,123,5.9,7,6821,3.4,18.2,70.8,120.1,87.4,Asthma,Never,11.84
+1876,2024-08-03,61,F,171.7,91.3,Weight Training,43,Low,6.5,105,6.0,1,7043,2.9,18.2,70.8,120.1,87.4,Asthma,Never,11.88
+1876,2024-08-04,61,F,171.7,91.5,Running,86,Medium,25.6,120,7.7,9,9557,3.5,18.2,70.8,120.1,87.4,Asthma,Never,11.98
+1876,2024-08-05,61,F,171.7,91.8,Swimming,74,Medium,15.8,110,6.8,7,9857,1.8,18.2,70.8,120.1,87.4,Asthma,Never,12.07
+1876,2024-08-07,61,F,171.7,92.0,Weight Training,39,Low,6.0,101,7.3,8,6031,1.5,18.2,70.8,120.1,87.4,Asthma,Never,12.11
+1876,2024-08-08,61,F,171.7,92.3,Yoga,28,Medium,2.6,104,6.5,6,8063,2.2,18.2,70.8,120.1,87.4,Asthma,Never,12.14
+1876,2024-08-09,61,F,171.7,92.6,Weight Training,77,Medium,14.2,118,7.9,5,6297,3.3,18.2,70.8,120.1,87.4,Asthma,Never,12.24
+1876,2024-08-10,61,F,171.7,92.8,Weight Training,102,Low,15.7,98,7.6,10,8558,2.4,18.2,70.8,120.1,87.4,Asthma,Never,12.34
+1876,2024-08-12,61,F,171.7,93.1,Tennis,101,Medium,22.8,123,5.4,9,4976,3.3,18.2,70.8,120.1,87.4,Asthma,Never,12.46
+1876,2024-08-16,61,F,171.7,93.3,Tennis,64,Medium,14.5,139,7.6,10,8853,3.1,18.2,70.8,120.1,87.4,Asthma,Never,12.54
+1876,2024-08-17,61,F,171.7,93.6,HIIT,45,Low,14.0,104,7.9,4,8776,2.6,18.2,70.8,120.1,87.4,Asthma,Never,12.58
+1876,2024-08-21,61,F,171.7,93.8,Tennis,112,Medium,25.5,117,7.0,8,5321,1.8,18.2,70.8,120.1,87.4,Asthma,Never,12.72
+1876,2024-08-22,61,F,171.7,94.1,Tennis,86,Low,16.4,113,6.0,3,6689,3.2,18.2,70.8,120.1,87.4,Asthma,Never,12.8
+1876,2024-08-27,61,F,171.7,94.4,Swimming,58,Medium,12.7,124,8.1,8,7011,3.1,18.2,70.8,120.1,87.4,Asthma,Never,12.87
+1876,2024-08-28,61,F,171.7,94.6,Basketball,75,High,22.0,142,7.0,5,5853,2.2,18.2,70.8,120.1,87.4,Asthma,Never,12.98
+1876,2024-08-30,61,F,171.7,94.9,Basketball,40,Medium,10.1,108,7.7,5,8812,1.6,18.2,70.8,120.1,87.4,Asthma,Never,13.02
+1876,2024-08-31,61,F,171.7,95.1,Swimming,56,Medium,12.4,117,8.6,3,7483,2.2,18.2,70.8,120.1,87.4,Asthma,Never,13.09

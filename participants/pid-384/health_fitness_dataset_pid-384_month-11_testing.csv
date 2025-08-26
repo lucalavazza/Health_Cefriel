@@ -1,0 +1,18 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+384,2024-11-01,31,F,155.6,105.9,Basketball,99,Medium,27.9,134,6.5,6,5177,1.8,22.2,68.8,122.3,77.3,Diabetes,Never,16.76
+384,2024-11-02,31,F,155.6,106.1,Basketball,94,Low,22.1,125,6.2,5,7891,3.1,22.2,68.8,122.3,77.3,Diabetes,Never,16.85
+384,2024-11-03,31,F,155.6,106.4,Basketball,78,Low,18.4,124,6.3,7,9655,3.2,22.2,68.8,122.3,77.3,Diabetes,Never,16.93
+384,2024-11-04,31,F,155.6,106.7,Basketball,107,Low,25.3,116,7.6,1,6512,3.1,22.2,68.8,122.3,77.3,Diabetes,Never,17.04
+384,2024-11-06,31,F,155.6,106.9,Basketball,101,Medium,28.7,158,5.7,2,5172,2.7,22.2,68.8,122.3,77.3,Diabetes,Never,17.16
+384,2024-11-11,31,F,155.6,107.2,Basketball,79,Low,18.8,132,6.2,3,6481,1.5,22.2,68.8,122.3,77.3,Diabetes,Never,17.24
+384,2024-11-14,31,F,155.6,107.4,Basketball,71,Medium,20.3,146,5.7,1,6043,2.4,22.2,68.8,122.3,77.3,Diabetes,Never,17.32
+384,2024-11-15,31,F,155.6,107.7,Running,82,Low,24.0,128,7.3,10,6707,2.5,22.2,68.8,122.3,77.3,Diabetes,Never,17.41
+384,2024-11-18,31,F,155.6,107.9,Weight Training,43,Low,7.7,118,7.3,5,7774,2.1,22.2,68.8,122.3,77.3,Diabetes,Never,17.45
+384,2024-11-20,31,F,155.6,108.2,Running,106,Medium,37.4,146,6.5,9,8984,3.4,22.2,68.8,122.3,77.3,Diabetes,Never,17.58
+384,2024-11-23,31,F,155.6,108.4,Running,86,Medium,30.4,133,7.3,3,5855,3.4,22.2,68.8,122.3,77.3,Diabetes,Never,17.68
+384,2024-11-24,31,F,155.6,108.7,Running,68,Low,20.1,121,6.5,6,9394,2.2,22.2,68.8,122.3,77.3,Diabetes,Never,17.75
+384,2024-11-25,31,F,155.6,109.0,Running,109,Low,32.3,120,7.3,7,5827,1.8,22.2,68.8,122.3,77.3,Diabetes,Never,17.86
+384,2024-11-26,31,F,155.6,109.2,Running,100,Medium,35.6,140,8.6,7,5781,3.5,22.2,68.8,122.3,77.3,Diabetes,Never,17.98
+384,2024-11-27,31,F,155.6,109.5,Yoga,118,Low,10.7,123,6.1,9,7107,1.7,22.2,68.8,122.3,77.3,Diabetes,Never,18.09
+384,2024-11-28,31,F,155.6,109.7,Yoga,44,Medium,4.8,147,5.6,9,7105,2.1,22.2,68.8,122.3,77.3,Diabetes,Never,18.15
+384,2024-11-29,31,F,155.6,110.0,Tennis,43,Medium,11.5,136,6.8,9,8747,2.8,22.2,68.8,122.3,77.3,Diabetes,Never,18.2

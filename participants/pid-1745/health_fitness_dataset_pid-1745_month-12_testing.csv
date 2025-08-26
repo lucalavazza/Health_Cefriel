@@ -1,0 +1,16 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+1745,2024-12-02,36,M,176.8,136.0,Weight Training,66,Medium,17.9,146,7.0,7,8419,2.9,26.2,69.6,117.6,87.1,None,Never,17.11
+1745,2024-12-03,36,M,176.8,136.2,Weight Training,86,High,27.3,176,7.5,6,10117,2.7,26.2,69.6,117.6,87.1,None,Never,17.23
+1745,2024-12-04,36,M,176.8,136.5,Weight Training,69,Medium,18.8,155,6.1,5,7725,2.6,26.2,69.6,117.6,87.1,None,Never,17.32
+1745,2024-12-05,36,M,176.8,136.7,Weight Training,49,Low,11.1,118,7.2,3,10892,1.8,26.2,69.6,117.6,87.1,None,Never,17.36
+1745,2024-12-06,36,M,176.8,137.0,Swimming,26,Medium,8.3,144,5.7,4,8848,3.1,26.2,69.6,117.6,87.1,None,Never,17.4
+1745,2024-12-09,36,M,176.8,137.2,Swimming,88,Medium,28.1,144,7.4,5,6659,2.7,26.2,69.6,117.6,87.1,None,Never,17.5
+1745,2024-12-10,36,M,176.8,137.5,Walking,98,Medium,17.0,112,8.8,8,7115,2.4,26.2,69.6,117.6,87.1,None,Never,17.62
+1745,2024-12-11,36,M,176.8,137.8,Walking,24,Low,3.5,117,7.8,7,7444,1.8,26.2,69.6,117.6,87.1,None,Never,17.64
+1745,2024-12-14,36,M,176.8,138.0,Walking,114,Low,16.6,119,6.9,8,9330,1.5,26.2,69.6,117.6,87.1,None,Never,17.76
+1745,2024-12-15,36,M,176.8,138.3,Walking,29,Low,4.2,126,7.5,2,9231,2.7,26.2,69.6,117.6,87.1,None,Never,17.79
+1745,2024-12-17,36,M,176.8,138.5,Weight Training,84,Medium,23.2,128,6.5,3,8481,3.1,26.2,69.6,117.6,87.1,None,Never,17.89
+1745,2024-12-18,36,M,176.8,138.8,Weight Training,113,Medium,31.3,143,7.0,2,7876,1.9,26.2,69.6,117.6,87.1,None,Never,18.02
+1745,2024-12-22,36,M,176.8,139.1,Basketball,78,Medium,28.9,147,6.4,3,9056,1.9,26.2,69.6,117.6,87.1,None,Never,18.12
+1745,2024-12-23,36,M,176.8,139.3,Basketball,41,Low,12.7,112,7.3,4,6525,2.6,26.2,69.6,117.6,87.1,None,Never,18.16
+1745,2024-12-25,36,M,176.8,139.6,Swimming,95,Low,25.7,122,5.9,3,10459,2.9,26.2,69.6,117.6,87.1,None,Never,18.25

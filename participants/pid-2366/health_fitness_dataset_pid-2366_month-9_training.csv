@@ -1,0 +1,17 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+2366,2024-09-01,21,F,158.4,90.2,Walking,93,Low,8.8,131,6.7,10,5855,2.0,17.9,65.7,130.4,81.8,None,Current,14.49
+2366,2024-09-04,21,F,158.4,90.5,Swimming,99,Low,17.4,126,8.3,8,4201,2.4,17.9,65.7,130.4,81.8,None,Current,14.59
+2366,2024-09-06,21,F,158.4,90.7,Swimming,29,High,7.1,186,6.8,9,6836,3.1,17.9,65.7,130.4,81.8,None,Current,14.63
+2366,2024-09-10,21,F,158.4,91.0,Weight Training,65,Low,9.8,128,6.9,7,6612,3.1,17.9,65.7,130.4,81.8,None,Current,14.7
+2366,2024-09-11,21,F,158.4,91.2,Swimming,41,Medium,8.7,160,6.9,5,8682,3.2,17.9,65.7,130.4,81.8,None,Current,14.75
+2366,2024-09-12,21,F,158.4,91.5,Weight Training,106,Low,16.1,125,6.7,2,6993,2.8,17.9,65.7,130.4,81.8,None,Current,14.85
+2366,2024-09-13,21,F,158.4,91.8,Swimming,22,Low,3.9,125,6.7,4,6879,3.0,17.9,65.7,130.4,81.8,None,Current,14.87
+2366,2024-09-15,21,F,158.4,92.0,Tennis,43,Medium,9.6,146,5.9,3,8267,2.3,17.9,65.7,130.4,81.8,None,Current,14.93
+2366,2024-09-16,21,F,158.4,92.3,Weight Training,25,Medium,4.6,123,6.9,4,6930,1.9,17.9,65.7,130.4,81.8,None,Current,14.96
+2366,2024-09-17,21,F,158.4,92.5,Dancing,72,Medium,12.2,152,9.3,5,7007,1.7,17.9,65.7,130.4,81.8,None,Current,15.04
+2366,2024-09-19,21,F,158.4,92.8,Tennis,89,Medium,20.0,141,7.3,4,6918,2.7,17.9,65.7,130.4,81.8,None,Current,15.15
+2366,2024-09-20,21,F,158.4,93.0,Dancing,83,High,16.5,171,9.3,7,6046,1.6,17.9,65.7,130.4,81.8,None,Current,15.26
+2366,2024-09-24,21,F,158.4,93.3,Basketball,117,Low,24.2,130,6.7,1,8391,2.6,17.9,65.7,130.4,81.8,None,Current,15.38
+2366,2024-09-25,21,F,158.4,93.6,Weight Training,69,Medium,12.9,159,6.4,7,7128,1.7,17.9,65.7,130.4,81.8,None,Current,15.46
+2366,2024-09-26,21,F,158.4,93.8,Tennis,91,Medium,20.7,156,8.7,4,5278,3.4,17.9,65.7,130.4,81.8,None,Current,15.57
+2366,2024-09-27,21,F,158.4,94.1,Basketball,88,Medium,22.0,146,7.0,1,3700,2.0,17.9,65.7,130.4,81.8,None,Current,15.68

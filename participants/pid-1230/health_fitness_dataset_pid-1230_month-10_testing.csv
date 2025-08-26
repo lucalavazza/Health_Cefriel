@@ -1,0 +1,17 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+1230,2024-10-01,33,F,160.1,106.2,Basketball,34,Medium,9.6,141,7.0,8,9325,2.1,23.1,77,118,82,Hypertension,Current,15.08
+1230,2024-10-02,33,F,160.1,106.4,Basketball,112,High,37.0,168,7.8,7,7487,2.1,23.1,77,118,82,Hypertension,Current,15.24
+1230,2024-10-04,33,F,160.1,106.7,Basketball,110,Medium,31.2,133,6.8,3,9538,3.1,23.1,77,118,82,Hypertension,Current,15.37
+1230,2024-10-05,33,F,160.1,106.9,Basketball,91,High,30.2,143,6.0,10,8025,1.9,23.1,77,118,82,Hypertension,Current,15.5
+1230,2024-10-07,33,F,160.1,107.2,Basketball,75,Medium,21.4,133,5.0,3,6746,2.9,23.1,77,118,82,Hypertension,Current,15.59
+1230,2024-10-09,33,F,160.1,107.4,Yoga,119,Low,10.6,114,6.7,3,7057,2.9,23.1,77,118,82,Hypertension,Current,15.71
+1230,2024-10-10,33,F,160.1,107.7,Yoga,102,High,12.8,155,7.2,5,6651,2.1,23.1,77,118,82,Hypertension,Current,15.85
+1230,2024-10-11,33,F,160.1,108.0,Basketball,20,Low,4.8,122,5.8,2,8270,3.2,23.1,77,118,82,Hypertension,Current,15.87
+1230,2024-10-12,33,F,160.1,108.2,Basketball,97,Low,23.3,120,8.4,10,9477,3.3,23.1,77,118,82,Hypertension,Current,15.97
+1230,2024-10-16,33,F,160.1,108.5,Yoga,46,Low,4.1,125,6.4,3,5524,1.7,23.1,77,118,82,Hypertension,Current,16.01
+1230,2024-10-23,33,F,160.1,108.7,Yoga,72,High,9.1,167,8.3,1,3013,1.6,23.1,77,118,82,Hypertension,Current,16.12
+1230,2024-10-24,33,F,160.1,109.0,Basketball,77,Low,18.6,126,6.5,9,5179,2.0,23.1,77,118,82,Hypertension,Current,16.19
+1230,2024-10-26,33,F,160.1,109.3,Yoga,80,Medium,8.7,133,5.6,2,9293,3.2,23.1,77,118,82,Hypertension,Current,16.29
+1230,2024-10-27,33,F,160.1,109.5,Basketball,94,High,31.9,165,7.6,7,6602,2.0,23.1,77,118,82,Hypertension,Current,16.42
+1230,2024-10-29,33,F,160.1,109.8,Basketball,61,Low,14.8,121,7.9,9,8730,1.8,23.1,77,118,82,Hypertension,Current,16.48
+1230,2024-10-31,33,F,160.1,110.0,Swimming,94,Low,20.1,129,7.8,1,4127,2.1,23.1,77,118,82,Hypertension,Current,16.58

@@ -1,0 +1,17 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+2810,2024-09-04,35,M,164.7,110.2,Dancing,28,Low,4.7,122,8.1,8,6589,2.3,25.4,65.1,122.2,90.9,None,Current,12.2
+2810,2024-09-07,35,M,164.7,110.4,Dancing,44,Low,7.4,117,7.7,2,7134,2.9,25.4,65.1,122.2,90.9,None,Current,12.24
+2810,2024-09-08,35,M,164.7,110.7,Basketball,49,High,16.8,153,8.4,3,5700,3.5,25.4,65.1,122.2,90.9,None,Current,12.31
+2810,2024-09-10,35,M,164.7,111.0,Cycling,23,Medium,7.2,131,6.5,5,7378,2.4,25.4,65.1,122.2,90.9,None,Current,12.34
+2810,2024-09-12,35,M,164.7,111.2,Basketball,48,High,16.6,159,6.1,9,4899,3.4,25.4,65.1,122.2,90.9,None,Current,12.41
+2810,2024-09-14,35,M,164.7,111.5,Basketball,101,High,34.9,156,5.7,9,8687,2.1,25.4,65.1,122.2,90.9,None,Current,12.55
+2810,2024-09-15,35,M,164.7,111.7,Basketball,52,High,18.0,148,6.5,8,9046,2.6,25.4,65.1,122.2,90.9,None,Current,12.62
+2810,2024-09-16,35,M,164.7,112.0,Basketball,100,Medium,29.8,138,6.7,2,6944,2.1,25.4,65.1,122.2,90.9,None,Current,12.74
+2810,2024-09-17,35,M,164.7,112.2,Basketball,27,Medium,8.1,127,7.8,3,8386,2.4,25.4,65.1,122.2,90.9,None,Current,12.77
+2810,2024-09-19,35,M,164.7,112.5,Dancing,89,Low,15.3,126,7.5,8,5818,2.0,25.4,65.1,122.2,90.9,None,Current,12.86
+2810,2024-09-22,35,M,164.7,112.8,Basketball,52,Low,13.0,124,5.8,6,7181,3.4,25.4,65.1,122.2,90.9,None,Current,12.92
+2810,2024-09-23,35,M,164.7,113.0,Dancing,84,Low,14.5,122,4.0,2,6242,3.5,25.4,65.1,122.2,90.9,None,Current,13.0
+2810,2024-09-27,35,M,164.7,113.3,Swimming,41,High,12.6,151,5.0,6,5137,2.1,25.4,65.1,122.2,90.9,None,Current,13.06
+2810,2024-09-28,35,M,164.7,113.5,Swimming,93,Medium,24.6,125,5.4,2,7480,2.2,25.4,65.1,122.2,90.9,None,Current,13.17
+2810,2024-09-29,35,M,164.7,113.8,Swimming,43,Low,9.5,120,7.8,7,9218,2.4,25.4,65.1,122.2,90.9,None,Current,13.21
+2810,2024-09-30,35,M,164.7,114.0,Swimming,103,Low,22.8,113,6.2,7,8035,3.3,25.4,65.1,122.2,90.9,None,Current,13.31

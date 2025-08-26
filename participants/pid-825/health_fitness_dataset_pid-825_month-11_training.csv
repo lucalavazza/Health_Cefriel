@@ -1,0 +1,20 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+825,2024-11-01,21,M,182.8,117.7,Basketball,104,Medium,32.6,140,7.2,6,5344,2.1,20.5,80.4,120.6,73.3,Hypertension,Current,15.43
+825,2024-11-04,21,M,182.8,118.0,Weight Training,45,High,12.4,176,6.6,8,5969,2.7,20.5,80.4,120.6,73.3,Hypertension,Current,15.49
+825,2024-11-05,21,M,182.8,118.2,Basketball,97,Medium,30.5,145,7.9,4,3729,2.5,20.5,80.4,120.6,73.3,Hypertension,Current,15.61
+825,2024-11-06,21,M,182.8,118.5,Weight Training,31,High,8.6,155,5.3,1,8001,1.8,20.5,80.4,120.6,73.3,Hypertension,Current,15.65
+825,2024-11-07,21,M,182.8,118.7,Weight Training,50,Low,9.9,137,8.1,4,6087,3.1,20.5,80.4,120.6,73.3,Hypertension,Current,15.7
+825,2024-11-08,21,M,182.8,119.0,HIIT,111,Medium,52.7,143,6.4,9,6362,2.3,20.5,80.4,120.6,73.3,Hypertension,Current,15.84
+825,2024-11-11,21,M,182.8,119.2,Weight Training,94,Medium,22.4,157,7.7,7,7128,2.1,20.5,80.4,120.6,73.3,Hypertension,Current,15.95
+825,2024-11-12,21,M,182.8,119.5,Dancing,110,Medium,24.0,142,7.5,6,6144,3.3,20.5,80.4,120.6,73.3,Hypertension,Current,16.08
+825,2024-11-16,21,M,182.8,119.8,Weight Training,111,High,31.0,169,7.2,8,7464,1.7,20.5,80.4,120.6,73.3,Hypertension,Current,16.24
+825,2024-11-19,21,M,182.8,120.0,Weight Training,114,Medium,27.3,136,6.3,1,9801,1.7,20.5,80.4,120.6,73.3,Hypertension,Current,16.37
+825,2024-11-20,21,M,182.8,120.3,Dancing,87,Medium,19.1,138,6.3,4,8780,3.2,20.5,80.4,120.6,73.3,Hypertension,Current,16.48
+825,2024-11-22,21,M,182.8,120.5,Dancing,105,Low,19.3,127,8.1,2,6499,2.4,20.5,80.4,120.6,73.3,Hypertension,Current,16.58
+825,2024-11-23,21,M,182.8,120.8,Dancing,24,High,6.2,157,6.5,8,7527,1.5,20.5,80.4,120.6,73.3,Hypertension,Current,16.62
+825,2024-11-25,21,M,182.8,121.0,Running,20,Medium,7.9,156,7.3,5,7217,2.5,20.5,80.4,120.6,73.3,Hypertension,Current,16.64
+825,2024-11-26,21,M,182.8,121.3,Running,44,Low,14.5,128,9.0,3,7357,3.2,20.5,80.4,120.6,73.3,Hypertension,Current,16.69
+825,2024-11-27,21,M,182.8,121.6,Weight Training,105,Low,21.2,128,6.4,7,9048,2.0,20.5,80.4,120.6,73.3,Hypertension,Current,16.79
+825,2024-11-28,21,M,182.8,121.8,Running,25,Low,8.3,136,7.3,1,9850,1.7,20.5,80.4,120.6,73.3,Hypertension,Current,16.82
+825,2024-11-29,21,M,182.8,122.1,Basketball,93,Medium,30.2,133,6.4,8,7604,3.5,20.5,80.4,120.6,73.3,Hypertension,Current,16.93
+825,2024-11-30,21,M,182.8,122.3,Basketball,25,Medium,8.1,159,6.0,2,9106,3.0,20.5,80.4,120.6,73.3,Hypertension,Current,16.96

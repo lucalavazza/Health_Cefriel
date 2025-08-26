@@ -1,0 +1,16 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+2575,2024-12-01,22,M,176.4,115.5,Cycling,106,Medium,34.6,153,8.1,4,9821,2.6,18.9,69.7,104.8,76.7,Diabetes,Current,18.4
+2575,2024-12-03,22,M,176.4,115.7,Walking,62,Medium,9.1,157,7.2,2,7459,3.0,18.9,69.7,104.8,76.7,Diabetes,Current,18.47
+2575,2024-12-04,22,M,176.4,116.0,Cycling,72,Medium,23.6,144,7.1,7,5771,1.7,18.9,69.7,104.8,76.7,Diabetes,Current,18.56
+2575,2024-12-05,22,M,176.4,116.2,Weight Training,53,Medium,12.3,148,6.8,1,9602,3.4,18.9,69.7,104.8,76.7,Diabetes,Current,18.62
+2575,2024-12-07,22,M,176.4,116.5,Walking,25,Medium,3.7,144,7.3,2,9137,2.1,18.9,69.7,104.8,76.7,Diabetes,Current,18.65
+2575,2024-12-08,22,M,176.4,116.8,Cycling,27,Medium,8.9,151,8.1,5,8433,3.1,18.9,69.7,104.8,76.7,Diabetes,Current,18.69
+2575,2024-12-11,22,M,176.4,117.0,Swimming,78,Medium,21.3,148,9.0,6,8635,2.9,18.9,69.7,104.8,76.7,Diabetes,Current,18.78
+2575,2024-12-12,22,M,176.4,117.3,Swimming,79,Medium,21.6,146,7.7,8,4809,3.0,18.9,69.7,104.8,76.7,Diabetes,Current,18.88
+2575,2024-12-15,22,M,176.4,117.5,Cycling,104,Medium,34.6,146,5.1,8,10328,2.0,18.9,69.7,104.8,76.7,Diabetes,Current,19.0
+2575,2024-12-16,22,M,176.4,117.8,Cycling,58,Low,16.1,133,5.9,10,8487,1.5,18.9,69.7,104.8,76.7,Diabetes,Current,19.06
+2575,2024-12-17,22,M,176.4,118.1,Cycling,87,Medium,29.0,158,6.7,6,8294,1.9,18.9,69.7,104.8,76.7,Diabetes,Current,19.16
+2575,2024-12-19,22,M,176.4,118.3,Cycling,26,High,10.1,163,7.9,2,8909,2.1,18.9,69.7,104.8,76.7,Diabetes,Current,19.2
+2575,2024-12-20,22,M,176.4,118.6,Cycling,71,Medium,23.8,156,8.9,7,8996,3.3,18.9,69.7,104.8,76.7,Diabetes,Current,19.28
+2575,2024-12-21,22,M,176.4,118.8,Cycling,39,Low,10.9,129,8.6,6,10641,3.1,18.9,69.7,104.8,76.7,Diabetes,Current,19.32
+2575,2024-12-25,22,M,176.4,119.1,Weight Training,53,Medium,12.6,155,6.7,5,7957,2.3,18.9,69.7,104.8,76.7,Diabetes,Current,19.39

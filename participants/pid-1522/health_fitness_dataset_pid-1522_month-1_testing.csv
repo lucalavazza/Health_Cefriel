@@ -1,0 +1,24 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+1522,2024-01-01,43,M,160.5,50.3,Basketball,62,Medium,8.3,144,7.5,3,5707,1.7,19.4,74.5,120,87,Asthma,Current,0.07
+1522,2024-01-03,43,M,160.5,50.5,Basketball,53,High,8.3,148,7.3,5,6821,1.8,19.4,74.5,120,87,Asthma,Current,0.15
+1522,2024-01-04,43,M,160.5,50.8,HIIT,22,Low,3.7,111,5.5,4,5922,2.4,19.4,74.5,120,87,Asthma,Current,0.17
+1522,2024-01-06,43,M,160.5,51.0,Weight Training,21,High,2.5,155,9.4,5,9388,2.7,19.4,74.5,120,87,Asthma,Current,0.2
+1522,2024-01-07,43,M,160.5,51.3,Weight Training,74,High,8.8,148,7.4,3,11790,3.2,19.4,74.5,120,87,Asthma,Current,0.3
+1522,2024-01-08,43,M,160.5,51.6,HIIT,66,Low,11.3,116,6.9,2,5956,3.1,19.4,74.5,120,87,Asthma,Current,0.37
+1522,2024-01-09,43,M,160.5,51.8,Weight Training,111,High,13.4,168,7.7,2,8847,1.7,19.4,74.5,120,87,Asthma,Current,0.53
+1522,2024-01-10,43,M,160.5,52.1,HIIT,81,Medium,16.8,122,6.0,10,9460,3.3,19.4,74.5,120,87,Asthma,Current,0.62
+1522,2024-01-11,43,M,160.5,52.3,Weight Training,39,Medium,4.1,126,6.5,3,5920,2.8,19.4,74.5,120,87,Asthma,Current,0.67
+1522,2024-01-13,43,M,160.5,52.6,Basketball,34,Medium,4.7,159,7.1,7,7281,2.0,19.4,74.5,120,87,Asthma,Current,0.71
+1522,2024-01-14,43,M,160.5,52.8,HIIT,24,Medium,5.0,142,9.9,3,8502,3.0,19.4,74.5,120,87,Asthma,Current,0.74
+1522,2024-01-16,43,M,160.5,53.1,HIIT,52,Medium,11.0,135,5.6,7,8771,1.9,19.4,74.5,120,87,Asthma,Current,0.8
+1522,2024-01-17,43,M,160.5,53.4,HIIT,50,Low,8.9,113,8.8,5,7097,2.1,19.4,74.5,120,87,Asthma,Current,0.85
+1522,2024-01-18,43,M,160.5,53.6,HIIT,60,High,14.9,156,6.2,3,9992,1.8,19.4,74.5,120,87,Asthma,Current,0.93
+1522,2024-01-19,43,M,160.5,53.9,HIIT,27,Medium,5.8,142,7.7,4,5237,1.9,19.4,74.5,120,87,Asthma,Current,0.97
+1522,2024-01-20,43,M,160.5,54.1,Cycling,98,Medium,15.0,136,6.4,6,9864,3.3,19.4,74.5,120,87,Asthma,Current,1.08
+1522,2024-01-22,43,M,160.5,54.4,Cycling,104,Medium,16.0,136,7.2,5,9558,3.3,19.4,74.5,120,87,Asthma,Current,1.21
+1522,2024-01-23,43,M,160.5,54.7,Yoga,86,Medium,4.7,151,6.6,2,5189,2.5,19.4,74.5,120,87,Asthma,Current,1.31
+1522,2024-01-25,43,M,160.5,54.9,Cycling,35,Low,4.5,112,6.6,5,12047,3.2,19.4,74.5,120,87,Asthma,Current,1.35
+1522,2024-01-26,43,M,160.5,55.2,HIIT,27,Low,4.9,119,5.5,7,5924,2.1,19.4,74.5,120,87,Asthma,Current,1.37
+1522,2024-01-28,43,M,160.5,55.4,Swimming,30,Low,3.2,104,7.4,8,9058,2.9,19.4,74.5,120,87,Asthma,Current,1.4
+1522,2024-01-30,43,M,160.5,55.7,Cycling,43,Medium,6.8,131,6.3,8,8596,3.2,19.4,74.5,120,87,Asthma,Current,1.46
+1522,2024-01-31,43,M,160.5,55.9,Basketball,29,Medium,4.3,136,5.4,9,8453,2.2,19.4,74.5,120,87,Asthma,Current,1.49

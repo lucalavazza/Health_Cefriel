@@ -1,0 +1,16 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+1603,2024-11-01,39,M,172.3,156.5,Weight Training,42,Low,10.9,123,7.0,8,5702,1.5,35.7,68.5,103.6,65.7,Diabetes,Former,16.83
+1603,2024-11-03,39,M,172.3,156.8,Weight Training,111,Medium,34.8,135,6.5,1,9207,2.7,35.7,68.5,103.6,65.7,Diabetes,Former,16.96
+1603,2024-11-04,39,M,172.3,157.0,Yoga,32,Medium,5.0,131,7.5,2,4353,2.7,35.7,68.5,103.6,65.7,Diabetes,Former,17.0
+1603,2024-11-05,39,M,172.3,157.3,Weight Training,54,Medium,17.0,127,7.8,8,7897,1.7,35.7,68.5,103.6,65.7,Diabetes,Former,17.06
+1603,2024-11-07,39,M,172.3,157.6,HIIT,32,High,23.5,158,6.1,5,4087,3.4,35.7,68.5,103.6,65.7,Diabetes,Former,17.11
+1603,2024-11-09,39,M,172.3,157.8,Weight Training,22,Medium,6.9,131,7.4,3,9378,3.0,35.7,68.5,103.6,65.7,Diabetes,Former,17.14
+1603,2024-11-13,39,M,172.3,158.1,Yoga,64,High,11.8,166,7.3,2,6987,3.0,35.7,68.5,103.6,65.7,Diabetes,Former,17.23
+1603,2024-11-14,39,M,172.3,158.3,Yoga,60,Low,7.9,122,7.2,1,7719,2.6,35.7,68.5,103.6,65.7,Diabetes,Former,17.29
+1603,2024-11-16,39,M,172.3,158.6,Yoga,107,Medium,16.9,143,8.5,1,4645,3.4,35.7,68.5,103.6,65.7,Diabetes,Former,17.41
+1603,2024-11-23,39,M,172.3,158.9,Yoga,40,Low,5.3,111,7.0,5,8271,3.1,35.7,68.5,103.6,65.7,Diabetes,Former,17.45
+1603,2024-11-24,39,M,172.3,159.1,Yoga,55,Medium,8.7,150,9.1,1,7065,2.3,35.7,68.5,103.6,65.7,Diabetes,Former,17.52
+1603,2024-11-25,39,M,172.3,159.4,Weight Training,83,High,30.8,160,6.7,3,6181,2.2,35.7,68.5,103.6,65.7,Diabetes,Former,17.64
+1603,2024-11-26,39,M,172.3,159.6,Weight Training,110,Low,29.2,118,7.5,7,5579,3.1,35.7,68.5,103.6,65.7,Diabetes,Former,17.75
+1603,2024-11-28,39,M,172.3,159.9,Yoga,60,High,11.2,153,6.6,5,5844,1.7,35.7,68.5,103.6,65.7,Diabetes,Former,17.83
+1603,2024-11-30,39,M,172.3,160.1,Tennis,69,High,31.3,164,6.8,9,9206,2.9,35.7,68.5,103.6,65.7,Diabetes,Former,17.93

@@ -1,0 +1,18 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+802,2024-09-03,32,M,180.2,120.9,Basketball,44,Low,11.8,117,6.0,3,7437,2.2,23.3,72.3,127.7,65.3,Asthma,Former,14.53
+802,2024-09-04,32,M,180.2,121.2,Running,65,Low,21.4,123,7.0,7,5566,3.2,23.3,72.3,127.7,65.3,Asthma,Former,14.6
+802,2024-09-05,32,M,180.2,121.4,Basketball,54,Medium,17.4,143,8.0,7,6754,1.9,23.3,72.3,127.7,65.3,Asthma,Former,14.66
+802,2024-09-06,32,M,180.2,121.7,Cycling,49,Medium,16.9,152,6.6,6,6279,2.2,23.3,72.3,127.7,65.3,Asthma,Former,14.72
+802,2024-09-07,32,M,180.2,121.9,Cycling,28,High,11.3,156,7.4,2,8087,2.0,23.3,72.3,127.7,65.3,Asthma,Former,14.76
+802,2024-09-09,32,M,180.2,122.2,Swimming,57,Medium,16.2,151,8.1,8,4256,1.9,23.3,72.3,127.7,65.3,Asthma,Former,14.83
+802,2024-09-10,32,M,180.2,122.5,Cycling,34,High,13.7,158,5.5,9,6593,2.0,23.3,72.3,127.7,65.3,Asthma,Former,14.88
+802,2024-09-13,32,M,180.2,122.7,Walking,73,Medium,11.3,148,6.6,9,6913,3.1,23.3,72.3,127.7,65.3,Asthma,Former,14.97
+802,2024-09-14,32,M,180.2,123.0,Cycling,22,Low,6.4,115,6.3,7,6524,2.7,23.3,72.3,127.7,65.3,Asthma,Former,14.99
+802,2024-09-15,32,M,180.2,123.2,Walking,68,Medium,10.6,146,6.7,2,6763,2.5,23.3,72.3,127.7,65.3,Asthma,Former,15.07
+802,2024-09-17,32,M,180.2,123.5,Walking,72,Low,9.4,130,5.7,9,5117,2.4,23.3,72.3,127.7,65.3,Asthma,Former,15.14
+802,2024-09-18,32,M,180.2,123.8,Walking,52,Medium,8.1,130,8.2,5,4732,2.9,23.3,72.3,127.7,65.3,Asthma,Former,15.2
+802,2024-09-22,32,M,180.2,124.0,Weight Training,50,Low,10.3,124,6.5,6,7964,1.6,23.3,72.3,127.7,65.3,Asthma,Former,15.25
+802,2024-09-26,32,M,180.2,124.3,Swimming,43,Low,10.4,118,8.0,5,5247,1.7,23.3,72.3,127.7,65.3,Asthma,Former,15.3
+802,2024-09-28,32,M,180.2,124.5,Weight Training,84,Medium,20.9,149,7.3,9,5102,2.8,23.3,72.3,127.7,65.3,Asthma,Former,15.4
+802,2024-09-29,32,M,180.2,124.8,Weight Training,47,Low,9.8,133,8.1,6,8232,1.6,23.3,72.3,127.7,65.3,Asthma,Former,15.44
+802,2024-09-30,32,M,180.2,125.0,Swimming,64,Low,15.5,123,8.0,8,6759,3.2,23.3,72.3,127.7,65.3,Asthma,Former,15.51

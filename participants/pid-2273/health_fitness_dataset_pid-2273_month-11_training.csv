@@ -1,0 +1,17 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+2273,2024-11-02,50,M,166.8,111.2,Swimming,49,Low,10.6,115,6.4,2,6922,1.5,21.5,76.4,115,89.1,None,Current,17.75
+2273,2024-11-04,50,M,166.8,111.5,Swimming,96,Low,20.8,111,7.2,10,8111,2.0,21.5,76.4,115,89.1,None,Current,17.85
+2273,2024-11-07,50,M,166.8,111.8,Swimming,51,High,15.5,131,7.7,7,6754,2.8,21.5,76.4,115,89.1,None,Current,17.92
+2273,2024-11-08,50,M,166.8,112.0,Swimming,63,Medium,16.4,110,7.3,7,7543,1.7,21.5,76.4,115,89.1,None,Current,18.0
+2273,2024-11-10,50,M,166.8,112.3,Swimming,56,Low,12.2,107,6.9,9,6643,2.2,21.5,76.4,115,89.1,None,Current,18.05
+2273,2024-11-12,50,M,166.8,112.5,Basketball,20,Medium,6.0,133,5.3,8,8886,1.5,21.5,76.4,115,89.1,None,Current,18.08
+2273,2024-11-17,50,M,166.8,112.8,Basketball,62,Low,15.5,109,6.7,3,7389,2.8,21.5,76.4,115,89.1,None,Current,18.14
+2273,2024-11-18,50,M,166.8,113.0,Swimming,58,Medium,15.3,145,7.2,2,6534,2.7,21.5,76.4,115,89.1,None,Current,18.21
+2273,2024-11-19,50,M,166.8,113.3,Yoga,27,Medium,3.1,126,5.9,2,9004,3.3,21.5,76.4,115,89.1,None,Current,18.24
+2273,2024-11-21,50,M,166.8,113.6,Yoga,87,Low,8.2,110,6.5,5,7534,2.7,21.5,76.4,115,89.1,None,Current,18.33
+2273,2024-11-22,50,M,166.8,113.8,Swimming,111,Low,24.5,110,7.2,8,5979,3.4,21.5,76.4,115,89.1,None,Current,18.44
+2273,2024-11-23,50,M,166.8,114.1,Yoga,99,Medium,11.3,128,7.2,3,7081,1.6,21.5,76.4,115,89.1,None,Current,18.56
+2273,2024-11-24,50,M,166.8,114.3,Swimming,30,Medium,8.0,126,6.1,7,5305,2.2,21.5,76.4,115,89.1,None,Current,18.59
+2273,2024-11-26,50,M,166.8,114.6,Swimming,51,Medium,13.6,130,6.7,10,12309,1.5,21.5,76.4,115,89.1,None,Current,18.65
+2273,2024-11-27,50,M,166.8,114.9,Yoga,64,Medium,7.3,126,9.3,4,8421,3.1,21.5,76.4,115,89.1,None,Current,18.73
+2273,2024-11-30,50,M,166.8,115.1,Swimming,26,Medium,7.0,123,5.4,3,8646,1.5,21.5,76.4,115,89.1,None,Current,18.76

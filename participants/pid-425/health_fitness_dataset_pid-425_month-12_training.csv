@@ -1,0 +1,14 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+425,2024-12-02,29,F,166.6,129.5,Swimming,94,Medium,28.4,141,6.8,4,4980,2.1,26,66.9,108.2,79.6,Diabetes,Former,18.07
+425,2024-12-03,29,F,166.6,129.8,Weight Training,66,Medium,17.1,128,6.0,7,8257,2.9,26,66.9,108.2,79.6,Diabetes,Former,18.15
+425,2024-12-05,29,F,166.6,130.0,Weight Training,117,Medium,30.4,154,8.1,6,7990,1.7,26,66.9,108.2,79.6,Diabetes,Former,18.29
+425,2024-12-09,29,F,166.6,130.3,Swimming,35,Medium,10.6,142,6.7,1,8435,2.0,26,66.9,108.2,79.6,Diabetes,Former,18.33
+425,2024-12-10,29,F,166.6,130.6,Swimming,82,Low,20.8,117,8.0,8,5346,2.0,26,66.9,108.2,79.6,Diabetes,Former,18.41
+425,2024-12-12,29,F,166.6,130.8,Swimming,104,Low,26.4,127,7.8,2,6104,2.8,26,66.9,108.2,79.6,Diabetes,Former,18.51
+425,2024-12-14,29,F,166.6,131.1,Swimming,113,Low,28.7,118,7.2,8,9422,1.9,26,66.9,108.2,79.6,Diabetes,Former,18.63
+425,2024-12-15,29,F,166.6,131.3,Swimming,114,Medium,34.9,145,7.8,7,5090,2.5,26,66.9,108.2,79.6,Diabetes,Former,18.76
+425,2024-12-16,29,F,166.6,131.6,Swimming,76,Low,19.4,129,6.7,4,5432,2.7,26,66.9,108.2,79.6,Diabetes,Former,18.84
+425,2024-12-17,29,F,166.6,131.8,Running,79,Low,28.3,120,6.7,4,7118,3.2,26,66.9,108.2,79.6,Diabetes,Former,18.92
+425,2024-12-18,29,F,166.6,132.1,Running,98,Medium,42.2,132,6.7,5,7695,2.2,26,66.9,108.2,79.6,Diabetes,Former,19.04
+425,2024-12-20,29,F,166.6,132.3,Swimming,115,Medium,35.4,139,6.8,9,9758,2.0,26,66.9,108.2,79.6,Diabetes,Former,19.17
+425,2024-12-25,29,F,166.6,132.6,Running,30,Medium,13.0,142,6.9,2,7892,2.2,26,66.9,108.2,79.6,Diabetes,Former,19.21

@@ -1,0 +1,17 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+878,2024-12-01,59,F,153.6,99.0,Running,111,Medium,35.8,114,5.7,5,7689,1.9,19.1,75.4,119.8,82,Hypertension,Never,17.24
+878,2024-12-05,59,F,153.6,99.3,Tennis,43,High,12.1,121,8.1,4,9298,3.1,19.1,75.4,119.8,82,Hypertension,Never,17.3
+878,2024-12-06,59,F,153.6,99.5,Tennis,63,Medium,15.2,116,8.7,8,5119,1.8,19.1,75.4,119.8,82,Hypertension,Never,17.37
+878,2024-12-07,59,F,153.6,99.8,Tennis,62,Low,12.5,100,8.2,2,7788,2.6,19.1,75.4,119.8,82,Hypertension,Never,17.43
+878,2024-12-08,59,F,153.6,100.0,Tennis,68,High,19.3,137,6.7,4,10507,1.9,19.1,75.4,119.8,82,Hypertension,Never,17.53
+878,2024-12-09,59,F,153.6,100.3,Tennis,58,High,16.5,144,6.8,8,8667,2.3,19.1,75.4,119.8,82,Hypertension,Never,17.61
+878,2024-12-10,59,F,153.6,100.6,Tennis,77,Medium,18.8,121,5.7,6,8321,3.3,19.1,75.4,119.8,82,Hypertension,Never,17.7
+878,2024-12-14,59,F,153.6,100.8,Tennis,53,Low,10.8,110,7.8,4,9697,2.8,19.1,75.4,119.8,82,Hypertension,Never,17.76
+878,2024-12-15,59,F,153.6,101.1,Tennis,77,Medium,18.9,135,6.4,2,7430,2.7,19.1,75.4,119.8,82,Hypertension,Never,17.85
+878,2024-12-16,59,F,153.6,101.3,Tennis,64,Medium,15.7,128,6.3,4,7544,2.4,19.1,75.4,119.8,82,Hypertension,Never,17.92
+878,2024-12-17,59,F,153.6,101.6,Dancing,31,High,6.7,130,8.7,8,6964,1.9,19.1,75.4,119.8,82,Hypertension,Never,17.97
+878,2024-12-18,59,F,153.6,101.8,Tennis,62,Low,12.8,104,8.4,2,8001,3.4,19.1,75.4,119.8,82,Hypertension,Never,18.03
+878,2024-12-20,59,F,153.6,102.1,Dancing,64,Medium,11.9,129,6.2,1,5345,3.5,19.1,75.4,119.8,82,Hypertension,Never,18.11
+878,2024-12-22,59,F,153.6,102.4,Tennis,102,High,29.6,155,8.9,9,10128,2.1,19.1,75.4,119.8,82,Hypertension,Never,18.25
+878,2024-12-23,59,F,153.6,102.6,Swimming,43,Medium,10.3,121,7.4,6,9199,2.8,19.1,75.4,119.8,82,Hypertension,Never,18.3
+878,2024-12-24,59,F,153.6,102.9,Yoga,117,Medium,12.0,121,7.2,6,7881,2.7,19.1,75.4,119.8,82,Hypertension,Never,18.44

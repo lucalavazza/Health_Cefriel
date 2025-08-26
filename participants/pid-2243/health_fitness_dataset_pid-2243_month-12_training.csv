@@ -1,0 +1,15 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+2243,2024-12-03,58,M,179.2,120.3,Yoga,90,High,12.6,143,6.1,4,6707,2.6,19.2,70.7,120.8,84.9,None,Never,18.55
+2243,2024-12-04,58,M,179.2,120.6,Yoga,28,Low,2.8,101,6.1,2,7400,1.6,19.2,70.7,120.8,84.9,None,Never,18.58
+2243,2024-12-05,58,M,179.2,120.9,Yoga,53,Low,5.3,108,7.8,5,8266,1.8,19.2,70.7,120.8,84.9,None,Never,18.63
+2243,2024-12-06,58,M,179.2,121.1,Yoga,100,Medium,12.1,134,7.5,10,8120,3.2,19.2,70.7,120.8,84.9,None,Never,18.75
+2243,2024-12-07,58,M,179.2,121.4,Yoga,82,High,11.6,140,7.9,6,11822,2.0,19.2,70.7,120.8,84.9,None,Never,18.87
+2243,2024-12-10,58,M,179.2,121.6,Yoga,68,Medium,8.3,126,6.8,6,6493,1.9,19.2,70.7,120.8,84.9,None,Never,18.95
+2243,2024-12-12,58,M,179.2,121.9,Weight Training,32,Medium,7.8,139,6.4,7,6246,3.1,19.2,70.7,120.8,84.9,None,Never,18.99
+2243,2024-12-13,58,M,179.2,122.1,Weight Training,83,Medium,20.2,130,8.1,6,4293,2.1,19.2,70.7,120.8,84.9,None,Never,19.09
+2243,2024-12-18,58,M,179.2,122.4,Yoga,110,Medium,13.4,136,6.1,10,8617,2.8,19.2,70.7,120.8,84.9,None,Never,19.22
+2243,2024-12-19,58,M,179.2,122.7,Yoga,67,Medium,8.2,119,5.7,7,6244,3.1,19.2,70.7,120.8,84.9,None,Never,19.3
+2243,2024-12-20,58,M,179.2,122.9,Weight Training,120,Medium,29.4,135,7.6,9,7004,2.6,19.2,70.7,120.8,84.9,None,Never,19.44
+2243,2024-12-22,58,M,179.2,123.2,Weight Training,41,Medium,10.1,118,6.7,2,9165,3.5,19.2,70.7,120.8,84.9,None,Never,19.49
+2243,2024-12-23,58,M,179.2,123.4,Weight Training,95,High,27.3,144,5.0,6,9027,3.5,19.2,70.7,120.8,84.9,None,Never,19.62
+2243,2024-12-25,58,M,179.2,123.7,Running,74,Medium,29.8,121,6.2,4,8349,2.2,19.2,70.7,120.8,84.9,None,Never,19.71

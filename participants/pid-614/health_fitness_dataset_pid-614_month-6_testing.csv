@@ -1,0 +1,20 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+614,2024-06-01,24,F,156.4,82.1,Weight Training,35,Medium,5.7,159,8.2,9,12819,3.0,20.8,64.3,134.9,64.8,Hypertension,Current,10.43
+614,2024-06-02,24,F,156.4,82.4,Basketball,77,Low,14.0,137,8.5,5,9558,1.9,20.8,64.3,134.9,64.8,Hypertension,Current,10.51
+614,2024-06-03,24,F,156.4,82.6,HIIT,41,Medium,13.5,142,7.2,8,8763,2.0,20.8,64.3,134.9,64.8,Hypertension,Current,10.56
+614,2024-06-04,24,F,156.4,82.9,HIIT,96,Low,26.4,136,8.3,2,10309,2.2,20.8,64.3,134.9,64.8,Hypertension,Current,10.66
+614,2024-06-08,24,F,156.4,83.1,Basketball,38,High,9.8,172,8.3,2,10249,3.3,20.8,64.3,134.9,64.8,Hypertension,Current,10.71
+614,2024-06-09,24,F,156.4,83.4,Basketball,120,Low,22.2,132,6.6,4,9719,3.0,20.8,64.3,134.9,64.8,Hypertension,Current,10.83
+614,2024-06-11,24,F,156.4,83.6,HIIT,50,Medium,16.7,156,8.0,6,9381,1.8,20.8,64.3,134.9,64.8,Hypertension,Current,10.89
+614,2024-06-12,24,F,156.4,83.9,Running,101,Medium,27.6,140,7.0,2,10257,3.1,20.8,64.3,134.9,64.8,Hypertension,Current,11.01
+614,2024-06-13,24,F,156.4,84.2,HIIT,49,Low,13.7,120,7.4,1,9827,3.2,20.8,64.3,134.9,64.8,Hypertension,Current,11.06
+614,2024-06-14,24,F,156.4,84.4,Running,67,Low,15.3,119,7.7,8,5734,1.9,20.8,64.3,134.9,64.8,Hypertension,Current,11.13
+614,2024-06-16,24,F,156.4,84.7,HIIT,84,Low,23.6,134,6.5,3,12626,3.0,20.8,64.3,134.9,64.8,Hypertension,Current,11.21
+614,2024-06-17,24,F,156.4,84.9,HIIT,98,Medium,33.2,143,7.8,9,8046,3.0,20.8,64.3,134.9,64.8,Hypertension,Current,11.33
+614,2024-06-18,24,F,156.4,85.2,Running,47,Medium,13.0,138,6.9,2,9081,2.3,20.8,64.3,134.9,64.8,Hypertension,Current,11.38
+614,2024-06-19,24,F,156.4,85.4,Running,81,Low,18.8,122,5.4,10,8196,2.3,20.8,64.3,134.9,64.8,Hypertension,Current,11.47
+614,2024-06-20,24,F,156.4,85.7,HIIT,110,Low,31.3,129,7.6,7,6758,2.6,20.8,64.3,134.9,64.8,Hypertension,Current,11.58
+614,2024-06-21,24,F,156.4,86.0,HIIT,50,High,20.0,178,6.4,6,7817,2.4,20.8,64.3,134.9,64.8,Hypertension,Current,11.65
+614,2024-06-22,24,F,156.4,86.2,Swimming,55,Medium,11.0,148,7.0,6,9963,3.4,20.8,64.3,134.9,64.8,Hypertension,Current,11.71
+614,2024-06-25,24,F,156.4,86.5,Swimming,33,Medium,6.6,140,7.6,3,8142,2.7,20.8,64.3,134.9,64.8,Hypertension,Current,11.75
+614,2024-06-27,24,F,156.4,86.7,HIIT,38,Low,11.0,121,7.8,2,6292,2.8,20.8,64.3,134.9,64.8,Hypertension,Current,11.79

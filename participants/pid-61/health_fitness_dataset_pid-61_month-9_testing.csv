@@ -1,0 +1,17 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+61,2024-09-01,36,M,182,107.0,Walking,70,High,11.0,166,8.5,9,12231,2.7,19.5,72.7,103.5,64.4,Hypertension,Never,14.6
+61,2024-09-02,36,M,182,107.2,Walking,73,High,11.5,161,7.0,8,7119,1.6,19.5,72.7,103.5,64.4,Hypertension,Never,14.71
+61,2024-09-03,36,M,182,107.5,Dancing,54,Medium,10.6,136,5.8,6,5215,1.6,19.5,72.7,103.5,64.4,Hypertension,Never,14.77
+61,2024-09-05,36,M,182,107.7,Walking,48,Medium,6.5,151,7.0,7,2613,2.3,19.5,72.7,103.5,64.4,Hypertension,Never,14.83
+61,2024-09-06,36,M,182,108.0,Walking,120,Low,13.6,119,7.3,5,4975,2.0,19.5,72.7,103.5,64.4,Hypertension,Never,14.95
+61,2024-09-08,36,M,182,108.3,Walking,64,Low,7.3,117,7.2,4,8657,1.8,19.5,72.7,103.5,64.4,Hypertension,Never,15.01
+61,2024-09-10,36,M,182,108.5,Walking,24,High,3.8,146,7.5,4,5929,2.1,19.5,72.7,103.5,64.4,Hypertension,Never,15.05
+61,2024-09-12,36,M,182,108.8,Walking,58,Low,6.6,120,7.7,3,8846,2.7,19.5,72.7,103.5,64.4,Hypertension,Never,15.11
+61,2024-09-14,36,M,182,109.0,Walking,50,Medium,6.9,141,5.6,3,6283,3.3,19.5,72.7,103.5,64.4,Hypertension,Never,15.17
+61,2024-09-15,36,M,182,109.3,Walking,38,Medium,5.2,132,7.6,1,7605,1.9,19.5,72.7,103.5,64.4,Hypertension,Never,15.21
+61,2024-09-18,36,M,182,109.6,Cycling,64,Medium,19.8,139,7.3,5,4768,2.3,19.5,72.7,103.5,64.4,Hypertension,Never,15.29
+61,2024-09-19,36,M,182,109.8,Cycling,107,Medium,33.2,146,7.4,9,5470,3.5,19.5,72.7,103.5,64.4,Hypertension,Never,15.42
+61,2024-09-22,36,M,182,110.1,Cycling,32,Low,8.3,119,7.1,6,6494,2.1,19.5,72.7,103.5,64.4,Hypertension,Never,15.45
+61,2024-09-25,36,M,182,110.3,Dancing,68,Low,11.4,126,6.8,8,6751,3.4,19.5,72.7,103.5,64.4,Hypertension,Never,15.52
+61,2024-09-26,36,M,182,110.6,Basketball,94,Medium,27.7,134,8.3,9,5621,2.7,19.5,72.7,103.5,64.4,Hypertension,Never,15.63
+61,2024-09-27,36,M,182,110.8,Running,64,High,27.0,139,7.1,4,8537,3.1,19.5,72.7,103.5,64.4,Hypertension,Never,15.72

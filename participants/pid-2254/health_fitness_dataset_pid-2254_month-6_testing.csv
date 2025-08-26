@@ -1,0 +1,17 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+2254,2024-06-01,44,Other,178.4,123.8,Tennis,65,Low,16.3,112,6.0,2,10209,2.1,30.4,75.7,128.9,78.6,None,Never,8.67
+2254,2024-06-02,44,Other,178.4,124.1,HIIT,83,High,48.0,140,7.7,9,9038,1.6,30.4,75.7,128.9,78.6,None,Never,8.79
+2254,2024-06-04,44,Other,178.4,124.3,Dancing,60,Low,11.4,119,8.1,7,9107,2.7,30.4,75.7,128.9,78.6,None,Never,8.85
+2254,2024-06-05,44,Other,178.4,124.6,Tennis,99,Medium,29.9,125,7.3,7,8582,1.9,30.4,75.7,128.9,78.6,None,Never,8.97
+2254,2024-06-06,44,Other,178.4,124.8,Yoga,27,Low,2.8,116,7.5,9,10288,3.0,30.4,75.7,128.9,78.6,None,Never,8.99
+2254,2024-06-10,44,Other,178.4,125.1,Yoga,119,High,17.3,155,5.9,6,11182,1.6,30.4,75.7,128.9,78.6,None,Never,9.16
+2254,2024-06-11,44,Other,178.4,125.4,Weight Training,84,Medium,21.0,127,8.2,10,6668,3.0,30.4,75.7,128.9,78.6,None,Never,9.26
+2254,2024-06-13,44,Other,178.4,125.6,Swimming,95,Medium,27.8,130,8.3,1,6838,2.3,30.4,75.7,128.9,78.6,None,Never,9.38
+2254,2024-06-16,44,Other,178.4,125.9,Yoga,39,Medium,4.9,137,7.6,6,10661,3.2,30.4,75.7,128.9,78.6,None,Never,9.42
+2254,2024-06-17,44,Other,178.4,126.1,Running,98,Medium,40.3,129,7.2,10,7203,2.9,30.4,75.7,128.9,78.6,None,Never,9.54
+2254,2024-06-18,44,Other,178.4,126.4,Yoga,105,High,15.5,139,6.8,1,8037,1.9,30.4,75.7,128.9,78.6,None,Never,9.69
+2254,2024-06-19,44,Other,178.4,126.6,Dancing,61,High,16.5,153,8.4,9,8099,3.0,30.4,75.7,128.9,78.6,None,Never,9.77
+2254,2024-06-22,44,Other,178.4,126.9,Yoga,69,Medium,8.7,140,8.7,5,8899,1.7,30.4,75.7,128.9,78.6,None,Never,9.86
+2254,2024-06-23,44,Other,178.4,127.2,Yoga,52,Medium,6.6,135,6.9,4,8230,3.0,30.4,75.7,128.9,78.6,None,Never,9.92
+2254,2024-06-27,44,Other,178.4,127.4,Dancing,103,Medium,24.0,139,6.0,6,9188,1.6,30.4,75.7,128.9,78.6,None,Never,10.04
+2254,2024-06-28,44,Other,178.4,127.7,Basketball,94,High,37.3,155,5.4,6,8909,2.8,30.4,75.7,128.9,78.6,None,Never,10.17

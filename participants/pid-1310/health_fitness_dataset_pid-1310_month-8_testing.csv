@@ -1,0 +1,16 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+1310,2024-08-01,48,M,187.7,125.6,Weight Training,60,Low,12.5,104,6.8,6,6941,3.5,24.6,66.1,129.4,72.5,Asthma,Never,12.63
+1310,2024-08-03,48,M,187.7,125.8,Weight Training,39,High,11.4,134,7.1,5,9791,3.0,24.6,66.1,129.4,72.5,Asthma,Never,12.68
+1310,2024-08-04,48,M,187.7,126.1,Weight Training,48,Low,10.1,105,6.5,6,7556,1.5,24.6,66.1,129.4,72.5,Asthma,Never,12.73
+1310,2024-08-05,48,M,187.7,126.4,Weight Training,26,Low,5.5,100,7.6,2,6504,2.9,24.6,66.1,129.4,72.5,Asthma,Never,12.75
+1310,2024-08-10,48,M,187.7,126.6,Weight Training,70,High,20.6,164,7.9,8,7017,3.5,24.6,66.1,129.4,72.5,Asthma,Never,12.85
+1310,2024-08-12,48,M,187.7,126.9,Weight Training,120,Low,25.3,106,6.2,6,5404,3.5,24.6,66.1,129.4,72.5,Asthma,Never,12.97
+1310,2024-08-13,48,M,187.7,127.1,Weight Training,63,High,18.7,139,7.0,2,7825,2.3,24.6,66.1,129.4,72.5,Asthma,Never,13.06
+1310,2024-08-14,48,M,187.7,127.4,Weight Training,49,High,14.5,158,6.2,7,6197,1.9,24.6,66.1,129.4,72.5,Asthma,Never,13.13
+1310,2024-08-20,48,M,187.7,127.6,Weight Training,73,Medium,18.6,133,4.1,10,7713,2.9,24.6,66.1,129.4,72.5,Asthma,Never,13.22
+1310,2024-08-22,48,M,187.7,127.9,Weight Training,26,Low,5.5,113,6.9,5,8057,1.9,24.6,66.1,129.4,72.5,Asthma,Never,13.24
+1310,2024-08-24,48,M,187.7,128.2,Weight Training,47,Medium,12.0,132,6.2,7,9387,2.4,24.6,66.1,129.4,72.5,Asthma,Never,13.3
+1310,2024-08-26,48,M,187.7,128.4,HIIT,57,Medium,29.2,108,7.0,1,6255,3.2,24.6,66.1,129.4,72.5,Asthma,Never,13.37
+1310,2024-08-28,48,M,187.7,128.7,Weight Training,113,Low,24.2,113,6.4,9,6233,3.1,24.6,66.1,129.4,72.5,Asthma,Never,13.48
+1310,2024-08-29,48,M,187.7,128.9,Weight Training,53,High,15.9,159,6.0,1,7090,2.3,24.6,66.1,129.4,72.5,Asthma,Never,13.55
+1310,2024-08-31,48,M,187.7,129.2,HIIT,112,Medium,57.8,118,6.5,3,8694,2.7,24.6,66.1,129.4,72.5,Asthma,Never,13.69

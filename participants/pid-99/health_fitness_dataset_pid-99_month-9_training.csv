@@ -1,0 +1,18 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+99,2024-09-02,44,F,174.3,129.7,Tennis,25,High,9.2,141,6.3,7,4703,1.6,27.3,72.5,111.8,90,None,Current,15.47
+99,2024-09-03,44,F,174.3,129.9,Running,29,Low,10.2,115,7.0,10,5342,1.8,27.3,72.5,111.8,90,None,Current,15.49
+99,2024-09-04,44,F,174.3,130.2,Running,108,Medium,45.8,141,8.0,1,5483,2.7,27.3,72.5,111.8,90,None,Current,15.62
+99,2024-09-05,44,F,174.3,130.4,Tennis,30,Low,7.9,115,6.8,9,5815,2.2,27.3,72.5,111.8,90,None,Current,15.65
+99,2024-09-06,44,F,174.3,130.7,Tennis,45,Medium,14.3,135,9.4,7,7488,1.6,27.3,72.5,111.8,90,None,Current,15.71
+99,2024-09-07,44,F,174.3,131.0,Running,76,Medium,32.4,122,9.0,9,8320,3.2,27.3,72.5,111.8,90,None,Current,15.8
+99,2024-09-08,44,F,174.3,131.2,Running,93,High,46.4,155,7.7,4,7503,2.5,27.3,72.5,111.8,90,None,Current,15.93
+99,2024-09-12,44,F,174.3,131.5,Yoga,98,Low,10.7,111,8.0,4,9706,1.9,27.3,72.5,111.8,90,None,Current,16.03
+99,2024-09-13,44,F,174.3,131.7,Basketball,76,Medium,26.6,135,6.3,2,5756,3.3,27.3,72.5,111.8,90,None,Current,16.12
+99,2024-09-16,44,F,174.3,132.0,Weight Training,72,High,22.1,140,6.7,3,6793,1.9,27.3,72.5,111.8,90,None,Current,16.22
+99,2024-09-19,44,F,174.3,132.2,Weight Training,78,Low,17.2,114,7.5,3,5257,2.8,27.3,72.5,111.8,90,None,Current,16.3
+99,2024-09-21,44,F,174.3,132.5,Weight Training,34,Low,7.5,110,6.3,2,7702,1.6,27.3,72.5,111.8,90,None,Current,16.33
+99,2024-09-22,44,F,174.3,132.8,Weight Training,65,Low,14.4,112,7.3,2,8231,1.7,27.3,72.5,111.8,90,None,Current,16.4
+99,2024-09-25,44,F,174.3,133.0,Weight Training,107,Medium,28.4,130,8.2,3,8929,1.7,27.3,72.5,111.8,90,None,Current,16.53
+99,2024-09-26,44,F,174.3,133.3,Yoga,94,Low,10.4,111,6.1,3,7229,2.7,27.3,72.5,111.8,90,None,Current,16.62
+99,2024-09-27,44,F,174.3,133.5,Basketball,71,Medium,25.2,132,7.0,10,7410,2.3,27.3,72.5,111.8,90,None,Current,16.7
+99,2024-09-29,44,F,174.3,133.8,Running,77,Low,28.0,119,6.9,6,8911,2.3,27.3,72.5,111.8,90,None,Current,16.78

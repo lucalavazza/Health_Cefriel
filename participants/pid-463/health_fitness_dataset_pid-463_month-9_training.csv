@@ -1,0 +1,16 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+463,2024-09-03,54,M,177.2,132.1,Yoga,68,High,10.5,156,8.1,8,5631,2.2,27.9,71.1,132.3,77.3,None,Never,14.76
+463,2024-09-05,54,M,177.2,132.4,Yoga,110,Low,12.1,114,8.0,1,7941,3.1,27.9,71.1,132.3,77.3,None,Never,14.87
+463,2024-09-07,54,M,177.2,132.6,Cycling,29,High,12.7,151,6.7,2,5759,2.9,27.9,71.1,132.3,77.3,None,Never,14.91
+463,2024-09-09,54,M,177.2,132.9,Weight Training,67,Medium,17.8,139,6.0,1,7111,2.8,27.9,71.1,132.3,77.3,None,Never,14.99
+463,2024-09-11,54,M,177.2,133.1,Basketball,75,Medium,26.6,123,6.2,1,6241,1.8,27.9,71.1,132.3,77.3,None,Never,15.08
+463,2024-09-16,54,M,177.2,133.4,Weight Training,72,Medium,19.2,127,7.0,4,7727,3.4,27.9,71.1,132.3,77.3,None,Never,15.17
+463,2024-09-17,54,M,177.2,133.7,Weight Training,86,Medium,22.9,138,7.6,4,6111,1.8,27.9,71.1,132.3,77.3,None,Never,15.27
+463,2024-09-19,54,M,177.2,133.9,Basketball,87,Low,25.8,105,6.8,10,9137,3.4,27.9,71.1,132.3,77.3,None,Never,15.36
+463,2024-09-20,54,M,177.2,134.2,Weight Training,30,Medium,8.0,118,6.8,9,6911,3.4,27.9,71.1,132.3,77.3,None,Never,15.39
+463,2024-09-21,54,M,177.2,134.4,HIIT,62,Medium,33.3,119,7.7,5,10019,1.7,27.9,71.1,132.3,77.3,None,Never,15.47
+463,2024-09-24,54,M,177.2,134.7,Basketball,105,Medium,37.6,134,7.0,6,5708,2.1,27.9,71.1,132.3,77.3,None,Never,15.59
+463,2024-09-26,54,M,177.2,134.9,Basketball,44,Low,13.2,115,7.5,7,5007,2.5,27.9,71.1,132.3,77.3,None,Never,15.64
+463,2024-09-28,54,M,177.2,135.2,Weight Training,113,Medium,30.5,114,6.4,9,7261,2.3,27.9,71.1,132.3,77.3,None,Never,15.77
+463,2024-09-29,54,M,177.2,135.4,Weight Training,88,Medium,23.8,131,6.6,3,9825,2.4,27.9,71.1,132.3,77.3,None,Never,15.88
+463,2024-09-30,54,M,177.2,135.7,Basketball,109,Low,32.8,114,5.8,3,6997,2.2,27.9,71.1,132.3,77.3,None,Never,15.99

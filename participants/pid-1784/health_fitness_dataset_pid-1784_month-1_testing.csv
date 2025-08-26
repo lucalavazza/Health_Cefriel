@@ -1,0 +1,21 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+1784,2024-01-01,62,F,160.4,49.4,Weight Training,64,High,7.3,148,6.3,4,7684,3.2,19.1,72,102,91.3,None,Never,0.09
+1784,2024-01-03,62,F,160.4,49.7,Weight Training,98,Medium,9.7,120,7.2,6,9357,3.4,19.1,72,102,91.3,None,Never,0.21
+1784,2024-01-06,62,F,160.4,49.9,Weight Training,109,Medium,10.8,117,7.2,8,8064,3.1,19.1,72,102,91.3,None,Never,0.34
+1784,2024-01-08,62,F,160.4,50.2,HIIT,73,Medium,14.6,136,6.6,6,8060,2.0,19.1,72,102,91.3,None,Never,0.43
+1784,2024-01-09,62,F,160.4,50.4,Weight Training,96,Low,8.0,105,6.1,8,8867,2.1,19.1,72,102,91.3,None,Never,0.52
+1784,2024-01-11,62,F,160.4,50.7,Weight Training,38,Medium,3.8,113,7.4,1,8640,1.7,19.1,72,102,91.3,None,Never,0.57
+1784,2024-01-12,62,F,160.4,51.0,Weight Training,90,Medium,9.1,118,6.9,7,10254,2.0,19.1,72,102,91.3,None,Never,0.68
+1784,2024-01-13,62,F,160.4,51.2,Weight Training,48,Medium,4.9,123,7.0,7,7656,3.5,19.1,72,102,91.3,None,Never,0.73
+1784,2024-01-14,62,F,160.4,51.5,Weight Training,99,Medium,10.1,123,6.5,4,10075,2.5,19.1,72,102,91.3,None,Never,0.85
+1784,2024-01-15,62,F,160.4,51.7,Tennis,68,Medium,8.5,122,7.4,9,8391,3.5,19.1,72,102,91.3,None,Never,0.93
+1784,2024-01-17,62,F,160.4,52.0,Tennis,69,High,10.1,132,8.1,8,6781,2.7,19.1,72,102,91.3,None,Never,1.03
+1784,2024-01-19,62,F,160.4,52.3,Tennis,71,Medium,9.0,114,8.4,5,7844,2.3,19.1,72,102,91.3,None,Never,1.11
+1784,2024-01-20,62,F,160.4,52.5,Tennis,84,Medium,10.7,119,8.1,9,10412,1.7,19.1,72,102,91.3,None,Never,1.22
+1784,2024-01-21,62,F,160.4,52.8,Running,39,Medium,6.7,121,7.0,10,9207,2.8,19.1,72,102,91.3,None,Never,1.26
+1784,2024-01-23,62,F,160.4,53.0,Running,50,Medium,8.6,105,7.7,6,9500,2.1,19.1,72,102,91.3,None,Never,1.32
+1784,2024-01-24,62,F,160.4,53.3,Running,88,Medium,15.2,128,8.1,7,9278,3.0,19.1,72,102,91.3,None,Never,1.43
+1784,2024-01-26,62,F,160.4,53.5,Running,91,Medium,15.8,115,6.6,3,5666,2.5,19.1,72,102,91.3,None,Never,1.54
+1784,2024-01-29,62,F,160.4,53.8,Running,52,High,10.6,123,5.4,9,10542,2.5,19.1,72,102,91.3,None,Never,1.61
+1784,2024-01-30,62,F,160.4,54.1,Running,25,Low,3.7,98,7.1,5,8898,1.9,19.1,72,102,91.3,None,Never,1.64
+1784,2024-01-31,62,F,160.4,54.3,Running,30,High,6.2,138,5.9,4,11560,1.9,19.1,72,102,91.3,None,Never,1.68

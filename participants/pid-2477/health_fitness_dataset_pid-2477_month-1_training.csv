@@ -1,0 +1,17 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+2477,2024-01-01,38,Other,165.7,70.5,Weight Training,76,High,12.5,160,6.0,6,9161,3.4,25.6,66.3,123,90.2,None,Former,0.11
+2477,2024-01-02,38,Other,165.7,70.8,Weight Training,97,Low,11.4,115,6.3,5,8283,1.8,25.6,66.3,123,90.2,None,Former,0.2
+2477,2024-01-03,38,Other,165.7,71.0,Running,44,Medium,10.2,134,7.3,4,5228,2.9,25.6,66.3,123,90.2,None,Former,0.26
+2477,2024-01-04,38,Other,165.7,71.3,Running,70,Medium,16.2,141,8.1,6,6377,3.0,25.6,66.3,123,90.2,None,Former,0.34
+2477,2024-01-05,38,Other,165.7,71.5,Weight Training,91,Medium,13.0,138,7.2,7,8919,2.8,25.6,66.3,123,90.2,None,Former,0.45
+2477,2024-01-08,38,Other,165.7,71.8,Running,104,High,28.4,161,7.4,5,7893,1.8,25.6,66.3,123,90.2,None,Former,0.59
+2477,2024-01-09,38,Other,165.7,72.1,Running,56,High,15.3,153,6.6,1,7363,2.0,25.6,66.3,123,90.2,None,Former,0.67
+2477,2024-01-10,38,Other,165.7,72.3,Running,31,Low,6.1,109,7.2,8,7563,3.4,25.6,66.3,123,90.2,None,Former,0.7
+2477,2024-01-12,38,Other,165.7,72.6,Running,86,Medium,20.3,139,6.6,3,9349,2.4,25.6,66.3,123,90.2,None,Former,0.81
+2477,2024-01-14,38,Other,165.7,72.8,Running,60,Low,11.9,118,6.8,3,10832,1.9,25.6,66.3,123,90.2,None,Former,0.87
+2477,2024-01-15,38,Other,165.7,73.1,Cycling,45,Low,7.7,129,7.0,5,9623,3.5,25.6,66.3,123,90.2,None,Former,0.91
+2477,2024-01-17,38,Other,165.7,73.3,Cycling,34,Medium,7.0,135,6.9,6,9288,2.7,25.6,66.3,123,90.2,None,Former,0.95
+2477,2024-01-21,38,Other,165.7,73.6,Yoga,116,Medium,8.5,148,7.4,2,10182,2.6,25.6,66.3,123,90.2,None,Former,1.09
+2477,2024-01-22,38,Other,165.7,73.9,Cycling,101,Medium,21.1,137,7.1,7,8957,2.6,25.6,66.3,123,90.2,None,Former,1.21
+2477,2024-01-25,38,Other,165.7,74.1,Cycling,119,High,29.1,156,5.7,9,9616,2.4,25.6,66.3,123,90.2,None,Former,1.38
+2477,2024-01-27,38,Other,165.7,74.4,Cycling,88,Low,15.4,111,7.3,1,10120,3.5,25.6,66.3,123,90.2,None,Former,1.47

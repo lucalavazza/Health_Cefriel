@@ -1,0 +1,19 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+563,2024-01-01,47,F,164,62.1,Running,91,Medium,18.4,125,8.0,2,9574,3.5,23,69.4,121,82.1,None,Former,0.11
+563,2024-01-03,47,F,164,62.4,Running,86,High,20.4,132,6.9,1,7223,2.4,23,69.4,121,82.1,None,Former,0.23
+563,2024-01-08,47,F,164,62.7,Running,33,Medium,6.7,119,7.6,6,7315,3.3,23,69.4,121,82.1,None,Former,0.27
+563,2024-01-10,47,F,164,62.9,Running,116,Medium,23.7,127,6.6,2,8016,2.5,23,69.4,121,82.1,None,Former,0.41
+563,2024-01-11,47,F,164,63.2,Running,58,Low,9.9,111,8.3,8,9821,2.2,23,69.4,121,82.1,None,Former,0.47
+563,2024-01-12,47,F,164,63.4,Running,32,Medium,6.6,138,7.0,8,8016,2.0,23,69.4,121,82.1,None,Former,0.5
+563,2024-01-14,47,F,164,63.7,Running,96,Low,16.6,114,5.9,1,11972,3.0,23,69.4,121,82.1,None,Former,0.6
+563,2024-01-16,47,F,164,63.9,Weight Training,50,Low,5.3,103,7.1,4,9736,1.6,23,69.4,121,82.1,None,Former,0.65
+563,2024-01-19,47,F,164,64.2,Weight Training,93,High,13.9,143,7.9,8,8054,1.9,23,69.4,121,82.1,None,Former,0.78
+563,2024-01-21,47,F,164,64.5,Running,110,Medium,23.1,116,8.3,9,11421,3.1,23,69.4,121,82.1,None,Former,0.91
+563,2024-01-22,47,F,164,64.7,Weight Training,29,Medium,3.7,149,7.2,7,7384,3.1,23,69.4,121,82.1,None,Former,0.95
+563,2024-01-23,47,F,164,65.0,Weight Training,70,Low,7.6,109,7.7,3,10603,2.8,23,69.4,121,82.1,None,Former,1.02
+563,2024-01-24,47,F,164,65.2,Swimming,55,Medium,8.3,120,7.7,1,7508,3.4,23,69.4,121,82.1,None,Former,1.08
+563,2024-01-25,47,F,164,65.5,Weight Training,84,Low,9.1,113,6.9,5,10359,1.5,23,69.4,121,82.1,None,Former,1.17
+563,2024-01-26,47,F,164,65.7,Swimming,79,Low,10.1,119,7.3,1,9488,3.0,23,69.4,121,82.1,None,Former,1.25
+563,2024-01-27,47,F,164,66.0,Cycling,93,High,20.2,167,7.7,7,9822,2.6,23,69.4,121,82.1,None,Former,1.38
+563,2024-01-28,47,F,164,66.3,Tennis,77,Medium,12.4,118,6.1,4,5800,2.0,23,69.4,121,82.1,None,Former,1.47
+563,2024-01-31,47,F,164,66.5,Swimming,83,Medium,12.8,119,8.0,7,8579,3.0,23,69.4,121,82.1,None,Former,1.57

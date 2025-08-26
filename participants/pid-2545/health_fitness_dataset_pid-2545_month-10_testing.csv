@@ -1,0 +1,13 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+2545,2024-10-02,24,F,161.6,95.5,Walking,50,Medium,6.0,147,6.3,7,4378,1.8,18.6,66.8,110.6,74.7,Hypertension,Current,15.46
+2545,2024-10-09,24,F,161.6,95.7,Weight Training,90,High,20.1,144,7.7,1,5690,3.1,18.6,66.8,110.6,74.7,Hypertension,Current,15.58
+2545,2024-10-11,24,F,161.6,96.0,Weight Training,108,Medium,20.7,151,7.7,8,6120,3.2,18.6,66.8,110.6,74.7,Hypertension,Current,15.71
+2545,2024-10-13,24,F,161.6,96.3,Yoga,74,Medium,7.1,158,6.3,3,4299,1.5,18.6,66.8,110.6,74.7,Hypertension,Current,15.8
+2545,2024-10-16,24,F,161.6,96.5,Yoga,56,Medium,5.4,151,7.1,5,6866,1.6,18.6,66.8,110.6,74.7,Hypertension,Current,15.87
+2545,2024-10-18,24,F,161.6,96.8,Weight Training,75,Medium,14.5,140,7.9,7,6967,1.8,18.6,66.8,110.6,74.7,Hypertension,Current,15.96
+2545,2024-10-19,24,F,161.6,97.0,Yoga,51,High,5.8,170,8.0,5,8680,2.8,18.6,66.8,110.6,74.7,Hypertension,Current,16.03
+2545,2024-10-24,24,F,161.6,97.3,Dancing,97,High,20.1,168,7.9,6,7004,1.6,18.6,66.8,110.6,74.7,Hypertension,Current,16.16
+2545,2024-10-26,24,F,161.6,97.5,Dancing,111,Medium,19.8,157,7.1,8,5781,3.4,18.6,66.8,110.6,74.7,Hypertension,Current,16.3
+2545,2024-10-27,24,F,161.6,97.8,Walking,119,Medium,14.7,145,6.8,2,7649,2.3,18.6,66.8,110.6,74.7,Hypertension,Current,16.44
+2545,2024-10-28,24,F,161.6,98.1,Dancing,42,High,8.8,167,6.4,8,5058,1.9,18.6,66.8,110.6,74.7,Hypertension,Current,16.5
+2545,2024-10-31,24,F,161.6,98.3,Dancing,50,Low,7.5,123,6.2,7,7662,2.3,18.6,66.8,110.6,74.7,Hypertension,Current,16.55

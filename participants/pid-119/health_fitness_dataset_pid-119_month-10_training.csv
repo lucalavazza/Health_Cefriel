@@ -1,0 +1,20 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+119,2024-10-01,27,F,166.9,104.1,Yoga,99,Low,8.6,119,7.9,4,7432,1.7,20.8,65.3,124.8,72.7,Diabetes,Never,14.67
+119,2024-10-02,27,F,166.9,104.4,Yoga,41,Medium,4.3,135,6.1,10,9741,3.0,20.8,65.3,124.8,72.7,Diabetes,Never,14.72
+119,2024-10-03,27,F,166.9,104.6,Yoga,86,Medium,9.0,142,7.0,4,8442,1.9,20.8,65.3,124.8,72.7,Diabetes,Never,14.82
+119,2024-10-05,27,F,166.9,104.9,Cycling,46,Medium,13.6,152,7.3,2,6616,3.4,20.8,65.3,124.8,72.7,Diabetes,Never,14.88
+119,2024-10-08,27,F,166.9,105.1,Cycling,54,Medium,16.0,146,6.9,5,6332,2.2,20.8,65.3,124.8,72.7,Diabetes,Never,14.94
+119,2024-10-09,27,F,166.9,105.4,Yoga,101,Low,8.8,118,5.5,7,7873,1.6,20.8,65.3,124.8,72.7,Diabetes,Never,15.05
+119,2024-10-11,27,F,166.9,105.6,Basketball,90,Low,21.1,125,4.6,3,6396,3.4,20.8,65.3,124.8,72.7,Diabetes,Never,15.14
+119,2024-10-12,27,F,166.9,105.9,Weight Training,89,High,21.9,183,7.0,5,9033,2.4,20.8,65.3,124.8,72.7,Diabetes,Never,15.26
+119,2024-10-13,27,F,166.9,106.2,Weight Training,98,Low,17.3,136,7.8,2,6708,2.4,20.8,65.3,124.8,72.7,Diabetes,Never,15.36
+119,2024-10-14,27,F,166.9,106.4,Weight Training,103,Medium,21.9,156,6.6,7,4786,3.0,20.8,65.3,124.8,72.7,Diabetes,Never,15.48
+119,2024-10-15,27,F,166.9,106.7,Weight Training,68,Medium,14.5,151,9.1,1,7275,2.6,20.8,65.3,124.8,72.7,Diabetes,Never,15.56
+119,2024-10-16,27,F,166.9,106.9,Basketball,29,Low,6.9,130,7.3,3,8978,2.5,20.8,65.3,124.8,72.7,Diabetes,Never,15.59
+119,2024-10-17,27,F,166.9,107.2,Basketball,52,Medium,14.8,153,6.0,1,8967,2.4,20.8,65.3,124.8,72.7,Diabetes,Never,15.65
+119,2024-10-22,27,F,166.9,107.5,Weight Training,98,Medium,21.0,134,6.2,9,6435,1.9,20.8,65.3,124.8,72.7,Diabetes,Never,15.77
+119,2024-10-25,27,F,166.9,107.7,Weight Training,90,High,22.6,156,9.2,6,3846,3.4,20.8,65.3,124.8,72.7,Diabetes,Never,15.9
+119,2024-10-26,27,F,166.9,108.0,HIIT,70,Low,25.1,122,6.4,3,4888,3.0,20.8,65.3,124.8,72.7,Diabetes,Never,15.97
+119,2024-10-27,27,F,166.9,108.2,Weight Training,89,Low,16.0,116,7.0,5,6493,2.2,20.8,65.3,124.8,72.7,Diabetes,Never,16.06
+119,2024-10-28,27,F,166.9,108.5,HIIT,108,Low,39.0,127,6.9,10,7788,2.5,20.8,65.3,124.8,72.7,Diabetes,Never,16.16
+119,2024-10-29,27,F,166.9,108.7,Weight Training,67,High,17.0,158,4.9,4,5816,3.4,20.8,65.3,124.8,72.7,Diabetes,Never,16.26

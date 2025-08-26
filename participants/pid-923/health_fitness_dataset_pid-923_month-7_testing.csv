@@ -1,0 +1,17 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+923,2024-07-04,18,M,172.4,96.6,HIIT,65,Low,20.9,132,6.6,2,6740,3.2,21.4,63.5,132.2,78.9,None,Former,11.01
+923,2024-07-06,18,M,172.4,96.9,Walking,38,High,5.4,164,5.6,1,11957,1.5,21.4,63.5,132.2,78.9,None,Former,11.06
+923,2024-07-07,18,M,172.4,97.1,Swimming,95,High,25.1,169,6.5,2,7555,3.3,21.4,63.5,132.2,78.9,None,Former,11.2
+923,2024-07-11,18,M,172.4,97.4,Swimming,74,Low,14.0,134,6.7,3,5624,2.7,21.4,63.5,132.2,78.9,None,Former,11.27
+923,2024-07-14,18,M,172.4,97.6,Weight Training,50,High,11.4,157,5.5,7,8151,3.1,21.4,63.5,132.2,78.9,None,Former,11.34
+923,2024-07-16,18,M,172.4,97.9,Weight Training,49,Medium,9.6,139,7.6,2,9434,3.4,21.4,63.5,132.2,78.9,None,Former,11.4
+923,2024-07-18,18,M,172.4,98.2,Walking,64,Medium,7.9,144,6.6,2,7889,2.4,21.4,63.5,132.2,78.9,None,Former,11.48
+923,2024-07-19,18,M,172.4,98.4,Weight Training,106,Low,17.3,134,6.2,2,7663,2.7,21.4,63.5,132.2,78.9,None,Former,11.58
+923,2024-07-20,18,M,172.4,98.7,Walking,104,Medium,13.0,150,8.1,2,6688,3.1,21.4,63.5,132.2,78.9,None,Former,11.71
+923,2024-07-21,18,M,172.4,98.9,HIIT,44,Medium,17.4,161,7.6,9,10179,3.4,21.4,63.5,132.2,78.9,None,Former,11.76
+923,2024-07-22,18,M,172.4,99.2,HIIT,29,High,13.4,177,6.1,9,8995,2.1,21.4,63.5,132.2,78.9,None,Former,11.8
+923,2024-07-24,18,M,172.4,99.4,Running,33,Low,8.9,129,7.5,9,8936,1.5,21.4,63.5,132.2,78.9,None,Former,11.83
+923,2024-07-26,18,M,172.4,99.7,Running,65,High,24.6,170,7.9,8,6194,2.8,21.4,63.5,132.2,78.9,None,Former,11.93
+923,2024-07-27,18,M,172.4,100.0,Swimming,66,Medium,15.4,151,6.4,4,7498,2.3,21.4,63.5,132.2,78.9,None,Former,12.0
+923,2024-07-30,18,M,172.4,100.2,Running,59,Medium,19.3,153,6.7,1,6701,2.9,21.4,63.5,132.2,78.9,None,Former,12.08
+923,2024-07-31,18,M,172.4,100.5,Running,25,Medium,8.2,143,5.5,7,7428,1.9,21.4,63.5,132.2,78.9,None,Former,12.11

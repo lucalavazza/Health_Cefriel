@@ -1,0 +1,17 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+1022,2024-10-03,36,M,182.2,145.1,Weight Training,22,High,7.4,158,6.5,9,7374,2.8,30.6,66.6,120.5,80.2,None,Current,13.34
+1022,2024-10-04,36,M,182.2,145.3,Dancing,80,Medium,21.3,138,6.1,2,2666,3.3,30.6,66.6,120.5,80.2,None,Current,13.44
+1022,2024-10-07,36,M,182.2,145.6,Weight Training,78,Medium,22.7,147,7.6,10,3986,1.8,30.6,66.6,120.5,80.2,None,Current,13.53
+1022,2024-10-08,36,M,182.2,145.8,Dancing,87,Medium,23.2,133,6.4,1,7304,3.2,30.6,66.6,120.5,80.2,None,Current,13.63
+1022,2024-10-12,36,M,182.2,146.1,Swimming,104,Medium,35.4,143,7.4,7,7974,2.1,30.6,66.6,120.5,80.2,None,Current,13.76
+1022,2024-10-15,36,M,182.2,146.4,Swimming,65,Low,18.5,120,9.2,7,6102,1.8,30.6,66.6,120.5,80.2,None,Current,13.82
+1022,2024-10-16,36,M,182.2,146.6,Dancing,120,Medium,32.2,136,7.7,9,4798,3.5,30.6,66.6,120.5,80.2,None,Current,13.97
+1022,2024-10-17,36,M,182.2,146.9,Tennis,31,Medium,11.1,142,8.3,10,8538,1.5,30.6,66.6,120.5,80.2,None,Current,14.0
+1022,2024-10-18,36,M,182.2,147.1,Tennis,81,Low,24.1,116,6.4,7,4984,1.5,30.6,66.6,120.5,80.2,None,Current,14.09
+1022,2024-10-19,36,M,182.2,147.4,Tennis,71,Medium,25.4,147,9.4,1,9579,2.8,30.6,66.6,120.5,80.2,None,Current,14.17
+1022,2024-10-20,36,M,182.2,147.6,Tennis,42,Low,12.6,118,7.0,5,8173,2.9,30.6,66.6,120.5,80.2,None,Current,14.21
+1022,2024-10-21,36,M,182.2,147.9,Basketball,110,Low,36.1,118,6.7,5,11693,1.5,30.6,66.6,120.5,80.2,None,Current,14.32
+1022,2024-10-23,36,M,182.2,148.1,Walking,24,Medium,4.5,141,7.9,4,5034,3.4,30.6,66.6,120.5,80.2,None,Current,14.35
+1022,2024-10-24,36,M,182.2,148.4,Basketball,84,Medium,33.2,132,5.7,6,10211,3.0,30.6,66.6,120.5,80.2,None,Current,14.45
+1022,2024-10-26,36,M,182.2,148.7,Walking,42,Low,6.6,115,6.8,1,8829,2.6,30.6,66.6,120.5,80.2,None,Current,14.49
+1022,2024-10-31,36,M,182.2,148.9,Running,112,Medium,54.4,142,8.3,8,4822,2.3,30.6,66.6,120.5,80.2,None,Current,14.63

@@ -1,0 +1,14 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+1732,2024-09-02,31,M,177.3,117.9,Cycling,81,Low,22.5,124,4.9,6,7151,2.2,23.1,71.6,122.3,71.2,None,Current,13.79
+1732,2024-09-03,31,M,177.3,118.1,Cycling,59,Low,16.4,111,6.4,4,8633,2.3,23.1,71.6,122.3,71.2,None,Current,13.84
+1732,2024-09-04,31,M,177.3,118.4,HIIT,77,Medium,36.4,145,7.8,3,6645,2.0,23.1,71.6,122.3,71.2,None,Current,13.94
+1732,2024-09-07,31,M,177.3,118.6,Basketball,91,Low,23.9,117,8.5,1,5627,2.5,23.1,71.6,122.3,71.2,None,Current,14.03
+1732,2024-09-16,31,M,177.3,118.9,HIIT,58,Medium,27.5,142,6.9,10,5551,3.1,23.1,71.6,122.3,71.2,None,Current,14.1
+1732,2024-09-18,31,M,177.3,119.1,HIIT,106,Medium,50.4,145,6.6,3,6721,1.6,23.1,71.6,122.3,71.2,None,Current,14.23
+1732,2024-09-19,31,M,177.3,119.4,HIIT,106,Low,42.1,126,7.0,4,9974,3.1,23.1,71.6,122.3,71.2,None,Current,14.33
+1732,2024-09-20,31,M,177.3,119.6,HIIT,66,Medium,31.5,135,7.3,10,8823,2.1,23.1,71.6,122.3,71.2,None,Current,14.41
+1732,2024-09-21,31,M,177.3,119.9,HIIT,32,High,17.9,147,5.4,6,7898,3.4,23.1,71.6,122.3,71.2,None,Current,14.46
+1732,2024-09-22,31,M,177.3,120.2,HIIT,108,Medium,51.8,127,6.5,6,9356,3.2,23.1,71.6,122.3,71.2,None,Current,14.58
+1732,2024-09-23,31,M,177.3,120.4,HIIT,62,Medium,29.8,143,6.4,3,4281,2.4,23.1,71.6,122.3,71.2,None,Current,14.66
+1732,2024-09-25,31,M,177.3,120.7,HIIT,71,Low,28.5,124,5.6,10,7343,1.8,23.1,71.6,122.3,71.2,None,Current,14.73
+1732,2024-09-26,31,M,177.3,120.9,HIIT,53,Medium,25.6,142,6.4,8,5796,2.1,23.1,71.6,122.3,71.2,None,Current,14.79

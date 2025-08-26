@@ -1,0 +1,16 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+58,2024-10-01,64,M,172.3,108.1,Running,44,Medium,15.5,119,7.3,10,7415,2.7,21.3,72.8,78,72.5,Hypertension,Current,13.67
+58,2024-10-04,64,M,172.3,108.3,Running,54,Medium,19.1,121,6.1,8,6603,2.1,21.3,72.8,78,72.5,Hypertension,Current,13.74
+58,2024-10-06,64,M,172.3,108.6,Walking,66,Low,7.5,109,6.7,3,7281,2.0,21.3,72.8,78,72.5,Hypertension,Current,13.8
+58,2024-10-09,64,M,172.3,108.9,Walking,54,Medium,7.4,121,5.7,2,6114,2.0,21.3,72.8,78,72.5,Hypertension,Current,13.87
+58,2024-10-12,64,M,172.3,109.1,Walking,78,Medium,10.8,113,6.4,10,4365,2.7,21.3,72.8,78,72.5,Hypertension,Current,13.96
+58,2024-10-14,64,M,172.3,109.4,Walking,108,Low,12.4,101,7.2,10,10502,2.6,21.3,72.8,78,72.5,Hypertension,Current,14.07
+58,2024-10-16,64,M,172.3,109.6,Weight Training,84,Medium,18.4,101,6.5,8,5570,2.6,21.3,72.8,78,72.5,Hypertension,Current,14.17
+58,2024-10-17,64,M,172.3,109.9,Walking,29,Medium,4.0,117,6.3,8,5885,3.3,21.3,72.8,78,72.5,Hypertension,Current,14.21
+58,2024-10-20,64,M,172.3,110.2,Walking,117,Low,13.6,98,7.6,3,6467,2.3,21.3,72.8,78,72.5,Hypertension,Current,14.32
+58,2024-10-21,64,M,172.3,110.4,HIIT,81,Medium,35.7,122,7.4,7,6683,3.0,21.3,72.8,78,72.5,Hypertension,Current,14.42
+58,2024-10-22,64,M,172.3,110.7,Walking,71,Low,8.3,99,7.3,10,8022,1.6,21.3,72.8,78,72.5,Hypertension,Current,14.49
+58,2024-10-24,64,M,172.3,110.9,HIIT,43,High,22.2,158,7.7,6,5754,1.7,21.3,72.8,78,72.5,Hypertension,Current,14.55
+58,2024-10-28,64,M,172.3,111.2,Walking,110,Medium,15.5,129,6.8,8,6390,2.3,21.3,72.8,78,72.5,Hypertension,Current,14.68
+58,2024-10-30,64,M,172.3,111.4,Walking,24,Medium,3.4,106,8.0,1,7471,1.8,21.3,72.8,78,72.5,Hypertension,Current,14.71
+58,2024-10-31,64,M,172.3,111.7,Walking,115,Medium,16.2,109,8.5,6,6973,2.7,21.3,72.8,78,72.5,Hypertension,Current,14.85

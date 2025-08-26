@@ -1,0 +1,21 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+62,2024-07-01,21,M,172,102.8,Swimming,120,High,33.5,165,6.2,2,8746,2.7,22.5,65.3,136.8,79.4,None,Never,11.96
+62,2024-07-02,21,M,172,103.1,Weight Training,50,Low,8.6,134,7.4,8,7933,2.5,22.5,65.3,136.8,79.4,None,Never,12.01
+62,2024-07-03,21,M,172,103.3,Weight Training,44,Medium,9.1,145,6.8,1,7813,3.3,22.5,65.3,136.8,79.4,None,Never,12.07
+62,2024-07-04,21,M,172,103.6,Weight Training,26,High,6.3,165,8.1,10,6100,2.8,22.5,65.3,136.8,79.4,None,Never,12.1
+62,2024-07-05,21,M,172,103.9,Weight Training,92,High,22.2,172,7.4,4,5598,2.7,22.5,65.3,136.8,79.4,None,Never,12.23
+62,2024-07-06,21,M,172,104.1,Weight Training,89,Medium,18.5,149,4.8,5,9700,2.0,22.5,65.3,136.8,79.4,None,Never,12.34
+62,2024-07-08,21,M,172,104.4,Weight Training,34,High,8.3,162,4.8,4,5285,1.6,22.5,65.3,136.8,79.4,None,Never,12.39
+62,2024-07-09,21,M,172,104.6,Weight Training,87,High,21.2,174,8.1,4,7207,2.1,22.5,65.3,136.8,79.4,None,Never,12.51
+62,2024-07-10,21,M,172,104.9,Weight Training,38,High,9.3,171,7.6,2,4964,3.1,22.5,65.3,136.8,79.4,None,Never,12.56
+62,2024-07-11,21,M,172,105.1,Weight Training,62,Medium,13.0,154,6.6,3,7770,2.1,22.5,65.3,136.8,79.4,None,Never,12.64
+62,2024-07-13,21,M,172,105.4,Weight Training,44,Medium,9.3,150,6.0,4,7601,2.9,22.5,65.3,136.8,79.4,None,Never,12.69
+62,2024-07-14,21,M,172,105.7,Weight Training,55,Low,9.7,126,8.2,10,7079,1.9,22.5,65.3,136.8,79.4,None,Never,12.74
+62,2024-07-17,21,M,172,105.9,Weight Training,109,High,26.9,161,7.1,2,7589,1.8,22.5,65.3,136.8,79.4,None,Never,12.9
+62,2024-07-20,21,M,172,106.2,Weight Training,72,Low,12.7,127,8.5,6,9164,2.5,22.5,65.3,136.8,79.4,None,Never,12.97
+62,2024-07-22,21,M,172,106.4,Dancing,47,Medium,9.1,162,7.3,7,6322,2.8,22.5,65.3,136.8,79.4,None,Never,13.02
+62,2024-07-24,21,M,172,106.7,Weight Training,26,Medium,5.5,165,6.6,6,8820,2.5,22.5,65.3,136.8,79.4,None,Never,13.06
+62,2024-07-26,21,M,172,107.0,Dancing,117,Medium,22.9,144,7.3,2,8196,2.7,22.5,65.3,136.8,79.4,None,Never,13.2
+62,2024-07-28,21,M,172,107.2,Weight Training,43,High,10.7,184,5.4,9,8118,1.6,22.5,65.3,136.8,79.4,None,Never,13.26
+62,2024-07-29,21,M,172,107.5,Weight Training,118,Low,21.1,128,7.2,5,6713,3.2,22.5,65.3,136.8,79.4,None,Never,13.37
+62,2024-07-30,21,M,172,107.7,Weight Training,41,Medium,8.8,145,7.3,6,9674,1.6,22.5,65.3,136.8,79.4,None,Never,13.42

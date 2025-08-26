@@ -1,0 +1,17 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+2601,2024-11-01,35,M,172,109.2,HIIT,54,Low,19.6,126,6.7,4,6574,1.6,20.1,67.4,118.4,82.9,Diabetes,Never,17.03
+2601,2024-11-02,35,M,172,109.4,HIIT,116,Medium,50.7,137,6.5,10,6613,3.4,20.1,67.4,118.4,82.9,Diabetes,Never,17.17
+2601,2024-11-03,35,M,172,109.7,HIIT,93,Medium,40.7,129,8.6,1,6252,3.1,20.1,67.4,118.4,82.9,Diabetes,Never,17.29
+2601,2024-11-04,35,M,172,109.9,HIIT,115,Medium,50.5,139,7.7,4,4397,1.7,20.1,67.4,118.4,82.9,Diabetes,Never,17.42
+2601,2024-11-06,35,M,172,110.2,HIIT,67,High,34.4,152,7.2,6,5171,3.0,20.1,67.4,118.4,82.9,Diabetes,Never,17.52
+2601,2024-11-08,35,M,172,110.4,HIIT,44,Low,16.2,116,7.3,8,7324,2.8,20.1,67.4,118.4,82.9,Diabetes,Never,17.56
+2601,2024-11-10,35,M,172,110.7,HIIT,80,High,41.2,147,8.0,6,7587,2.4,20.1,67.4,118.4,82.9,Diabetes,Never,17.67
+2601,2024-11-11,35,M,172,111.0,Cycling,108,Low,28.2,123,6.9,5,7398,2.6,20.1,67.4,118.4,82.9,Diabetes,Never,17.78
+2601,2024-11-14,35,M,172,111.2,Yoga,112,Medium,12.4,140,6.8,2,7505,1.8,20.1,67.4,118.4,82.9,Diabetes,Never,17.92
+2601,2024-11-15,35,M,172,111.5,Cycling,116,Medium,36.6,135,6.6,7,5924,1.8,20.1,67.4,118.4,82.9,Diabetes,Never,18.06
+2601,2024-11-20,35,M,172,111.7,Basketball,97,Medium,28.8,118,6.5,7,5261,2.7,20.1,67.4,118.4,82.9,Diabetes,Never,18.17
+2601,2024-11-23,35,M,172,112.0,Dancing,116,Medium,23.8,127,6.6,5,10288,2.9,20.1,67.4,118.4,82.9,Diabetes,Never,18.31
+2601,2024-11-25,35,M,172,112.2,Dancing,57,High,13.7,155,7.4,6,8425,1.7,20.1,67.4,118.4,82.9,Diabetes,Never,18.39
+2601,2024-11-26,35,M,172,112.5,Basketball,117,Low,29.2,120,7.4,8,5904,2.3,20.1,67.4,118.4,82.9,Diabetes,Never,18.51
+2601,2024-11-27,35,M,172,112.8,Basketball,47,Low,11.7,121,7.7,1,4215,2.7,20.1,67.4,118.4,82.9,Diabetes,Never,18.55
+2601,2024-11-30,35,M,172,113.0,Dancing,79,Medium,16.3,127,9.1,7,8984,2.6,20.1,67.4,118.4,82.9,Diabetes,Never,18.65

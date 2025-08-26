@@ -1,0 +1,17 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+2005,2024-11-02,21,F,164.3,124.6,Running,119,Medium,48.3,133,7.4,5,10519,2.3,25.8,68.3,120.5,78.7,None,Former,17.92
+2005,2024-11-03,21,F,164.3,124.8,Running,48,Low,16.3,134,7.4,6,8614,1.8,25.8,68.3,120.5,78.7,None,Former,17.97
+2005,2024-11-06,21,F,164.3,125.1,Yoga,83,Medium,10.4,149,5.3,6,6984,2.8,25.8,68.3,120.5,78.7,None,Former,18.07
+2005,2024-11-07,21,F,164.3,125.3,Running,40,Low,13.6,123,7.1,9,8725,2.9,25.8,68.3,120.5,78.7,None,Former,18.11
+2005,2024-11-08,21,F,164.3,125.6,Yoga,45,Low,4.7,134,7.9,8,7063,1.9,25.8,68.3,120.5,78.7,None,Former,18.16
+2005,2024-11-09,21,F,164.3,125.8,Yoga,64,High,9.4,165,6.1,2,9269,3.4,25.8,68.3,120.5,78.7,None,Former,18.24
+2005,2024-11-13,21,F,164.3,126.1,Running,91,High,43.6,169,6.8,7,7568,2.1,25.8,68.3,120.5,78.7,None,Former,18.37
+2005,2024-11-15,21,F,164.3,126.4,Weight Training,112,Low,23.5,124,7.0,6,8786,3.1,25.8,68.3,120.5,78.7,None,Former,18.48
+2005,2024-11-20,21,F,164.3,126.6,HIIT,101,Medium,51.0,154,6.8,6,6817,3.0,25.8,68.3,120.5,78.7,None,Former,18.61
+2005,2024-11-22,21,F,164.3,126.9,Running,48,Medium,19.9,140,6.0,10,9491,2.3,25.8,68.3,120.5,78.7,None,Former,18.66
+2005,2024-11-23,21,F,164.3,127.1,Weight Training,29,Low,6.1,124,8.4,10,8697,1.8,25.8,68.3,120.5,78.7,None,Former,18.69
+2005,2024-11-24,21,F,164.3,127.4,Weight Training,83,High,24.6,171,7.3,10,10034,2.7,25.8,68.3,120.5,78.7,None,Former,18.81
+2005,2024-11-25,21,F,164.3,127.6,Weight Training,25,High,7.4,179,7.4,3,6704,1.6,25.8,68.3,120.5,78.7,None,Former,18.84
+2005,2024-11-26,21,F,164.3,127.9,Weight Training,69,Medium,17.6,144,7.4,10,6962,3.2,25.8,68.3,120.5,78.7,None,Former,18.93
+2005,2024-11-28,21,F,164.3,128.2,Weight Training,104,High,31.0,146,6.2,1,7726,2.5,25.8,68.3,120.5,78.7,None,Former,19.07
+2005,2024-11-29,21,F,164.3,128.4,Weight Training,98,Medium,25.1,150,5.9,7,7668,3.2,25.8,68.3,120.5,78.7,None,Former,19.19

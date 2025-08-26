@@ -1,0 +1,18 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+987,2024-06-01,42,F,153.2,77.4,Yoga,31,Low,2.0,119,7.1,1,11029,2.2,21,67.3,109.4,63.1,None,Former,9.27
+987,2024-06-02,42,F,153.2,77.6,Weight Training,42,Low,5.4,117,6.5,3,7703,2.5,21,67.3,109.4,63.1,None,Former,9.32
+987,2024-06-05,42,F,153.2,77.9,Yoga,76,Low,4.9,105,6.2,8,8764,3.4,21,67.3,109.4,63.1,None,Former,9.39
+987,2024-06-08,42,F,153.2,78.2,Weight Training,56,Low,7.3,116,6.6,7,10344,2.2,21,67.3,109.4,63.1,None,Former,9.45
+987,2024-06-09,42,F,153.2,78.4,Yoga,45,Low,2.9,112,6.5,3,10539,1.5,21,67.3,109.4,63.1,None,Former,9.49
+987,2024-06-11,42,F,153.2,78.7,Yoga,115,Medium,9.0,136,7.2,8,8828,1.6,21,67.3,109.4,63.1,None,Former,9.63
+987,2024-06-12,42,F,153.2,78.9,Weight Training,112,Medium,17.6,137,8.3,9,10091,1.6,21,67.3,109.4,63.1,None,Former,9.77
+987,2024-06-13,42,F,153.2,79.2,Weight Training,61,Low,8.0,121,7.2,3,8528,3.1,21,67.3,109.4,63.1,None,Former,9.83
+987,2024-06-15,42,F,153.2,79.5,Weight Training,87,Medium,13.8,125,7.2,8,11661,2.2,21,67.3,109.4,63.1,None,Former,9.93
+987,2024-06-17,42,F,153.2,79.7,Weight Training,29,High,5.4,165,7.0,8,6657,1.7,21,67.3,109.4,63.1,None,Former,9.97
+987,2024-06-18,42,F,153.2,80.0,Weight Training,98,Medium,15.6,131,5.8,5,9543,1.5,21,67.3,109.4,63.1,None,Former,10.09
+987,2024-06-22,42,F,153.2,80.2,Weight Training,28,High,5.2,152,7.6,7,7784,2.7,21,67.3,109.4,63.1,None,Former,10.13
+987,2024-06-24,42,F,153.2,80.5,Weight Training,54,High,10.1,147,7.8,8,6668,3.4,21,67.3,109.4,63.1,None,Former,10.2
+987,2024-06-25,42,F,153.2,80.7,Cycling,50,High,13.3,155,7.9,3,8348,2.6,21,67.3,109.4,63.1,None,Former,10.27
+987,2024-06-26,42,F,153.2,81.0,Yoga,74,Medium,6.0,122,6.1,6,6492,2.7,21,67.3,109.4,63.1,None,Former,10.36
+987,2024-06-28,42,F,153.2,81.3,Basketball,54,Medium,11.7,133,6.5,3,9153,2.6,21,67.3,109.4,63.1,None,Former,10.43
+987,2024-06-29,42,F,153.2,81.5,Basketball,101,Low,18.2,117,8.3,1,9142,2.9,21,67.3,109.4,63.1,None,Former,10.53

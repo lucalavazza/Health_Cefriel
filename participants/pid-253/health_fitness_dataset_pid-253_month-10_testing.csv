@@ -1,0 +1,17 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+253,2024-10-02,57,F,163.8,132.4,Basketball,120,High,49.3,133,6.8,8,7037,3.3,31.4,71.7,133.8,97.9,Diabetes,Never,15.44
+253,2024-10-03,57,F,163.8,132.7,Basketball,39,High,16.1,125,9.4,8,3901,3.2,31.4,71.7,133.8,97.9,Diabetes,Never,15.5
+253,2024-10-05,57,F,163.8,132.9,Basketball,50,Low,14.7,109,6.0,5,6449,2.6,31.4,71.7,133.8,97.9,Diabetes,Never,15.55
+253,2024-10-06,57,F,163.8,133.2,Basketball,97,Medium,34.4,111,6.9,2,8089,3.5,31.4,71.7,133.8,97.9,Diabetes,Never,15.66
+253,2024-10-07,57,F,163.8,133.4,Basketball,47,Medium,16.7,117,6.3,4,7412,1.5,31.4,71.7,133.8,97.9,Diabetes,Never,15.72
+253,2024-10-08,57,F,163.8,133.7,Basketball,97,High,40.3,132,6.0,1,6226,2.0,31.4,71.7,133.8,97.9,Diabetes,Never,15.86
+253,2024-10-12,57,F,163.8,133.9,HIIT,114,Medium,61.0,115,7.9,4,8231,2.0,31.4,71.7,133.8,97.9,Diabetes,Never,15.99
+253,2024-10-13,57,F,163.8,134.2,Basketball,59,Medium,21.1,126,6.8,5,6926,3.4,31.4,71.7,133.8,97.9,Diabetes,Never,16.06
+253,2024-10-14,57,F,163.8,134.5,Swimming,25,Medium,7.8,121,6.1,8,5104,2.1,31.4,71.7,133.8,97.9,Diabetes,Never,16.09
+253,2024-10-18,57,F,163.8,134.7,Swimming,22,High,8.1,142,5.8,8,4855,1.9,31.4,71.7,133.8,97.9,Diabetes,Never,16.12
+253,2024-10-19,57,F,163.8,135.0,Basketball,54,Medium,19.4,114,6.6,4,6218,2.1,31.4,71.7,133.8,97.9,Diabetes,Never,16.19
+253,2024-10-20,57,F,163.8,135.2,Swimming,83,Medium,26.1,118,8.4,3,8319,2.7,31.4,71.7,133.8,97.9,Diabetes,Never,16.29
+253,2024-10-23,57,F,163.8,135.5,Basketball,70,Medium,25.2,144,8.2,5,8533,1.9,31.4,71.7,133.8,97.9,Diabetes,Never,16.37
+253,2024-10-24,57,F,163.8,135.8,Swimming,66,Low,17.4,100,7.5,4,4973,2.4,31.4,71.7,133.8,97.9,Diabetes,Never,16.44
+253,2024-10-26,57,F,163.8,136.0,Swimming,27,Low,7.1,104,8.9,4,7111,1.6,31.4,71.7,133.8,97.9,Diabetes,Never,16.47
+253,2024-10-29,57,F,163.8,136.3,Basketball,35,Medium,12.7,124,7.8,2,7464,2.5,31.4,71.7,133.8,97.9,Diabetes,Never,16.51

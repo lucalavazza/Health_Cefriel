@@ -1,0 +1,17 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+1550,2024-01-02,32,M,171.9,61.0,Running,54,Medium,10.7,132,7.5,8,7137,2.1,20.6,75.5,99,81.3,Asthma,Never,0.06
+1550,2024-01-04,32,M,171.9,61.3,Tennis,99,Low,12.3,128,7.2,1,8003,2.6,20.6,75.5,99,81.3,Asthma,Never,0.16
+1550,2024-01-05,32,M,171.9,61.5,Running,68,High,15.9,160,9.0,3,9131,2.9,20.6,75.5,99,81.3,Asthma,Never,0.26
+1550,2024-01-08,32,M,171.9,61.8,Running,86,Low,14.4,122,7.8,1,6426,3.5,20.6,75.5,99,81.3,Asthma,Never,0.34
+1550,2024-01-10,32,M,171.9,62.1,Running,78,Medium,15.7,138,7.1,8,7836,3.2,20.6,75.5,99,81.3,Asthma,Never,0.44
+1550,2024-01-11,32,M,171.9,62.3,Running,51,Medium,10.3,154,7.1,2,10674,3.4,20.6,75.5,99,81.3,Asthma,Never,0.5
+1550,2024-01-12,32,M,171.9,62.6,Running,98,Medium,19.9,138,7.3,7,9208,2.5,20.6,75.5,99,81.3,Asthma,Never,0.62
+1550,2024-01-14,32,M,171.9,62.8,Running,103,Low,17.5,122,8.2,9,9461,3.0,20.6,75.5,99,81.3,Asthma,Never,0.72
+1550,2024-01-16,32,M,171.9,63.1,Running,20,Medium,4.1,140,7.4,2,8811,1.6,20.6,75.5,99,81.3,Asthma,Never,0.74
+1550,2024-01-17,32,M,171.9,63.3,Running,30,Low,5.2,117,5.7,6,10417,2.8,20.6,75.5,99,81.3,Asthma,Never,0.77
+1550,2024-01-19,32,M,171.9,63.6,Running,35,Medium,7.2,150,9.0,2,8620,2.5,20.6,75.5,99,81.3,Asthma,Never,0.82
+1550,2024-01-25,32,M,171.9,63.9,Running,25,Low,4.3,117,7.2,2,6488,2.4,20.6,75.5,99,81.3,Asthma,Never,0.84
+1550,2024-01-26,32,M,171.9,64.1,Running,83,Medium,17.3,131,7.3,1,7231,3.1,20.6,75.5,99,81.3,Asthma,Never,0.94
+1550,2024-01-28,32,M,171.9,64.4,Walking,109,Low,7.4,124,6.3,6,9732,2.0,20.6,75.5,99,81.3,Asthma,Never,1.05
+1550,2024-01-29,32,M,171.9,64.6,Running,117,Medium,24.6,148,7.0,4,7820,1.9,20.6,75.5,99,81.3,Asthma,Never,1.19
+1550,2024-01-30,32,M,171.9,64.9,Walking,39,Medium,3.2,128,7.3,1,7978,2.1,20.6,75.5,99,81.3,Asthma,Never,1.24

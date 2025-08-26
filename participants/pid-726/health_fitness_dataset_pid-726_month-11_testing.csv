@@ -1,0 +1,17 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+726,2024-11-01,42,F,179.8,124.9,Weight Training,49,High,14.2,166,5.1,6,4165,1.6,20.9,80.2,123.1,94.3,None,Current,19.2
+726,2024-11-06,42,F,179.8,125.1,Weight Training,99,Medium,24.7,144,6.7,9,7993,2.2,20.9,80.2,123.1,94.3,None,Current,19.32
+726,2024-11-08,42,F,179.8,125.4,HIIT,113,Medium,56.6,126,5.3,8,9041,2.0,20.9,80.2,123.1,94.3,None,Current,19.45
+726,2024-11-09,42,F,179.8,125.6,Weight Training,43,Medium,10.8,139,8.3,2,9566,2.4,20.9,80.2,123.1,94.3,None,Current,19.51
+726,2024-11-11,42,F,179.8,125.9,Weight Training,85,Medium,21.4,126,6.7,6,5703,2.6,20.9,80.2,123.1,94.3,None,Current,19.61
+726,2024-11-14,42,F,179.8,126.2,HIIT,103,Medium,51.9,112,8.8,5,9918,3.1,20.9,80.2,123.1,94.3,None,Current,19.73
+726,2024-11-15,42,F,179.8,126.4,Weight Training,53,Low,11.1,116,6.0,8,6616,2.3,20.9,80.2,123.1,94.3,None,Current,19.78
+726,2024-11-16,42,F,179.8,126.7,HIIT,38,Low,16.0,121,6.4,10,8995,2.4,20.9,80.2,123.1,94.3,None,Current,19.82
+726,2024-11-18,42,F,179.8,126.9,HIIT,71,High,42.0,165,9.8,5,9527,2.3,20.9,80.2,123.1,94.3,None,Current,19.92
+726,2024-11-19,42,F,179.8,127.2,Cycling,67,Medium,24.1,126,6.8,4,8365,2.5,20.9,80.2,123.1,94.3,None,Current,20.0
+726,2024-11-20,42,F,179.8,127.4,Cycling,106,Medium,38.2,134,6.1,7,4614,3.4,20.9,80.2,123.1,94.3,None,Current,20.13
+726,2024-11-21,42,F,179.8,127.7,Weight Training,74,Medium,18.9,140,5.5,10,6430,3.1,20.9,80.2,123.1,94.3,None,Current,20.22
+726,2024-11-22,42,F,179.8,128.0,Cycling,41,Medium,14.8,144,7.0,3,7333,3.2,20.9,80.2,123.1,94.3,None,Current,20.27
+726,2024-11-25,42,F,179.8,128.2,Cycling,108,Medium,39.2,140,4.5,2,5120,2.0,20.9,80.2,123.1,94.3,None,Current,20.4
+726,2024-11-27,42,F,179.8,128.5,Cycling,99,Low,30.0,113,6.1,3,7300,2.3,20.9,80.2,123.1,94.3,None,Current,20.5
+726,2024-11-30,42,F,179.8,128.7,Cycling,21,Low,6.4,118,5.8,6,10246,2.0,20.9,80.2,123.1,94.3,None,Current,20.52

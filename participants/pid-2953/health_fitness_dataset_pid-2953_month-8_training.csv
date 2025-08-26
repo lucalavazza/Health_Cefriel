@@ -1,0 +1,17 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+2953,2024-08-01,60,M,172.6,123.1,Dancing,38,Low,7.1,111,6.6,5,4907,2.4,28.4,63.5,119.6,92.1,None,Former,11.57
+2953,2024-08-02,60,M,172.6,123.4,Walking,87,High,15.8,141,8.4,1,6448,2.2,28.4,63.5,119.6,92.1,None,Former,11.7
+2953,2024-08-07,60,M,172.6,123.6,Dancing,31,Medium,7.0,112,6.1,9,5266,1.7,28.4,63.5,119.6,92.1,None,Former,11.73
+2953,2024-08-11,60,M,172.6,123.9,Tennis,70,Medium,21.1,126,7.4,1,7395,3.0,28.4,63.5,119.6,92.1,None,Former,11.82
+2953,2024-08-14,60,M,172.6,124.1,Dancing,35,Medium,7.9,118,6.7,1,6226,1.7,28.4,63.5,119.6,92.1,None,Former,11.86
+2953,2024-08-16,60,M,172.6,124.4,Yoga,49,Low,5.1,101,7.3,5,8187,2.3,28.4,63.5,119.6,92.1,None,Former,11.91
+2953,2024-08-17,60,M,172.6,124.6,Weight Training,31,Low,6.4,95,7.4,7,7703,2.1,28.4,63.5,119.6,92.1,None,Former,11.94
+2953,2024-08-18,60,M,172.6,124.9,Dancing,52,Medium,11.9,113,6.5,5,7531,1.5,28.4,63.5,119.6,92.1,None,Former,12.0
+2953,2024-08-19,60,M,172.6,125.2,Yoga,100,Medium,12.5,133,5.9,1,5998,3.5,28.4,63.5,119.6,92.1,None,Former,12.12
+2953,2024-08-20,60,M,172.6,125.4,Yoga,49,Medium,6.1,96,5.7,7,5518,2.2,28.4,63.5,119.6,92.1,None,Former,12.18
+2953,2024-08-23,60,M,172.6,125.7,Dancing,38,Low,7.3,94,6.1,7,5149,2.8,28.4,63.5,119.6,92.1,None,Former,12.22
+2953,2024-08-24,60,M,172.6,125.9,Weight Training,37,Medium,9.3,118,6.5,10,6497,3.3,28.4,63.5,119.6,92.1,None,Former,12.26
+2953,2024-08-25,60,M,172.6,126.2,Weight Training,55,Medium,13.9,113,8.0,8,5640,2.9,28.4,63.5,119.6,92.1,None,Former,12.33
+2953,2024-08-28,60,M,172.6,126.5,Dancing,39,High,10.5,135,5.5,9,8067,2.4,28.4,63.5,119.6,92.1,None,Former,12.38
+2953,2024-08-29,60,M,172.6,126.7,Weight Training,65,High,19.2,133,7.9,1,6399,2.3,28.4,63.5,119.6,92.1,None,Former,12.47
+2953,2024-08-30,60,M,172.6,127.0,Weight Training,115,Low,24.3,108,6.1,6,8224,2.0,28.4,63.5,119.6,92.1,None,Former,12.59

@@ -1,0 +1,17 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+205,2024-12-01,42,M,163.2,127.4,Walking,84,Medium,13.5,134,5.7,10,11026,2.9,26.6,73.3,114.3,77,Hypertension,Never,17.83
+205,2024-12-02,42,M,163.2,127.7,Walking,84,Medium,13.6,119,6.5,6,7598,1.8,26.6,73.3,114.3,77,Hypertension,Never,17.93
+205,2024-12-03,42,M,163.2,127.9,Running,51,Medium,21.3,142,8.0,4,7214,2.2,26.6,73.3,114.3,77,Hypertension,Never,17.99
+205,2024-12-05,42,M,163.2,128.2,Running,103,Medium,43.0,130,6.7,4,7497,2.1,26.6,73.3,114.3,77,Hypertension,Never,18.11
+205,2024-12-06,42,M,163.2,128.4,Tennis,29,Low,7.5,126,5.3,6,3030,2.4,26.6,73.3,114.3,77,Hypertension,Never,18.14
+205,2024-12-07,42,M,163.2,128.7,Running,34,Low,11.9,111,7.4,6,10452,1.6,26.6,73.3,114.3,77,Hypertension,Never,18.18
+205,2024-12-08,42,M,163.2,129.0,Yoga,86,Medium,11.1,135,7.6,8,8976,3.2,26.6,73.3,114.3,77,Hypertension,Never,18.28
+205,2024-12-09,42,M,163.2,129.2,Tennis,95,Low,24.8,114,7.0,2,7760,2.1,26.6,73.3,114.3,77,Hypertension,Never,18.38
+205,2024-12-10,42,M,163.2,129.5,Running,62,Medium,26.2,118,8.3,6,8467,3.2,26.6,73.3,114.3,77,Hypertension,Never,18.45
+205,2024-12-12,42,M,163.2,129.7,Tennis,33,Medium,10.4,120,7.6,6,8082,3.1,26.6,73.3,114.3,77,Hypertension,Never,18.49
+205,2024-12-15,42,M,163.2,130.0,Tennis,41,Medium,12.9,146,6.5,5,7184,2.0,26.6,73.3,114.3,77,Hypertension,Never,18.54
+205,2024-12-16,42,M,163.2,130.3,Swimming,33,Low,8.3,117,7.6,7,7520,2.9,26.6,73.3,114.3,77,Hypertension,Never,18.57
+205,2024-12-17,42,M,163.2,130.5,Swimming,28,Medium,8.5,146,7.3,9,6458,1.8,26.6,73.3,114.3,77,Hypertension,Never,18.61
+205,2024-12-18,42,M,163.2,130.8,Swimming,96,Medium,29.2,132,7.7,9,8264,3.3,26.6,73.3,114.3,77,Hypertension,Never,18.72
+205,2024-12-19,42,M,163.2,131.0,Walking,45,Low,6.2,127,7.2,8,5723,2.8,26.6,73.3,114.3,77,Hypertension,Never,18.77
+205,2024-12-20,42,M,163.2,131.3,Walking,64,Medium,10.6,131,9.4,10,6185,2.9,26.6,73.3,114.3,77,Hypertension,Never,18.84

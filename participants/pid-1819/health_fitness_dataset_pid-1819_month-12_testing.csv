@@ -1,0 +1,17 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+1819,2024-12-01,60,Other,164.5,119.5,Running,115,Low,37.3,100,6.6,8,11686,3.1,23.2,65.4,125.9,78.8,None,Never,18.38
+1819,2024-12-03,60,Other,164.5,119.7,Dancing,115,Medium,25.2,123,6.6,7,6320,2.7,23.2,65.4,125.9,78.8,None,Never,18.52
+1819,2024-12-04,60,Other,164.5,120.0,Running,79,Low,25.7,112,6.3,6,7002,1.9,23.2,65.4,125.9,78.8,None,Never,18.6
+1819,2024-12-05,60,Other,164.5,120.2,Running,71,Medium,27.8,138,7.6,1,7307,2.0,23.2,65.4,125.9,78.8,None,Never,18.69
+1819,2024-12-06,60,Other,164.5,120.5,Running,115,Low,37.6,108,6.6,7,6866,3.2,23.2,65.4,125.9,78.8,None,Never,18.8
+1819,2024-12-07,60,Other,164.5,120.7,Running,90,Medium,35.4,118,6.7,8,9837,2.3,23.2,65.4,125.9,78.8,None,Never,18.91
+1819,2024-12-08,60,Other,164.5,121.0,Yoga,98,Medium,11.8,123,8.7,5,9591,1.6,23.2,65.4,125.9,78.8,None,Never,19.03
+1819,2024-12-09,60,Other,164.5,121.3,Running,49,Medium,19.4,142,7.7,7,9361,3.4,23.2,65.4,125.9,78.8,None,Never,19.09
+1819,2024-12-11,60,Other,164.5,121.5,Yoga,30,High,4.2,143,5.6,3,7373,1.9,23.2,65.4,125.9,78.8,None,Never,19.13
+1819,2024-12-12,60,Other,164.5,121.8,Yoga,57,Low,5.8,98,7.8,8,5959,3.2,23.2,65.4,125.9,78.8,None,Never,19.18
+1819,2024-12-13,60,Other,164.5,122.0,Running,42,High,19.5,116,6.7,6,8830,2.7,23.2,65.4,125.9,78.8,None,Never,19.24
+1819,2024-12-17,60,Other,164.5,122.3,Yoga,40,High,5.7,122,6.6,6,7304,1.8,23.2,65.4,125.9,78.8,None,Never,19.3
+1819,2024-12-19,60,Other,164.5,122.6,Yoga,22,Medium,2.7,124,8.0,1,7801,2.7,23.2,65.4,125.9,78.8,None,Never,19.33
+1819,2024-12-21,60,Other,164.5,122.8,Running,116,Medium,46.4,116,8.4,4,11787,2.8,23.2,65.4,125.9,78.8,None,Never,19.47
+1819,2024-12-22,60,Other,164.5,123.1,Yoga,86,Medium,10.6,117,8.0,4,8933,1.9,23.2,65.4,125.9,78.8,None,Never,19.57
+1819,2024-12-23,60,Other,164.5,123.3,Running,81,Medium,32.6,113,7.1,3,7827,3.4,23.2,65.4,125.9,78.8,None,Never,19.67

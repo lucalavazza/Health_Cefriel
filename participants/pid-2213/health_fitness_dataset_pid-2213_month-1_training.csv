@@ -1,0 +1,17 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+2213,2024-01-02,56,F,161.6,56.9,Walking,39,Low,2.3,119,7.6,4,8068,2.3,21.7,74.3,127.1,91.5,Asthma,Never,0.04
+2213,2024-01-04,56,F,161.6,57.1,Walking,98,Medium,7.1,129,7.3,8,7968,3.4,21.7,74.3,127.1,91.5,Asthma,Never,0.16
+2213,2024-01-06,56,F,161.6,57.4,Weight Training,117,Low,11.1,113,8.0,6,11055,1.6,21.7,74.3,127.1,91.5,Asthma,Never,0.27
+2213,2024-01-07,56,F,161.6,57.6,Walking,107,Medium,7.8,125,6.8,8,9424,2.3,21.7,74.3,127.1,91.5,Asthma,Never,0.4
+2213,2024-01-08,56,F,161.6,57.9,Weight Training,26,Low,2.5,113,7.5,5,8650,2.7,21.7,74.3,127.1,91.5,Asthma,Never,0.43
+2213,2024-01-11,56,F,161.6,58.1,HIIT,40,Low,7.7,106,7.3,7,8470,2.6,21.7,74.3,127.1,91.5,Asthma,Never,0.47
+2213,2024-01-13,56,F,161.6,58.4,Weight Training,94,Low,9.1,110,8.2,4,10824,3.0,21.7,74.3,127.1,91.5,Asthma,Never,0.56
+2213,2024-01-16,56,F,161.6,58.7,Weight Training,107,Low,10.4,105,7.7,5,5779,3.4,21.7,74.3,127.1,91.5,Asthma,Never,0.67
+2213,2024-01-17,56,F,161.6,58.9,HIIT,57,Medium,13.4,127,8.5,3,5684,3.4,21.7,74.3,127.1,91.5,Asthma,Never,0.74
+2213,2024-01-18,56,F,161.6,59.2,Weight Training,28,High,3.8,136,7.5,8,5638,2.2,21.7,74.3,127.1,91.5,Asthma,Never,0.78
+2213,2024-01-19,56,F,161.6,59.4,Weight Training,101,Low,10.0,111,7.3,5,7650,2.5,21.7,74.3,127.1,91.5,Asthma,Never,0.88
+2213,2024-01-20,56,F,161.6,59.7,Weight Training,118,Low,11.7,116,8.1,2,10225,3.4,21.7,74.3,127.1,91.5,Asthma,Never,1.0
+2213,2024-01-24,56,F,161.6,60.0,Yoga,28,High,2.0,126,7.2,8,8719,2.9,21.7,74.3,127.1,91.5,Asthma,Never,1.03
+2213,2024-01-25,56,F,161.6,60.2,Yoga,76,Medium,4.6,125,6.5,3,5577,2.3,21.7,74.3,127.1,91.5,Asthma,Never,1.13
+2213,2024-01-26,56,F,161.6,60.5,Yoga,26,High,1.8,124,8.1,1,9880,1.8,21.7,74.3,127.1,91.5,Asthma,Never,1.16
+2213,2024-01-30,56,F,161.6,60.7,Weight Training,31,Low,3.1,105,8.8,7,9474,3.1,21.7,74.3,127.1,91.5,Asthma,Never,1.19

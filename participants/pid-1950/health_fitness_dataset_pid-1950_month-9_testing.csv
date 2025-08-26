@@ -1,0 +1,13 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+1950,2024-09-01,29,M,178.6,118.9,Yoga,50,Medium,5.9,144,7.8,3,6257,3.2,23.7,60.7,124.3,74.7,Diabetes,Never,13.44
+1950,2024-09-02,29,M,178.6,119.2,Yoga,104,High,14.4,152,6.0,5,6870,3.3,23.7,60.7,124.3,74.7,Diabetes,Never,13.59
+1950,2024-09-04,29,M,178.6,119.4,HIIT,73,Low,29.0,124,6.1,4,7005,2.9,23.7,60.7,124.3,74.7,Diabetes,Never,13.66
+1950,2024-09-07,29,M,178.6,119.7,HIIT,37,Low,14.7,125,6.4,8,9184,3.4,23.7,60.7,124.3,74.7,Diabetes,Never,13.7
+1950,2024-09-08,29,M,178.6,119.9,HIIT,54,Medium,25.9,139,4.1,5,7687,2.9,23.7,60.7,124.3,74.7,Diabetes,Never,13.76
+1950,2024-09-13,29,M,178.6,120.2,HIIT,46,Low,18.4,113,6.3,3,5494,2.9,23.7,60.7,124.3,74.7,Diabetes,Never,13.81
+1950,2024-09-18,29,M,178.6,120.5,HIIT,102,Medium,49.0,150,7.7,6,7603,1.7,23.7,60.7,124.3,74.7,Diabetes,Never,13.93
+1950,2024-09-21,29,M,178.6,120.7,HIIT,58,Medium,27.9,152,8.2,3,8415,3.3,23.7,60.7,124.3,74.7,Diabetes,Never,14.0
+1950,2024-09-23,29,M,178.6,121.0,HIIT,80,Medium,38.6,141,6.8,5,7655,2.7,23.7,60.7,124.3,74.7,Diabetes,Never,14.1
+1950,2024-09-24,29,M,178.6,121.2,HIIT,41,Medium,19.8,139,6.9,5,6159,1.7,23.7,60.7,124.3,74.7,Diabetes,Never,14.15
+1950,2024-09-29,29,M,178.6,121.5,HIIT,59,Low,23.8,130,7.4,4,8639,1.9,23.7,60.7,124.3,74.7,Diabetes,Never,14.21
+1950,2024-09-30,29,M,178.6,121.7,HIIT,54,Medium,26.2,145,8.6,9,4193,3.0,23.7,60.7,124.3,74.7,Diabetes,Never,14.27

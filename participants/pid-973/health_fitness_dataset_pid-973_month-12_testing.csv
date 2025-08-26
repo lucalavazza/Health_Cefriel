@@ -1,0 +1,13 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+973,2024-12-03,64,M,166.5,121.8,Running,30,High,13.9,129,6.3,6,9236,3.1,24.2,66.5,145.9,66.6,None,Former,17.41
+973,2024-12-04,64,M,166.5,122.1,HIIT,58,Low,23.5,104,7.5,5,6321,2.6,24.2,66.5,145.9,66.6,None,Former,17.46
+973,2024-12-05,64,M,166.5,122.3,Running,105,Low,34.9,98,6.7,6,4615,3.2,24.2,66.5,145.9,66.6,None,Former,17.57
+973,2024-12-13,64,M,166.5,122.6,Running,22,Medium,8.8,129,6.4,10,6993,2.2,24.2,66.5,145.9,66.6,None,Former,17.59
+973,2024-12-14,64,M,166.5,122.8,HIIT,57,Medium,27.9,120,6.7,3,7620,2.5,24.2,66.5,145.9,66.6,None,Former,17.66
+973,2024-12-15,64,M,166.5,123.1,Yoga,68,Medium,8.4,116,6.5,8,10715,2.4,24.2,66.5,145.9,66.6,None,Former,17.74
+973,2024-12-17,64,M,166.5,123.3,Yoga,101,High,14.5,129,8.2,5,8833,2.7,24.2,66.5,145.9,66.6,None,Former,17.89
+973,2024-12-20,64,M,166.5,123.6,Yoga,105,Medium,13.0,116,6.6,7,3892,3.4,24.2,66.5,145.9,66.6,None,Former,18.01
+973,2024-12-22,64,M,166.5,123.9,Yoga,117,Medium,14.5,129,6.0,4,9724,3.5,24.2,66.5,145.9,66.6,None,Former,18.15
+973,2024-12-23,64,M,166.5,124.1,Yoga,67,Low,6.9,95,8.0,2,6899,3.2,24.2,66.5,145.9,66.6,None,Former,18.22
+973,2024-12-24,64,M,166.5,124.4,Yoga,114,Medium,14.1,108,7.8,9,8071,2.7,24.2,66.5,145.9,66.6,None,Former,18.36
+973,2024-12-25,64,M,166.5,124.6,Yoga,54,Low,5.6,96,6.9,9,8708,1.7,24.2,66.5,145.9,66.6,None,Former,18.41

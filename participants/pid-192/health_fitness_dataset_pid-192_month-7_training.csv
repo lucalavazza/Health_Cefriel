@@ -1,0 +1,17 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+192,2024-07-01,55,M,190.7,108.6,Tennis,101,Low,22.2,108,7.1,5,6011,3.5,20.4,74.9,98.6,71.8,None,Former,11.15
+192,2024-07-02,55,M,190.7,108.8,Swimming,118,High,34.9,122,6.9,4,9147,3.2,20.4,74.9,98.6,71.8,None,Former,11.31
+192,2024-07-04,55,M,190.7,109.1,Weight Training,85,Low,15.4,102,6.9,3,8270,1.8,20.4,74.9,98.6,71.8,None,Former,11.4
+192,2024-07-06,55,M,190.7,109.4,Swimming,66,Low,14.0,105,8.2,1,8626,3.5,20.4,74.9,98.6,71.8,None,Former,11.47
+192,2024-07-11,55,M,190.7,109.6,Weight Training,32,Low,5.8,116,7.1,8,10758,2.5,20.4,74.9,98.6,71.8,None,Former,11.5
+192,2024-07-13,55,M,190.7,109.9,Weight Training,22,Low,4.0,112,8.5,2,7015,1.6,20.4,74.9,98.6,71.8,None,Former,11.52
+192,2024-07-14,55,M,190.7,110.1,Weight Training,70,Low,12.8,106,8.0,1,7671,2.0,20.4,74.9,98.6,71.8,None,Former,11.59
+192,2024-07-15,55,M,190.7,110.4,Swimming,120,Medium,30.8,105,8.8,4,8319,1.8,20.4,74.9,98.6,71.8,None,Former,11.73
+192,2024-07-18,55,M,190.7,110.6,HIIT,85,Low,31.3,110,7.3,10,5526,2.1,20.4,74.9,98.6,71.8,None,Former,11.82
+192,2024-07-21,55,M,190.7,110.9,Weight Training,29,Low,5.3,111,6.6,1,8405,2.6,20.4,74.9,98.6,71.8,None,Former,11.85
+192,2024-07-22,55,M,190.7,111.2,Basketball,95,Medium,28.1,128,7.5,10,7424,3.2,20.4,74.9,98.6,71.8,None,Former,11.96
+192,2024-07-23,55,M,190.7,111.4,Weight Training,25,Low,4.6,104,5.7,3,5959,2.6,20.4,74.9,98.6,71.8,None,Former,11.99
+192,2024-07-24,55,M,190.7,111.7,Dancing,66,Medium,13.5,121,6.2,2,9080,2.2,20.4,74.9,98.6,71.8,None,Former,12.07
+192,2024-07-26,55,M,190.7,111.9,Basketball,91,Low,22.6,111,7.0,2,7910,2.1,20.4,74.9,98.6,71.8,None,Former,12.16
+192,2024-07-29,55,M,190.7,112.2,Walking,82,Low,9.7,113,6.2,6,10158,2.8,20.4,74.9,98.6,71.8,None,Former,12.24
+192,2024-07-30,55,M,190.7,112.4,Dancing,44,Low,7.5,103,7.7,10,6817,2.7,20.4,74.9,98.6,71.8,None,Former,12.28

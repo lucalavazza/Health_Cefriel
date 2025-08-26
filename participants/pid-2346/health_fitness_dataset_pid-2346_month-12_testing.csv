@@ -1,0 +1,16 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+2346,2024-12-06,63,M,177.9,112.4,Weight Training,60,Low,11.2,86,6.2,1,10458,2.6,17.7,69.6,120.3,81.4,None,Never,17.75
+2346,2024-12-07,63,M,177.9,112.7,Weight Training,37,High,9.7,142,7.0,3,12290,3.4,17.7,69.6,120.3,81.4,None,Never,17.8
+2346,2024-12-09,63,M,177.9,112.9,Weight Training,73,Medium,16.4,132,6.8,2,7118,3.3,17.7,69.6,120.3,81.4,None,Never,17.89
+2346,2024-12-10,63,M,177.9,113.2,Weight Training,70,Low,13.2,94,5.9,7,7747,2.4,17.7,69.6,120.3,81.4,None,Never,17.96
+2346,2024-12-11,63,M,177.9,113.4,Weight Training,73,Medium,16.5,128,6.5,5,7668,2.5,17.7,69.6,120.3,81.4,None,Never,18.04
+2346,2024-12-12,63,M,177.9,113.7,Weight Training,45,Low,8.5,105,6.8,7,3371,2.0,17.7,69.6,120.3,81.4,None,Never,18.09
+2346,2024-12-13,63,M,177.9,114.0,Weight Training,102,High,27.1,137,6.4,5,5842,2.5,17.7,69.6,120.3,81.4,None,Never,18.23
+2346,2024-12-14,63,M,177.9,114.2,Weight Training,86,Low,16.3,98,7.2,10,6797,2.5,17.7,69.6,120.3,81.4,None,Never,18.32
+2346,2024-12-15,63,M,177.9,114.5,Weight Training,61,High,16.3,131,7.7,10,10214,2.7,17.7,69.6,120.3,81.4,None,Never,18.4
+2346,2024-12-16,63,M,177.9,114.7,HIIT,110,Medium,50.4,106,6.2,7,6749,2.3,17.7,69.6,120.3,81.4,None,Never,18.53
+2346,2024-12-17,63,M,177.9,115.0,Weight Training,113,Medium,25.9,119,7.6,4,3828,3.5,17.7,69.6,120.3,81.4,None,Never,18.67
+2346,2024-12-20,63,M,177.9,115.2,HIIT,29,Medium,13.3,104,7.3,1,6099,3.2,17.7,69.6,120.3,81.4,None,Never,18.71
+2346,2024-12-23,63,M,177.9,115.5,HIIT,41,Medium,18.9,120,9.7,10,8737,2.0,17.7,69.6,120.3,81.4,None,Never,18.75
+2346,2024-12-24,63,M,177.9,115.8,HIIT,77,Low,29.6,103,7.7,4,6892,2.3,17.7,69.6,120.3,81.4,None,Never,18.83
+2346,2024-12-25,63,M,177.9,116.0,HIIT,33,Medium,15.3,117,6.8,3,8553,2.4,17.7,69.6,120.3,81.4,None,Never,18.87

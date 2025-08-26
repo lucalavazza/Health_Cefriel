@@ -1,0 +1,16 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+2433,2024-11-01,32,M,173.8,119.4,Basketball,117,Low,31.0,123,6.8,1,8283,2.3,23.2,62.8,110.1,77.5,None,Current,15.87
+2433,2024-11-03,32,M,173.8,119.7,Basketball,53,Low,14.1,127,7.2,2,9937,2.2,23.2,62.8,110.1,77.5,None,Current,15.93
+2433,2024-11-04,32,M,173.8,119.9,Basketball,68,Low,18.1,116,7.9,9,8832,2.3,23.2,62.8,110.1,77.5,None,Current,15.99
+2433,2024-11-05,32,M,173.8,120.2,Basketball,101,Medium,32.3,146,6.8,7,6928,2.9,23.2,62.8,110.1,77.5,None,Current,16.12
+2433,2024-11-08,32,M,173.8,120.5,Basketball,109,Low,29.1,121,8.5,3,5650,3.4,23.2,62.8,110.1,77.5,None,Current,16.22
+2433,2024-11-09,32,M,173.8,120.7,Basketball,85,Medium,27.3,150,6.8,2,6397,2.6,23.2,62.8,110.1,77.5,None,Current,16.33
+2433,2024-11-10,32,M,173.8,121.0,Basketball,37,Low,9.9,124,7.6,6,8594,2.2,23.2,62.8,110.1,77.5,None,Current,16.36
+2433,2024-11-15,32,M,173.8,121.2,Basketball,76,Medium,24.5,148,5.8,5,8651,2.2,23.2,62.8,110.1,77.5,None,Current,16.45
+2433,2024-11-17,32,M,173.8,121.5,Basketball,40,Medium,12.9,143,7.4,1,10997,3.3,23.2,62.8,110.1,77.5,None,Current,16.5
+2433,2024-11-18,32,M,173.8,121.7,Basketball,98,Low,26.5,121,6.2,10,7844,1.5,23.2,62.8,110.1,77.5,None,Current,16.6
+2433,2024-11-19,32,M,173.8,122.0,Cycling,50,Low,14.4,117,6.9,6,6668,2.4,23.2,62.8,110.1,77.5,None,Current,16.65
+2433,2024-11-22,32,M,173.8,122.3,Basketball,65,Medium,21.1,141,6.5,10,7481,2.5,23.2,62.8,110.1,77.5,None,Current,16.73
+2433,2024-11-23,32,M,173.8,122.5,Cycling,43,Medium,14.9,134,6.7,3,7568,2.9,23.2,62.8,110.1,77.5,None,Current,16.78
+2433,2024-11-29,32,M,173.8,122.8,Cycling,71,Low,20.5,129,6.7,8,6952,2.5,23.2,62.8,110.1,77.5,None,Current,16.85
+2433,2024-11-30,32,M,173.8,123.0,Basketball,33,Low,9.0,120,5.6,1,9094,3.3,23.2,62.8,110.1,77.5,None,Current,16.88

@@ -1,0 +1,16 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+642,2024-09-01,61,F,172.5,121.7,Weight Training,88,Medium,21.4,133,6.4,1,7741,1.6,25.7,75.5,127.1,78.8,None,Former,14.88
+642,2024-09-02,61,F,172.5,122.0,Weight Training,47,Low,9.5,104,7.2,1,7463,2.1,25.7,75.5,127.1,78.8,None,Former,14.93
+642,2024-09-06,61,F,172.5,122.2,Basketball,42,Medium,13.7,127,8.0,8,4518,2.4,25.7,75.5,127.1,78.8,None,Former,14.98
+642,2024-09-09,61,F,172.5,122.5,Yoga,106,Medium,13.0,124,6.6,9,5792,2.2,25.7,75.5,127.1,78.8,None,Former,15.11
+642,2024-09-10,61,F,172.5,122.7,Basketball,101,Medium,33.0,116,7.3,8,8237,3.2,25.7,75.5,127.1,78.8,None,Former,15.23
+642,2024-09-12,61,F,172.5,123.0,Yoga,113,High,16.2,138,9.5,10,3774,2.2,25.7,75.5,127.1,78.8,None,Former,15.39
+642,2024-09-17,61,F,172.5,123.2,Yoga,39,Low,4.0,91,7.2,5,6783,2.7,25.7,75.5,127.1,78.8,None,Former,15.43
+642,2024-09-19,61,F,172.5,123.5,Yoga,34,High,4.9,123,7.0,4,6350,2.4,25.7,75.5,127.1,78.8,None,Former,15.47
+642,2024-09-20,61,F,172.5,123.8,Weight Training,27,Medium,6.7,126,5.9,3,7953,1.8,25.7,75.5,127.1,78.8,None,Former,15.51
+642,2024-09-21,61,F,172.5,124.0,Weight Training,89,High,25.7,140,6.9,7,4312,2.6,25.7,75.5,127.1,78.8,None,Former,15.63
+642,2024-09-22,61,F,172.5,124.3,Weight Training,80,Medium,19.8,121,6.0,8,5619,2.7,25.7,75.5,127.1,78.8,None,Former,15.73
+642,2024-09-24,61,F,172.5,124.5,Weight Training,78,Low,16.2,102,8.2,8,7005,2.4,25.7,75.5,127.1,78.8,None,Former,15.8
+642,2024-09-25,61,F,172.5,124.8,Weight Training,52,Medium,13.0,126,6.0,8,5415,1.8,25.7,75.5,127.1,78.8,None,Former,15.87
+642,2024-09-26,61,F,172.5,125.1,Cycling,39,Medium,13.8,123,6.0,7,5329,1.9,25.7,75.5,127.1,78.8,None,Former,15.91
+642,2024-09-27,61,F,172.5,125.3,Walking,116,Low,15.3,98,7.3,7,5498,3.1,25.7,75.5,127.1,78.8,None,Former,16.03

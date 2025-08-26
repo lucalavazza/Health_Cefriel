@@ -1,0 +1,16 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+1511,2024-10-01,28,F,162.7,107.8,HIIT,37,Low,13.3,123,6.5,9,7341,2.0,23.9,64.8,114.6,55.9,Hypertension,Never,13.74
+1511,2024-10-02,28,F,162.7,108.0,Walking,93,Medium,12.7,137,6.9,1,11158,1.9,23.9,64.8,114.6,55.9,Hypertension,Never,13.85
+1511,2024-10-03,28,F,162.7,108.3,Walking,113,High,18.0,167,7.4,8,6393,1.9,23.9,64.8,114.6,55.9,Hypertension,Never,14.01
+1511,2024-10-08,28,F,162.7,108.5,HIIT,109,Medium,47.2,151,7.7,8,7004,2.1,23.9,64.8,114.6,55.9,Hypertension,Never,14.14
+1511,2024-10-09,28,F,162.7,108.8,Walking,57,Medium,7.8,151,7.1,7,5718,2.4,23.9,64.8,114.6,55.9,Hypertension,Never,14.21
+1511,2024-10-11,28,F,162.7,109.1,HIIT,107,Medium,46.6,143,7.2,6,8494,3.3,23.9,64.8,114.6,55.9,Hypertension,Never,14.33
+1511,2024-10-16,28,F,162.7,109.3,Walking,94,Medium,13.0,138,6.5,4,4336,2.7,23.9,64.8,114.6,55.9,Hypertension,Never,14.45
+1511,2024-10-19,28,F,162.7,109.6,Walking,95,Low,11.0,129,6.7,8,8322,2.3,23.9,64.8,114.6,55.9,Hypertension,Never,14.54
+1511,2024-10-20,28,F,162.7,109.8,Walking,67,Low,7.7,124,8.4,2,7741,1.7,23.9,64.8,114.6,55.9,Hypertension,Never,14.61
+1511,2024-10-21,28,F,162.7,110.1,Swimming,24,Medium,6.2,144,5.6,2,5411,2.8,23.9,64.8,114.6,55.9,Hypertension,Never,14.64
+1511,2024-10-25,28,F,162.7,110.3,Dancing,64,Medium,12.9,150,8.2,3,5726,2.6,23.9,64.8,114.6,55.9,Hypertension,Never,14.71
+1511,2024-10-26,28,F,162.7,110.6,Dancing,64,Low,10.8,130,6.7,4,8728,3.3,23.9,64.8,114.6,55.9,Hypertension,Never,14.78
+1511,2024-10-29,28,F,162.7,110.9,Dancing,45,Medium,9.1,154,8.2,10,8029,3.0,23.9,64.8,114.6,55.9,Hypertension,Never,14.83
+1511,2024-10-30,28,F,162.7,111.1,Dancing,86,Medium,17.5,168,7.3,8,5429,3.2,23.9,64.8,114.6,55.9,Hypertension,Never,14.94
+1511,2024-10-31,28,F,162.7,111.4,Basketball,34,High,11.8,176,4.9,6,5688,1.6,23.9,64.8,114.6,55.9,Hypertension,Never,14.98

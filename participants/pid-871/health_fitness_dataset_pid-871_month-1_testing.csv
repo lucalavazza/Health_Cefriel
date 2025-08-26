@@ -1,0 +1,20 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+871,2024-01-01,47,F,163.1,48.9,Weight Training,53,Low,4.3,111,7.6,6,6711,2.9,18.3,77.8,116.2,73.6,None,Current,0.05
+871,2024-01-04,47,F,163.1,49.1,Weight Training,93,Low,7.6,107,6.3,2,6773,3.1,18.3,77.8,116.2,73.6,None,Current,0.15
+871,2024-01-06,47,F,163.1,49.4,Weight Training,85,Low,7.0,121,7.1,4,9024,3.1,18.3,77.8,116.2,73.6,None,Current,0.23
+871,2024-01-08,47,F,163.1,49.7,Weight Training,40,Medium,4.0,131,6.6,6,5984,2.6,18.3,77.8,116.2,73.6,None,Current,0.28
+871,2024-01-10,47,F,163.1,49.9,Weight Training,61,High,7.1,154,7.6,8,8820,3.1,18.3,77.8,116.2,73.6,None,Current,0.36
+871,2024-01-11,47,F,163.1,50.2,Swimming,34,High,4.6,138,6.0,5,9150,2.5,18.3,77.8,116.2,73.6,None,Current,0.41
+871,2024-01-12,47,F,163.1,50.4,Swimming,53,Low,5.2,112,9.0,4,7819,3.4,18.3,77.8,116.2,73.6,None,Current,0.47
+871,2024-01-16,47,F,163.1,50.7,Tennis,106,Low,10.8,118,5.8,4,11348,2.9,18.3,77.8,116.2,73.6,None,Current,0.57
+871,2024-01-17,47,F,163.1,51.0,Tennis,90,Medium,11.1,117,8.8,5,10039,2.8,18.3,77.8,116.2,73.6,None,Current,0.68
+871,2024-01-18,47,F,163.1,51.2,Tennis,52,Medium,6.4,123,7.1,5,6992,1.6,18.3,77.8,116.2,73.6,None,Current,0.74
+871,2024-01-19,47,F,163.1,51.5,Tennis,28,Medium,3.5,127,6.2,10,9230,1.6,18.3,77.8,116.2,73.6,None,Current,0.78
+871,2024-01-20,47,F,163.1,51.7,Tennis,32,Low,3.3,117,7.6,9,12191,2.1,18.3,77.8,116.2,73.6,None,Current,0.81
+871,2024-01-21,47,F,163.1,52.0,Tennis,34,Medium,4.3,130,6.8,4,10044,1.6,18.3,77.8,116.2,73.6,None,Current,0.85
+871,2024-01-22,47,F,163.1,52.3,Tennis,55,Low,5.8,117,8.1,7,7272,2.4,18.3,77.8,116.2,73.6,None,Current,0.9
+871,2024-01-24,47,F,163.1,52.5,Tennis,90,High,13.4,151,6.2,5,7603,1.5,18.3,77.8,116.2,73.6,None,Current,1.03
+871,2024-01-25,47,F,163.1,52.8,Tennis,109,Medium,13.9,119,6.3,10,9121,2.4,18.3,77.8,116.2,73.6,None,Current,1.16
+871,2024-01-27,47,F,163.1,53.0,Tennis,116,Low,12.4,105,6.9,6,7607,2.6,18.3,77.8,116.2,73.6,None,Current,1.28
+871,2024-01-29,47,F,163.1,53.3,Weight Training,102,High,12.6,142,8.7,3,11322,2.0,18.3,77.8,116.2,73.6,None,Current,1.42
+871,2024-01-31,47,F,163.1,53.5,Weight Training,94,Low,8.3,112,9.8,9,8577,2.1,18.3,77.8,116.2,73.6,None,Current,1.51

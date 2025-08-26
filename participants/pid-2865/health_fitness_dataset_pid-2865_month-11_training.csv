@@ -1,0 +1,16 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+2865,2024-11-02,55,F,163.4,118.9,Swimming,75,Medium,20.8,127,7.6,4,9737,3.3,25.6,78.3,124.1,79.7,Asthma,Never,15.6
+2865,2024-11-05,55,F,163.4,119.1,Swimming,75,Low,17.3,102,6.7,7,9612,2.2,25.6,78.3,124.1,79.7,Asthma,Never,15.67
+2865,2024-11-06,55,F,163.4,119.4,Swimming,72,Low,16.7,103,7.8,2,4928,2.7,25.6,78.3,124.1,79.7,Asthma,Never,15.74
+2865,2024-11-07,55,F,163.4,119.6,Yoga,101,High,14.1,140,5.9,7,5124,2.7,25.6,78.3,124.1,79.7,Asthma,Never,15.88
+2865,2024-11-09,55,F,163.4,119.9,Swimming,88,Medium,24.6,131,6.7,6,8624,2.2,25.6,78.3,124.1,79.7,Asthma,Never,15.99
+2865,2024-11-11,55,F,163.4,120.1,Swimming,49,Medium,13.7,124,7.4,1,5690,2.3,25.6,78.3,124.1,79.7,Asthma,Never,16.05
+2865,2024-11-12,55,F,163.4,120.4,Running,58,Medium,22.8,133,6.6,4,4050,2.1,25.6,78.3,124.1,79.7,Asthma,Never,16.12
+2865,2024-11-14,55,F,163.4,120.7,Running,91,Medium,35.8,127,5.2,1,8222,2.1,25.6,78.3,124.1,79.7,Asthma,Never,16.23
+2865,2024-11-15,55,F,163.4,120.9,Basketball,114,Medium,36.7,119,8.2,10,7663,3.0,25.6,78.3,124.1,79.7,Asthma,Never,16.36
+2865,2024-11-18,55,F,163.4,121.2,Basketball,60,Medium,19.3,127,6.5,8,7741,2.3,25.6,78.3,124.1,79.7,Asthma,Never,16.44
+2865,2024-11-19,55,F,163.4,121.4,Running,32,High,14.8,149,6.4,7,4975,2.9,25.6,78.3,124.1,79.7,Asthma,Never,16.48
+2865,2024-11-20,55,F,163.4,121.7,Basketball,98,Low,26.4,104,8.2,5,5271,1.8,25.6,78.3,124.1,79.7,Asthma,Never,16.58
+2865,2024-11-21,55,F,163.4,121.9,Cycling,31,Medium,10.7,127,6.1,2,6488,3.0,25.6,78.3,124.1,79.7,Asthma,Never,16.62
+2865,2024-11-22,55,F,163.4,122.2,Running,115,High,53.4,127,7.8,7,6442,2.8,25.6,78.3,124.1,79.7,Asthma,Never,16.78
+2865,2024-11-24,55,F,163.4,122.5,Basketball,22,High,8.4,136,5.6,3,7380,3.2,25.6,78.3,124.1,79.7,Asthma,Never,16.81

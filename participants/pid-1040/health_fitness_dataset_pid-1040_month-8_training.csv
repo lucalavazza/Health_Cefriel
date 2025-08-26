@@ -1,0 +1,17 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+1040,2024-08-02,32,F,159.1,83.3,Cycling,60,Medium,14.1,135,7.5,4,6807,3.1,17.8,69.6,119.1,76,Diabetes,Former,11.43
+1040,2024-08-03,32,F,159.1,83.5,Cycling,77,Medium,18.2,129,6.3,9,11295,2.0,17.8,69.6,119.1,76,Diabetes,Former,11.52
+1040,2024-08-04,32,F,159.1,83.8,Weight Training,117,Low,16.3,119,7.6,8,8703,3.4,17.8,69.6,119.1,76,Diabetes,Former,11.64
+1040,2024-08-08,32,F,159.1,84.0,Cycling,50,High,13.8,152,6.7,8,5353,2.7,17.8,69.6,119.1,76,Diabetes,Former,11.71
+1040,2024-08-10,32,F,159.1,84.3,Cycling,44,Medium,10.5,133,6.9,4,8545,2.0,17.8,69.6,119.1,76,Diabetes,Former,11.76
+1040,2024-08-11,32,F,159.1,84.6,Cycling,120,High,33.4,160,7.2,7,7267,3.5,17.8,69.6,119.1,76,Diabetes,Former,11.93
+1040,2024-08-12,32,F,159.1,84.8,Cycling,119,Medium,28.5,132,5.2,5,6919,3.5,17.8,69.6,119.1,76,Diabetes,Former,12.07
+1040,2024-08-15,32,F,159.1,85.1,Cycling,36,Medium,8.7,139,7.8,4,7883,3.4,17.8,69.6,119.1,76,Diabetes,Former,12.11
+1040,2024-08-16,32,F,159.1,85.3,Cycling,50,Medium,12.1,140,6.7,9,5774,2.8,17.8,69.6,119.1,76,Diabetes,Former,12.17
+1040,2024-08-18,32,F,159.1,85.6,Cycling,71,Low,14.3,124,7.4,7,5488,3.1,17.8,69.6,119.1,76,Diabetes,Former,12.25
+1040,2024-08-19,32,F,159.1,85.8,Basketball,84,Medium,19.2,141,6.8,5,6299,3.3,17.8,69.6,119.1,76,Diabetes,Former,12.35
+1040,2024-08-20,32,F,159.1,86.1,Cycling,114,Low,23.1,127,8.9,1,7139,2.7,17.8,69.6,119.1,76,Diabetes,Former,12.46
+1040,2024-08-21,32,F,159.1,86.4,Cycling,69,Low,14.0,119,5.6,1,8778,2.9,17.8,69.6,119.1,76,Diabetes,Former,12.53
+1040,2024-08-25,32,F,159.1,86.6,Cycling,34,Low,6.9,123,7.1,2,7080,3.5,17.8,69.6,119.1,76,Diabetes,Former,12.56
+1040,2024-08-26,32,F,159.1,86.9,Dancing,66,High,12.2,148,7.2,1,7241,2.0,17.8,69.6,119.1,76,Diabetes,Former,12.66
+1040,2024-08-30,32,F,159.1,87.1,Dancing,96,Medium,15.3,128,7.9,4,5126,2.4,17.8,69.6,119.1,76,Diabetes,Former,12.77

@@ -1,0 +1,17 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+634,2024-09-02,48,F,170.1,124.9,HIIT,58,Low,24.1,106,8.4,2,8517,3.3,28.6,74.4,109,68,None,Never,13.03
+634,2024-09-04,48,F,170.1,125.1,HIIT,47,Low,19.6,120,8.4,2,6177,2.8,28.6,74.4,109,68,None,Never,13.08
+634,2024-09-06,48,F,170.1,125.4,HIIT,67,Medium,33.5,140,5.1,2,7454,3.0,28.6,74.4,109,68,None,Never,13.16
+634,2024-09-08,48,F,170.1,125.6,HIIT,55,Low,23.0,107,9.7,10,6055,3.3,28.6,74.4,109,68,None,Never,13.21
+634,2024-09-10,48,F,170.1,125.9,Swimming,23,Low,5.6,114,9.1,5,6270,1.6,28.6,74.4,109,68,None,Never,13.24
+634,2024-09-12,48,F,170.1,126.1,HIIT,113,Low,47.4,108,8.6,8,4417,3.5,28.6,74.4,109,68,None,Never,13.35
+634,2024-09-13,48,F,170.1,126.4,Swimming,101,Medium,29.7,141,7.8,6,6537,1.9,28.6,74.4,109,68,None,Never,13.47
+634,2024-09-14,48,F,170.1,126.7,Swimming,83,Medium,24.5,132,6.8,6,6562,1.9,28.6,74.4,109,68,None,Never,13.57
+634,2024-09-15,48,F,170.1,126.9,Basketball,73,Low,20.5,102,8.5,7,8720,2.0,28.6,74.4,109,68,None,Never,13.64
+634,2024-09-17,48,F,170.1,127.2,Basketball,114,Low,32.2,113,8.3,9,7233,3.5,28.6,74.4,109,68,None,Never,13.76
+634,2024-09-19,48,F,170.1,127.4,Swimming,94,Low,23.2,119,6.9,8,6022,2.2,28.6,74.4,109,68,None,Never,13.85
+634,2024-09-21,48,F,170.1,127.7,Swimming,84,High,29.1,160,6.4,3,6516,3.5,28.6,74.4,109,68,None,Never,13.97
+634,2024-09-23,48,F,170.1,127.9,Weight Training,76,Medium,19.4,126,6.5,6,7509,3.0,28.6,74.4,109,68,None,Never,14.06
+634,2024-09-28,48,F,170.1,128.2,Weight Training,92,High,27.5,140,6.5,7,6018,2.8,28.6,74.4,109,68,None,Never,14.19
+634,2024-09-29,48,F,170.1,128.5,Weight Training,48,Medium,12.3,121,8.6,4,8995,3.0,28.6,74.4,109,68,None,Never,14.25
+634,2024-09-30,48,F,170.1,128.7,Weight Training,20,Medium,5.1,140,6.2,7,6190,2.6,28.6,74.4,109,68,None,Never,14.27

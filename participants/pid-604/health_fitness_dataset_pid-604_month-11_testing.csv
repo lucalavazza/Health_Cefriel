@@ -1,0 +1,17 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+604,2024-11-01,28,M,175.9,141.8,Weight Training,120,Medium,34.0,156,7.8,2,10144,1.6,27.9,69.3,123.1,83.3,None,Current,17.71
+604,2024-11-02,28,M,175.9,142.0,Cycling,116,High,54.4,160,9.2,8,7262,2.9,27.9,69.3,123.1,83.3,None,Current,17.87
+604,2024-11-04,28,M,175.9,142.3,Weight Training,54,Low,12.8,126,7.3,10,8160,2.1,27.9,69.3,123.1,83.3,None,Current,17.93
+604,2024-11-07,28,M,175.9,142.5,Cycling,27,Low,9.1,125,7.3,6,7290,2.8,27.9,69.3,123.1,83.3,None,Current,17.96
+604,2024-11-08,28,M,175.9,142.8,Cycling,96,Medium,38.8,147,6.9,8,7892,3.2,27.9,69.3,123.1,83.3,None,Current,18.07
+604,2024-11-09,28,M,175.9,143.0,Weight Training,81,Medium,23.1,140,7.5,9,6541,2.9,27.9,69.3,123.1,83.3,None,Current,18.17
+604,2024-11-12,28,M,175.9,143.3,Weight Training,52,Medium,14.9,148,6.6,2,7272,3.4,27.9,69.3,123.1,83.3,None,Current,18.23
+604,2024-11-14,28,M,175.9,143.5,Cycling,114,Low,38.6,127,6.5,2,5987,3.4,27.9,69.3,123.1,83.3,None,Current,18.34
+604,2024-11-18,28,M,175.9,143.8,Swimming,36,Low,10.0,123,6.1,9,6268,1.8,27.9,69.3,123.1,83.3,None,Current,18.38
+604,2024-11-19,28,M,175.9,144.1,Swimming,32,High,12.5,153,7.0,6,5799,2.4,27.9,69.3,123.1,83.3,None,Current,18.43
+604,2024-11-21,28,M,175.9,144.3,Cycling,118,High,56.2,158,8.5,7,9411,3.2,27.9,69.3,123.1,83.3,None,Current,18.59
+604,2024-11-22,28,M,175.9,144.6,Swimming,119,Medium,40.1,136,8.2,7,8281,1.6,27.9,69.3,123.1,83.3,None,Current,18.73
+604,2024-11-24,28,M,175.9,144.8,Cycling,72,Low,24.6,125,8.0,1,8419,2.3,27.9,69.3,123.1,83.3,None,Current,18.81
+604,2024-11-26,28,M,175.9,145.1,HIIT,23,Medium,13.3,149,8.8,4,7065,2.5,27.9,69.3,123.1,83.3,None,Current,18.83
+604,2024-11-29,28,M,175.9,145.3,Cycling,77,Low,26.4,117,7.8,6,10537,2.2,27.9,69.3,123.1,83.3,None,Current,18.91
+604,2024-11-30,28,M,175.9,145.6,HIIT,37,Medium,21.5,144,7.4,2,8012,3.0,27.9,69.3,123.1,83.3,None,Current,18.95

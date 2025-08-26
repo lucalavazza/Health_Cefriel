@@ -1,0 +1,19 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+1627,2024-01-01,45,M,193,124.1,Weight Training,86,Medium,21.3,132,7.1,2,8794,1.9,33.3,65.9,121.6,79.6,None,Current,0.1
+1627,2024-01-05,45,M,193,124.4,Weight Training,96,Low,19.9,113,5.8,8,9515,1.6,33.3,65.9,121.6,79.6,None,Current,0.2
+1627,2024-01-06,45,M,193,124.7,HIIT,100,Medium,49.8,133,6.9,3,10356,3.0,33.3,65.9,121.6,79.6,None,Current,0.32
+1627,2024-01-07,45,M,193,124.9,Weight Training,51,High,14.8,135,7.6,1,11488,2.2,33.3,65.9,121.6,79.6,None,Current,0.39
+1627,2024-01-08,45,M,193,125.2,Weight Training,97,Medium,24.2,112,8.3,10,9274,2.9,33.3,65.9,121.6,79.6,None,Current,0.51
+1627,2024-01-09,45,M,193,125.4,HIIT,55,Medium,27.5,127,6.6,1,7164,2.8,33.3,65.9,121.6,79.6,None,Current,0.57
+1627,2024-01-10,45,M,193,125.7,HIIT,49,Low,20.5,124,5.4,6,9866,1.6,33.3,65.9,121.6,79.6,None,Current,0.62
+1627,2024-01-12,45,M,193,125.9,Weight Training,23,Low,4.8,123,7.1,1,9454,1.9,33.3,65.9,121.6,79.6,None,Current,0.65
+1627,2024-01-15,45,M,193,126.2,Weight Training,96,Medium,24.2,129,6.9,4,7368,1.8,33.3,65.9,121.6,79.6,None,Current,0.76
+1627,2024-01-17,45,M,193,126.5,HIIT,69,Medium,34.8,138,7.4,7,9270,2.5,33.3,65.9,121.6,79.6,None,Current,0.84
+1627,2024-01-20,45,M,193,126.7,Weight Training,42,Medium,10.6,133,6.8,9,8839,2.1,33.3,65.9,121.6,79.6,None,Current,0.89
+1627,2024-01-21,45,M,193,127.0,Weight Training,32,Low,6.8,109,5.8,6,10919,3.2,33.3,65.9,121.6,79.6,None,Current,0.93
+1627,2024-01-24,45,M,193,127.2,Weight Training,44,Medium,11.2,139,8.8,5,6878,2.3,33.3,65.9,121.6,79.6,None,Current,0.98
+1627,2024-01-26,45,M,193,127.5,Weight Training,68,Low,14.4,115,7.3,10,8350,3.4,33.3,65.9,121.6,79.6,None,Current,1.05
+1627,2024-01-28,45,M,193,127.7,Tennis,31,Medium,9.6,134,5.5,6,9575,2.6,33.3,65.9,121.6,79.6,None,Current,1.08
+1627,2024-01-29,45,M,193,128.0,Weight Training,24,Low,5.1,113,8.0,7,12366,3.2,33.3,65.9,121.6,79.6,None,Current,1.11
+1627,2024-01-30,45,M,193,128.3,HIIT,46,Medium,23.6,129,6.3,8,6784,2.5,33.3,65.9,121.6,79.6,None,Current,1.16
+1627,2024-01-31,45,M,193,128.5,Walking,110,Medium,17.9,142,8.9,2,7443,2.6,33.3,65.9,121.6,79.6,None,Current,1.29

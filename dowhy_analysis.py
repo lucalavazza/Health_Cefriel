@@ -19,8 +19,7 @@ warnings.filterwarnings(action='ignore', category=UserWarning)
 
 set_random_seed(7)
 
-fitness_data = pd.read_csv(
-    '/Users/luca_lavazza/Documents/GitHub/Health_Cefriel/datasets/labelled_regularised_averaged_health_fitness_dataset.csv')
+fitness_data = pd.read_csv('/Users/luca_lavazza/Documents/GitHub/Health_Cefriel/datasets/labelled_regularised_averaged_health_fitness_dataset_training.csv')
 edges = np.load(
     '/Users/luca_lavazza/Documents/GitHub/Health_Cefriel/graphs/causallearn/edges/npy/labelling_causal_graph_causal-learn_pc_fisherz.npy')
 
@@ -45,15 +44,15 @@ def gcm_fal(X, Y, Z=None):
                                  prediction_model_Y=create_gradient_boost_regressor)
 
 
-# # STEP 0: Falsification of the Causal Graph: is it informative? Is it rejected?
-# # Done already and successful: no need to run it every time
-# # Run evaluation for graph and data.
-# result = falsify_graph(G, fitness_data, n_permutations=100,
-#                        independence_test=gcm_fal,
-#                        conditional_independence_test=gcm_fal,
-#                        plot_histogram=False,
-#                        suggestions=True)
-# print(result)
+# STEP 0: Falsification of the Causal Graph: is it informative? Is it rejected?
+# Done already and successful: no need to run it every time
+# Run evaluation for graph and data.
+result = falsify_graph(G, fitness_data, n_permutations=100,
+                       independence_test=gcm_fal,
+                       conditional_independence_test=gcm_fal,
+                       plot_histogram=False,
+                       suggestions=True)
+print(result)
 
 
 # STEP 1: Causal Effects Estimation: If we change X, how much will it cause Y to change?

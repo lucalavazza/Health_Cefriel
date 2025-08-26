@@ -1,0 +1,17 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+591,2024-08-01,53,M,182.1,106.1,Running,91,Low,26.2,101,6.0,8,6407,3.2,20.6,67.6,109.5,79.6,Diabetes,Former,12.52
+591,2024-08-03,53,M,182.1,106.4,Running,102,Low,29.5,109,7.5,5,7251,2.9,20.6,67.6,109.5,79.6,Diabetes,Former,12.62
+591,2024-08-04,53,M,182.1,106.7,Basketball,70,High,23.2,150,5.4,8,9600,2.3,20.6,67.6,109.5,79.6,Diabetes,Former,12.72
+591,2024-08-05,53,M,182.1,106.9,Running,84,Medium,29.3,127,7.3,2,8947,1.8,20.6,67.6,109.5,79.6,Diabetes,Former,12.82
+591,2024-08-08,53,M,182.1,107.2,Cycling,102,Low,25.7,111,6.7,1,5373,2.3,20.6,67.6,109.5,79.6,Diabetes,Former,12.92
+591,2024-08-11,53,M,182.1,107.4,Cycling,32,High,11.3,142,7.9,8,5544,2.3,20.6,67.6,109.5,79.6,Diabetes,Former,12.97
+591,2024-08-12,53,M,182.1,107.7,Walking,27,High,4.3,139,7.0,4,5549,2.0,20.6,67.6,109.5,79.6,Diabetes,Former,13.01
+591,2024-08-13,53,M,182.1,107.9,Cycling,92,High,32.8,137,7.8,1,8810,2.6,20.6,67.6,109.5,79.6,Diabetes,Former,13.13
+591,2024-08-15,53,M,182.1,108.2,Basketball,103,Medium,29.6,130,6.0,7,7245,3.0,20.6,67.6,109.5,79.6,Diabetes,Former,13.26
+591,2024-08-21,53,M,182.1,108.5,Basketball,75,Low,18.0,110,6.3,1,7315,2.9,20.6,67.6,109.5,79.6,Diabetes,Former,13.33
+591,2024-08-23,53,M,182.1,108.7,Tennis,21,Medium,5.5,124,6.4,7,4728,3.4,20.6,67.6,109.5,79.6,Diabetes,Former,13.36
+591,2024-08-24,53,M,182.1,109.0,Basketball,119,Low,28.8,100,9.7,3,9095,3.3,20.6,67.6,109.5,79.6,Diabetes,Former,13.48
+591,2024-08-25,53,M,182.1,109.2,Yoga,37,High,4.7,131,6.9,6,8088,2.0,20.6,67.6,109.5,79.6,Diabetes,Former,13.53
+591,2024-08-28,53,M,182.1,109.5,Yoga,28,Medium,3.1,116,6.0,2,8745,3.2,20.6,67.6,109.5,79.6,Diabetes,Former,13.56
+591,2024-08-30,53,M,182.1,109.8,Yoga,115,Medium,12.6,127,7.7,3,8526,1.7,20.6,67.6,109.5,79.6,Diabetes,Former,13.7
+591,2024-08-31,53,M,182.1,110.0,Yoga,94,Low,8.6,114,7.1,1,6819,2.2,20.6,67.6,109.5,79.6,Diabetes,Former,13.79

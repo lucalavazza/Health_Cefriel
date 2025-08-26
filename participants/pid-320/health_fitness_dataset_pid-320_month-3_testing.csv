@@ -1,0 +1,17 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+320,2024-03-01,33,F,157.7,68.8,Running,114,Medium,25.5,147,6.6,3,12089,3.1,22.9,68.5,113.8,82,Asthma,Former,3.75
+320,2024-03-03,33,F,157.7,69.1,Swimming,36,Low,4.8,122,7.6,3,9772,3.0,22.9,68.5,113.8,82,Asthma,Former,3.79
+320,2024-03-04,33,F,157.7,69.3,Running,27,Medium,6.1,130,7.5,5,8340,3.1,22.9,68.5,113.8,82,Asthma,Former,3.82
+320,2024-03-05,33,F,157.7,69.6,Swimming,115,High,21.7,164,7.8,9,8901,3.2,22.9,68.5,113.8,82,Asthma,Former,3.98
+320,2024-03-07,33,F,157.7,69.8,Swimming,36,Low,4.9,119,7.5,6,5428,3.5,22.9,68.5,113.8,82,Asthma,Former,4.02
+320,2024-03-09,33,F,157.7,70.1,Walking,78,Medium,6.9,145,7.5,1,12063,3.4,22.9,68.5,113.8,82,Asthma,Former,4.11
+320,2024-03-14,33,F,157.7,70.3,Walking,72,Medium,6.4,144,7.5,9,7195,2.1,22.9,68.5,113.8,82,Asthma,Former,4.2
+320,2024-03-15,33,F,157.7,70.6,Yoga,90,High,7.4,163,7.4,2,8229,2.6,22.9,68.5,113.8,82,Asthma,Former,4.32
+320,2024-03-16,33,F,157.7,70.9,Weight Training,57,Low,6.7,120,6.5,2,11093,2.9,22.9,68.5,113.8,82,Asthma,Former,4.38
+320,2024-03-17,33,F,157.7,71.1,Swimming,76,Low,10.5,121,6.8,1,12524,3.2,22.9,68.5,113.8,82,Asthma,Former,4.46
+320,2024-03-18,33,F,157.7,71.4,Weight Training,90,High,14.9,148,9.0,6,7479,2.4,22.9,68.5,113.8,82,Asthma,Former,4.58
+320,2024-03-20,33,F,157.7,71.6,Walking,63,Low,4.7,124,7.0,9,9598,2.8,22.9,68.5,113.8,82,Asthma,Former,4.65
+320,2024-03-21,33,F,157.7,71.9,Weight Training,35,Medium,5.0,131,7.6,10,9763,2.9,22.9,68.5,113.8,82,Asthma,Former,4.69
+320,2024-03-25,33,F,157.7,72.2,Walking,76,Low,5.8,127,6.2,7,9531,2.8,22.9,68.5,113.8,82,Asthma,Former,4.76
+320,2024-03-27,33,F,157.7,72.4,Walking,43,Medium,3.9,134,8.1,5,7619,2.4,22.9,68.5,113.8,82,Asthma,Former,4.82
+320,2024-03-30,33,F,157.7,72.7,Weight Training,87,Medium,12.6,121,6.9,4,11630,3.0,22.9,68.5,113.8,82,Asthma,Former,4.92

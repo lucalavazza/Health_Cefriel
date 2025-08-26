@@ -1,0 +1,17 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+695,2024-12-01,41,F,158.8,108.1,Running,97,Medium,34.2,131,6.2,7,8510,1.7,21.3,68.8,123.8,66.2,None,Never,17.06
+695,2024-12-05,41,F,158.8,108.3,Running,72,Low,21.2,116,7.3,5,7224,3.5,21.3,68.8,123.8,66.2,None,Never,17.13
+695,2024-12-06,41,F,158.8,108.6,Running,42,High,17.3,154,8.4,10,5645,2.2,21.3,68.8,123.8,66.2,None,Never,17.19
+695,2024-12-07,41,F,158.8,108.8,Running,118,Low,34.9,118,6.7,7,9425,2.2,21.3,68.8,123.8,66.2,None,Never,17.3
+695,2024-12-08,41,F,158.8,109.1,Running,62,High,25.7,158,6.3,6,8496,3.2,21.3,68.8,123.8,66.2,None,Never,17.39
+695,2024-12-09,41,F,158.8,109.4,Basketball,89,Medium,25.9,130,6.3,8,9544,2.1,21.3,68.8,123.8,66.2,None,Never,17.5
+695,2024-12-10,41,F,158.8,109.6,Basketball,62,Medium,18.1,142,6.0,4,5594,3.4,21.3,68.8,123.8,66.2,None,Never,17.57
+695,2024-12-11,41,F,158.8,109.9,Basketball,77,Low,18.8,123,8.8,9,7032,2.6,21.3,68.8,123.8,66.2,None,Never,17.65
+695,2024-12-12,41,F,158.8,110.1,Basketball,36,Low,8.8,116,7.3,8,8096,2.4,21.3,68.8,123.8,66.2,None,Never,17.69
+695,2024-12-13,41,F,158.8,110.4,Basketball,114,Medium,33.5,128,7.5,8,7649,2.9,21.3,68.8,123.8,66.2,None,Never,17.82
+695,2024-12-16,41,F,158.8,110.6,Basketball,112,Medium,33.0,132,7.2,6,5391,2.5,21.3,68.8,123.8,66.2,None,Never,17.96
+695,2024-12-17,41,F,158.8,110.9,Basketball,38,Low,9.3,104,8.9,2,8189,3.3,21.3,68.8,123.8,66.2,None,Never,18.0
+695,2024-12-18,41,F,158.8,111.2,Weight Training,92,Medium,20.4,139,6.6,6,6104,2.6,21.3,68.8,123.8,66.2,None,Never,18.11
+695,2024-12-19,41,F,158.8,111.4,Weight Training,42,Medium,9.3,135,6.7,7,7110,2.4,21.3,68.8,123.8,66.2,None,Never,18.16
+695,2024-12-23,41,F,158.8,111.7,Basketball,73,Medium,21.7,134,7.8,8,6672,3.5,21.3,68.8,123.8,66.2,None,Never,18.24
+695,2024-12-25,41,F,158.8,111.9,Weight Training,51,Low,9.5,115,6.1,5,8516,2.1,21.3,68.8,123.8,66.2,None,Never,18.29

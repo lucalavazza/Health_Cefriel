@@ -1,0 +1,19 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+120,2024-01-02,35,F,164.2,58.9,Running,47,Medium,9.0,141,6.1,5,8126,1.8,21.7,74.4,122.2,86.2,None,Current,0.06
+120,2024-01-03,35,F,164.2,59.1,Running,35,Medium,6.7,132,8.2,8,8461,2.4,21.7,74.4,122.2,86.2,None,Current,0.1
+120,2024-01-04,35,F,164.2,59.4,Running,61,Low,9.8,119,7.9,6,8277,2.9,21.7,74.4,122.2,86.2,None,Current,0.16
+120,2024-01-08,35,F,164.2,59.7,Running,48,Medium,9.3,130,7.6,9,9394,2.5,21.7,74.4,122.2,86.2,None,Current,0.22
+120,2024-01-10,35,F,164.2,59.9,Running,60,Low,9.7,116,6.8,10,10786,2.0,21.7,74.4,122.2,86.2,None,Current,0.28
+120,2024-01-13,35,F,164.2,60.2,Running,100,Medium,19.6,130,8.6,2,10850,2.3,21.7,74.4,122.2,86.2,None,Current,0.4
+120,2024-01-15,35,F,164.2,60.4,Running,56,Medium,11.0,130,9.5,6,8060,3.4,21.7,74.4,122.2,86.2,None,Current,0.46
+120,2024-01-16,35,F,164.2,60.7,Running,44,Medium,8.7,145,8.2,6,9607,2.4,21.7,74.4,122.2,86.2,None,Current,0.52
+120,2024-01-17,35,F,164.2,61.0,Weight Training,76,Low,7.7,120,8.1,7,7374,1.6,21.7,74.4,122.2,86.2,None,Current,0.59
+120,2024-01-18,35,F,164.2,61.2,Weight Training,89,Medium,10.9,137,7.8,3,5804,1.7,21.7,74.4,122.2,86.2,None,Current,0.7
+120,2024-01-19,35,F,164.2,61.5,Weight Training,76,Medium,9.3,130,8.1,8,9421,2.1,21.7,74.4,122.2,86.2,None,Current,0.79
+120,2024-01-22,35,F,164.2,61.7,Weight Training,86,Low,8.8,119,8.1,7,6675,2.3,21.7,74.4,122.2,86.2,None,Current,0.88
+120,2024-01-23,35,F,164.2,62.0,Weight Training,103,High,14.8,166,6.5,1,9482,1.6,21.7,74.4,122.2,86.2,None,Current,1.02
+120,2024-01-24,35,F,164.2,62.2,Weight Training,107,High,15.5,156,6.0,5,9861,1.9,21.7,74.4,122.2,86.2,None,Current,1.17
+120,2024-01-27,35,F,164.2,62.5,Weight Training,73,Low,7.6,105,5.5,1,11914,1.7,21.7,74.4,122.2,86.2,None,Current,1.24
+120,2024-01-28,35,F,164.2,62.8,Weight Training,26,Medium,3.3,139,7.5,9,10451,3.2,21.7,74.4,122.2,86.2,None,Current,1.28
+120,2024-01-30,35,F,164.2,63.0,Running,37,Low,6.3,127,7.8,8,6868,1.6,21.7,74.4,122.2,86.2,None,Current,1.31
+120,2024-01-31,35,F,164.2,63.3,Walking,63,Medium,5.0,148,7.7,4,6418,3.4,21.7,74.4,122.2,86.2,None,Current,1.39

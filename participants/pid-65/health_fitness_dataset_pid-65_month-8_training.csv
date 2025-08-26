@@ -1,0 +1,19 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+65,2024-08-01,45,F,157,103.8,Cycling,81,Low,19.8,111,6.9,4,3602,1.6,27.3,70.2,120.5,87.5,None,Current,11.32
+65,2024-08-06,45,F,157,104.1,Basketball,89,High,28.7,159,7.0,9,6652,1.7,27.3,70.2,120.5,87.5,None,Current,11.44
+65,2024-08-07,45,F,157,104.3,Swimming,98,High,27.8,142,5.4,10,6819,3.0,27.3,70.2,120.5,87.5,None,Current,11.58
+65,2024-08-08,45,F,157,104.6,Cycling,57,Low,14.0,112,6.3,5,9204,2.1,27.3,70.2,120.5,87.5,None,Current,11.64
+65,2024-08-11,45,F,157,104.9,Cycling,56,High,19.4,144,6.8,3,9525,3.2,27.3,70.2,120.5,87.5,None,Current,11.71
+65,2024-08-13,45,F,157,105.1,Tennis,44,Medium,11.2,127,7.5,1,2925,2.9,27.3,70.2,120.5,87.5,None,Current,11.77
+65,2024-08-14,45,F,157,105.4,Weight Training,71,Medium,14.9,116,6.6,6,6700,1.7,27.3,70.2,120.5,87.5,None,Current,11.85
+65,2024-08-18,45,F,157,105.6,Weight Training,119,High,29.3,156,7.0,7,7741,2.4,27.3,70.2,120.5,87.5,None,Current,12.02
+65,2024-08-20,45,F,157,105.9,Basketball,119,Medium,33.5,138,6.5,3,6878,2.3,27.3,70.2,120.5,87.5,None,Current,12.16
+65,2024-08-21,45,F,157,106.1,HIIT,31,High,15.3,132,6.3,3,9785,1.9,27.3,70.2,120.5,87.5,None,Current,12.21
+65,2024-08-22,45,F,157,106.4,HIIT,108,Low,38.2,113,9.3,10,6697,3.3,27.3,70.2,120.5,87.5,None,Current,12.31
+65,2024-08-23,45,F,157,106.7,Basketball,95,Low,22.5,127,6.7,3,7521,2.4,27.3,70.2,120.5,87.5,None,Current,12.41
+65,2024-08-25,45,F,157,106.9,HIIT,93,Low,33.1,111,6.9,5,9329,3.3,27.3,70.2,120.5,87.5,None,Current,12.5
+65,2024-08-26,45,F,157,107.2,Basketball,84,High,27.9,149,6.1,5,8691,2.3,27.3,70.2,120.5,87.5,None,Current,12.62
+65,2024-08-28,45,F,157,107.4,Basketball,45,Medium,12.9,121,7.8,3,4364,2.1,27.3,70.2,120.5,87.5,None,Current,12.67
+65,2024-08-29,45,F,157,107.7,Swimming,118,High,34.5,157,8.3,5,4337,2.5,27.3,70.2,120.5,87.5,None,Current,12.84
+65,2024-08-30,45,F,157,107.9,Basketball,33,High,11.1,129,6.5,1,7627,2.4,27.3,70.2,120.5,87.5,None,Current,12.88
+65,2024-08-31,45,F,157,108.2,Basketball,69,Low,16.5,116,7.4,4,4990,1.6,27.3,70.2,120.5,87.5,None,Current,12.95

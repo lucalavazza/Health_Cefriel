@@ -1,0 +1,17 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+1488,2024-10-02,58,M,176.8,148.9,Tennis,94,High,39.7,144,8.1,1,4727,2.5,32.3,75.4,110.8,67.3,None,Former,16.51
+1488,2024-10-04,58,M,176.8,149.2,Tennis,82,Low,24.8,110,7.6,4,5930,2.5,32.3,75.4,110.8,67.3,None,Former,16.6
+1488,2024-10-06,58,M,176.8,149.4,Dancing,104,Medium,28.4,117,6.1,6,7838,2.6,32.3,75.4,110.8,67.3,None,Former,16.72
+1488,2024-10-07,58,M,176.8,149.7,Weight Training,115,High,40.1,141,9.0,6,7755,2.6,32.3,75.4,110.8,67.3,None,Former,16.88
+1488,2024-10-08,58,M,176.8,149.9,Weight Training,60,High,21.0,150,7.6,8,6240,3.1,32.3,75.4,110.8,67.3,None,Former,16.96
+1488,2024-10-09,58,M,176.8,150.2,Dancing,120,High,38.5,144,7.1,8,6976,2.5,32.3,75.4,110.8,67.3,None,Former,17.13
+1488,2024-10-10,58,M,176.8,150.4,Weight Training,83,High,29.1,129,7.4,9,6569,3.3,32.3,75.4,110.8,67.3,None,Former,17.25
+1488,2024-10-13,58,M,176.8,150.7,Weight Training,68,Low,17.1,99,6.8,4,6101,2.3,32.3,75.4,110.8,67.3,None,Former,17.32
+1488,2024-10-15,58,M,176.8,151.0,Running,67,Low,27.5,112,6.9,7,5746,2.7,32.3,75.4,110.8,67.3,None,Former,17.38
+1488,2024-10-17,58,M,176.8,151.2,Weight Training,22,High,7.7,140,7.1,4,5520,1.7,32.3,75.4,110.8,67.3,None,Former,17.41
+1488,2024-10-18,58,M,176.8,151.5,Running,33,Medium,16.3,113,6.3,7,5903,2.2,32.3,75.4,110.8,67.3,None,Former,17.45
+1488,2024-10-19,58,M,176.8,151.7,Weight Training,78,High,27.6,136,8.0,8,6533,2.2,32.3,75.4,110.8,67.3,None,Former,17.56
+1488,2024-10-23,58,M,176.8,152.0,Running,116,High,67.1,136,6.2,2,7715,2.8,32.3,75.4,110.8,67.3,None,Former,17.73
+1488,2024-10-25,58,M,176.8,152.2,Weight Training,66,Low,16.7,96,7.2,3,4485,1.8,32.3,75.4,110.8,67.3,None,Former,17.79
+1488,2024-10-26,58,M,176.8,152.5,Running,79,Low,32.7,110,6.4,1,8564,3.5,32.3,75.4,110.8,67.3,None,Former,17.87
+1488,2024-10-29,58,M,176.8,152.8,Yoga,97,Medium,14.8,126,4.9,4,6643,2.9,32.3,75.4,110.8,67.3,None,Former,17.99

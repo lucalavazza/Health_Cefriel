@@ -1,0 +1,18 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+1231,2024-01-02,61,M,160.2,58.3,Weight Training,74,Low,7.2,107,8.0,10,9083,2.8,22.6,62.9,125.3,78.6,None,Never,0.07
+1231,2024-01-04,61,M,160.2,58.6,Weight Training,64,Medium,7.5,122,6.4,5,5701,3.1,22.6,62.9,125.3,78.6,None,Never,0.15
+1231,2024-01-06,61,M,160.2,58.9,Weight Training,120,Medium,14.1,138,7.2,5,7535,1.5,22.6,62.9,125.3,78.6,None,Never,0.29
+1231,2024-01-08,61,M,160.2,59.1,Weight Training,31,Medium,3.6,131,8.2,7,10832,2.3,22.6,62.9,125.3,78.6,None,Never,0.33
+1231,2024-01-13,61,M,160.2,59.4,Weight Training,57,High,7.9,140,8.7,3,10212,3.3,22.6,62.9,125.3,78.6,None,Never,0.41
+1231,2024-01-14,61,M,160.2,59.6,Weight Training,60,Medium,7.1,125,5.9,7,8475,2.9,22.6,62.9,125.3,78.6,None,Never,0.48
+1231,2024-01-15,61,M,160.2,59.9,Weight Training,52,Medium,6.2,119,6.3,5,7192,2.5,22.6,62.9,125.3,78.6,None,Never,0.55
+1231,2024-01-16,61,M,160.2,60.2,Weight Training,35,Medium,4.2,117,7.2,4,8032,3.2,22.6,62.9,125.3,78.6,None,Never,0.59
+1231,2024-01-17,61,M,160.2,60.4,Swimming,107,Medium,15.0,102,6.5,1,7230,2.4,22.6,62.9,125.3,78.6,None,Never,0.72
+1231,2024-01-20,61,M,160.2,60.7,Swimming,96,Medium,13.5,124,6.6,3,11088,3.4,22.6,62.9,125.3,78.6,None,Never,0.83
+1231,2024-01-21,61,M,160.2,60.9,Swimming,66,Medium,9.3,120,7.3,3,11789,1.9,22.6,62.9,125.3,78.6,None,Never,0.91
+1231,2024-01-22,61,M,160.2,61.2,Swimming,33,High,5.5,155,6.2,7,7106,1.5,22.6,62.9,125.3,78.6,None,Never,0.96
+1231,2024-01-25,61,M,160.2,61.4,Swimming,90,Medium,12.8,117,7.6,8,10957,1.6,22.6,62.9,125.3,78.6,None,Never,1.07
+1231,2024-01-26,61,M,160.2,61.7,Swimming,56,High,9.4,130,9.3,10,7219,1.7,22.6,62.9,125.3,78.6,None,Never,1.14
+1231,2024-01-28,61,M,160.2,62.0,Yoga,23,Medium,1.4,123,6.9,10,9412,2.8,22.6,62.9,125.3,78.6,None,Never,1.17
+1231,2024-01-30,61,M,160.2,62.2,Swimming,35,Low,4.2,104,6.6,7,9274,2.3,22.6,62.9,125.3,78.6,None,Never,1.21
+1231,2024-01-31,61,M,160.2,62.5,Yoga,21,Low,1.1,96,6.3,2,8779,2.9,22.6,62.9,125.3,78.6,None,Never,1.23

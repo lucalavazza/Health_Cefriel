@@ -1,0 +1,17 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+411,2024-07-01,60,F,153.6,82.2,Dancing,71,Medium,10.7,124,5.7,3,6595,2.3,20,64.9,117.4,89.3,None,Former,11.3
+411,2024-07-03,60,F,153.6,82.4,Dancing,101,Medium,15.2,115,6.3,2,7157,2.1,20,64.9,117.4,89.3,None,Former,11.42
+411,2024-07-04,60,F,153.6,82.7,Dancing,63,Low,7.9,105,6.7,1,8138,1.6,20,64.9,117.4,89.3,None,Former,11.49
+411,2024-07-05,60,F,153.6,82.9,Dancing,32,Medium,4.9,116,6.3,4,10345,2.8,20,64.9,117.4,89.3,None,Former,11.52
+411,2024-07-06,60,F,153.6,83.2,Dancing,34,High,6.0,150,6.3,6,9998,2.7,20,64.9,117.4,89.3,None,Former,11.57
+411,2024-07-07,60,F,153.6,83.5,Dancing,97,Low,12.3,99,8.3,5,9497,2.2,20,64.9,117.4,89.3,None,Former,11.67
+411,2024-07-10,60,F,153.6,83.7,Cycling,67,Low,13.2,96,6.7,4,6946,2.8,20,64.9,117.4,89.3,None,Former,11.74
+411,2024-07-12,60,F,153.6,84.0,Cycling,44,Medium,10.4,123,6.2,4,4372,2.3,20,64.9,117.4,89.3,None,Former,11.79
+411,2024-07-15,60,F,153.6,84.2,Dancing,28,Medium,4.3,126,8.1,2,8670,3.1,20,64.9,117.4,89.3,None,Former,11.82
+411,2024-07-18,60,F,153.6,84.5,Dancing,108,Medium,16.7,123,9.5,1,6047,1.8,20,64.9,117.4,89.3,None,Former,11.95
+411,2024-07-19,60,F,153.6,84.8,Dancing,73,Medium,11.3,134,7.5,8,10704,2.9,20,64.9,117.4,89.3,None,Former,12.04
+411,2024-07-20,60,F,153.6,85.0,Dancing,21,Low,2.7,105,6.8,8,11645,3.4,20,64.9,117.4,89.3,None,Former,12.06
+411,2024-07-21,60,F,153.6,85.3,Dancing,73,Medium,11.4,128,7.7,4,10089,1.5,20,64.9,117.4,89.3,None,Former,12.15
+411,2024-07-24,60,F,153.6,85.5,Dancing,108,High,19.7,131,6.5,2,6378,2.9,20,64.9,117.4,89.3,None,Former,12.3
+411,2024-07-26,60,F,153.6,85.8,Dancing,117,Medium,18.3,116,7.8,3,5077,1.7,20,64.9,117.4,89.3,None,Former,12.44
+411,2024-07-28,60,F,153.6,86.0,Dancing,100,Low,13.1,106,6.7,10,11090,2.2,20,64.9,117.4,89.3,None,Former,12.54

@@ -1,0 +1,18 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+635,2024-10-02,26,M,171.7,130.9,Yoga,111,Medium,14.5,144,7.8,7,5817,2.8,28.1,70.2,111.9,95,None,Current,15.69
+635,2024-10-03,26,M,171.7,131.2,Yoga,22,Low,2.4,127,7.3,5,7998,3.2,28.1,70.2,111.9,95,None,Current,15.71
+635,2024-10-04,26,M,171.7,131.4,Yoga,28,Medium,3.7,163,6.4,4,5600,2.1,28.1,70.2,111.9,95,None,Current,15.75
+635,2024-10-05,26,M,171.7,131.7,Yoga,76,Low,8.3,125,6.7,4,8371,1.7,28.1,70.2,111.9,95,None,Current,15.82
+635,2024-10-07,26,M,171.7,132.0,Yoga,91,Low,10.0,123,8.4,8,9463,3.3,28.1,70.2,111.9,95,None,Current,15.91
+635,2024-10-08,26,M,171.7,132.2,Yoga,86,Medium,11.3,149,7.2,6,5878,1.8,28.1,70.2,111.9,95,None,Current,16.02
+635,2024-10-10,26,M,171.7,132.5,Weight Training,33,High,10.2,162,4.6,10,4470,1.8,28.1,70.2,111.9,95,None,Current,16.06
+635,2024-10-11,26,M,171.7,132.7,Weight Training,113,Medium,29.9,147,7.3,2,4539,2.6,28.1,70.2,111.9,95,None,Current,16.2
+635,2024-10-12,26,M,171.7,133.0,Weight Training,111,Medium,29.5,137,7.4,2,8785,1.8,28.1,70.2,111.9,95,None,Current,16.33
+635,2024-10-13,26,M,171.7,133.3,Weight Training,110,Medium,29.3,154,8.5,7,6439,1.8,28.1,70.2,111.9,95,None,Current,16.46
+635,2024-10-16,26,M,171.7,133.5,Weight Training,50,Low,11.1,120,6.0,10,7081,2.3,28.1,70.2,111.9,95,None,Current,16.51
+635,2024-10-19,26,M,171.7,133.8,Weight Training,88,Medium,23.5,144,7.9,1,7800,3.0,28.1,70.2,111.9,95,None,Current,16.62
+635,2024-10-20,26,M,171.7,134.0,Running,112,Medium,48.9,135,7.7,4,7992,2.4,28.1,70.2,111.9,95,None,Current,16.75
+635,2024-10-24,26,M,171.7,134.3,Weight Training,50,Medium,13.4,141,7.4,9,7317,2.1,28.1,70.2,111.9,95,None,Current,16.81
+635,2024-10-26,26,M,171.7,134.5,Weight Training,109,Low,24.4,125,6.2,4,7746,3.3,28.1,70.2,111.9,95,None,Current,16.92
+635,2024-10-28,26,M,171.7,134.8,Tennis,76,High,29.0,158,6.7,6,5453,2.7,28.1,70.2,111.9,95,None,Current,17.03
+635,2024-10-31,26,M,171.7,135.0,Tennis,40,Medium,13.1,140,5.0,3,5649,1.9,28.1,70.2,111.9,95,None,Current,17.08

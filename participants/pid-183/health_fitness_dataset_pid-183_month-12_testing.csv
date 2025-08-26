@@ -1,0 +1,17 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+183,2024-12-03,24,M,167.7,117.4,Yoga,52,Medium,6.1,137,6.7,1,6974,2.1,23.8,71.6,124.3,63.5,None,Former,16.45
+183,2024-12-04,24,M,167.7,117.6,Yoga,38,Low,3.7,136,7.3,2,6939,1.6,23.8,71.6,124.3,63.5,None,Former,16.49
+183,2024-12-06,24,M,167.7,117.9,Yoga,75,Low,7.4,128,6.3,4,6777,3.1,23.8,71.6,124.3,63.5,None,Former,16.57
+183,2024-12-08,24,M,167.7,118.1,Yoga,38,High,5.2,160,6.5,7,9334,2.2,23.8,71.6,124.3,63.5,None,Former,16.62
+183,2024-12-09,24,M,167.7,118.4,Tennis,59,Medium,17.0,158,7.9,4,8355,2.5,23.8,71.6,124.3,63.5,None,Former,16.69
+183,2024-12-10,24,M,167.7,118.6,Yoga,108,Medium,12.8,131,7.6,6,5949,1.7,23.8,71.6,124.3,63.5,None,Former,16.82
+183,2024-12-11,24,M,167.7,118.9,Weight Training,66,High,18.3,174,7.5,2,5565,3.5,23.8,71.6,124.3,63.5,None,Former,16.91
+183,2024-12-13,24,M,167.7,119.2,Basketball,77,Medium,24.4,160,7.3,6,8470,1.8,23.8,71.6,124.3,63.5,None,Former,17.01
+183,2024-12-14,24,M,167.7,119.4,Basketball,102,Medium,32.4,158,7.2,9,8780,1.9,23.8,71.6,124.3,63.5,None,Former,17.13
+183,2024-12-15,24,M,167.7,119.7,Weight Training,118,Low,23.5,135,7.6,2,8940,2.3,23.8,71.6,124.3,63.5,None,Former,17.25
+183,2024-12-16,24,M,167.7,119.9,Weight Training,120,High,33.5,189,7.6,2,9553,2.3,23.8,71.6,124.3,63.5,None,Former,17.41
+183,2024-12-17,24,M,167.7,120.2,Weight Training,34,Medium,8.2,147,6.9,8,9327,2.0,23.8,71.6,124.3,63.5,None,Former,17.45
+183,2024-12-18,24,M,167.7,120.4,Weight Training,42,Low,8.4,133,6.6,10,7015,2.9,23.8,71.6,124.3,63.5,None,Former,17.5
+183,2024-12-19,24,M,167.7,120.7,Weight Training,63,Medium,15.2,144,6.2,8,6303,2.7,23.8,71.6,124.3,63.5,None,Former,17.57
+183,2024-12-20,24,M,167.7,121.0,Weight Training,53,High,14.9,157,8.8,1,8364,2.6,23.8,71.6,124.3,63.5,None,Former,17.65
+183,2024-12-22,24,M,167.7,121.2,Weight Training,83,Low,16.7,136,7.0,3,10018,2.8,23.8,71.6,124.3,63.5,None,Former,17.73

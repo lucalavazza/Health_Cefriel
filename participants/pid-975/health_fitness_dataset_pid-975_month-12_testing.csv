@@ -1,0 +1,17 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+975,2024-12-01,58,M,193,154.3,Yoga,53,High,9.5,141,5.7,7,10384,1.6,28.2,68.5,128.5,84.3,Hypertension,Never,14.47
+975,2024-12-05,58,M,193,154.6,HIIT,90,Low,46.3,108,8.0,10,4397,3.0,28.2,68.5,128.5,84.3,Hypertension,Never,14.56
+975,2024-12-07,58,M,193,154.9,Basketball,64,High,30.8,147,7.9,5,8572,1.9,28.2,68.5,128.5,84.3,Hypertension,Never,14.65
+975,2024-12-08,58,M,193,155.1,Yoga,69,Medium,10.7,130,5.3,7,8543,3.0,28.2,68.5,128.5,84.3,Hypertension,Never,14.73
+975,2024-12-09,58,M,193,155.4,Yoga,105,Low,13.6,110,7.0,3,6329,1.6,28.2,68.5,128.5,84.3,Hypertension,Never,14.83
+975,2024-12-10,58,M,193,155.6,Basketball,49,High,23.7,125,6.3,5,7405,3.3,28.2,68.5,128.5,84.3,Hypertension,Never,14.9
+975,2024-12-11,58,M,193,155.9,Running,33,Medium,16.8,103,7.5,7,4966,2.8,28.2,68.5,128.5,84.3,Hypertension,Never,14.94
+975,2024-12-12,58,M,193,156.1,HIIT,108,Low,56.1,101,7.9,1,6669,2.0,28.2,68.5,128.5,84.3,Hypertension,Never,15.05
+975,2024-12-13,58,M,193,156.4,Dancing,40,Low,9.5,104,7.6,10,8921,2.8,28.2,68.5,128.5,84.3,Hypertension,Never,15.09
+975,2024-12-14,58,M,193,156.7,Swimming,35,Medium,12.8,117,7.7,1,7403,2.8,28.2,68.5,128.5,84.3,Hypertension,Never,15.13
+975,2024-12-16,58,M,193,156.9,Swimming,31,Medium,11.3,122,6.9,3,7222,2.8,28.2,68.5,128.5,84.3,Hypertension,Never,15.17
+975,2024-12-17,58,M,193,157.2,Dancing,20,High,6.7,150,6.2,1,9306,2.5,28.2,68.5,128.5,84.3,Hypertension,Never,15.2
+975,2024-12-20,58,M,193,157.4,Dancing,39,Medium,11.2,117,7.5,3,7663,2.1,28.2,68.5,128.5,84.3,Hypertension,Never,15.24
+975,2024-12-22,58,M,193,157.7,Cycling,48,Medium,21.4,114,6.8,2,12180,2.4,28.2,68.5,128.5,84.3,Hypertension,Never,15.3
+975,2024-12-24,58,M,193,157.9,Dancing,40,Low,9.6,106,7.2,2,8467,1.9,28.2,68.5,128.5,84.3,Hypertension,Never,15.34
+975,2024-12-25,58,M,193,158.2,Dancing,29,Medium,8.4,118,6.2,7,8221,2.3,28.2,68.5,128.5,84.3,Hypertension,Never,15.38

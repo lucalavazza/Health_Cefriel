@@ -1,0 +1,17 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+39,2024-10-05,24,M,182.7,136.6,Basketball,112,Low,33.9,126,8.2,2,5918,1.5,26.4,71.3,118.8,80.6,Diabetes,Never,15.38
+39,2024-10-06,24,M,182.7,136.9,Running,28,High,14.6,153,6.2,7,7685,2.0,26.4,71.3,118.8,80.6,Diabetes,Never,15.42
+39,2024-10-12,24,M,182.7,137.2,Walking,43,Low,6.2,127,6.8,3,8903,3.1,26.4,71.3,118.8,80.6,Diabetes,Never,15.47
+39,2024-10-14,24,M,182.7,137.4,Basketball,42,Low,12.8,128,7.0,7,5178,2.5,26.4,71.3,118.8,80.6,Diabetes,Never,15.51
+39,2024-10-15,24,M,182.7,137.7,Weight Training,41,High,13.1,157,8.3,4,6389,3.2,26.4,71.3,118.8,80.6,Diabetes,Never,15.57
+39,2024-10-16,24,M,182.7,137.9,Walking,73,Low,10.6,131,6.9,8,7221,2.1,26.4,71.3,118.8,80.6,Diabetes,Never,15.64
+39,2024-10-17,24,M,182.7,138.2,Dancing,102,Low,21.5,132,6.0,2,5871,1.9,26.4,71.3,118.8,80.6,Diabetes,Never,15.74
+39,2024-10-18,24,M,182.7,138.5,Walking,80,Low,11.7,127,7.1,5,7960,3.4,26.4,71.3,118.8,80.6,Diabetes,Never,15.82
+39,2024-10-19,24,M,182.7,138.7,Swimming,96,Low,25.8,128,6.2,7,9858,1.8,26.4,71.3,118.8,80.6,Diabetes,Never,15.92
+39,2024-10-22,24,M,182.7,139.0,Swimming,33,Low,8.9,122,5.9,2,6980,2.2,26.4,71.3,118.8,80.6,Diabetes,Never,15.95
+39,2024-10-24,24,M,182.7,139.2,Swimming,85,Medium,27.6,135,6.6,3,7825,2.9,26.4,71.3,118.8,80.6,Diabetes,Never,16.05
+39,2024-10-25,24,M,182.7,139.5,Yoga,81,Medium,11.3,138,8.1,4,4116,3.1,26.4,71.3,118.8,80.6,Diabetes,Never,16.15
+39,2024-10-27,24,M,182.7,139.7,Walking,37,Low,5.4,127,6.9,9,10343,3.3,26.4,71.3,118.8,80.6,Diabetes,Never,16.19
+39,2024-10-28,24,M,182.7,140.0,Yoga,63,Low,7.3,123,8.6,4,6608,3.1,26.4,71.3,118.8,80.6,Diabetes,Never,16.25
+39,2024-10-29,24,M,182.7,140.3,Yoga,71,High,11.6,188,4.1,7,7291,2.8,26.4,71.3,118.8,80.6,Diabetes,Never,16.35
+39,2024-10-31,24,M,182.7,140.5,Walking,48,Medium,8.5,161,8.0,1,6192,1.9,26.4,71.3,118.8,80.6,Diabetes,Never,16.41

@@ -1,0 +1,17 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+171,2024-08-02,22,M,169,122.5,Walking,109,Low,14.1,132,6.5,4,5559,2.0,28.9,66.7,110.6,72.8,None,Never,13.38
+171,2024-08-04,22,M,169,122.8,Walking,59,Medium,9.2,149,7.5,6,8903,2.1,28.9,66.7,110.6,72.8,None,Never,13.45
+171,2024-08-05,22,M,169,123.0,Yoga,42,Medium,5.2,143,8.3,5,9384,3.4,28.9,66.7,110.6,72.8,None,Never,13.5
+171,2024-08-07,22,M,169,123.3,Yoga,79,Low,8.1,129,6.6,10,6198,2.8,28.9,66.7,110.6,72.8,None,Never,13.58
+171,2024-08-12,22,M,169,123.6,Walking,112,Low,14.6,131,7.6,8,6503,3.4,28.9,66.7,110.6,72.8,None,Never,13.69
+171,2024-08-13,22,M,169,123.8,Walking,23,High,4.2,165,7.3,8,7104,2.7,28.9,66.7,110.6,72.8,None,Never,13.72
+171,2024-08-14,22,M,169,124.1,Walking,108,High,19.8,180,7.1,7,7890,1.6,28.9,66.7,110.6,72.8,None,Never,13.87
+171,2024-08-16,22,M,169,124.3,Weight Training,37,Low,7.7,131,6.8,1,6127,2.6,28.9,66.7,110.6,72.8,None,Never,13.91
+171,2024-08-17,22,M,169,124.6,Walking,21,Medium,3.3,146,7.7,9,10653,3.5,28.9,66.7,110.6,72.8,None,Never,13.94
+171,2024-08-19,22,M,169,124.8,Weight Training,114,Medium,28.4,156,7.3,10,4929,2.1,28.9,66.7,110.6,72.8,None,Never,14.07
+171,2024-08-20,22,M,169,125.1,Weight Training,83,Medium,20.7,151,7.5,2,6043,2.8,28.9,66.7,110.6,72.8,None,Never,14.17
+171,2024-08-21,22,M,169,125.4,Weight Training,50,High,14.6,160,8.2,9,8264,2.4,28.9,66.7,110.6,72.8,None,Never,14.24
+171,2024-08-23,22,M,169,125.6,Weight Training,108,Medium,27.1,169,5.6,6,6552,1.7,28.9,66.7,110.6,72.8,None,Never,14.37
+171,2024-08-26,22,M,169,125.9,Weight Training,64,Medium,16.1,135,6.9,3,5255,2.4,28.9,66.7,110.6,72.8,None,Never,14.45
+171,2024-08-27,22,M,169,126.1,Dancing,102,High,27.5,167,9.3,8,8749,2.1,28.9,66.7,110.6,72.8,None,Never,14.59
+171,2024-08-30,22,M,169,126.4,Dancing,111,Medium,25.7,147,7.4,8,7063,2.6,28.9,66.7,110.6,72.8,None,Never,14.72

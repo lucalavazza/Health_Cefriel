@@ -1,0 +1,17 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+2281,2024-09-03,52,F,157.1,88.2,Dancing,99,Medium,16.0,130,6.7,7,7496,3.2,18.2,77,114.1,80.4,None,Never,13.14
+2281,2024-09-04,52,F,157.1,88.4,Weight Training,52,Low,7.6,110,8.0,10,8332,3.4,18.2,77,114.1,80.4,None,Never,13.19
+2281,2024-09-05,52,F,157.1,88.7,Dancing,89,Medium,14.4,123,7.9,6,7575,1.9,18.2,77,114.1,80.4,None,Never,13.3
+2281,2024-09-07,52,F,157.1,88.9,Weight Training,45,Medium,8.0,134,6.5,7,8304,1.8,18.2,77,114.1,80.4,None,Never,13.35
+2281,2024-09-08,52,F,157.1,89.2,Dancing,28,Medium,4.6,123,6.2,1,8918,3.3,18.2,77,114.1,80.4,None,Never,13.39
+2281,2024-09-09,52,F,157.1,89.4,Weight Training,28,High,5.8,145,8.5,4,6695,2.5,18.2,77,114.1,80.4,None,Never,13.43
+2281,2024-09-10,52,F,157.1,89.7,Weight Training,118,Low,17.6,113,8.1,1,6725,2.1,18.2,77,114.1,80.4,None,Never,13.54
+2281,2024-09-12,52,F,157.1,90.0,Dancing,71,Medium,11.7,112,6.9,7,8304,1.7,18.2,77,114.1,80.4,None,Never,13.63
+2281,2024-09-15,52,F,157.1,90.2,Weight Training,71,Medium,12.8,131,6.1,9,8845,2.9,18.2,77,114.1,80.4,None,Never,13.71
+2281,2024-09-16,52,F,157.1,90.5,Weight Training,88,Medium,15.9,117,7.4,6,5046,1.8,18.2,77,114.1,80.4,None,Never,13.82
+2281,2024-09-18,52,F,157.1,90.7,Dancing,95,Medium,15.8,137,8.4,9,6203,3.1,18.2,77,114.1,80.4,None,Never,13.93
+2281,2024-09-21,52,F,157.1,91.0,Yoga,72,Low,5.4,103,5.6,4,6745,2.4,18.2,77,114.1,80.4,None,Never,14.01
+2281,2024-09-22,52,F,157.1,91.3,Yoga,75,Medium,6.8,128,8.0,7,9844,2.7,18.2,77,114.1,80.4,None,Never,14.1
+2281,2024-09-25,52,F,157.1,91.5,Cycling,65,Low,14.0,110,8.8,8,8773,2.0,18.2,77,114.1,80.4,None,Never,14.16
+2281,2024-09-26,52,F,157.1,91.8,Yoga,87,Low,6.6,115,7.0,10,6964,3.1,18.2,77,114.1,80.4,None,Never,14.25
+2281,2024-09-30,52,F,157.1,92.0,Cycling,67,High,20.3,133,8.5,5,3999,2.0,18.2,77,114.1,80.4,None,Never,14.34

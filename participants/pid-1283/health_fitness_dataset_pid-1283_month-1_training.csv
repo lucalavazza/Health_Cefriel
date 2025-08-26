@@ -1,0 +1,21 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+1283,2024-01-01,45,Other,159.2,52.8,Walking,109,High,8.5,148,6.7,3,5154,1.9,20.7,67.4,133.6,81.4,Diabetes,Former,0.15
+1283,2024-01-02,45,Other,159.2,53.1,HIIT,62,Medium,13.1,127,6.4,10,6567,2.3,20.7,67.4,133.6,81.4,Diabetes,Former,0.23
+1283,2024-01-03,45,Other,159.2,53.3,HIIT,32,Low,5.7,123,6.0,4,5665,2.6,20.7,67.4,133.6,81.4,Diabetes,Former,0.26
+1283,2024-01-04,45,Other,159.2,53.6,Walking,79,Low,4.4,117,8.0,6,7934,2.1,20.7,67.4,133.6,81.4,Diabetes,Former,0.34
+1283,2024-01-05,45,Other,159.2,53.9,Walking,73,Low,4.1,110,8.5,2,6822,3.4,20.7,67.4,133.6,81.4,Diabetes,Former,0.41
+1283,2024-01-06,45,Other,159.2,54.1,Walking,55,Medium,3.8,134,6.2,8,8177,3.5,20.7,67.4,133.6,81.4,Diabetes,Former,0.48
+1283,2024-01-08,45,Other,159.2,54.4,Walking,108,Medium,7.4,139,6.0,9,7700,3.1,20.7,67.4,133.6,81.4,Diabetes,Former,0.61
+1283,2024-01-09,45,Other,159.2,54.6,Weight Training,62,Medium,6.7,150,6.8,4,8014,2.0,20.7,67.4,133.6,81.4,Diabetes,Former,0.68
+1283,2024-01-13,45,Other,159.2,54.9,Weight Training,72,Medium,7.9,130,7.2,8,10366,2.5,20.7,67.4,133.6,81.4,Diabetes,Former,0.77
+1283,2024-01-14,45,Other,159.2,55.2,Weight Training,38,Medium,4.2,135,6.7,8,6714,1.6,20.7,67.4,133.6,81.4,Diabetes,Former,0.81
+1283,2024-01-15,45,Other,159.2,55.4,Weight Training,116,Medium,12.8,126,7.7,4,8901,2.8,20.7,67.4,133.6,81.4,Diabetes,Former,0.95
+1283,2024-01-16,45,Other,159.2,55.7,Weight Training,34,High,4.4,147,7.7,7,9556,3.5,20.7,67.4,133.6,81.4,Diabetes,Former,1.0
+1283,2024-01-17,45,Other,159.2,55.9,Weight Training,52,Low,4.8,127,7.6,5,10177,3.2,20.7,67.4,133.6,81.4,Diabetes,Former,1.05
+1283,2024-01-18,45,Other,159.2,56.2,Weight Training,98,Low,9.1,121,6.6,4,8567,2.2,20.7,67.4,133.6,81.4,Diabetes,Former,1.15
+1283,2024-01-21,45,Other,159.2,56.5,Weight Training,44,Medium,4.9,145,6.4,7,10172,2.1,20.7,67.4,133.6,81.4,Diabetes,Former,1.2
+1283,2024-01-23,45,Other,159.2,56.7,Swimming,109,Medium,14.4,128,7.3,5,6419,1.8,20.7,67.4,133.6,81.4,Diabetes,Former,1.33
+1283,2024-01-25,45,Other,159.2,57.0,Cycling,46,Medium,7.4,127,7.7,7,9134,2.7,20.7,67.4,133.6,81.4,Diabetes,Former,1.39
+1283,2024-01-28,45,Other,159.2,57.2,Cycling,61,Medium,9.8,134,5.7,4,11294,1.7,20.7,67.4,133.6,81.4,Diabetes,Former,1.46
+1283,2024-01-30,45,Other,159.2,57.5,Swimming,97,Medium,13.0,138,7.9,1,9413,2.0,20.7,67.4,133.6,81.4,Diabetes,Former,1.58
+1283,2024-01-31,45,Other,159.2,57.7,Swimming,64,Low,7.2,113,7.3,2,7557,3.2,20.7,67.4,133.6,81.4,Diabetes,Former,1.64

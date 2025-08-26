@@ -1,0 +1,23 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+2871,2024-01-01,42,M,165.2,73.6,Weight Training,99,High,16.9,150,7.2,4,8069,1.9,26.9,67,113.1,94.7,None,Former,0.14
+2871,2024-01-03,42,M,165.2,73.8,Weight Training,91,High,15.6,145,4.6,5,9162,1.5,26.9,67,113.1,94.7,None,Former,0.27
+2871,2024-01-04,42,M,165.2,74.1,Weight Training,106,Medium,15.7,129,6.0,10,9595,1.7,26.9,67,113.1,94.7,None,Former,0.39
+2871,2024-01-05,42,M,165.2,74.4,Weight Training,60,Low,7.4,113,6.3,4,7843,1.8,26.9,67,113.1,94.7,None,Former,0.45
+2871,2024-01-09,42,M,165.2,74.6,Weight Training,55,Low,6.8,106,8.5,6,6037,2.5,26.9,67,113.1,94.7,None,Former,0.51
+2871,2024-01-10,42,M,165.2,74.9,Weight Training,69,Medium,10.3,135,5.1,6,8727,2.9,26.9,67,113.1,94.7,None,Former,0.59
+2871,2024-01-11,42,M,165.2,75.1,Weight Training,43,High,7.5,146,7.4,3,9163,2.0,26.9,67,113.1,94.7,None,Former,0.65
+2871,2024-01-12,42,M,165.2,75.4,Weight Training,26,Low,3.3,115,6.3,2,10336,2.6,26.9,67,113.1,94.7,None,Former,0.68
+2871,2024-01-13,42,M,165.2,75.7,Dancing,25,Medium,3.5,150,5.6,7,5215,2.5,26.9,67,113.1,94.7,None,Former,0.71
+2871,2024-01-15,42,M,165.2,75.9,Weight Training,74,Medium,11.2,142,7.8,8,8499,3.0,26.9,67,113.1,94.7,None,Former,0.8
+2871,2024-01-16,42,M,165.2,76.2,Dancing,46,High,7.5,169,6.1,10,7775,3.4,26.9,67,113.1,94.7,None,Former,0.86
+2871,2024-01-17,42,M,165.2,76.4,Weight Training,40,Medium,6.1,143,6.4,8,7163,2.2,26.9,67,113.1,94.7,None,Former,0.91
+2871,2024-01-18,42,M,165.2,76.7,Yoga,35,Medium,2.7,129,7.9,7,9943,3.0,26.9,67,113.1,94.7,None,Former,0.95
+2871,2024-01-19,42,M,165.2,76.9,Dancing,77,Medium,10.8,125,5.3,5,8161,2.2,26.9,67,113.1,94.7,None,Former,1.04
+2871,2024-01-21,42,M,165.2,77.2,Weight Training,80,Low,10.3,115,7.4,7,9561,3.1,26.9,67,113.1,94.7,None,Former,1.12
+2871,2024-01-22,42,M,165.2,77.5,Tennis,36,Medium,6.8,125,7.2,7,8892,3.0,26.9,67,113.1,94.7,None,Former,1.17
+2871,2024-01-23,42,M,165.2,77.7,Weight Training,108,High,19.5,151,7.1,7,10283,2.7,26.9,67,113.1,94.7,None,Former,1.32
+2871,2024-01-24,42,M,165.2,78.0,Tennis,20,High,4.4,138,5.8,8,8259,2.5,26.9,67,113.1,94.7,None,Former,1.35
+2871,2024-01-25,42,M,165.2,78.2,Weight Training,40,Medium,6.2,134,5.0,2,9323,2.3,26.9,67,113.1,94.7,None,Former,1.39
+2871,2024-01-26,42,M,165.2,78.5,Tennis,35,Medium,6.7,137,7.8,6,7236,2.4,26.9,67,113.1,94.7,None,Former,1.44
+2871,2024-01-27,42,M,165.2,78.8,Tennis,85,High,18.9,148,9.1,5,12603,3.3,26.9,67,113.1,94.7,None,Former,1.55
+2871,2024-01-31,42,M,165.2,79.0,Tennis,75,High,16.8,158,8.8,7,7221,3.2,26.9,67,113.1,94.7,None,Former,1.66

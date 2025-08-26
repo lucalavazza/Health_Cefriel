@@ -1,0 +1,16 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+1442,2024-07-02,21,M,171.5,97.1,Walking,104,Low,10.6,127,7.1,10,8896,1.6,21.3,69.4,113.9,81.9,None,Current,10.99
+1442,2024-07-05,21,M,171.5,97.4,Walking,104,Medium,12.8,159,7.6,2,8357,2.8,21.3,69.4,113.9,81.9,None,Current,11.12
+1442,2024-07-06,21,M,171.5,97.6,Swimming,79,Medium,17.9,152,9.0,1,7729,2.5,21.3,69.4,113.9,81.9,None,Current,11.21
+1442,2024-07-09,21,M,171.5,97.9,Swimming,31,Medium,7.1,163,5.9,5,4120,3.3,21.3,69.4,113.9,81.9,None,Current,11.25
+1442,2024-07-12,21,M,171.5,98.1,Tennis,119,Medium,28.3,147,4.7,1,7668,2.3,21.3,69.4,113.9,81.9,None,Current,11.39
+1442,2024-07-13,21,M,171.5,98.4,Tennis,32,High,8.9,159,8.1,1,10173,1.8,21.3,69.4,113.9,81.9,None,Current,11.43
+1442,2024-07-14,21,M,171.5,98.6,Running,71,High,26.6,176,7.5,3,8719,2.7,21.3,69.4,113.9,81.9,None,Current,11.53
+1442,2024-07-17,21,M,171.5,98.9,Running,100,Low,26.9,135,6.2,3,7319,1.6,21.3,69.4,113.9,81.9,None,Current,11.63
+1442,2024-07-18,21,M,171.5,99.2,Running,86,Medium,27.8,146,8.3,9,7934,1.7,21.3,69.4,113.9,81.9,None,Current,11.74
+1442,2024-07-19,21,M,171.5,99.4,Running,115,High,43.5,177,8.5,2,7210,1.9,21.3,69.4,113.9,81.9,None,Current,11.9
+1442,2024-07-21,21,M,171.5,99.7,Dancing,44,Medium,8.0,149,8.0,8,7557,2.9,21.3,69.4,113.9,81.9,None,Current,11.95
+1442,2024-07-22,21,M,171.5,99.9,Running,82,High,31.1,165,6.4,3,6928,2.0,21.3,69.4,113.9,81.9,None,Current,12.07
+1442,2024-07-24,21,M,171.5,100.2,Dancing,70,High,15.0,193,5.5,8,7413,3.3,21.3,69.4,113.9,81.9,None,Current,12.16
+1442,2024-07-28,21,M,171.5,100.4,Dancing,29,Medium,5.3,148,4.7,4,12681,2.4,21.3,69.4,113.9,81.9,None,Current,12.2
+1442,2024-07-31,21,M,171.5,100.7,Swimming,66,High,18.0,160,7.3,5,7942,2.9,21.3,69.4,113.9,81.9,None,Current,12.29

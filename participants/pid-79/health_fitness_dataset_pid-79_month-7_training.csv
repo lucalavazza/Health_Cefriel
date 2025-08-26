@@ -1,0 +1,17 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+79,2024-07-01,64,F,161.9,93.2,Running,41,High,14.5,137,7.9,5,6965,2.1,21.9,68,112.8,74.7,None,Never,11.02
+79,2024-07-03,64,F,161.9,93.5,Weight Training,81,Medium,15.1,125,9.2,1,9696,3.1,21.9,68,112.8,74.7,None,Never,11.12
+79,2024-07-05,64,F,161.9,93.7,Swimming,74,Medium,16.1,116,7.2,4,8206,3.1,21.9,68,112.8,74.7,None,Never,11.2
+79,2024-07-06,64,F,161.9,94.0,Weight Training,26,High,5.7,130,4.8,6,7504,3.1,21.9,68,112.8,74.7,None,Never,11.24
+79,2024-07-07,64,F,161.9,94.2,Basketball,67,Low,14.0,103,7.6,1,7306,3.2,21.9,68,112.8,74.7,None,Never,11.31
+79,2024-07-08,64,F,161.9,94.5,Basketball,78,Medium,19.6,120,5.4,6,7525,2.0,21.9,68,112.8,74.7,None,Never,11.4
+79,2024-07-12,64,F,161.9,94.8,Weight Training,96,Low,15.1,103,7.0,7,8624,1.6,21.9,68,112.8,74.7,None,Never,11.5
+79,2024-07-15,64,F,161.9,95.0,Basketball,57,Medium,14.4,112,7.1,2,7305,3.1,21.9,68,112.8,74.7,None,Never,11.57
+79,2024-07-17,64,F,161.9,95.3,Weight Training,25,Low,4.0,94,8.1,6,6380,3.1,21.9,68,112.8,74.7,None,Never,11.59
+79,2024-07-19,64,F,161.9,95.5,Weight Training,91,High,20.2,131,8.3,2,7310,1.7,21.9,68,112.8,74.7,None,Never,11.72
+79,2024-07-21,64,F,161.9,95.8,Weight Training,43,Medium,8.2,116,7.6,5,9228,2.9,21.9,68,112.8,74.7,None,Never,11.77
+79,2024-07-22,64,F,161.9,96.0,Weight Training,72,Low,11.5,95,6.3,7,3824,2.1,21.9,68,112.8,74.7,None,Never,11.84
+79,2024-07-23,64,F,161.9,96.3,Weight Training,56,Medium,10.8,112,7.0,7,7706,1.6,21.9,68,112.8,74.7,None,Never,11.91
+79,2024-07-25,64,F,161.9,96.6,Weight Training,94,Low,15.1,96,6.0,9,6791,3.5,21.9,68,112.8,74.7,None,Never,12.0
+79,2024-07-27,64,F,161.9,96.8,Weight Training,89,Medium,17.2,115,7.0,8,8753,2.9,21.9,68,112.8,74.7,None,Never,12.11
+79,2024-07-30,64,F,161.9,97.1,Weight Training,88,Medium,17.0,115,8.6,2,6592,1.8,21.9,68,112.8,74.7,None,Never,12.22

@@ -1,0 +1,17 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+1208,2024-09-02,42,M,182,141.6,Swimming,33,High,12.7,161,6.7,5,3218,2.3,28.5,81.4,145.7,77.2,None,Former,14.64
+1208,2024-09-03,42,M,182,141.8,Swimming,63,High,24.3,147,6.8,6,6114,2.1,28.5,81.4,145.7,77.2,None,Former,14.73
+1208,2024-09-04,42,M,182,142.1,Swimming,27,Low,7.4,112,6.7,8,8436,2.0,28.5,81.4,145.7,77.2,None,Former,14.76
+1208,2024-09-06,42,M,182,142.3,Swimming,44,Low,12.2,106,6.4,6,9737,2.9,28.5,81.4,145.7,77.2,None,Former,14.8
+1208,2024-09-08,42,M,182,142.6,Swimming,36,High,14.0,168,8.6,7,7155,3.3,28.5,81.4,145.7,77.2,None,Former,14.85
+1208,2024-09-10,42,M,182,142.9,Swimming,45,Medium,15.0,129,7.5,1,5982,1.9,28.5,81.4,145.7,77.2,None,Former,14.91
+1208,2024-09-11,42,M,182,143.1,Yoga,90,Medium,12.9,127,7.3,8,7771,2.5,28.5,81.4,145.7,77.2,None,Former,15.02
+1208,2024-09-12,42,M,182,143.4,Yoga,30,Medium,4.3,141,5.8,9,7435,2.7,28.5,81.4,145.7,77.2,None,Former,15.05
+1208,2024-09-13,42,M,182,143.6,Swimming,62,Medium,20.7,117,6.4,2,4481,2.7,28.5,81.4,145.7,77.2,None,Former,15.13
+1208,2024-09-17,42,M,182,143.9,Swimming,74,Medium,24.8,130,7.1,5,4431,3.0,28.5,81.4,145.7,77.2,None,Former,15.22
+1208,2024-09-20,42,M,182,144.2,Swimming,53,High,20.8,148,6.9,1,8981,3.3,28.5,81.4,145.7,77.2,None,Former,15.29
+1208,2024-09-21,42,M,182,144.4,Weight Training,59,High,19.8,170,8.0,8,5833,3.2,28.5,81.4,145.7,77.2,None,Former,15.37
+1208,2024-09-25,42,M,182,144.7,Swimming,73,Low,20.5,119,6.8,7,7426,2.9,28.5,81.4,145.7,77.2,None,Former,15.45
+1208,2024-09-27,42,M,182,144.9,Swimming,54,Medium,18.2,117,8.7,4,5444,2.2,28.5,81.4,145.7,77.2,None,Former,15.51
+1208,2024-09-29,42,M,182,145.2,Weight Training,42,Medium,12.2,118,7.1,6,6837,3.3,28.5,81.4,145.7,77.2,None,Former,15.56
+1208,2024-09-30,42,M,182,145.4,Swimming,48,Low,13.6,115,7.7,3,4881,1.8,28.5,81.4,145.7,77.2,None,Former,15.61

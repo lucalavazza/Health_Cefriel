@@ -1,0 +1,16 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+692,2024-10-01,55,M,183.4,126.8,Swimming,48,High,16.5,138,6.7,10,6461,2.1,23.6,73.4,129.3,79.2,Hypertension,Current,15.95
+692,2024-10-08,55,M,183.4,127.0,Dancing,91,Low,17.6,108,7.3,1,5727,1.7,23.6,73.4,129.3,79.2,Hypertension,Current,16.04
+692,2024-10-09,55,M,183.4,127.3,Swimming,77,Medium,22.8,102,6.9,7,7884,2.8,23.6,73.4,129.3,79.2,Hypertension,Current,16.14
+692,2024-10-11,55,M,183.4,127.5,Tennis,35,Medium,10.8,113,6.9,8,6865,3.1,23.6,73.4,129.3,79.2,Hypertension,Current,16.18
+692,2024-10-15,55,M,183.4,127.8,Dancing,56,Medium,13.1,113,6.4,2,7071,2.7,23.6,73.4,129.3,79.2,Hypertension,Current,16.25
+692,2024-10-19,55,M,183.4,128.1,Dancing,86,Low,16.8,114,7.4,9,9160,3.1,23.6,73.4,129.3,79.2,Hypertension,Current,16.33
+692,2024-10-20,55,M,183.4,128.3,Weight Training,56,High,16.7,157,7.8,5,7602,2.4,23.6,73.4,129.3,79.2,Hypertension,Current,16.41
+692,2024-10-21,55,M,183.4,128.6,HIIT,27,Medium,13.9,106,6.9,9,7148,2.6,23.6,73.4,129.3,79.2,Hypertension,Current,16.44
+692,2024-10-23,55,M,183.4,128.8,Running,80,Medium,33.6,121,7.8,8,4809,1.6,23.6,73.4,129.3,79.2,Hypertension,Current,16.54
+692,2024-10-25,55,M,183.4,129.1,HIIT,113,Low,48.5,99,6.6,7,5231,2.1,23.6,73.4,129.3,79.2,Hypertension,Current,16.65
+692,2024-10-26,55,M,183.4,129.3,Running,28,Medium,11.8,120,7.2,3,8324,1.6,23.6,73.4,129.3,79.2,Hypertension,Current,16.69
+692,2024-10-27,55,M,183.4,129.6,Dancing,38,Low,7.5,120,7.1,1,6039,2.9,23.6,73.4,129.3,79.2,Hypertension,Current,16.72
+692,2024-10-28,55,M,183.4,129.9,HIIT,77,Medium,39.9,129,6.3,3,8200,3.4,23.6,73.4,129.3,79.2,Hypertension,Current,16.82
+692,2024-10-30,55,M,183.4,130.1,HIIT,99,Medium,51.4,127,6.3,10,7609,1.9,23.6,73.4,129.3,79.2,Hypertension,Current,16.93
+692,2024-10-31,55,M,183.4,130.4,HIIT,81,Medium,42.2,111,6.6,4,5511,2.2,23.6,73.4,129.3,79.2,Hypertension,Current,17.03

@@ -1,0 +1,19 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+2650,2024-11-01,63,F,172.3,114.7,Running,47,Medium,17.6,117,6.1,5,10828,3.5,20.2,74.4,113.2,80.9,None,Current,16.4
+2650,2024-11-02,63,F,172.3,115.0,Running,117,Medium,43.9,115,6.1,5,7905,3.1,20.2,74.4,113.2,80.9,None,Current,16.54
+2650,2024-11-03,63,F,172.3,115.3,Weight Training,96,Low,18.4,102,6.0,9,6562,3.0,20.2,74.4,113.2,80.9,None,Current,16.63
+2650,2024-11-04,63,F,172.3,115.5,Running,46,Medium,17.3,125,6.2,1,4597,2.1,20.2,74.4,113.2,80.9,None,Current,16.69
+2650,2024-11-05,63,F,172.3,115.8,Weight Training,55,Low,10.6,100,8.3,2,5961,3.0,20.2,74.4,113.2,80.9,None,Current,16.74
+2650,2024-11-10,63,F,172.3,116.0,Weight Training,70,Low,13.5,108,7.7,6,4970,3.5,20.2,74.4,113.2,80.9,None,Current,16.81
+2650,2024-11-12,63,F,172.3,116.3,Weight Training,40,Medium,9.3,115,6.4,8,4465,3.2,20.2,74.4,113.2,80.9,None,Current,16.86
+2650,2024-11-13,63,F,172.3,116.5,Weight Training,55,Medium,12.8,112,6.3,9,7834,3.5,20.2,74.4,113.2,80.9,None,Current,16.93
+2650,2024-11-14,63,F,172.3,116.8,Weight Training,41,Low,8.0,98,7.6,7,7373,2.6,20.2,74.4,113.2,80.9,None,Current,16.97
+2650,2024-11-17,63,F,172.3,117.1,Weight Training,101,Medium,23.6,105,5.2,3,7797,2.2,20.2,74.4,113.2,80.9,None,Current,17.09
+2650,2024-11-18,63,F,172.3,117.3,Weight Training,101,Low,19.7,105,7.1,4,8275,1.8,20.2,74.4,113.2,80.9,None,Current,17.19
+2650,2024-11-19,63,F,172.3,117.6,Weight Training,115,Medium,27.0,117,6.3,2,5150,2.1,20.2,74.4,113.2,80.9,None,Current,17.33
+2650,2024-11-21,63,F,172.3,117.8,Weight Training,75,Medium,17.6,113,6.7,9,5045,2.9,20.2,74.4,113.2,80.9,None,Current,17.42
+2650,2024-11-22,63,F,172.3,118.1,Weight Training,92,Medium,21.7,101,6.3,9,7513,2.0,20.2,74.4,113.2,80.9,None,Current,17.53
+2650,2024-11-25,63,F,172.3,118.4,Tennis,42,Medium,12.1,119,6.2,2,7817,1.7,20.2,74.4,113.2,80.9,None,Current,17.58
+2650,2024-11-26,63,F,172.3,118.6,Tennis,114,High,38.3,134,8.6,8,7012,2.3,20.2,74.4,113.2,80.9,None,Current,17.74
+2650,2024-11-27,63,F,172.3,118.9,HIIT,27,Medium,12.8,121,7.7,7,8437,2.0,20.2,74.4,113.2,80.9,None,Current,17.77
+2650,2024-11-30,63,F,172.3,119.1,Tennis,75,Medium,21.7,109,8.4,5,11087,2.4,20.2,74.4,113.2,80.9,None,Current,17.86

@@ -1,0 +1,17 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+2112,2024-12-02,37,F,156.9,102.8,Running,81,Low,22.6,123,4.2,5,7409,3.1,18.3,57.7,122.4,69,None,Current,18.05
+2112,2024-12-05,37,F,156.9,103.1,Running,53,High,20.8,135,7.0,7,8985,1.9,18.3,57.7,122.4,69,None,Current,18.12
+2112,2024-12-07,37,F,156.9,103.3,Cycling,93,Low,22.6,121,7.8,6,9436,2.5,18.3,57.7,122.4,69,None,Current,18.21
+2112,2024-12-08,37,F,156.9,103.6,Running,89,Low,25.0,110,6.6,1,8702,1.8,18.3,57.7,122.4,69,None,Current,18.3
+2112,2024-12-09,37,F,156.9,103.8,Running,88,Medium,29.8,142,6.4,1,7604,3.0,18.3,57.7,122.4,69,None,Current,18.41
+2112,2024-12-10,37,F,156.9,104.1,Running,115,Medium,39.0,150,8.7,8,7467,3.1,18.3,57.7,122.4,69,None,Current,18.55
+2112,2024-12-11,37,F,156.9,104.3,Running,46,Medium,15.6,147,7.3,2,6185,2.2,18.3,57.7,122.4,69,None,Current,18.6
+2112,2024-12-13,37,F,156.9,104.6,Running,37,Medium,12.6,140,5.0,5,8990,2.4,18.3,57.7,122.4,69,None,Current,18.65
+2112,2024-12-14,37,F,156.9,104.9,Swimming,120,Medium,29.3,137,8.2,8,10815,3.1,18.3,57.7,122.4,69,None,Current,18.79
+2112,2024-12-15,37,F,156.9,105.1,Weight Training,40,Low,7.0,116,7.1,5,9694,2.5,18.3,57.7,122.4,69,None,Current,18.83
+2112,2024-12-16,37,F,156.9,105.4,Cycling,71,Medium,21.1,150,7.4,1,7123,2.5,18.3,57.7,122.4,69,None,Current,18.91
+2112,2024-12-17,37,F,156.9,105.6,Swimming,72,Low,14.8,124,6.2,4,8969,1.8,18.3,57.7,122.4,69,None,Current,18.99
+2112,2024-12-18,37,F,156.9,105.9,Cycling,85,Medium,25.4,137,6.8,4,6887,2.3,18.3,57.7,122.4,69,None,Current,19.09
+2112,2024-12-19,37,F,156.9,106.1,Yoga,54,Medium,5.7,148,7.5,6,4105,3.5,18.3,57.7,122.4,69,None,Current,19.15
+2112,2024-12-20,37,F,156.9,106.4,Swimming,92,Low,19.0,126,6.7,6,7463,3.5,18.3,57.7,122.4,69,None,Current,19.25
+2112,2024-12-22,37,F,156.9,106.7,Swimming,66,Medium,16.4,137,5.6,7,8517,1.5,18.3,57.7,122.4,69,None,Current,19.32

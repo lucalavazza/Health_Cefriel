@@ -1,0 +1,15 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+1986,2024-12-02,47,F,168,115.9,Dancing,74,High,18.3,162,7.3,5,7636,3.4,21.4,74.6,132.1,76.9,None,Former,18.23
+1986,2024-12-03,47,F,168,116.1,HIIT,86,Medium,39.9,119,7.8,4,8901,2.0,21.4,74.6,132.1,76.9,None,Former,18.33
+1986,2024-12-04,47,F,168,116.4,Dancing,30,Medium,6.4,121,7.0,9,8925,2.8,21.4,74.6,132.1,76.9,None,Former,18.37
+1986,2024-12-05,47,F,168,116.6,Basketball,94,Medium,29.2,116,7.4,4,5654,3.3,21.4,74.6,132.1,76.9,None,Former,18.48
+1986,2024-12-06,47,F,168,116.9,HIIT,22,Low,8.6,109,7.6,9,6941,3.1,21.4,74.6,132.1,76.9,None,Former,18.5
+1986,2024-12-08,47,F,168,117.2,Dancing,35,High,8.8,149,7.4,1,11471,1.9,21.4,74.6,132.1,76.9,None,Former,18.55
+1986,2024-12-09,47,F,168,117.4,Dancing,20,Low,3.6,102,6.7,9,7176,2.9,21.4,74.6,132.1,76.9,None,Former,18.57
+1986,2024-12-15,47,F,168,117.7,Dancing,87,Low,15.6,111,6.1,6,7660,1.6,21.4,74.6,132.1,76.9,None,Former,18.66
+1986,2024-12-16,47,F,168,117.9,Dancing,87,Low,15.6,116,6.5,8,9660,2.2,21.4,74.6,132.1,76.9,None,Former,18.75
+1986,2024-12-19,47,F,168,118.2,Dancing,119,Medium,25.7,125,7.1,7,8991,3.1,21.4,74.6,132.1,76.9,None,Former,18.89
+1986,2024-12-21,47,F,168,118.4,Running,102,Medium,39.4,120,7.4,1,7584,1.9,21.4,74.6,132.1,76.9,None,Former,19.01
+1986,2024-12-22,47,F,168,118.7,Dancing,94,Medium,20.4,129,5.6,4,11889,2.2,21.4,74.6,132.1,76.9,None,Former,19.12
+1986,2024-12-23,47,F,168,119.0,Dancing,77,Medium,16.8,134,7.5,1,7657,3.3,21.4,74.6,132.1,76.9,None,Former,19.22
+1986,2024-12-24,47,F,168,119.2,Dancing,66,High,16.8,150,6.3,10,10655,2.6,21.4,74.6,132.1,76.9,None,Former,19.31

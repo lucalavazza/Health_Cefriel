@@ -1,0 +1,16 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+840,2024-09-01,47,M,187.9,117.1,Tennis,70,Low,16.6,117,7.7,2,6760,2.7,21.2,70.3,110.6,90.1,Diabetes,Never,13.42
+840,2024-09-02,47,M,187.9,117.3,Tennis,68,Low,16.1,114,8.7,10,7355,2.9,21.2,70.3,110.6,90.1,Diabetes,Never,13.49
+840,2024-09-04,47,M,187.9,117.6,Tennis,86,Low,20.5,114,7.3,7,7019,3.1,21.2,70.3,110.6,90.1,Diabetes,Never,13.57
+840,2024-09-05,47,M,187.9,117.8,Tennis,114,Medium,32.6,125,6.6,6,6913,3.1,21.2,70.3,110.6,90.1,Diabetes,Never,13.71
+840,2024-09-06,47,M,187.9,118.1,Tennis,115,Medium,33.0,125,6.9,9,6999,2.1,21.2,70.3,110.6,90.1,Diabetes,Never,13.85
+840,2024-09-07,47,M,187.9,118.3,Tennis,58,Medium,16.7,116,6.1,6,9472,2.7,21.2,70.3,110.6,90.1,Diabetes,Never,13.92
+840,2024-09-09,47,M,187.9,118.6,Tennis,110,High,37.0,128,8.2,2,5847,1.6,21.2,70.3,110.6,90.1,Diabetes,Never,14.07
+840,2024-09-12,47,M,187.9,118.9,Tennis,118,Medium,34.1,119,8.2,7,4342,2.3,21.2,70.3,110.6,90.1,Diabetes,Never,14.21
+840,2024-09-13,47,M,187.9,119.1,Dancing,72,Medium,15.7,142,6.8,6,3987,3.3,21.2,70.3,110.6,90.1,Diabetes,Never,14.3
+840,2024-09-14,47,M,187.9,119.4,Tennis,93,Medium,27.0,131,6.9,10,7812,2.6,21.2,70.3,110.6,90.1,Diabetes,Never,14.41
+840,2024-09-18,47,M,187.9,119.6,Dancing,114,Medium,24.9,125,7.8,9,6472,2.3,21.2,70.3,110.6,90.1,Diabetes,Never,14.55
+840,2024-09-19,47,M,187.9,119.9,Tennis,67,Low,16.3,123,7.6,8,7809,2.9,21.2,70.3,110.6,90.1,Diabetes,Never,14.61
+840,2024-09-23,47,M,187.9,120.1,Dancing,36,Medium,7.9,124,7.4,2,5435,2.9,21.2,70.3,110.6,90.1,Diabetes,Never,14.66
+840,2024-09-24,47,M,187.9,120.4,Tennis,117,Medium,34.2,117,6.6,9,5301,2.6,21.2,70.3,110.6,90.1,Diabetes,Never,14.8
+840,2024-09-27,47,M,187.9,120.7,Weight Training,41,High,11.5,126,7.6,1,6340,2.2,21.2,70.3,110.6,90.1,Diabetes,Never,14.85

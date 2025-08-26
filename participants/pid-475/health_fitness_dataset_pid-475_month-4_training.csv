@@ -1,0 +1,18 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+475,2024-04-03,47,M,172.6,84.0,Weight Training,59,Medium,9.9,136,6.6,3,7888,2.8,22.6,64,129.4,86.8,Hypertension,Never,5.18
+475,2024-04-04,47,M,172.6,84.2,Weight Training,104,Medium,17.5,122,6.3,1,8594,2.8,22.6,64,129.4,86.8,Hypertension,Never,5.3
+475,2024-04-05,47,M,172.6,84.5,Running,91,Medium,25.0,145,7.5,9,11579,3.4,22.6,64,129.4,86.8,Hypertension,Never,5.41
+475,2024-04-07,47,M,172.6,84.7,Weight Training,79,Low,11.1,114,8.7,2,12138,3.4,22.6,64,129.4,86.8,Hypertension,Never,5.49
+475,2024-04-09,47,M,172.6,85.0,Running,77,Low,17.8,110,8.7,3,8741,2.7,22.6,64,129.4,86.8,Hypertension,Never,5.57
+475,2024-04-10,47,M,172.6,85.3,Running,84,High,27.2,140,5.1,6,9904,2.5,22.6,64,129.4,86.8,Hypertension,Never,5.69
+475,2024-04-12,47,M,172.6,85.5,Weight Training,94,High,18.7,157,4.8,8,10341,3.2,22.6,64,129.4,86.8,Hypertension,Never,5.82
+475,2024-04-14,47,M,172.6,85.8,Running,100,Medium,27.9,130,6.3,4,10962,1.9,22.6,64,129.4,86.8,Hypertension,Never,5.94
+475,2024-04-16,47,M,172.6,86.0,Walking,58,Low,5.3,115,6.5,7,8581,2.8,22.6,64,129.4,86.8,Hypertension,Never,6.0
+475,2024-04-19,47,M,172.6,86.3,Walking,38,Medium,4.1,121,7.9,1,9910,3.4,22.6,64,129.4,86.8,Hypertension,Never,6.04
+475,2024-04-20,47,M,172.6,86.5,Running,91,Low,21.4,106,6.5,9,12094,3.0,22.6,64,129.4,86.8,Hypertension,Never,6.13
+475,2024-04-21,47,M,172.6,86.8,Walking,109,High,13.9,161,6.7,6,11511,1.6,22.6,64,129.4,86.8,Hypertension,Never,6.28
+475,2024-04-26,47,M,172.6,87.1,Running,71,Medium,20.1,118,8.3,5,9138,2.3,22.6,64,129.4,86.8,Hypertension,Never,6.37
+475,2024-04-27,47,M,172.6,87.3,Running,75,Low,17.8,107,6.2,6,10273,1.7,22.6,64,129.4,86.8,Hypertension,Never,6.44
+475,2024-04-28,47,M,172.6,87.6,Walking,86,High,11.1,168,8.0,10,10325,3.0,22.6,64,129.4,86.8,Hypertension,Never,6.57
+475,2024-04-29,47,M,172.6,87.8,Walking,55,High,7.1,156,7.0,1,7771,2.0,22.6,64,129.4,86.8,Hypertension,Never,6.64
+475,2024-04-30,47,M,172.6,88.1,Running,96,Medium,27.5,119,7.6,5,11815,3.5,22.6,64,129.4,86.8,Hypertension,Never,6.76

@@ -1,0 +1,13 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+2042,2024-08-01,58,F,161,101.3,HIIT,34,Medium,13.7,133,5.5,2,7016,1.6,24,71.4,119.6,88.2,None,Never,13.1
+2042,2024-08-02,58,F,161,101.6,HIIT,43,High,20.3,136,8.2,1,7532,2.6,24,71.4,119.6,88.2,None,Never,13.16
+2042,2024-08-04,58,F,161,101.8,Running,46,High,17.8,149,4.6,3,7508,2.9,24,71.4,119.6,88.2,None,Never,13.23
+2042,2024-08-05,58,F,161,102.1,HIIT,28,High,13.3,142,6.2,5,5862,3.3,24,71.4,119.6,88.2,None,Never,13.26
+2042,2024-08-08,58,F,161,102.4,Cycling,95,High,32.1,125,5.5,4,9036,3.2,24,71.4,119.6,88.2,None,Never,13.4
+2042,2024-08-13,58,F,161,102.6,Yoga,55,High,6.6,140,7.6,4,6427,3.0,24,71.4,119.6,88.2,None,Never,13.47
+2042,2024-08-16,58,F,161,102.9,Cycling,82,High,27.8,138,5.6,4,7344,2.1,24,71.4,119.6,88.2,None,Never,13.59
+2042,2024-08-19,58,F,161,103.1,Cycling,88,Medium,25.7,114,7.4,4,6297,2.7,24,71.4,119.6,88.2,None,Never,13.7
+2042,2024-08-24,58,F,161,103.4,Cycling,118,Low,28.7,102,7.7,8,8601,2.6,24,71.4,119.6,88.2,None,Never,13.81
+2042,2024-08-25,58,F,161,103.6,Cycling,83,Low,20.3,105,8.1,4,8179,2.8,24,71.4,119.6,88.2,None,Never,13.9
+2042,2024-08-29,58,F,161,103.9,Cycling,114,Medium,33.5,116,6.8,7,4959,1.8,24,71.4,119.6,88.2,None,Never,14.03
+2042,2024-08-30,58,F,161,104.2,Swimming,38,Low,7.7,115,6.2,10,5915,2.0,24,71.4,119.6,88.2,None,Never,14.07

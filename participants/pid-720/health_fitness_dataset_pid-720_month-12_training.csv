@@ -1,0 +1,17 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+720,2024-12-02,54,F,168.7,121.8,HIIT,47,Low,19.0,108,9.1,10,5116,2.6,23.6,67,108.8,87.2,None,Current,16.06
+720,2024-12-03,54,F,168.7,122.1,Weight Training,57,High,16.2,141,7.4,5,7234,1.6,23.6,67,108.8,87.2,None,Current,16.14
+720,2024-12-04,54,F,168.7,122.3,Swimming,44,Medium,12.5,122,4.5,6,6063,3.4,23.6,67,108.8,87.2,None,Current,16.2
+720,2024-12-05,54,F,168.7,122.6,Tennis,42,Low,10.4,108,5.8,1,7227,1.7,23.6,67,108.8,87.2,None,Current,16.24
+720,2024-12-06,54,F,168.7,122.9,Swimming,26,Medium,7.4,128,6.7,6,7723,3.4,23.6,67,108.8,87.2,None,Current,16.27
+720,2024-12-07,54,F,168.7,123.1,Swimming,64,Medium,18.3,120,8.3,2,5305,2.7,23.6,67,108.8,87.2,None,Current,16.35
+720,2024-12-10,54,F,168.7,123.4,HIIT,38,Medium,18.7,115,8.6,3,7070,2.3,23.6,67,108.8,87.2,None,Current,16.39
+720,2024-12-13,54,F,168.7,123.6,Swimming,116,Low,27.8,111,5.7,5,5818,3.1,23.6,67,108.8,87.2,None,Current,16.51
+720,2024-12-14,54,F,168.7,123.9,Swimming,40,High,13.5,136,6.3,7,7802,3.3,23.6,67,108.8,87.2,None,Current,16.56
+720,2024-12-16,54,F,168.7,124.1,Basketball,30,Medium,9.9,118,7.9,10,9461,2.5,23.6,67,108.8,87.2,None,Current,16.6
+720,2024-12-17,54,F,168.7,124.4,Weight Training,79,Medium,19.6,115,7.5,3,8063,2.2,23.6,67,108.8,87.2,None,Current,16.69
+720,2024-12-19,54,F,168.7,124.7,HIIT,54,High,31.3,162,6.2,2,7156,2.2,23.6,67,108.8,87.2,None,Current,16.77
+720,2024-12-20,54,F,168.7,124.9,Basketball,23,Medium,7.6,122,7.2,9,7727,2.0,23.6,67,108.8,87.2,None,Current,16.8
+720,2024-12-23,54,F,168.7,125.2,HIIT,35,Medium,17.5,125,7.0,3,6802,2.8,23.6,67,108.8,87.2,None,Current,16.84
+720,2024-12-24,54,F,168.7,125.4,Basketball,33,Medium,11.0,121,7.8,7,8037,2.7,23.6,67,108.8,87.2,None,Current,16.88
+720,2024-12-25,54,F,168.7,125.7,HIIT,71,High,41.6,127,6.9,8,6245,2.0,23.6,67,108.8,87.2,None,Current,16.98

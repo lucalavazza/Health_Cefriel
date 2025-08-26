@@ -1,0 +1,20 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+723,2024-07-05,53,F,157,83.4,Weight Training,119,High,23.1,128,8.5,10,2968,1.8,20.7,68.4,135.1,82.8,None,Never,9.98
+723,2024-07-06,53,F,157,83.7,HIIT,46,High,17.9,154,5.6,8,11082,2.1,20.7,68.4,135.1,82.8,None,Never,10.04
+723,2024-07-08,53,F,157,83.9,HIIT,63,Medium,21.1,127,5.5,5,8429,1.8,20.7,68.4,135.1,82.8,None,Never,10.12
+723,2024-07-09,53,F,157,84.2,Weight Training,84,High,16.4,144,7.2,2,9946,3.0,20.7,68.4,135.1,82.8,None,Never,10.24
+723,2024-07-10,53,F,157,84.4,HIIT,41,Low,11.5,106,8.7,10,5436,1.6,20.7,68.4,135.1,82.8,None,Never,10.28
+723,2024-07-11,53,F,157,84.7,Weight Training,27,Low,3.8,92,5.3,9,8054,2.6,20.7,68.4,135.1,82.8,None,Never,10.3
+723,2024-07-13,53,F,157,84.9,HIIT,46,Medium,15.6,122,6.9,7,9676,1.6,20.7,68.4,135.1,82.8,None,Never,10.36
+723,2024-07-15,53,F,157,85.2,HIIT,109,High,43.2,152,7.4,4,5118,3.4,20.7,68.4,135.1,82.8,None,Never,10.51
+723,2024-07-16,53,F,157,85.5,Weight Training,83,Low,11.8,112,6.1,9,7055,2.1,20.7,68.4,135.1,82.8,None,Never,10.59
+723,2024-07-17,53,F,157,85.7,Weight Training,89,High,17.7,141,6.3,3,7281,3.3,20.7,68.4,135.1,82.8,None,Never,10.72
+723,2024-07-18,53,F,157,86.0,Weight Training,63,Medium,10.8,120,6.1,2,8122,3.0,20.7,68.4,135.1,82.8,None,Never,10.8
+723,2024-07-19,53,F,157,86.2,Weight Training,120,Medium,20.6,125,6.8,8,7125,1.7,20.7,68.4,135.1,82.8,None,Never,10.94
+723,2024-07-21,53,F,157,86.5,Weight Training,47,Medium,8.1,127,8.3,6,8593,2.9,20.7,68.4,135.1,82.8,None,Never,11.0
+723,2024-07-22,53,F,157,86.7,Weight Training,62,High,12.5,135,7.2,8,8159,2.6,20.7,68.4,135.1,82.8,None,Never,11.08
+723,2024-07-23,53,F,157,87.0,Weight Training,87,Low,12.6,111,7.2,3,6101,3.5,20.7,68.4,135.1,82.8,None,Never,11.17
+723,2024-07-25,53,F,157,87.3,Weight Training,47,Low,6.8,104,7.7,3,6710,2.0,20.7,68.4,135.1,82.8,None,Never,11.22
+723,2024-07-27,53,F,157,87.5,Weight Training,88,Medium,15.4,130,6.9,7,8915,3.0,20.7,68.4,135.1,82.8,None,Never,11.32
+723,2024-07-28,53,F,157,87.8,Running,22,Low,5.2,105,6.5,9,8763,2.7,20.7,68.4,135.1,82.8,None,Never,11.34
+723,2024-07-30,53,F,157,88.0,Running,31,Low,7.4,105,7.4,2,7654,3.0,20.7,68.4,135.1,82.8,None,Never,11.37

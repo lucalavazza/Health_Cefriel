@@ -1,0 +1,21 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+181,2024-06-01,38,F,159,82.0,Cycling,87,Medium,20.1,144,6.7,1,12796,3.2,21.6,69.4,127,70.6,Hypertension,Never,9.11
+181,2024-06-02,38,F,159,82.3,Weight Training,93,Medium,15.3,133,6.7,7,10211,3.3,21.6,69.4,127,70.6,Hypertension,Never,9.22
+181,2024-06-03,38,F,159,82.5,Swimming,72,High,16.1,162,5.8,6,9391,2.8,21.6,69.4,127,70.6,Hypertension,Never,9.32
+181,2024-06-05,38,F,159,82.8,Cycling,92,Medium,21.5,134,5.9,10,8121,2.3,21.6,69.4,127,70.6,Hypertension,Never,9.43
+181,2024-06-07,38,F,159,83.0,Running,99,High,31.2,145,8.4,2,8775,2.0,21.6,69.4,127,70.6,Hypertension,Never,9.57
+181,2024-06-08,38,F,159,83.3,Cycling,49,Medium,11.5,136,6.5,4,9487,2.2,21.6,69.4,127,70.6,Hypertension,Never,9.63
+181,2024-06-09,38,F,159,83.5,Dancing,79,Medium,12.1,130,6.1,7,10307,3.3,21.6,69.4,127,70.6,Hypertension,Never,9.72
+181,2024-06-10,38,F,159,83.8,Swimming,117,Low,19.0,123,7.5,7,8723,3.0,21.6,69.4,127,70.6,Hypertension,Never,9.84
+181,2024-06-12,38,F,159,84.1,Dancing,117,Low,15.0,124,7.6,5,8452,2.0,21.6,69.4,127,70.6,Hypertension,Never,9.95
+181,2024-06-13,38,F,159,84.3,Swimming,60,Medium,11.8,140,5.3,3,10021,2.5,21.6,69.4,127,70.6,Hypertension,Never,10.03
+181,2024-06-14,38,F,159,84.6,Swimming,105,Medium,20.7,144,7.4,6,8714,2.7,21.6,69.4,127,70.6,Hypertension,Never,10.15
+181,2024-06-18,38,F,159,84.8,Cycling,110,Low,22.0,114,8.6,5,11113,1.7,21.6,69.4,127,70.6,Hypertension,Never,10.26
+181,2024-06-19,38,F,159,85.1,Swimming,45,Medium,8.9,139,7.2,1,7307,2.7,21.6,69.4,127,70.6,Hypertension,Never,10.32
+181,2024-06-20,38,F,159,85.3,HIIT,68,Medium,23.1,136,5.6,10,10295,3.5,21.6,69.4,127,70.6,Hypertension,Never,10.4
+181,2024-06-22,38,F,159,85.6,HIIT,87,Low,24.7,120,8.1,7,8547,3.0,21.6,69.4,127,70.6,Hypertension,Never,10.48
+181,2024-06-23,38,F,159,85.9,Walking,29,Low,2.6,119,6.9,6,8797,1.9,21.6,69.4,127,70.6,Hypertension,Never,10.51
+181,2024-06-24,38,F,159,86.1,Walking,104,Low,9.4,114,7.6,6,8374,1.9,21.6,69.4,127,70.6,Hypertension,Never,10.62
+181,2024-06-25,38,F,159,86.4,Walking,112,Medium,12.2,129,6.9,7,7691,2.4,21.6,69.4,127,70.6,Hypertension,Never,10.75
+181,2024-06-29,38,F,159,86.6,Walking,120,Low,10.9,116,8.2,2,11476,1.5,21.6,69.4,127,70.6,Hypertension,Never,10.87
+181,2024-06-30,38,F,159,86.9,Walking,23,High,2.9,147,4.6,9,11025,2.3,21.6,69.4,127,70.6,Hypertension,Never,10.9

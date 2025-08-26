@@ -1,0 +1,22 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+2056,2024-01-01,36,M,167.9,60.1,Weight Training,22,Medium,2.6,133,6.1,7,7912,1.5,21.2,63.5,116.9,82.6,Hypertension,Former,0.03
+2056,2024-01-03,36,M,167.9,60.4,Weight Training,31,Medium,3.7,130,4.0,3,7225,2.3,21.2,63.5,116.9,82.6,Hypertension,Former,0.06
+2056,2024-01-04,36,M,167.9,60.7,Weight Training,69,Medium,8.3,147,7.8,4,8398,3.3,21.2,63.5,116.9,82.6,Hypertension,Former,0.15
+2056,2024-01-05,36,M,167.9,60.9,Weight Training,104,Medium,12.6,145,6.8,6,5277,1.9,21.2,63.5,116.9,82.6,Hypertension,Former,0.27
+2056,2024-01-06,36,M,167.9,61.2,Weight Training,60,High,8.5,140,8.1,2,8828,2.0,21.2,63.5,116.9,82.6,Hypertension,Former,0.36
+2056,2024-01-07,36,M,167.9,61.4,Weight Training,106,High,15.1,155,10.0,5,11461,2.0,21.2,63.5,116.9,82.6,Hypertension,Former,0.5
+2056,2024-01-08,36,M,167.9,61.7,Weight Training,54,Medium,6.6,138,5.3,3,6619,3.1,21.2,63.5,116.9,82.6,Hypertension,Former,0.57
+2056,2024-01-09,36,M,167.9,61.9,Weight Training,43,High,6.2,158,6.9,6,9600,2.6,21.2,63.5,116.9,82.6,Hypertension,Former,0.63
+2056,2024-01-11,36,M,167.9,62.2,Cycling,71,High,14.5,175,6.8,1,8709,1.6,21.2,63.5,116.9,82.6,Hypertension,Former,0.73
+2056,2024-01-14,36,M,167.9,62.5,Weight Training,107,High,15.5,157,6.2,4,8965,2.2,21.2,63.5,116.9,82.6,Hypertension,Former,0.88
+2056,2024-01-16,36,M,167.9,62.7,Cycling,107,Medium,18.9,141,6.5,8,8398,1.8,21.2,63.5,116.9,82.6,Hypertension,Former,1.01
+2056,2024-01-18,36,M,167.9,63.0,Cycling,100,Low,14.8,124,8.3,10,10949,1.8,21.2,63.5,116.9,82.6,Hypertension,Former,1.11
+2056,2024-01-19,36,M,167.9,63.2,Running,95,Medium,19.5,143,8.0,10,10689,1.8,21.2,63.5,116.9,82.6,Hypertension,Former,1.22
+2056,2024-01-22,36,M,167.9,63.5,Running,108,Medium,22.3,125,7.1,6,8319,3.3,21.2,63.5,116.9,82.6,Hypertension,Former,1.35
+2056,2024-01-23,36,M,167.9,63.8,Running,29,Medium,6.0,156,7.1,2,4515,2.3,21.2,63.5,116.9,82.6,Hypertension,Former,1.38
+2056,2024-01-24,36,M,167.9,64.0,Running,59,Medium,12.3,138,6.5,7,6976,2.5,21.2,63.5,116.9,82.6,Hypertension,Former,1.46
+2056,2024-01-25,36,M,167.9,64.3,Running,40,High,9.8,155,7.8,1,9695,2.3,21.2,63.5,116.9,82.6,Hypertension,Former,1.51
+2056,2024-01-26,36,M,167.9,64.5,Tennis,28,Low,3.6,122,6.4,2,8461,1.6,21.2,63.5,116.9,82.6,Hypertension,Former,1.54
+2056,2024-01-27,36,M,167.9,64.8,Tennis,82,High,15.0,152,5.9,9,10197,3.3,21.2,63.5,116.9,82.6,Hypertension,Former,1.65
+2056,2024-01-28,36,M,167.9,65.0,Tennis,31,Medium,4.9,137,6.0,2,10579,3.0,21.2,63.5,116.9,82.6,Hypertension,Former,1.69
+2056,2024-01-29,36,M,167.9,65.3,Tennis,22,Low,2.9,128,7.0,4,11091,3.4,21.2,63.5,116.9,82.6,Hypertension,Former,1.71

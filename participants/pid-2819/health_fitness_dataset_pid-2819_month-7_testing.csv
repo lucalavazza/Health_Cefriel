@@ -1,0 +1,17 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+2819,2024-07-02,21,M,172.7,103.1,Yoga,25,Medium,2.6,162,8.1,9,9449,3.1,23.7,64.8,115.8,82.3,Hypertension,Never,10.65
+2819,2024-07-04,21,M,172.7,103.3,Yoga,48,Low,4.1,131,4.4,2,7456,3.1,23.7,64.8,115.8,82.3,Hypertension,Never,10.7
+2819,2024-07-06,21,M,172.7,103.6,Yoga,72,Low,6.2,135,6.5,6,9005,1.8,23.7,64.8,115.8,82.3,Hypertension,Never,10.77
+2819,2024-07-08,21,M,172.7,103.9,Yoga,89,High,10.8,165,4.6,4,6675,2.9,23.7,64.8,115.8,82.3,Hypertension,Never,10.9
+2819,2024-07-10,21,M,172.7,104.1,Yoga,58,High,7.0,166,6.8,6,8346,1.9,23.7,64.8,115.8,82.3,Hypertension,Never,10.98
+2819,2024-07-12,21,M,172.7,104.4,Swimming,24,Low,4.9,124,6.9,1,6836,2.4,23.7,64.8,115.8,82.3,Hypertension,Never,11.0
+2819,2024-07-14,21,M,172.7,104.6,Dancing,85,Low,13.6,121,8.7,2,9803,1.9,23.7,64.8,115.8,82.3,Hypertension,Never,11.09
+2819,2024-07-16,21,M,172.7,104.9,Dancing,33,Medium,6.3,145,7.4,10,7828,2.5,23.7,64.8,115.8,82.3,Hypertension,Never,11.13
+2819,2024-07-18,21,M,172.7,105.2,Swimming,54,Medium,13.2,156,6.8,8,7340,2.8,23.7,64.8,115.8,82.3,Hypertension,Never,11.19
+2819,2024-07-19,21,M,172.7,105.4,Swimming,37,Low,7.6,127,7.6,5,10482,3.3,23.7,64.8,115.8,82.3,Hypertension,Never,11.23
+2819,2024-07-20,21,M,172.7,105.7,Dancing,75,High,16.9,157,8.3,9,10680,3.4,23.7,64.8,115.8,82.3,Hypertension,Never,11.34
+2819,2024-07-24,21,M,172.7,105.9,Running,60,Low,17.3,121,6.8,9,9548,2.1,23.7,64.8,115.8,82.3,Hypertension,Never,11.4
+2819,2024-07-25,21,M,172.7,106.2,Running,56,Medium,19.4,156,8.3,4,8627,2.5,23.7,64.8,115.8,82.3,Hypertension,Never,11.46
+2819,2024-07-27,21,M,172.7,106.4,Basketball,102,Low,24.1,129,6.7,4,6141,2.9,23.7,64.8,115.8,82.3,Hypertension,Never,11.56
+2819,2024-07-29,21,M,172.7,106.7,Basketball,47,Low,11.1,137,8.6,1,5188,1.9,23.7,64.8,115.8,82.3,Hypertension,Never,11.61
+2819,2024-07-31,21,M,172.7,107.0,Running,84,Medium,29.3,159,7.7,7,7469,2.3,23.7,64.8,115.8,82.3,Hypertension,Never,11.71

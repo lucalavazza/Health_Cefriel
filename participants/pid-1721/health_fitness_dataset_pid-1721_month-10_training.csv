@@ -1,0 +1,17 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+1721,2024-10-02,34,F,157,99.0,Cycling,96,Medium,26.9,145,6.0,8,5034,1.9,20.6,71.5,112.1,94.3,None,Former,15.68
+1721,2024-10-05,34,F,157,99.3,Weight Training,57,Low,9.4,121,6.4,6,7435,3.2,20.6,71.5,112.1,94.3,None,Former,15.73
+1721,2024-10-07,34,F,157,99.5,Walking,57,Low,6.0,120,7.9,3,4410,2.6,20.6,71.5,112.1,94.3,None,Former,15.79
+1721,2024-10-08,34,F,157,99.8,Walking,89,Medium,11.2,139,6.0,8,3906,2.7,20.6,71.5,112.1,94.3,None,Former,15.9
+1721,2024-10-09,34,F,157,100.1,Weight Training,28,Medium,5.6,142,5.2,10,7732,2.3,20.6,71.5,112.1,94.3,None,Former,15.93
+1721,2024-10-11,34,F,157,100.3,Walking,87,Low,9.2,120,8.4,2,6048,2.6,20.6,71.5,112.1,94.3,None,Former,16.02
+1721,2024-10-15,34,F,157,100.6,Yoga,99,High,11.6,149,7.0,5,6989,2.0,20.6,71.5,112.1,94.3,None,Former,16.16
+1721,2024-10-18,34,F,157,100.8,Weight Training,93,Low,15.6,114,7.5,9,7257,2.3,20.6,71.5,112.1,94.3,None,Former,16.25
+1721,2024-10-19,34,F,157,101.1,Walking,106,Medium,13.5,133,7.3,2,8387,2.4,20.6,71.5,112.1,94.3,None,Former,16.38
+1721,2024-10-21,34,F,157,101.4,Weight Training,32,Low,5.4,122,6.5,10,4127,1.8,20.6,71.5,112.1,94.3,None,Former,16.41
+1721,2024-10-23,34,F,157,101.6,Dancing,39,Medium,7.2,140,6.2,2,6465,1.7,20.6,71.5,112.1,94.3,None,Former,16.46
+1721,2024-10-24,34,F,157,101.9,HIIT,99,Medium,40.2,132,6.4,5,5576,2.2,20.6,71.5,112.1,94.3,None,Former,16.57
+1721,2024-10-26,34,F,157,102.1,HIIT,95,Medium,38.7,140,6.6,1,6387,1.8,20.6,71.5,112.1,94.3,None,Former,16.69
+1721,2024-10-27,34,F,157,102.4,Dancing,54,Low,8.4,117,7.7,5,10027,2.7,20.6,71.5,112.1,94.3,None,Former,16.74
+1721,2024-10-28,34,F,157,102.6,Dancing,106,Medium,19.9,142,6.1,3,7245,2.9,20.6,71.5,112.1,94.3,None,Former,16.87
+1721,2024-10-29,34,F,157,102.9,Basketball,63,High,20.1,151,7.1,6,7301,2.2,20.6,71.5,112.1,94.3,None,Former,16.96

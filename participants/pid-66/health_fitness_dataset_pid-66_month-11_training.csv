@@ -1,0 +1,16 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+66,2024-11-02,29,F,150.6,98.7,Cycling,25,Medium,7.0,151,6.5,10,6332,2.0,20.6,73.7,104.5,74.6,Hypertension,Never,16.45
+66,2024-11-03,29,F,150.6,98.9,Cycling,107,Medium,29.9,167,8.8,5,8465,1.9,20.6,73.7,104.5,74.6,Hypertension,Never,16.58
+66,2024-11-04,29,F,150.6,99.2,Cycling,22,Medium,6.2,141,6.8,5,5600,3.1,20.6,73.7,104.5,74.6,Hypertension,Never,16.61
+66,2024-11-05,29,F,150.6,99.5,Cycling,99,Medium,27.8,128,6.4,8,6732,3.2,20.6,73.7,104.5,74.6,Hypertension,Never,16.73
+66,2024-11-10,29,F,150.6,99.7,Cycling,83,Medium,23.4,152,5.6,10,8477,3.1,20.6,73.7,104.5,74.6,Hypertension,Never,16.83
+66,2024-11-11,29,F,150.6,100.0,HIIT,93,Medium,37.1,139,5.9,10,7498,1.8,20.6,73.7,104.5,74.6,Hypertension,Never,16.94
+66,2024-11-15,29,F,150.6,100.2,Cycling,58,Low,13.7,122,7.1,4,8513,2.8,20.6,73.7,104.5,74.6,Hypertension,Never,17.0
+66,2024-11-17,29,F,150.6,100.5,HIIT,25,Low,8.4,125,7.5,4,9938,3.2,20.6,73.7,104.5,74.6,Hypertension,Never,17.02
+66,2024-11-18,29,F,150.6,100.7,Cycling,68,Low,16.1,131,7.7,4,8110,2.7,20.6,73.7,104.5,74.6,Hypertension,Never,17.09
+66,2024-11-20,29,F,150.6,101.0,HIIT,83,Medium,33.4,152,8.0,2,5034,1.7,20.6,73.7,104.5,74.6,Hypertension,Never,17.19
+66,2024-11-24,29,F,150.6,101.3,HIIT,71,Medium,28.7,143,9.7,7,7478,2.0,20.6,73.7,104.5,74.6,Hypertension,Never,17.28
+66,2024-11-25,29,F,150.6,101.5,HIIT,51,Medium,20.7,135,7.8,4,4579,2.7,20.6,73.7,104.5,74.6,Hypertension,Never,17.34
+66,2024-11-27,29,F,150.6,101.8,HIIT,32,Medium,13.0,144,7.5,1,7238,3.1,20.6,73.7,104.5,74.6,Hypertension,Never,17.38
+66,2024-11-29,29,F,150.6,102.0,HIIT,92,High,43.7,176,5.4,8,4308,1.8,20.6,73.7,104.5,74.6,Hypertension,Never,17.5
+66,2024-11-30,29,F,150.6,102.3,HIIT,50,Medium,20.4,140,7.9,7,9084,1.6,20.6,73.7,104.5,74.6,Hypertension,Never,17.56

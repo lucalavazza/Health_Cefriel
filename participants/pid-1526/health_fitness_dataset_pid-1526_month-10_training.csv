@@ -1,0 +1,16 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+1526,2024-10-04,23,M,175.6,122.5,Basketball,112,High,42.6,172,7.7,2,7223,3.4,24.5,64.2,120.3,97.4,Asthma,Current,14.39
+1526,2024-10-08,23,M,175.6,122.7,Basketball,69,Medium,22.5,139,8.0,2,6149,2.1,24.5,64.2,120.3,97.4,Asthma,Current,14.47
+1526,2024-10-09,23,M,175.6,123.0,Basketball,81,Low,22.1,131,6.7,9,7971,3.0,24.5,64.2,120.3,97.4,Asthma,Current,14.55
+1526,2024-10-11,23,M,175.6,123.3,Dancing,33,Medium,7.4,148,6.8,7,4880,1.8,24.5,64.2,120.3,97.4,Asthma,Current,14.59
+1526,2024-10-12,23,M,175.6,123.5,Basketball,65,Low,17.8,124,7.4,7,5739,2.4,24.5,64.2,120.3,97.4,Asthma,Current,14.65
+1526,2024-10-15,23,M,175.6,123.8,Basketball,34,Medium,11.2,140,7.5,8,6283,2.8,24.5,64.2,120.3,97.4,Asthma,Current,14.7
+1526,2024-10-17,23,M,175.6,124.0,Tennis,54,Medium,16.3,139,6.9,6,6915,1.8,24.5,64.2,120.3,97.4,Asthma,Current,14.76
+1526,2024-10-19,23,M,175.6,124.3,Tennis,54,Medium,16.3,147,6.7,9,10282,2.0,24.5,64.2,120.3,97.4,Asthma,Current,14.82
+1526,2024-10-20,23,M,175.6,124.6,Basketball,93,Low,25.7,119,5.2,8,7643,2.6,24.5,64.2,120.3,97.4,Asthma,Current,14.92
+1526,2024-10-21,23,M,175.6,124.8,Walking,41,Medium,6.5,135,7.9,5,9713,1.5,24.5,64.2,120.3,97.4,Asthma,Current,14.97
+1526,2024-10-23,23,M,175.6,125.1,Tennis,72,Low,18.2,128,7.1,8,4463,1.7,24.5,64.2,120.3,97.4,Asthma,Current,15.04
+1526,2024-10-24,23,M,175.6,125.3,Basketball,32,Medium,10.7,149,7.4,6,6808,1.8,24.5,64.2,120.3,97.4,Asthma,Current,15.08
+1526,2024-10-26,23,M,175.6,125.6,Tennis,50,Low,12.7,129,7.6,3,8540,1.7,24.5,64.2,120.3,97.4,Asthma,Current,15.13
+1526,2024-10-28,23,M,175.6,125.8,Tennis,26,Medium,7.9,146,6.6,7,6049,2.6,24.5,64.2,120.3,97.4,Asthma,Current,15.16
+1526,2024-10-29,23,M,175.6,126.1,Swimming,101,High,34.6,164,8.4,7,6562,2.5,24.5,64.2,120.3,97.4,Asthma,Current,15.3

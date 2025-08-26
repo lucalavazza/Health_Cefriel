@@ -1,0 +1,17 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+520,2024-07-02,44,M,166.7,105.2,Cycling,47,High,16.3,176,7.0,2,7592,2.1,25.3,70.5,115.6,72.9,None,Former,11.35
+520,2024-07-05,44,M,166.7,105.4,Basketball,37,Medium,10.4,143,6.3,6,5750,2.8,25.3,70.5,115.6,72.9,None,Former,11.39
+520,2024-07-06,44,M,166.7,105.7,Cycling,51,High,17.8,140,8.0,8,8609,2.9,25.3,70.5,115.6,72.9,None,Former,11.46
+520,2024-07-07,44,M,166.7,105.9,Dancing,116,Medium,22.5,127,7.4,6,10871,1.9,25.3,70.5,115.6,72.9,None,Former,11.6
+520,2024-07-10,44,M,166.7,106.2,Dancing,26,High,5.9,150,6.6,8,8663,3.3,25.3,70.5,115.6,72.9,None,Former,11.64
+520,2024-07-11,44,M,166.7,106.4,Walking,103,Medium,13.9,124,6.7,3,8214,2.5,25.3,70.5,115.6,72.9,None,Former,11.76
+520,2024-07-12,44,M,166.7,106.7,Walking,97,Medium,13.1,126,7.4,10,9505,2.0,25.3,70.5,115.6,72.9,None,Former,11.88
+520,2024-07-15,44,M,166.7,107.0,Dancing,117,Low,19.1,120,7.2,6,6209,1.9,25.3,70.5,115.6,72.9,None,Former,12.0
+520,2024-07-16,44,M,166.7,107.2,Walking,63,Medium,8.5,149,5.9,8,7053,1.6,25.3,70.5,115.6,72.9,None,Former,12.07
+520,2024-07-20,44,M,166.7,107.5,Walking,99,High,15.7,160,8.0,7,6949,2.7,25.3,70.5,115.6,72.9,None,Former,12.21
+520,2024-07-21,44,M,166.7,107.7,Weight Training,110,Medium,23.6,145,7.8,2,9463,3.4,25.3,70.5,115.6,72.9,None,Former,12.34
+520,2024-07-22,44,M,166.7,108.0,Walking,40,Medium,5.5,133,7.3,1,5892,1.6,25.3,70.5,115.6,72.9,None,Former,12.39
+520,2024-07-25,44,M,166.7,108.3,Walking,30,High,4.8,160,5.6,8,10313,2.8,25.3,70.5,115.6,72.9,None,Former,12.43
+520,2024-07-26,44,M,166.7,108.5,Weight Training,87,Low,15.7,113,5.7,4,8431,1.9,25.3,70.5,115.6,72.9,None,Former,12.52
+520,2024-07-30,44,M,166.7,108.8,Weight Training,63,Medium,13.7,123,9.6,5,9667,2.9,25.3,70.5,115.6,72.9,None,Former,12.6
+520,2024-07-31,44,M,166.7,109.0,Cycling,81,Medium,25.0,134,9.4,2,7110,2.9,25.3,70.5,115.6,72.9,None,Former,12.69

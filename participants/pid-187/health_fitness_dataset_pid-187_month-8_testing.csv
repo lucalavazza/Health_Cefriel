@@ -1,0 +1,17 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+187,2024-08-03,45,F,167.7,110.5,HIIT,74,Low,27.2,114,6.5,7,10092,3.1,25,73.6,118.9,89.7,None,Current,12.6
+187,2024-08-06,45,F,167.7,110.8,Dancing,104,Low,17.6,109,5.5,3,6902,2.1,25,73.6,118.9,89.7,None,Current,12.7
+187,2024-08-07,45,F,167.7,111.0,Running,94,Low,28.3,110,6.1,3,6237,2.0,25,73.6,118.9,89.7,None,Current,12.79
+187,2024-08-08,45,F,167.7,111.3,Running,72,Medium,26.1,131,6.2,8,11961,2.3,25,73.6,118.9,89.7,None,Current,12.88
+187,2024-08-09,45,F,167.7,111.6,Running,73,High,31.0,143,6.6,1,5431,2.9,25,73.6,118.9,89.7,None,Current,12.98
+187,2024-08-10,45,F,167.7,111.8,Running,52,High,22.1,142,6.3,8,5039,2.9,25,73.6,118.9,89.7,None,Current,13.05
+187,2024-08-11,45,F,167.7,112.1,Running,70,Low,21.3,115,7.1,7,8626,1.6,25,73.6,118.9,89.7,None,Current,13.12
+187,2024-08-12,45,F,167.7,112.3,Running,96,Medium,35.1,138,8.1,7,5417,3.5,25,73.6,118.9,89.7,None,Current,13.24
+187,2024-08-18,45,F,167.7,112.6,Running,57,Low,17.4,99,6.3,4,6409,3.1,25,73.6,118.9,89.7,None,Current,13.3
+187,2024-08-22,45,F,167.7,112.8,HIIT,47,Medium,21.2,119,6.8,2,10907,2.3,25,73.6,118.9,89.7,None,Current,13.35
+187,2024-08-25,45,F,167.7,113.1,HIIT,118,Low,44.4,122,8.3,4,7667,2.0,25,73.6,118.9,89.7,None,Current,13.47
+187,2024-08-26,45,F,167.7,113.3,Basketball,93,Medium,28.0,144,8.1,3,7492,2.6,25,73.6,118.9,89.7,None,Current,13.58
+187,2024-08-27,45,F,167.7,113.6,Weight Training,117,Medium,26.5,135,7.0,5,5752,2.3,25,73.6,118.9,89.7,None,Current,13.72
+187,2024-08-28,45,F,167.7,113.9,Basketball,119,Medium,36.0,122,6.1,6,6226,1.7,25,73.6,118.9,89.7,None,Current,13.87
+187,2024-08-29,45,F,167.7,114.1,Dancing,64,High,15.6,171,6.5,4,5563,2.5,25,73.6,118.9,89.7,None,Current,13.96
+187,2024-08-30,45,F,167.7,114.4,Weight Training,27,Medium,6.2,130,7.1,5,5728,2.4,25,73.6,118.9,89.7,None,Current,13.99

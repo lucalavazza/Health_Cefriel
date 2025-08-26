@@ -1,0 +1,27 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+663,2024-01-01,57,F,157.2,57.1,Weight Training,105,Low,10.0,105,6.2,8,6901,2.9,23,70.1,120.2,96.5,Hypertension,Former,0.1
+663,2024-01-02,57,F,157.2,57.4,Weight Training,100,Low,9.5,106,7.9,2,9429,2.7,23,70.1,120.2,96.5,Hypertension,Former,0.2
+663,2024-01-04,57,F,157.2,57.6,Weight Training,47,Medium,5.4,115,7.2,1,7548,2.6,23,70.1,120.2,96.5,Hypertension,Former,0.26
+663,2024-01-05,57,F,157.2,57.9,Yoga,50,Medium,2.9,116,7.4,9,9189,3.0,23,70.1,120.2,96.5,Hypertension,Former,0.32
+663,2024-01-07,57,F,157.2,58.2,Tennis,61,Medium,8.6,129,8.9,5,6928,2.4,23,70.1,120.2,96.5,Hypertension,Former,0.39
+663,2024-01-08,57,F,157.2,58.4,Tennis,76,Medium,10.8,106,6.8,10,7951,3.4,23,70.1,120.2,96.5,Hypertension,Former,0.49
+663,2024-01-09,57,F,157.2,58.7,Tennis,70,Medium,10.0,123,8.1,9,3758,1.7,23,70.1,120.2,96.5,Hypertension,Former,0.57
+663,2024-01-10,57,F,157.2,58.9,HIIT,86,Medium,20.2,100,6.1,2,7144,1.6,23,70.1,120.2,96.5,Hypertension,Former,0.67
+663,2024-01-12,57,F,157.2,59.2,HIIT,20,Low,3.9,109,8.4,3,8545,3.4,23,70.1,120.2,96.5,Hypertension,Former,0.69
+663,2024-01-13,57,F,157.2,59.5,Swimming,30,Medium,4.1,123,7.2,7,9529,3.5,23,70.1,120.2,96.5,Hypertension,Former,0.73
+663,2024-01-14,57,F,157.2,59.7,HIIT,27,Medium,6.4,115,7.8,8,9989,3.3,23,70.1,120.2,96.5,Hypertension,Former,0.76
+663,2024-01-15,57,F,157.2,60.0,Swimming,59,Low,6.9,103,7.3,5,6593,3.0,23,70.1,120.2,96.5,Hypertension,Former,0.82
+663,2024-01-16,57,F,157.2,60.2,Swimming,85,Medium,11.9,121,6.8,1,7810,2.7,23,70.1,120.2,96.5,Hypertension,Former,0.92
+663,2024-01-17,57,F,157.2,60.5,Swimming,114,Low,13.4,104,7.9,4,9191,2.2,23,70.1,120.2,96.5,Hypertension,Former,1.04
+663,2024-01-18,57,F,157.2,60.7,Swimming,48,Low,5.6,105,7.5,6,9622,2.2,23,70.1,120.2,96.5,Hypertension,Former,1.08
+663,2024-01-19,57,F,157.2,61.0,Swimming,106,Medium,15.0,130,8.8,4,6701,1.7,23,70.1,120.2,96.5,Hypertension,Former,1.21
+663,2024-01-20,57,F,157.2,61.3,Swimming,51,Medium,7.3,120,8.5,4,12721,2.2,23,70.1,120.2,96.5,Hypertension,Former,1.27
+663,2024-01-21,57,F,157.2,61.5,HIIT,62,Medium,15.2,129,6.8,6,8100,2.3,23,70.1,120.2,96.5,Hypertension,Former,1.35
+663,2024-01-22,57,F,157.2,61.8,Swimming,47,High,7.9,145,5.9,7,9304,3.3,23,70.1,120.2,96.5,Hypertension,Former,1.41
+663,2024-01-23,57,F,157.2,62.0,Basketball,90,Medium,14.8,117,7.3,7,5939,2.1,23,70.1,120.2,96.5,Hypertension,Former,1.52
+663,2024-01-24,57,F,157.2,62.3,Basketball,90,Low,12.4,100,8.4,9,8107,2.6,23,70.1,120.2,96.5,Hypertension,Former,1.61
+663,2024-01-26,57,F,157.2,62.6,Basketball,93,Low,12.9,102,7.5,5,10793,2.4,23,70.1,120.2,96.5,Hypertension,Former,1.7
+663,2024-01-28,57,F,157.2,62.8,Basketball,116,Medium,19.4,136,7.1,4,12583,3.4,23,70.1,120.2,96.5,Hypertension,Former,1.84
+663,2024-01-29,57,F,157.2,63.1,Basketball,119,Low,16.6,104,6.2,4,8989,1.8,23,70.1,120.2,96.5,Hypertension,Former,1.96
+663,2024-01-30,57,F,157.2,63.3,Basketball,45,Medium,7.6,129,6.2,2,7400,2.5,23,70.1,120.2,96.5,Hypertension,Former,2.02
+663,2024-01-31,57,F,157.2,63.6,Basketball,88,High,17.3,153,8.9,9,9451,2.5,23,70.1,120.2,96.5,Hypertension,Former,2.14

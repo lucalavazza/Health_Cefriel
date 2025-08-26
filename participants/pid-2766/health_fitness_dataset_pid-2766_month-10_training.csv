@@ -1,0 +1,16 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+2766,2024-10-01,30,M,180.8,126.7,Cycling,26,High,10.9,161,6.7,2,4069,1.9,24.5,69.7,132.4,73.1,Asthma,Never,14.97
+2766,2024-10-02,30,M,180.8,126.9,Cycling,102,High,42.7,169,6.9,1,7842,2.1,24.5,69.7,132.4,73.1,Asthma,Never,15.12
+2766,2024-10-03,30,M,180.8,127.2,Cycling,68,Low,20.4,121,7.3,2,3766,3.5,24.5,69.7,132.4,73.1,Asthma,Never,15.18
+2766,2024-10-04,30,M,180.8,127.4,Cycling,21,High,8.8,150,7.1,7,6402,3.0,24.5,69.7,132.4,73.1,Asthma,Never,15.21
+2766,2024-10-05,30,M,180.8,127.7,Swimming,97,Medium,28.8,151,7.8,2,7960,1.7,24.5,69.7,132.4,73.1,Asthma,Never,15.33
+2766,2024-10-09,30,M,180.8,128.0,Dancing,79,Medium,18.5,152,5.6,7,7653,3.2,24.5,69.7,132.4,73.1,Asthma,Never,15.42
+2766,2024-10-10,30,M,180.8,128.2,Swimming,107,Medium,31.9,142,6.0,6,7724,2.8,24.5,69.7,132.4,73.1,Asthma,Never,15.55
+2766,2024-10-12,30,M,180.8,128.5,Tennis,109,High,39.7,135,6.2,8,8711,3.0,24.5,69.7,132.4,73.1,Asthma,Never,15.71
+2766,2024-10-16,30,M,180.8,128.7,Tennis,83,Medium,25.9,138,4.9,7,5854,2.3,24.5,69.7,132.4,73.1,Asthma,Never,15.81
+2766,2024-10-17,30,M,180.8,129.0,Swimming,98,High,34.3,158,5.7,6,7215,1.8,24.5,69.7,132.4,73.1,Asthma,Never,15.94
+2766,2024-10-20,30,M,180.8,129.2,Swimming,77,Low,19.3,118,8.2,7,6840,2.7,24.5,69.7,132.4,73.1,Asthma,Never,16.02
+2766,2024-10-21,30,M,180.8,129.5,Swimming,114,Low,28.6,124,8.2,4,3797,2.9,24.5,69.7,132.4,73.1,Asthma,Never,16.13
+2766,2024-10-24,30,M,180.8,129.7,Swimming,89,Low,22.4,127,7.0,10,4816,3.4,24.5,69.7,132.4,73.1,Asthma,Never,16.22
+2766,2024-10-25,30,M,180.8,130.0,Basketball,67,Low,19.3,124,6.1,7,6621,2.9,24.5,69.7,132.4,73.1,Asthma,Never,16.29
+2766,2024-10-27,30,M,180.8,130.3,Basketball,57,Low,16.5,119,6.2,6,8869,1.9,24.5,69.7,132.4,73.1,Asthma,Never,16.35

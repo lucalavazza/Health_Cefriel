@@ -1,0 +1,17 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+1007,2024-01-01,25,F,159,57.4,Yoga,102,Medium,5.8,140,7.3,8,8282,3.2,22.6,66.5,124.7,83.1,Hypertension,Never,0.12
+1007,2024-01-03,25,F,159,57.7,Yoga,41,Medium,2.4,156,7.4,8,9813,2.5,22.6,66.5,124.7,83.1,Hypertension,Never,0.17
+1007,2024-01-04,25,F,159,57.9,Yoga,60,Low,2.9,139,7.3,1,6322,3.4,22.6,66.5,124.7,83.1,Hypertension,Never,0.23
+1007,2024-01-06,25,F,159,58.2,Yoga,113,Low,5.5,128,7.5,6,9601,2.3,22.6,66.5,124.7,83.1,Hypertension,Never,0.34
+1007,2024-01-07,25,F,159,58.4,Yoga,20,High,1.4,165,8.0,8,9471,3.1,22.6,66.5,124.7,83.1,Hypertension,Never,0.37
+1007,2024-01-11,25,F,159,58.7,Cycling,104,Medium,17.2,148,8.0,7,8533,2.0,22.6,66.5,124.7,83.1,Hypertension,Never,0.5
+1007,2024-01-13,25,F,159,59.0,Running,92,High,20.6,168,7.1,6,12822,3.2,22.6,66.5,124.7,83.1,Hypertension,Never,0.63
+1007,2024-01-14,25,F,159,59.2,Cycling,27,Low,3.8,113,7.9,7,7705,2.6,22.6,66.5,124.7,83.1,Hypertension,Never,0.65
+1007,2024-01-15,25,F,159,59.5,Running,60,Low,9.7,129,5.9,10,9027,3.3,22.6,66.5,124.7,83.1,Hypertension,Never,0.71
+1007,2024-01-19,25,F,159,59.7,Running,103,Medium,20.0,152,8.3,4,6879,3.0,22.6,66.5,124.7,83.1,Hypertension,Never,0.84
+1007,2024-01-21,25,F,159,60.0,Cycling,56,High,11.1,181,6.5,10,10140,2.5,22.6,66.5,124.7,83.1,Hypertension,Never,0.92
+1007,2024-01-22,25,F,159,60.2,Running,90,High,20.6,167,7.0,8,7306,2.3,22.6,66.5,124.7,83.1,Hypertension,Never,1.04
+1007,2024-01-23,25,F,159,60.5,HIIT,25,Medium,6.0,138,6.6,10,6817,3.5,22.6,66.5,124.7,83.1,Hypertension,Never,1.07
+1007,2024-01-25,25,F,159,60.8,Tennis,58,High,10.0,155,6.7,1,10477,3.5,22.6,66.5,124.7,83.1,Hypertension,Never,1.15
+1007,2024-01-26,25,F,159,61.0,HIIT,112,Low,22.7,124,7.2,2,8688,2.0,22.6,66.5,124.7,83.1,Hypertension,Never,1.26
+1007,2024-01-27,25,F,159,61.3,Dancing,112,Medium,12.5,152,6.9,2,7518,2.9,22.6,66.5,124.7,83.1,Hypertension,Never,1.4

@@ -1,0 +1,17 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+2592,2024-07-01,43,F,168.5,96.2,Walking,34,Medium,4.1,117,5.8,7,9205,3.4,22.2,67.6,129.9,78.1,Diabetes,Current,9.99
+2592,2024-07-02,43,F,168.5,96.4,Tennis,80,Medium,18.7,127,5.5,4,7766,1.6,22.2,67.6,129.9,78.1,Diabetes,Current,10.09
+2592,2024-07-03,43,F,168.5,96.7,Walking,32,Medium,3.9,117,8.8,1,8183,3.2,22.2,67.6,129.9,78.1,Diabetes,Current,10.13
+2592,2024-07-04,43,F,168.5,97.0,Tennis,74,High,20.3,148,7.6,9,5987,1.7,22.2,67.6,129.9,78.1,Diabetes,Current,10.23
+2592,2024-07-08,43,F,168.5,97.2,Tennis,21,Low,4.1,116,6.8,9,7021,3.3,22.2,67.6,129.9,78.1,Diabetes,Current,10.25
+2592,2024-07-09,43,F,168.5,97.5,Tennis,63,Low,12.4,109,7.0,8,7840,2.9,22.2,67.6,129.9,78.1,Diabetes,Current,10.31
+2592,2024-07-10,43,F,168.5,97.7,Tennis,54,Medium,12.8,127,9.2,8,8198,3.1,22.2,67.6,129.9,78.1,Diabetes,Current,10.38
+2592,2024-07-11,43,F,168.5,98.0,Tennis,98,Medium,23.3,131,7.5,7,5805,2.6,22.2,67.6,129.9,78.1,Diabetes,Current,10.5
+2592,2024-07-12,43,F,168.5,98.2,Tennis,76,Medium,18.1,145,8.1,3,7224,2.7,22.2,67.6,129.9,78.1,Diabetes,Current,10.59
+2592,2024-07-13,43,F,168.5,98.5,Tennis,33,Medium,7.9,135,6.8,3,11207,2.6,22.2,67.6,129.9,78.1,Diabetes,Current,10.63
+2592,2024-07-14,43,F,168.5,98.8,Tennis,110,Medium,26.4,121,6.6,7,7449,2.1,22.2,67.6,129.9,78.1,Diabetes,Current,10.76
+2592,2024-07-20,43,F,168.5,99.0,Swimming,79,High,21.2,146,6.9,4,8688,1.5,22.2,67.6,129.9,78.1,Diabetes,Current,10.87
+2592,2024-07-21,43,F,168.5,99.3,Tennis,117,Medium,28.2,124,5.9,7,9838,2.5,22.2,67.6,129.9,78.1,Diabetes,Current,11.01
+2592,2024-07-27,43,F,168.5,99.5,Swimming,69,Low,13.3,114,7.2,10,7628,1.5,22.2,67.6,129.9,78.1,Diabetes,Current,11.08
+2592,2024-07-30,43,F,168.5,99.8,Basketball,89,High,27.6,166,5.7,3,4692,1.9,22.2,67.6,129.9,78.1,Diabetes,Current,11.2
+2592,2024-07-31,43,F,168.5,100.0,Yoga,23,Medium,2.3,129,7.0,1,9287,1.9,22.2,67.6,129.9,78.1,Diabetes,Current,11.23

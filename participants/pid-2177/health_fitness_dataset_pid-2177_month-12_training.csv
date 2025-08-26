@@ -1,0 +1,17 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+2177,2024-12-01,53,M,172.8,117.5,Running,98,Medium,37.5,129,7.1,8,7822,2.7,21,66,117.9,86.3,Diabetes,Current,17.8
+2177,2024-12-03,53,M,172.8,117.7,Cycling,107,Medium,35.6,106,9.0,7,8600,1.6,21,66,117.9,86.3,Diabetes,Current,17.92
+2177,2024-12-05,53,M,172.8,118.0,Cycling,83,Medium,27.7,110,7.1,2,10602,2.1,21,66,117.9,86.3,Diabetes,Current,18.02
+2177,2024-12-07,53,M,172.8,118.3,Running,80,High,36.0,156,7.4,8,14538,2.0,21,66,117.9,86.3,Diabetes,Current,18.14
+2177,2024-12-08,53,M,172.8,118.5,Cycling,64,Medium,21.4,129,6.2,2,12532,3.2,21,66,117.9,86.3,Diabetes,Current,18.21
+2177,2024-12-09,53,M,172.8,118.8,Walking,72,Low,9.0,103,7.6,3,8796,3.5,21,66,117.9,86.3,Diabetes,Current,18.28
+2177,2024-12-10,53,M,172.8,119.0,Weight Training,82,Medium,19.5,104,6.8,5,7189,2.6,21,66,117.9,86.3,Diabetes,Current,18.38
+2177,2024-12-11,53,M,172.8,119.3,Cycling,81,Low,22.8,107,8.1,6,8014,1.9,21,66,117.9,86.3,Diabetes,Current,18.46
+2177,2024-12-12,53,M,172.8,119.5,Walking,50,Medium,7.6,115,7.9,9,5547,2.8,21,66,117.9,86.3,Diabetes,Current,18.52
+2177,2024-12-15,53,M,172.8,119.8,Cycling,48,Medium,16.3,129,5.9,5,11104,1.7,21,66,117.9,86.3,Diabetes,Current,18.58
+2177,2024-12-16,53,M,172.8,120.1,HIIT,51,Medium,24.4,117,7.2,7,7357,2.6,21,66,117.9,86.3,Diabetes,Current,18.64
+2177,2024-12-17,53,M,172.8,120.3,Cycling,56,Medium,19.0,124,7.0,8,8718,2.8,21,66,117.9,86.3,Diabetes,Current,18.71
+2177,2024-12-20,53,M,172.8,120.6,HIIT,89,Medium,42.8,131,7.6,3,9654,3.5,21,66,117.9,86.3,Diabetes,Current,18.82
+2177,2024-12-21,53,M,172.8,120.8,HIIT,57,Medium,27.5,148,8.8,4,9133,2.5,21,66,117.9,86.3,Diabetes,Current,18.88
+2177,2024-12-23,53,M,172.8,121.1,Cycling,95,High,37.9,142,8.0,3,6464,2.2,21,66,117.9,86.3,Diabetes,Current,19.02
+2177,2024-12-24,53,M,172.8,121.3,Cycling,37,High,14.8,142,7.2,5,8713,3.3,21,66,117.9,86.3,Diabetes,Current,19.07

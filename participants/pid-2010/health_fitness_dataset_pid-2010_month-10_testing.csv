@@ -1,0 +1,17 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+2010,2024-10-01,61,M,168.5,120.3,Running,76,Low,24.8,106,7.7,9,6271,3.3,25.8,62.5,135.9,76.4,None,Current,14.92
+2010,2024-10-05,61,M,168.5,120.5,HIIT,30,Medium,14.4,116,9.4,10,7869,2.5,25.8,62.5,135.9,76.4,None,Current,14.96
+2010,2024-10-06,61,M,168.5,120.8,Weight Training,115,Low,23.1,94,7.6,6,6514,1.7,25.8,62.5,135.9,76.4,None,Current,15.07
+2010,2024-10-07,61,M,168.5,121.1,Swimming,55,Low,12.9,101,5.2,3,5676,1.8,25.8,62.5,135.9,76.4,None,Current,15.13
+2010,2024-10-09,61,M,168.5,121.3,Weight Training,48,High,13.6,127,8.6,5,7942,2.4,25.8,62.5,135.9,76.4,None,Current,15.2
+2010,2024-10-12,61,M,168.5,121.6,Walking,62,Medium,9.5,120,6.5,4,8670,1.6,25.8,62.5,135.9,76.4,None,Current,15.27
+2010,2024-10-14,61,M,168.5,121.8,Weight Training,92,Medium,22.4,134,7.3,7,7186,3.3,25.8,62.5,135.9,76.4,None,Current,15.38
+2010,2024-10-15,61,M,168.5,122.1,Walking,45,Medium,6.9,113,8.9,4,6855,2.1,25.8,62.5,135.9,76.4,None,Current,15.44
+2010,2024-10-16,61,M,168.5,122.3,Walking,120,Medium,18.6,118,6.3,6,5155,3.1,25.8,62.5,135.9,76.4,None,Current,15.58
+2010,2024-10-17,61,M,168.5,122.6,Swimming,69,Medium,19.7,128,7.3,3,6995,1.7,25.8,62.5,135.9,76.4,None,Current,15.66
+2010,2024-10-22,61,M,168.5,122.9,Walking,82,Low,10.6,104,8.0,4,7328,1.7,25.8,62.5,135.9,76.4,None,Current,15.74
+2010,2024-10-23,61,M,168.5,123.1,Walking,31,Medium,4.8,136,6.6,3,9336,3.3,25.8,62.5,135.9,76.4,None,Current,15.78
+2010,2024-10-27,61,M,168.5,123.4,Walking,35,Low,4.5,101,7.8,4,7626,2.7,25.8,62.5,135.9,76.4,None,Current,15.82
+2010,2024-10-28,61,M,168.5,123.6,Walking,77,High,14.0,123,7.0,2,5156,2.0,25.8,62.5,135.9,76.4,None,Current,15.92
+2010,2024-10-29,61,M,168.5,123.9,Walking,54,Low,7.0,104,7.6,6,5868,1.9,25.8,62.5,135.9,76.4,None,Current,15.98
+2010,2024-10-30,61,M,168.5,124.2,Cycling,47,High,19.2,148,6.3,1,5437,3.2,25.8,62.5,135.9,76.4,None,Current,16.04

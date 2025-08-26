@@ -1,0 +1,17 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+1550,2024-10-03,32,M,171.9,106.4,Running,78,High,31.5,157,7.1,2,5220,3.1,20.6,75.5,99,81.3,Asthma,Never,14.6
+1550,2024-10-04,32,M,171.9,106.6,Dancing,59,Medium,11.5,135,7.2,8,5683,3.5,20.6,75.5,99,81.3,Asthma,Never,14.67
+1550,2024-10-05,32,M,171.9,106.9,Running,117,High,47.5,168,6.8,2,10387,2.0,20.6,75.5,99,81.3,Asthma,Never,14.83
+1550,2024-10-06,32,M,171.9,107.1,Running,86,Low,25.0,120,8.0,1,11179,3.3,20.6,75.5,99,81.3,Asthma,Never,14.92
+1550,2024-10-11,32,M,171.9,107.4,Running,66,Medium,23.1,149,8.2,7,9503,3.1,20.6,75.5,99,81.3,Asthma,Never,15.0
+1550,2024-10-15,32,M,171.9,107.7,Running,87,Low,25.4,122,7.7,3,5557,1.7,20.6,75.5,99,81.3,Asthma,Never,15.09
+1550,2024-10-18,32,M,171.9,107.9,Running,73,Medium,25.7,138,6.5,4,5359,2.3,20.6,75.5,99,81.3,Asthma,Never,15.17
+1550,2024-10-19,32,M,171.9,108.2,Running,102,High,41.9,136,8.4,2,6697,2.1,20.6,75.5,99,81.3,Asthma,Never,15.32
+1550,2024-10-20,32,M,171.9,108.4,Running,112,High,46.2,161,7.4,2,9067,2.6,20.6,75.5,99,81.3,Asthma,Never,15.47
+1550,2024-10-21,32,M,171.9,108.7,Running,62,Medium,22.0,139,6.0,8,5083,3.4,20.6,75.5,99,81.3,Asthma,Never,15.55
+1550,2024-10-24,32,M,171.9,108.9,Running,106,Low,31.4,120,6.8,1,7964,2.4,20.6,75.5,99,81.3,Asthma,Never,15.65
+1550,2024-10-26,32,M,171.9,109.2,Running,23,Low,6.8,138,8.0,7,7965,2.0,20.6,75.5,99,81.3,Asthma,Never,15.68
+1550,2024-10-27,32,M,171.9,109.4,Yoga,81,Medium,8.8,136,8.2,8,7438,2.5,20.6,75.5,99,81.3,Asthma,Never,15.77
+1550,2024-10-28,32,M,171.9,109.7,Running,62,Medium,22.2,142,7.2,4,6798,2.2,20.6,75.5,99,81.3,Asthma,Never,15.85
+1550,2024-10-29,32,M,171.9,110.0,Walking,77,High,12.5,158,6.2,7,8373,3.0,20.6,75.5,99,81.3,Asthma,Never,15.96
+1550,2024-10-30,32,M,171.9,110.2,Running,40,Medium,14.4,137,6.6,6,4784,2.1,20.6,75.5,99,81.3,Asthma,Never,16.0

@@ -1,0 +1,21 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+92,2024-01-01,34,F,169.7,49.6,HIIT,72,Low,11.8,120,7.8,9,8346,2.4,17.1,65.5,120.8,83.2,Hypertension,Never,0.07
+92,2024-01-02,34,F,169.7,49.9,HIIT,80,Medium,15.9,142,7.5,5,7853,3.0,17.1,65.5,120.8,83.2,Hypertension,Never,0.17
+92,2024-01-03,34,F,169.7,50.1,HIIT,106,Medium,21.1,149,5.5,10,8478,2.1,17.1,65.5,120.8,83.2,Hypertension,Never,0.3
+92,2024-01-04,34,F,169.7,50.4,HIIT,30,Medium,6.0,149,6.9,10,5437,2.2,17.1,65.5,120.8,83.2,Hypertension,Never,0.33
+92,2024-01-06,34,F,169.7,50.6,HIIT,39,Low,6.5,117,6.4,8,9817,2.7,17.1,65.5,120.8,83.2,Hypertension,Never,0.37
+92,2024-01-08,34,F,169.7,50.9,Cycling,32,Medium,4.6,137,6.2,5,8850,1.6,17.1,65.5,120.8,83.2,Hypertension,Never,0.41
+92,2024-01-10,34,F,169.7,51.2,Running,110,Low,15.2,128,7.8,4,7676,2.7,17.1,65.5,120.8,83.2,Hypertension,Never,0.52
+92,2024-01-11,34,F,169.7,51.4,Walking,112,Medium,7.3,135,6.9,2,7969,2.0,17.1,65.5,120.8,83.2,Hypertension,Never,0.65
+92,2024-01-12,34,F,169.7,51.7,Cycling,88,Low,10.7,125,5.7,10,8463,3.4,17.1,65.5,120.8,83.2,Hypertension,Never,0.74
+92,2024-01-13,34,F,169.7,51.9,Tennis,82,Low,8.6,129,6.8,10,11338,2.3,17.1,65.5,120.8,83.2,Hypertension,Never,0.82
+92,2024-01-14,34,F,169.7,52.2,Tennis,27,Medium,3.4,147,6.7,3,9376,2.7,17.1,65.5,120.8,83.2,Hypertension,Never,0.86
+92,2024-01-16,34,F,169.7,52.4,Cycling,58,Medium,8.6,146,7.9,5,8273,3.1,17.1,65.5,120.8,83.2,Hypertension,Never,0.92
+92,2024-01-19,34,F,169.7,52.7,Walking,110,Low,6.1,121,5.5,1,9963,1.6,17.1,65.5,120.8,83.2,Hypertension,Never,1.03
+92,2024-01-22,34,F,169.7,53.0,Running,81,Medium,13.9,130,7.2,5,5450,1.8,17.1,65.5,120.8,83.2,Hypertension,Never,1.13
+92,2024-01-24,34,F,169.7,53.2,Cycling,29,Medium,4.4,138,6.7,5,12037,1.6,17.1,65.5,120.8,83.2,Hypertension,Never,1.17
+92,2024-01-25,34,F,169.7,53.5,HIIT,92,Medium,19.6,133,7.8,7,7555,2.4,17.1,65.5,120.8,83.2,Hypertension,Never,1.28
+92,2024-01-26,34,F,169.7,53.7,Running,35,Medium,6.1,138,6.7,2,5867,1.6,17.1,65.5,120.8,83.2,Hypertension,Never,1.32
+92,2024-01-29,34,F,169.7,54.0,HIIT,120,High,30.1,170,6.1,7,9529,2.3,17.1,65.5,120.8,83.2,Hypertension,Never,1.49
+92,2024-01-30,34,F,169.7,54.3,Weight Training,114,Low,10.3,122,8.6,8,7957,2.7,17.1,65.5,120.8,83.2,Hypertension,Never,1.6
+92,2024-01-31,34,F,169.7,54.5,Weight Training,85,Medium,9.2,114,7.9,10,11298,3.2,17.1,65.5,120.8,83.2,Hypertension,Never,1.7

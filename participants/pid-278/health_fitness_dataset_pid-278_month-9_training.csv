@@ -1,0 +1,17 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+278,2024-09-01,39,M,182.2,127.5,Running,83,Low,28.7,115,8.8,7,8836,2.5,25.8,74.2,115.3,89.3,Diabetes,Former,13.13
+278,2024-09-02,39,M,182.2,127.7,Running,33,Medium,13.7,140,6.5,3,7732,3.1,25.8,74.2,115.3,89.3,Diabetes,Former,13.17
+278,2024-09-03,39,M,182.2,128.0,Running,21,Medium,8.8,137,7.6,4,5110,2.8,25.8,74.2,115.3,89.3,Diabetes,Former,13.2
+278,2024-09-06,39,M,182.2,128.2,Running,83,Low,28.9,116,6.8,3,7115,3.3,25.8,74.2,115.3,89.3,Diabetes,Former,13.28
+278,2024-09-07,39,M,182.2,128.5,Running,28,Medium,11.7,149,7.0,6,9389,3.2,25.8,74.2,115.3,89.3,Diabetes,Former,13.31
+278,2024-09-08,39,M,182.2,128.8,Running,22,Medium,9.2,125,7.7,1,9431,3.2,25.8,74.2,115.3,89.3,Diabetes,Former,13.34
+278,2024-09-10,39,M,182.2,129.0,Running,53,Medium,22.3,130,7.8,4,8217,2.5,25.8,74.2,115.3,89.3,Diabetes,Former,13.4
+278,2024-09-11,39,M,182.2,129.3,Tennis,68,Medium,21.3,127,6.5,7,7264,3.0,25.8,74.2,115.3,89.3,Diabetes,Former,13.49
+278,2024-09-12,39,M,182.2,129.5,Yoga,24,Medium,3.1,148,5.9,7,8820,2.2,25.8,74.2,115.3,89.3,Diabetes,Former,13.51
+278,2024-09-14,39,M,182.2,129.8,Yoga,93,Medium,12.0,147,8.0,1,8240,3.4,25.8,74.2,115.3,89.3,Diabetes,Former,13.63
+278,2024-09-15,39,M,182.2,130.0,Yoga,23,Medium,3.0,132,8.7,6,7569,3.3,25.8,74.2,115.3,89.3,Diabetes,Former,13.65
+278,2024-09-20,39,M,182.2,130.3,Yoga,60,Low,6.5,113,7.7,8,6247,2.6,25.8,74.2,115.3,89.3,Diabetes,Former,13.71
+278,2024-09-23,39,M,182.2,130.6,HIIT,81,Medium,42.2,132,7.1,4,7797,3.5,25.8,74.2,115.3,89.3,Diabetes,Former,13.81
+278,2024-09-24,39,M,182.2,130.8,Yoga,48,Medium,6.3,121,7.3,2,4747,2.4,25.8,74.2,115.3,89.3,Diabetes,Former,13.87
+278,2024-09-28,39,M,182.2,131.1,HIIT,90,Low,39.2,122,6.5,10,7799,2.0,25.8,74.2,115.3,89.3,Diabetes,Former,13.96
+278,2024-09-30,39,M,182.2,131.3,HIIT,113,Medium,59.2,154,5.6,1,6016,2.6,25.8,74.2,115.3,89.3,Diabetes,Former,14.09

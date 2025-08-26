@@ -1,0 +1,20 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+2223,2024-02-02,62,F,162.8,67.6,Running,107,Medium,23.6,120,8.4,3,7615,1.5,23.5,74.2,116.2,87.2,None,Never,1.58
+2223,2024-02-03,62,F,162.8,67.9,Swimming,27,Low,3.6,99,6.8,4,11471,2.2,23.5,74.2,116.2,87.2,None,Never,1.6
+2223,2024-02-05,62,F,162.8,68.2,Dancing,81,Low,8.4,102,7.3,10,9972,1.6,23.5,74.2,116.2,87.2,None,Never,1.68
+2223,2024-02-06,62,F,162.8,68.4,Running,65,Medium,14.5,118,7.7,6,8770,1.6,23.5,74.2,116.2,87.2,None,Never,1.76
+2223,2024-02-07,62,F,162.8,68.7,Weight Training,82,High,13.1,132,6.6,6,7855,3.4,23.5,74.2,116.2,87.2,None,Never,1.88
+2223,2024-02-09,62,F,162.8,68.9,Weight Training,61,Low,7.0,107,6.0,6,10719,2.3,23.5,74.2,116.2,87.2,None,Never,1.94
+2223,2024-02-11,62,F,162.8,69.2,Weight Training,74,Medium,10.2,114,6.7,2,9355,3.1,23.5,74.2,116.2,87.2,None,Never,2.03
+2223,2024-02-12,62,F,162.8,69.5,Weight Training,107,Medium,14.8,115,5.8,5,6766,2.7,23.5,74.2,116.2,87.2,None,Never,2.15
+2223,2024-02-14,62,F,162.8,69.7,Weight Training,68,Medium,9.4,124,7.6,3,7716,2.8,23.5,74.2,116.2,87.2,None,Never,2.24
+2223,2024-02-16,62,F,162.8,70.0,Weight Training,63,Medium,8.8,117,5.6,2,8026,3.5,23.5,74.2,116.2,87.2,None,Never,2.31
+2223,2024-02-17,62,F,162.8,70.2,Weight Training,56,Low,6.5,101,7.5,3,12832,3.2,23.5,74.2,116.2,87.2,None,Never,2.37
+2223,2024-02-18,62,F,162.8,70.5,Weight Training,108,Medium,15.2,118,6.3,3,10850,1.9,23.5,74.2,116.2,87.2,None,Never,2.5
+2223,2024-02-19,62,F,162.8,70.7,Swimming,72,Medium,11.8,110,7.1,2,8864,1.8,23.5,74.2,116.2,87.2,None,Never,2.58
+2223,2024-02-20,62,F,162.8,71.0,Swimming,82,Low,11.3,107,5.8,2,7403,2.6,23.5,74.2,116.2,87.2,None,Never,2.67
+2223,2024-02-21,62,F,162.8,71.3,Weight Training,90,Low,10.7,105,6.9,8,13419,2.0,23.5,74.2,116.2,87.2,None,Never,2.76
+2223,2024-02-23,62,F,162.8,71.5,Weight Training,40,Medium,5.7,104,7.1,7,11535,1.5,23.5,74.2,116.2,87.2,None,Never,2.8
+2223,2024-02-25,62,F,162.8,71.8,Swimming,23,Low,3.2,102,9.0,9,8886,3.4,23.5,74.2,116.2,87.2,None,Never,2.83
+2223,2024-02-28,62,F,162.8,72.0,Weight Training,59,Low,7.1,108,7.2,4,8610,2.4,23.5,74.2,116.2,87.2,None,Never,2.89
+2223,2024-02-29,62,F,162.8,72.3,Swimming,113,High,22.2,144,5.0,2,9564,2.6,23.5,74.2,116.2,87.2,None,Never,3.04

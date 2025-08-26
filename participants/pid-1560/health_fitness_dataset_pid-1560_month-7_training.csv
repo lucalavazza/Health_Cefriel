@@ -1,0 +1,19 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+1560,2024-07-04,50,M,164.1,99.1,HIIT,104,High,48.0,141,8.2,6,8341,2.8,24.3,69.8,125.1,76.4,None,Current,10.76
+1560,2024-07-06,50,M,164.1,99.3,Weight Training,56,Medium,11.1,124,5.4,6,11398,1.6,24.3,69.8,125.1,76.4,None,Current,10.82
+1560,2024-07-10,50,M,164.1,99.6,Weight Training,83,Low,13.7,113,7.1,6,8275,3.0,24.3,69.8,125.1,76.4,None,Current,10.91
+1560,2024-07-12,50,M,164.1,99.9,Weight Training,119,Low,19.8,104,7.9,7,9677,1.5,24.3,69.8,125.1,76.4,None,Current,11.03
+1560,2024-07-13,50,M,164.1,100.1,Swimming,54,Medium,12.6,125,6.5,6,9414,1.8,24.3,69.8,125.1,76.4,None,Current,11.09
+1560,2024-07-14,50,M,164.1,100.4,Weight Training,54,Medium,10.8,119,6.5,9,8386,2.8,24.3,69.8,125.1,76.4,None,Current,11.15
+1560,2024-07-15,50,M,164.1,100.6,Weight Training,56,Medium,11.2,126,8.0,2,6767,3.3,24.3,69.8,125.1,76.4,None,Current,11.22
+1560,2024-07-18,50,M,164.1,100.9,Running,54,High,20.7,160,7.4,3,7444,2.6,24.3,69.8,125.1,76.4,None,Current,11.3
+1560,2024-07-19,50,M,164.1,101.1,Dancing,120,Medium,22.2,132,7.6,2,6444,3.5,24.3,69.8,125.1,76.4,None,Current,11.44
+1560,2024-07-21,50,M,164.1,101.4,Weight Training,103,Medium,20.8,122,5.9,3,8617,3.2,24.3,69.8,125.1,76.4,None,Current,11.57
+1560,2024-07-22,50,M,164.1,101.7,Dancing,62,Low,9.6,103,7.3,3,7681,2.8,24.3,69.8,125.1,76.4,None,Current,11.63
+1560,2024-07-24,50,M,164.1,101.9,Dancing,117,Medium,21.8,111,5.6,1,9201,2.5,24.3,69.8,125.1,76.4,None,Current,11.77
+1560,2024-07-25,50,M,164.1,102.2,Weight Training,65,Low,11.0,113,6.5,3,7314,3.4,24.3,69.8,125.1,76.4,None,Current,11.83
+1560,2024-07-26,50,M,164.1,102.4,Dancing,39,Medium,7.3,122,7.5,5,4634,2.2,24.3,69.8,125.1,76.4,None,Current,11.88
+1560,2024-07-28,50,M,164.1,102.7,Basketball,76,High,24.2,148,5.9,1,6824,3.3,24.3,69.8,125.1,76.4,None,Current,11.99
+1560,2024-07-29,50,M,164.1,102.9,HIIT,58,Medium,23.8,117,5.4,1,7710,2.3,24.3,69.8,125.1,76.4,None,Current,12.06
+1560,2024-07-30,50,M,164.1,103.2,HIIT,106,Medium,43.6,135,5.0,5,8099,3.3,24.3,69.8,125.1,76.4,None,Current,12.18
+1560,2024-07-31,50,M,164.1,103.5,HIIT,111,Medium,45.8,123,8.0,8,8589,1.6,24.3,69.8,125.1,76.4,None,Current,12.32

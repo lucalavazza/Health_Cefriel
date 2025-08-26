@@ -1,0 +1,18 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+190,2024-02-01,60,F,165.6,66.5,Weight Training,76,High,11.8,139,7.9,8,10968,3.2,22.9,66.9,110.7,77.8,Asthma,Former,1.42
+190,2024-02-02,60,F,165.6,66.8,Running,27,Medium,5.9,129,5.2,1,9257,3.2,22.9,66.9,110.7,77.8,Asthma,Former,1.45
+190,2024-02-03,60,F,165.6,67.1,Weight Training,98,High,15.3,137,7.8,1,10620,3.2,22.9,66.9,110.7,77.8,Asthma,Former,1.59
+190,2024-02-07,60,F,165.6,67.3,Weight Training,90,Low,10.1,106,7.1,7,8755,3.3,22.9,66.9,110.7,77.8,Asthma,Former,1.68
+190,2024-02-09,60,F,165.6,67.6,Running,29,Low,5.3,112,7.2,7,7828,1.7,22.9,66.9,110.7,77.8,Asthma,Former,1.71
+190,2024-02-11,60,F,165.6,67.8,Running,47,Low,8.6,116,6.8,1,11634,3.0,22.9,66.9,110.7,77.8,Asthma,Former,1.75
+190,2024-02-12,60,F,165.6,68.1,Weight Training,85,Medium,11.5,128,8.2,3,7584,2.9,22.9,66.9,110.7,77.8,Asthma,Former,1.86
+190,2024-02-15,60,F,165.6,68.3,Weight Training,74,Low,8.4,99,5.1,4,15190,3.0,22.9,66.9,110.7,77.8,Asthma,Former,1.93
+190,2024-02-16,60,F,165.6,68.6,Swimming,29,Medium,4.6,140,9.0,1,9592,2.0,22.9,66.9,110.7,77.8,Asthma,Former,1.96
+190,2024-02-19,60,F,165.6,68.9,Swimming,72,Medium,11.5,113,7.2,7,9001,2.8,22.9,66.9,110.7,77.8,Asthma,Former,2.05
+190,2024-02-20,60,F,165.6,69.1,Swimming,105,Low,14.1,102,7.2,4,9818,2.2,22.9,66.9,110.7,77.8,Asthma,Former,2.16
+190,2024-02-22,60,F,165.6,69.4,Swimming,79,Medium,12.7,103,7.9,6,8147,2.7,22.9,66.9,110.7,77.8,Asthma,Former,2.25
+190,2024-02-24,60,F,165.6,69.6,Swimming,104,Medium,16.8,123,7.6,7,14732,2.5,22.9,66.9,110.7,77.8,Asthma,Former,2.38
+190,2024-02-25,60,F,165.6,69.9,Swimming,45,Medium,7.3,121,7.4,7,9686,2.1,22.9,66.9,110.7,77.8,Asthma,Former,2.43
+190,2024-02-27,60,F,165.6,70.2,Swimming,91,Low,12.4,95,8.2,7,10128,2.0,22.9,66.9,110.7,77.8,Asthma,Former,2.52
+190,2024-02-28,60,F,165.6,70.4,Swimming,32,Low,4.4,104,8.1,4,8455,3.1,22.9,66.9,110.7,77.8,Asthma,Former,2.55
+190,2024-02-29,60,F,165.6,70.7,Swimming,24,Low,3.3,102,6.7,9,9407,1.6,22.9,66.9,110.7,77.8,Asthma,Former,2.58

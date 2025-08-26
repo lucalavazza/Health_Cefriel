@@ -1,0 +1,18 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+1398,2024-01-03,37,M,158.7,66.8,Basketball,107,Low,15.8,122,6.9,2,7356,2.3,26.4,75.3,120,77.9,None,Never,0.11
+1398,2024-01-04,37,M,158.7,67.1,Basketball,113,Medium,20.1,144,7.0,5,8238,2.2,26.4,75.3,120,77.9,None,Never,0.24
+1398,2024-01-06,37,M,158.7,67.4,Basketball,33,Medium,5.9,154,7.4,10,9702,2.7,26.4,75.3,120,77.9,None,Never,0.28
+1398,2024-01-08,37,M,158.7,67.6,Walking,117,Medium,10.0,126,6.4,1,9191,1.6,26.4,75.3,120,77.9,None,Never,0.42
+1398,2024-01-09,37,M,158.7,67.9,Basketball,52,Medium,9.4,124,7.0,7,10427,2.2,26.4,75.3,120,77.9,None,Never,0.48
+1398,2024-01-10,37,M,158.7,68.1,Walking,20,Medium,1.7,136,7.5,7,7351,2.2,26.4,75.3,120,77.9,None,Never,0.51
+1398,2024-01-12,37,M,158.7,68.4,Walking,27,Medium,2.3,129,7.8,8,7852,2.0,26.4,75.3,120,77.9,None,Never,0.54
+1398,2024-01-14,37,M,158.7,68.7,Weight Training,55,Medium,7.5,140,6.7,2,8211,1.8,26.4,75.3,120,77.9,None,Never,0.61
+1398,2024-01-15,37,M,158.7,68.9,Weight Training,95,Medium,13.0,132,7.5,1,10557,1.6,26.4,75.3,120,77.9,None,Never,0.72
+1398,2024-01-19,37,M,158.7,69.2,Weight Training,20,Medium,2.8,148,5.8,1,9155,3.1,26.4,75.3,120,77.9,None,Never,0.75
+1398,2024-01-21,37,M,158.7,69.4,Basketball,107,Medium,19.7,128,6.9,7,9637,2.9,26.4,75.3,120,77.9,None,Never,0.87
+1398,2024-01-23,37,M,158.7,69.7,Weight Training,120,High,19.4,153,8.2,6,10537,2.3,26.4,75.3,120,77.9,None,Never,1.04
+1398,2024-01-26,37,M,158.7,69.9,Weight Training,93,Medium,13.0,147,7.2,1,9462,3.3,26.4,75.3,120,77.9,None,Never,1.15
+1398,2024-01-28,37,M,158.7,70.2,Cycling,60,Low,9.9,117,6.2,4,11024,1.6,26.4,75.3,120,77.9,None,Never,1.21
+1398,2024-01-29,37,M,158.7,70.5,Basketball,31,Medium,5.8,141,6.7,9,8181,3.1,26.4,75.3,120,77.9,None,Never,1.25
+1398,2024-01-30,37,M,158.7,70.7,Dancing,94,Medium,12.1,136,7.7,7,7488,2.4,26.4,75.3,120,77.9,None,Never,1.36
+1398,2024-01-31,37,M,158.7,71.0,Dancing,51,Low,5.5,126,7.0,1,9909,2.7,26.4,75.3,120,77.9,None,Never,1.41

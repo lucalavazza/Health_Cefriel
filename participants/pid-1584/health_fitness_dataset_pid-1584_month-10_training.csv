@@ -1,0 +1,18 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+1584,2024-10-01,51,F,165.2,101.4,Tennis,47,Low,9.6,113,6.0,3,3798,1.9,20.3,67,123.1,74.1,Asthma,Former,14.43
+1584,2024-10-02,51,F,165.2,101.7,Swimming,24,High,6.6,148,9.3,1,6782,3.5,20.3,67,123.1,74.1,Asthma,Former,14.46
+1584,2024-10-03,51,F,165.2,102.0,Swimming,97,Medium,23.0,121,7.4,4,6149,3.3,20.3,67,123.1,74.1,Asthma,Former,14.58
+1584,2024-10-05,51,F,165.2,102.2,Swimming,59,Low,11.7,115,8.3,7,7339,2.2,20.3,67,123.1,74.1,Asthma,Former,14.64
+1584,2024-10-07,51,F,165.2,102.5,Swimming,81,Low,16.1,99,7.4,2,5655,2.3,20.3,67,123.1,74.1,Asthma,Former,14.72
+1584,2024-10-09,51,F,165.2,102.7,HIIT,98,Medium,40.2,122,7.8,2,5178,2.8,20.3,67,123.1,74.1,Asthma,Former,14.84
+1584,2024-10-10,51,F,165.2,103.0,Running,53,Low,14.8,112,8.7,2,8118,1.7,20.3,67,123.1,74.1,Asthma,Former,14.89
+1584,2024-10-12,51,F,165.2,103.2,Running,107,Medium,36.0,114,7.9,4,7587,2.3,20.3,67,123.1,74.1,Asthma,Former,15.02
+1584,2024-10-14,51,F,165.2,103.5,Yoga,68,Medium,7.0,118,7.4,3,8434,1.9,20.3,67,123.1,74.1,Asthma,Former,15.1
+1584,2024-10-15,51,F,165.2,103.8,Yoga,49,Medium,5.1,124,8.5,4,6696,2.8,20.3,67,123.1,74.1,Asthma,Former,15.16
+1584,2024-10-17,51,F,165.2,104.0,Running,48,Low,13.6,108,8.0,4,8214,3.2,20.3,67,123.1,74.1,Asthma,Former,15.21
+1584,2024-10-21,51,F,165.2,104.3,Running,69,Low,19.5,110,8.1,9,4881,1.7,20.3,67,123.1,74.1,Asthma,Former,15.28
+1584,2024-10-22,51,F,165.2,104.5,Yoga,43,Medium,4.5,133,8.4,4,6218,3.4,20.3,67,123.1,74.1,Asthma,Former,15.33
+1584,2024-10-23,51,F,165.2,104.8,Weight Training,98,Medium,20.5,132,7.0,1,5828,1.9,20.3,67,123.1,74.1,Asthma,Former,15.45
+1584,2024-10-26,51,F,165.2,105.0,Running,93,High,37.1,133,7.4,5,10125,3.4,20.3,67,123.1,74.1,Asthma,Former,15.58
+1584,2024-10-27,51,F,165.2,105.3,Weight Training,34,Low,6.0,116,6.3,6,7609,1.6,20.3,67,123.1,74.1,Asthma,Former,15.61
+1584,2024-10-31,51,F,165.2,105.6,Running,35,Low,10.0,109,6.6,3,6764,1.9,20.3,67,123.1,74.1,Asthma,Former,15.64

@@ -1,0 +1,14 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+2279,2024-08-01,43,F,163.8,102.3,Cycling,24,Medium,6.9,133,6.4,7,6551,2.2,24.7,71.5,107.3,75.4,Hypertension,Never,12.19
+2279,2024-08-02,43,F,163.8,102.6,Cycling,40,Low,9.7,114,6.3,6,7842,1.7,24.7,71.5,107.3,75.4,Hypertension,Never,12.23
+2279,2024-08-03,43,F,163.8,102.8,Tennis,44,High,12.8,144,6.8,3,9403,3.5,24.7,71.5,107.3,75.4,Hypertension,Never,12.29
+2279,2024-08-05,43,F,163.8,103.1,Yoga,24,Low,2.1,111,6.9,8,6181,1.6,24.7,71.5,107.3,75.4,Hypertension,Never,12.32
+2279,2024-08-06,43,F,163.8,103.3,Running,103,Low,28.9,99,7.0,7,8007,3.2,24.7,71.5,107.3,75.4,Hypertension,Never,12.42
+2279,2024-08-07,43,F,163.8,103.6,Running,107,Low,30.1,118,7.4,6,7833,1.9,24.7,71.5,107.3,75.4,Hypertension,Never,12.53
+2279,2024-08-10,43,F,163.8,103.9,Running,95,High,37.5,150,8.5,6,8251,1.8,24.7,71.5,107.3,75.4,Hypertension,Never,12.66
+2279,2024-08-18,43,F,163.8,104.1,Running,41,Medium,13.9,128,6.5,8,7983,2.3,24.7,71.5,107.3,75.4,Hypertension,Never,12.71
+2279,2024-08-22,43,F,163.8,104.4,Running,94,Medium,32.0,118,6.4,7,8113,2.7,24.7,71.5,107.3,75.4,Hypertension,Never,12.82
+2279,2024-08-24,43,F,163.8,104.6,Swimming,56,Medium,13.6,131,5.8,3,11342,3.2,24.7,71.5,107.3,75.4,Hypertension,Never,12.89
+2279,2024-08-28,43,F,163.8,104.9,Running,59,Low,16.8,111,7.2,9,9369,3.1,24.7,71.5,107.3,75.4,Hypertension,Never,12.95
+2279,2024-08-29,43,F,163.8,105.1,Running,30,Medium,10.3,135,5.8,7,7950,3.3,24.7,71.5,107.3,75.4,Hypertension,Never,12.98
+2279,2024-08-30,43,F,163.8,105.4,Swimming,118,Low,24.1,113,8.2,2,5389,2.2,24.7,71.5,107.3,75.4,Hypertension,Never,13.1

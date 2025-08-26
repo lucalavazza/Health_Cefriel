@@ -1,0 +1,18 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+2502,2024-01-01,57,Other,174.1,69.6,Cycling,89,Medium,17.5,121,7.3,6,7936,3.3,22.9,69.3,118.1,75.2,None,Never,0.11
+2502,2024-01-04,57,Other,174.1,69.9,Cycling,60,Medium,11.8,123,5.9,6,9491,2.9,22.9,69.3,118.1,75.2,None,Never,0.18
+2502,2024-01-06,57,Other,174.1,70.1,Cycling,67,Medium,13.3,108,7.3,8,9553,1.8,22.9,69.3,118.1,75.2,None,Never,0.26
+2502,2024-01-08,57,Other,174.1,70.4,Cycling,60,Medium,11.9,119,5.8,3,5359,1.9,22.9,69.3,118.1,75.2,None,Never,0.33
+2502,2024-01-10,57,Other,174.1,70.7,Cycling,82,High,19.1,135,5.2,4,9166,2.1,22.9,69.3,118.1,75.2,None,Never,0.45
+2502,2024-01-11,57,Other,174.1,70.9,Cycling,34,Medium,6.8,121,7.0,3,9032,2.4,22.9,69.3,118.1,75.2,None,Never,0.49
+2502,2024-01-13,57,Other,174.1,71.2,Cycling,55,Low,9.2,109,7.2,7,9488,2.6,22.9,69.3,118.1,75.2,None,Never,0.54
+2502,2024-01-14,57,Other,174.1,71.4,Weight Training,46,High,7.6,131,6.4,4,12787,3.5,22.9,69.3,118.1,75.2,None,Never,0.61
+2502,2024-01-18,57,Other,174.1,71.7,Cycling,26,Low,4.4,108,6.4,1,8896,3.1,22.9,69.3,118.1,75.2,None,Never,0.63
+2502,2024-01-20,57,Other,174.1,72.0,Weight Training,118,Medium,16.9,120,5.5,7,11016,3.1,22.9,69.3,118.1,75.2,None,Never,0.77
+2502,2024-01-21,57,Other,174.1,72.2,Weight Training,26,Medium,3.7,134,8.0,6,9624,2.7,22.9,69.3,118.1,75.2,None,Never,0.81
+2502,2024-01-22,57,Other,174.1,72.5,Cycling,88,Low,15.0,115,7.5,4,10271,2.0,22.9,69.3,118.1,75.2,None,Never,0.89
+2502,2024-01-23,57,Other,174.1,72.7,Weight Training,88,Medium,12.8,118,6.4,5,9420,1.8,22.9,69.3,118.1,75.2,None,Never,1.0
+2502,2024-01-24,57,Other,174.1,73.0,Cycling,69,Medium,14.2,116,8.1,3,6274,1.5,22.9,69.3,118.1,75.2,None,Never,1.08
+2502,2024-01-25,57,Other,174.1,73.2,Weight Training,113,Low,13.7,103,7.3,8,8914,1.8,22.9,69.3,118.1,75.2,None,Never,1.19
+2502,2024-01-26,57,Other,174.1,73.5,Dancing,90,Medium,12.1,131,6.5,2,7504,1.5,22.9,69.3,118.1,75.2,None,Never,1.3
+2502,2024-01-31,57,Other,174.1,73.8,Tennis,32,High,6.7,131,7.2,5,7924,2.5,22.9,69.3,118.1,75.2,None,Never,1.35

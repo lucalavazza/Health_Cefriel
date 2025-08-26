@@ -1,0 +1,17 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+900,2024-11-02,57,F,153.7,103.9,Tennis,101,Medium,25.5,120,7.2,7,7745,2.6,21.5,68.1,111,78.8,None,Former,16.67
+900,2024-11-04,57,F,153.7,104.2,Swimming,88,High,24.9,146,8.4,6,10210,1.6,21.5,68.1,111,78.8,None,Former,16.79
+900,2024-11-05,57,F,153.7,104.5,Tennis,75,Medium,19.0,133,5.4,5,8133,3.4,21.5,68.1,111,78.8,None,Former,16.88
+900,2024-11-07,57,F,153.7,104.7,Swimming,57,Medium,13.9,123,5.4,5,8812,2.9,21.5,68.1,111,78.8,None,Former,16.95
+900,2024-11-08,57,F,153.7,105.0,Basketball,71,Medium,19.8,120,6.1,4,5527,1.8,21.5,68.1,111,78.8,None,Former,17.04
+900,2024-11-11,57,F,153.7,105.2,Basketball,53,Low,12.4,109,5.6,1,6151,3.0,21.5,68.1,111,78.8,None,Former,17.09
+900,2024-11-13,57,F,153.7,105.5,Running,34,High,13.6,136,9.5,3,5244,3.0,21.5,68.1,111,78.8,None,Former,17.14
+900,2024-11-15,57,F,153.7,105.8,Basketball,103,Low,24.1,97,6.0,7,7236,2.0,21.5,68.1,111,78.8,None,Former,17.24
+900,2024-11-17,57,F,153.7,106.0,Weight Training,62,Low,10.9,112,6.3,4,8372,1.9,21.5,68.1,111,78.8,None,Former,17.3
+900,2024-11-18,57,F,153.7,106.3,Running,87,Low,25.1,105,6.2,2,7704,1.5,21.5,68.1,111,78.8,None,Former,17.39
+900,2024-11-20,57,F,153.7,106.5,Running,24,High,9.7,153,8.9,4,6629,3.1,21.5,68.1,111,78.8,None,Former,17.42
+900,2024-11-21,57,F,153.7,106.8,Weight Training,66,Low,11.7,112,8.0,10,7020,1.8,21.5,68.1,111,78.8,None,Former,17.49
+900,2024-11-23,57,F,153.7,107.0,Walking,58,Medium,7.8,120,8.3,3,10620,3.2,21.5,68.1,111,78.8,None,Former,17.56
+900,2024-11-28,57,F,153.7,107.3,Running,58,Medium,20.3,111,7.6,9,8303,3.1,21.5,68.1,111,78.8,None,Former,17.63
+900,2024-11-29,57,F,153.7,107.6,Swimming,31,Medium,7.8,106,8.0,1,6636,2.4,21.5,68.1,111,78.8,None,Former,17.66
+900,2024-11-30,57,F,153.7,107.8,Walking,96,High,15.3,135,9.4,7,8486,3.4,21.5,68.1,111,78.8,None,Former,17.8

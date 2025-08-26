@@ -1,0 +1,19 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+406,2024-08-01,36,M,170.4,102.1,Swimming,33,Low,6.5,122,6.2,3,7882,1.7,21.3,65.2,116.7,77.1,Hypertension,Never,13.44
+406,2024-08-02,36,M,170.4,102.3,Weight Training,78,Low,13.3,120,6.2,7,8364,3.5,21.3,65.2,116.7,77.1,Hypertension,Never,13.51
+406,2024-08-03,36,M,170.4,102.6,Walking,93,Medium,12.1,137,7.1,4,11818,2.3,21.3,65.2,116.7,77.1,Hypertension,Never,13.63
+406,2024-08-04,36,M,170.4,102.9,Swimming,34,High,9.5,147,7.1,7,9048,1.8,21.3,65.2,116.7,77.1,Hypertension,Never,13.67
+406,2024-08-05,36,M,170.4,103.1,Walking,120,High,18.2,149,6.7,5,8337,1.9,21.3,65.2,116.7,77.1,Hypertension,Never,13.84
+406,2024-08-09,36,M,170.4,103.4,Walking,96,Low,10.4,123,6.7,8,5173,1.6,21.3,65.2,116.7,77.1,Hypertension,Never,13.94
+406,2024-08-12,36,M,170.4,103.6,Swimming,44,Medium,10.6,140,8.1,9,5493,3.3,21.3,65.2,116.7,77.1,Hypertension,Never,13.99
+406,2024-08-13,36,M,170.4,103.9,Walking,25,Medium,3.3,130,6.9,5,5487,1.8,21.3,65.2,116.7,77.1,Hypertension,Never,14.02
+406,2024-08-15,36,M,170.4,104.1,Tennis,42,High,12.4,149,6.9,10,9071,2.0,21.3,65.2,116.7,77.1,Hypertension,Never,14.08
+406,2024-08-17,36,M,170.4,104.4,Walking,112,Low,12.3,118,7.6,2,8017,2.9,21.3,65.2,116.7,77.1,Hypertension,Never,14.19
+406,2024-08-18,36,M,170.4,104.7,HIIT,84,Medium,35.1,141,7.5,1,9023,1.7,21.3,65.2,116.7,77.1,Hypertension,Never,14.29
+406,2024-08-20,36,M,170.4,104.9,Tennis,101,Low,21.4,123,6.8,4,6954,2.3,21.3,65.2,116.7,77.1,Hypertension,Never,14.39
+406,2024-08-22,36,M,170.4,105.2,Yoga,47,Medium,4.9,143,6.3,10,8958,2.0,21.3,65.2,116.7,77.1,Hypertension,Never,14.45
+406,2024-08-24,36,M,170.4,105.4,Yoga,116,Medium,12.2,137,6.3,3,8170,1.7,21.3,65.2,116.7,77.1,Hypertension,Never,14.59
+406,2024-08-25,36,M,170.4,105.7,Yoga,53,High,6.5,148,8.0,3,8538,2.1,21.3,65.2,116.7,77.1,Hypertension,Never,14.66
+406,2024-08-27,36,M,170.4,106.0,Yoga,101,Low,8.9,116,7.5,8,5677,1.7,21.3,65.2,116.7,77.1,Hypertension,Never,14.76
+406,2024-08-28,36,M,170.4,106.2,Yoga,69,Medium,7.3,138,6.8,6,7981,1.8,21.3,65.2,116.7,77.1,Hypertension,Never,14.85
+406,2024-08-31,36,M,170.4,106.5,Yoga,70,Medium,7.4,129,6.9,8,7704,1.8,21.3,65.2,116.7,77.1,Hypertension,Never,14.93

@@ -1,0 +1,20 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+65,2024-06-02,45,F,157,95.1,Running,89,Medium,27.6,133,6.4,2,13055,2.7,27.3,70.2,120.5,87.5,None,Current,8.22
+65,2024-06-03,45,F,157,95.3,Running,113,Medium,35.1,133,5.6,5,8700,3.5,27.3,70.2,120.5,87.5,None,Current,8.35
+65,2024-06-04,45,F,157,95.6,Running,119,High,43.2,158,8.7,9,7957,2.3,27.3,70.2,120.5,87.5,None,Current,8.52
+65,2024-06-05,45,F,157,95.9,Running,43,High,15.7,138,6.5,1,8189,2.4,27.3,70.2,120.5,87.5,None,Current,8.58
+65,2024-06-06,45,F,157,96.1,Running,69,Medium,21.6,143,6.4,9,8666,2.4,27.3,70.2,120.5,87.5,None,Current,8.66
+65,2024-06-07,45,F,157,96.4,Running,31,High,11.4,149,5.9,4,8857,1.6,27.3,70.2,120.5,87.5,None,Current,8.7
+65,2024-06-09,45,F,157,96.6,Running,20,Medium,6.3,125,7.4,1,13159,1.7,27.3,70.2,120.5,87.5,None,Current,8.73
+65,2024-06-11,45,F,157,96.9,Running,49,Low,12.9,116,7.7,7,7255,3.2,27.3,70.2,120.5,87.5,None,Current,8.78
+65,2024-06-13,45,F,157,97.1,Cycling,102,Medium,28.0,121,7.5,4,7835,2.7,27.3,70.2,120.5,87.5,None,Current,8.9
+65,2024-06-14,45,F,157,97.4,Cycling,46,High,14.8,163,7.2,2,7545,3.3,27.3,70.2,120.5,87.5,None,Current,8.96
+65,2024-06-15,45,F,157,97.7,HIIT,105,Medium,40.9,141,7.5,6,10458,2.3,27.3,70.2,120.5,87.5,None,Current,9.09
+65,2024-06-16,45,F,157,97.9,HIIT,78,Low,25.4,123,8.3,9,12732,2.8,27.3,70.2,120.5,87.5,None,Current,9.17
+65,2024-06-17,45,F,157,98.2,Cycling,118,Medium,32.7,129,6.5,8,6565,2.8,27.3,70.2,120.5,87.5,None,Current,9.31
+65,2024-06-18,45,F,157,98.4,Weight Training,119,Low,19.5,107,7.8,3,8885,3.3,27.3,70.2,120.5,87.5,None,Current,9.43
+65,2024-06-19,45,F,157,98.7,Cycling,82,Low,19.1,97,7.6,2,9426,1.6,27.3,70.2,120.5,87.5,None,Current,9.51
+65,2024-06-21,45,F,157,98.9,Cycling,118,Medium,33.0,149,6.2,8,10349,3.3,27.3,70.2,120.5,87.5,None,Current,9.65
+65,2024-06-22,45,F,157,99.2,Weight Training,65,Medium,12.9,120,6.0,7,9958,2.2,27.3,70.2,120.5,87.5,None,Current,9.73
+65,2024-06-23,45,F,157,99.5,Weight Training,86,Medium,17.1,129,6.0,8,12354,3.4,27.3,70.2,120.5,87.5,None,Current,9.83
+65,2024-06-25,45,F,157,99.7,Swimming,38,Low,7.3,110,6.1,7,6537,2.1,27.3,70.2,120.5,87.5,None,Current,9.87

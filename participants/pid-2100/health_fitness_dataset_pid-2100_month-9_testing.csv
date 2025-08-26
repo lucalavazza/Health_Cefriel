@@ -1,0 +1,13 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+2100,2024-09-01,42,M,186.5,123.3,Swimming,53,Medium,15.2,125,6.8,8,8941,2.0,22.6,64.7,122.9,70.5,None,Never,13.79
+2100,2024-09-05,42,M,186.5,123.5,Running,39,Medium,15.7,134,8.0,1,7353,3.0,22.6,64.7,122.9,70.5,None,Never,13.84
+2100,2024-09-09,42,M,186.5,123.8,Swimming,92,Low,22.1,119,5.7,4,7785,1.5,22.6,64.7,122.9,70.5,None,Never,13.93
+2100,2024-09-10,42,M,186.5,124.0,Swimming,101,High,34.0,141,5.8,8,6434,1.9,22.6,64.7,122.9,70.5,None,Never,14.07
+2100,2024-09-14,42,M,186.5,124.3,Running,47,Medium,19.0,131,6.6,7,8645,2.8,22.6,64.7,122.9,70.5,None,Never,14.13
+2100,2024-09-15,42,M,186.5,124.6,Dancing,76,Low,14.4,122,6.5,7,6883,1.5,22.6,64.7,122.9,70.5,None,Never,14.21
+2100,2024-09-19,42,M,186.5,124.8,Dancing,93,Medium,21.2,148,6.7,4,6762,1.7,22.6,64.7,122.9,70.5,None,Never,14.32
+2100,2024-09-24,42,M,186.5,125.1,Running,97,Medium,39.6,123,8.2,7,7534,3.1,22.6,64.7,122.9,70.5,None,Never,14.43
+2100,2024-09-25,42,M,186.5,125.3,Dancing,64,Low,12.2,113,6.7,2,8289,2.2,22.6,64.7,122.9,70.5,None,Never,14.5
+2100,2024-09-26,42,M,186.5,125.6,Running,104,High,49.7,149,6.6,2,5883,1.5,22.6,64.7,122.9,70.5,None,Never,14.64
+2100,2024-09-29,42,M,186.5,125.8,Dancing,31,Low,5.9,113,7.5,1,7600,1.5,22.6,64.7,122.9,70.5,None,Never,14.67
+2100,2024-09-30,42,M,186.5,126.1,Yoga,34,Medium,4.3,142,5.8,1,6354,3.5,22.6,64.7,122.9,70.5,None,Never,14.71

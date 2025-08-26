@@ -1,0 +1,13 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+1253,2024-12-02,34,F,172.8,132.8,Running,69,High,34.8,145,6.5,4,8058,3.2,26.8,62.7,116.1,79,Diabetes,Never,16.59
+1253,2024-12-03,34,F,172.8,133.0,Running,119,Medium,51.6,158,8.0,2,7705,2.9,26.8,62.7,116.1,79,Diabetes,Never,16.73
+1253,2024-12-05,34,F,172.8,133.3,Running,120,Low,43.4,122,6.6,4,8562,3.0,26.8,62.7,116.1,79,Diabetes,Never,16.85
+1253,2024-12-08,34,F,172.8,133.5,Running,73,Medium,31.8,147,6.8,3,9105,2.5,26.8,62.7,116.1,79,Diabetes,Never,16.94
+1253,2024-12-09,34,F,172.8,133.8,Running,75,Low,27.3,119,7.9,8,6658,3.2,26.8,62.7,116.1,79,Diabetes,Never,17.02
+1253,2024-12-10,34,F,172.8,134.0,Running,30,High,15.3,162,8.8,1,4610,2.5,26.8,62.7,116.1,79,Diabetes,Never,17.06
+1253,2024-12-12,34,F,172.8,134.3,Running,101,Medium,44.2,160,5.6,9,8920,1.6,26.8,62.7,116.1,79,Diabetes,Never,17.18
+1253,2024-12-13,34,F,172.8,134.5,Running,118,Medium,51.8,142,6.9,4,7030,3.3,26.8,62.7,116.1,79,Diabetes,Never,17.32
+1253,2024-12-20,34,F,172.8,134.8,Running,78,High,40.0,151,5.5,8,4377,1.5,26.8,62.7,116.1,79,Diabetes,Never,17.43
+1253,2024-12-21,34,F,172.8,135.0,Running,51,Medium,22.5,136,6.6,2,7048,3.0,26.8,62.7,116.1,79,Diabetes,Never,17.49
+1253,2024-12-22,34,F,172.8,135.3,Basketball,40,Medium,14.4,139,5.7,7,8201,2.2,26.8,62.7,116.1,79,Diabetes,Never,17.54
+1253,2024-12-23,34,F,172.8,135.6,Basketball,66,Medium,23.8,142,7.2,1,6052,3.0,26.8,62.7,116.1,79,Diabetes,Never,17.62

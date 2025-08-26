@@ -1,0 +1,17 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+1478,2024-01-02,63,F,158,60.6,Weight Training,77,Medium,9.3,114,8.5,8,6757,1.7,24.2,67.3,123.9,82.7,None,Never,0.09
+1478,2024-01-05,63,F,158,60.9,Basketball,40,High,7.5,144,6.6,4,8752,1.6,24.2,67.3,123.9,82.7,None,Never,0.15
+1478,2024-01-10,63,F,158,61.2,Weight Training,108,Medium,13.2,112,4.8,4,8575,3.3,24.2,67.3,123.9,82.7,None,Never,0.28
+1478,2024-01-14,63,F,158,61.4,Weight Training,45,Medium,5.5,112,6.7,8,10129,3.0,24.2,67.3,123.9,82.7,None,Never,0.33
+1478,2024-01-15,63,F,158,61.7,Weight Training,99,Medium,12.2,117,6.5,5,7775,1.9,24.2,67.3,123.9,82.7,None,Never,0.45
+1478,2024-01-16,63,F,158,61.9,Weight Training,63,High,9.1,131,7.6,6,8301,2.7,24.2,67.3,123.9,82.7,None,Never,0.54
+1478,2024-01-18,63,F,158,62.2,Basketball,94,Medium,15.5,110,5.8,4,9029,1.6,24.2,67.3,123.9,82.7,None,Never,0.65
+1478,2024-01-19,63,F,158,62.5,Weight Training,50,High,7.3,138,5.2,5,10108,1.5,24.2,67.3,123.9,82.7,None,Never,0.72
+1478,2024-01-22,63,F,158,62.7,Weight Training,103,Medium,12.9,103,7.2,1,8631,3.1,24.2,67.3,123.9,82.7,None,Never,0.85
+1478,2024-01-25,63,F,158,63.0,Basketball,93,High,18.1,146,6.0,8,8659,1.5,24.2,67.3,123.9,82.7,None,Never,0.98
+1478,2024-01-26,63,F,158,63.2,Tennis,95,Medium,14.6,115,6.5,10,9747,2.0,24.2,67.3,123.9,82.7,None,Never,1.09
+1478,2024-01-27,63,F,158,63.5,Tennis,73,Medium,11.2,119,6.4,7,8701,1.7,24.2,67.3,123.9,82.7,None,Never,1.18
+1478,2024-01-28,63,F,158,63.7,Basketball,82,Medium,13.9,107,5.3,3,12318,2.8,24.2,67.3,123.9,82.7,None,Never,1.28
+1478,2024-01-29,63,F,158,64.0,Basketball,97,Medium,16.5,112,6.3,3,9298,1.6,24.2,67.3,123.9,82.7,None,Never,1.39
+1478,2024-01-30,63,F,158,64.3,Basketball,67,Medium,11.4,104,7.8,10,10269,3.2,24.2,67.3,123.9,82.7,None,Never,1.47
+1478,2024-01-31,63,F,158,64.5,Dancing,69,High,9.5,121,6.8,7,10326,1.5,24.2,67.3,123.9,82.7,None,Never,1.57

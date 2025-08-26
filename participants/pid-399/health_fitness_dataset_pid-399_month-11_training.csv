@@ -1,0 +1,16 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+399,2024-11-01,38,F,158,96.2,Yoga,53,Low,4.2,113,7.2,1,6618,3.3,20.1,68,128.1,84.3,None,Current,14.37
+399,2024-11-02,38,F,158,96.4,Yoga,106,Medium,10.2,134,7.1,10,7899,2.3,20.1,68,128.1,84.3,None,Current,14.5
+399,2024-11-05,38,F,158,96.7,Yoga,22,Medium,2.1,151,7.8,3,6939,2.1,20.1,68,128.1,84.3,None,Current,14.52
+399,2024-11-06,38,F,158,97.0,Yoga,80,Low,6.4,120,5.7,2,5157,3.1,20.1,68,128.1,84.3,None,Current,14.6
+399,2024-11-10,38,F,158,97.2,Swimming,80,Low,15.1,124,8.6,1,8627,3.2,20.1,68,128.1,84.3,None,Current,14.68
+399,2024-11-17,38,F,158,97.5,HIIT,105,Low,34.0,123,8.2,5,7060,3.1,20.1,68,128.1,84.3,None,Current,14.79
+399,2024-11-18,38,F,158,97.7,Yoga,67,Medium,6.5,144,8.3,9,8297,3.1,20.1,68,128.1,84.3,None,Current,14.87
+399,2024-11-19,38,F,158,98.0,Swimming,51,Medium,11.6,150,6.4,6,8645,2.9,20.1,68,128.1,84.3,None,Current,14.93
+399,2024-11-20,38,F,158,98.2,Yoga,72,Low,5.9,116,7.3,6,6680,3.0,20.1,68,128.1,84.3,None,Current,15.0
+399,2024-11-22,38,F,158,98.5,Yoga,107,Medium,10.5,140,7.3,8,8463,3.0,20.1,68,128.1,84.3,None,Current,15.13
+399,2024-11-24,38,F,158,98.8,Swimming,23,Medium,5.3,135,8.1,7,8674,2.0,20.1,68,128.1,84.3,None,Current,15.16
+399,2024-11-27,38,F,158,99.0,Swimming,42,High,11.3,144,6.7,5,4756,3.2,20.1,68,128.1,84.3,None,Current,15.22
+399,2024-11-28,38,F,158,99.3,Swimming,55,Low,10.6,118,5.2,6,10614,2.6,20.1,68,128.1,84.3,None,Current,15.27
+399,2024-11-29,38,F,158,99.5,Swimming,22,Medium,5.1,147,5.6,5,11753,3.2,20.1,68,128.1,84.3,None,Current,15.3
+399,2024-11-30,38,F,158,99.8,Swimming,43,High,11.7,152,7.7,10,11104,2.0,20.1,68,128.1,84.3,None,Current,15.36

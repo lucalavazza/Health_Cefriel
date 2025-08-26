@@ -1,0 +1,17 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+898,2024-09-01,28,M,172.8,97.1,Weight Training,74,Medium,14.3,145,7.2,3,6304,1.6,18.6,73.3,126.7,84.4,None,Never,12.76
+898,2024-09-02,28,M,172.8,97.3,Weight Training,79,Low,12.8,124,7.0,5,7050,3.1,18.6,73.3,126.7,84.4,None,Never,12.84
+898,2024-09-03,28,M,172.8,97.6,Running,74,Medium,23.5,144,6.6,4,9898,2.9,18.6,73.3,126.7,84.4,None,Never,12.93
+898,2024-09-04,28,M,172.8,97.9,Weight Training,35,Low,5.7,124,7.2,2,6361,1.6,18.6,73.3,126.7,84.4,None,Never,12.96
+898,2024-09-05,28,M,172.8,98.1,Weight Training,60,Medium,11.7,146,5.7,5,8602,2.4,18.6,73.3,126.7,84.4,None,Never,13.03
+898,2024-09-07,28,M,172.8,98.4,Weight Training,87,Low,14.2,123,8.1,10,6633,1.8,18.6,73.3,126.7,84.4,None,Never,13.12
+898,2024-09-10,28,M,172.8,98.6,Weight Training,105,Medium,20.7,142,6.4,10,7558,3.2,18.6,73.3,126.7,84.4,None,Never,13.25
+898,2024-09-11,28,M,172.8,98.9,Weight Training,95,Low,15.6,122,6.3,10,7979,3.4,18.6,73.3,126.7,84.4,None,Never,13.34
+898,2024-09-12,28,M,172.8,99.1,Weight Training,26,Medium,5.1,163,6.3,1,6281,2.0,18.6,73.3,126.7,84.4,None,Never,13.37
+898,2024-09-18,28,M,172.8,99.4,Weight Training,96,Medium,19.0,152,7.2,3,6787,2.9,18.6,73.3,126.7,84.4,None,Never,13.49
+898,2024-09-19,28,M,172.8,99.7,Basketball,81,Medium,21.5,148,8.0,1,4753,2.9,18.6,73.3,126.7,84.4,None,Never,13.58
+898,2024-09-22,28,M,172.8,99.9,Running,111,Medium,36.1,134,7.0,1,9219,3.1,18.6,73.3,126.7,84.4,None,Never,13.72
+898,2024-09-23,28,M,172.8,100.2,Tennis,46,Low,9.3,125,7.0,8,7943,1.6,18.6,73.3,126.7,84.4,None,Never,13.76
+898,2024-09-27,28,M,172.8,100.4,Swimming,27,Low,5.3,131,5.8,6,10377,3.2,18.6,73.3,126.7,84.4,None,Never,13.79
+898,2024-09-29,28,M,172.8,100.7,Cycling,64,Medium,18.2,148,6.4,5,8199,3.4,18.6,73.3,126.7,84.4,None,Never,13.87
+898,2024-09-30,28,M,172.8,100.9,Tennis,82,Medium,20.1,145,6.2,9,6564,1.6,18.6,73.3,126.7,84.4,None,Never,13.97

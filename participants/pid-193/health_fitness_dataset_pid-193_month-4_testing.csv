@@ -1,0 +1,20 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+193,2024-04-02,60,F,163.2,67.4,Weight Training,30,High,4.7,118,7.7,1,11458,3.0,18.5,65.8,128.9,82,None,Former,5.83
+193,2024-04-04,60,F,163.2,67.7,Weight Training,28,Medium,3.8,116,8.0,2,7369,2.6,18.5,65.8,128.9,82,None,Former,5.87
+193,2024-04-05,60,F,163.2,67.9,Weight Training,98,Medium,13.3,114,7.2,6,8696,2.3,18.5,65.8,128.9,82,None,Former,5.98
+193,2024-04-06,60,F,163.2,68.2,Weight Training,98,High,15.5,128,10.0,1,11532,1.7,18.5,65.8,128.9,82,None,Former,6.12
+193,2024-04-09,60,F,163.2,68.4,Weight Training,76,Medium,10.4,106,6.9,8,10187,2.1,18.5,65.8,128.9,82,None,Former,6.21
+193,2024-04-10,60,F,163.2,68.7,Weight Training,38,Low,4.3,104,8.3,8,10279,2.6,18.5,65.8,128.9,82,None,Former,6.25
+193,2024-04-12,60,F,163.2,68.9,Dancing,65,Medium,8.2,117,6.7,2,9185,3.2,18.5,65.8,128.9,82,None,Former,6.33
+193,2024-04-13,60,F,163.2,69.2,Weight Training,120,High,19.3,133,7.1,5,10492,1.9,18.5,65.8,128.9,82,None,Former,6.5
+193,2024-04-14,60,F,163.2,69.5,Weight Training,88,High,14.2,139,8.0,9,13262,1.9,18.5,65.8,128.9,82,None,Former,6.62
+193,2024-04-18,60,F,163.2,69.7,Basketball,60,High,13.0,130,6.4,1,8397,3.1,18.5,65.8,128.9,82,None,Former,6.7
+193,2024-04-19,60,F,163.2,70.0,Weight Training,36,Low,4.2,106,10.0,8,11100,2.2,18.5,65.8,128.9,82,None,Former,6.74
+193,2024-04-20,60,F,163.2,70.2,Weight Training,77,Medium,10.8,103,7.2,7,12908,1.8,18.5,65.8,128.9,82,None,Former,6.83
+193,2024-04-21,60,F,163.2,70.5,Basketball,46,Low,7.2,108,6.7,4,12764,3.3,18.5,65.8,128.9,82,None,Former,6.88
+193,2024-04-24,60,F,163.2,70.8,Swimming,89,Low,12.2,102,8.2,8,9772,2.7,18.5,65.8,128.9,82,None,Former,6.97
+193,2024-04-25,60,F,163.2,71.0,Weight Training,97,Medium,13.7,130,7.5,2,8128,2.1,18.5,65.8,128.9,82,None,Former,7.08
+193,2024-04-27,60,F,163.2,71.3,Swimming,57,Low,7.9,101,7.5,6,10552,2.1,18.5,65.8,128.9,82,None,Former,7.14
+193,2024-04-28,60,F,163.2,71.5,Swimming,60,Medium,10.0,113,9.0,5,10759,3.3,18.5,65.8,128.9,82,None,Former,7.21
+193,2024-04-29,60,F,163.2,71.8,Swimming,38,Medium,6.3,104,8.2,6,10957,2.8,18.5,65.8,128.9,82,None,Former,7.26
+193,2024-04-30,60,F,163.2,72.0,Running,23,Medium,5.4,126,7.3,10,7165,1.7,18.5,65.8,128.9,82,None,Former,7.29

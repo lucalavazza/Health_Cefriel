@@ -1,0 +1,17 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+1178,2024-03-01,29,M,172.5,72.4,Tennis,114,Low,16.7,128,6.7,4,7798,1.9,20.1,72.3,110.7,66.1,None,Former,3.96
+1178,2024-03-03,29,M,172.5,72.7,Tennis,91,Medium,16.0,139,5.7,1,11432,2.2,20.1,72.3,110.7,66.1,None,Former,4.07
+1178,2024-03-07,29,M,172.5,73.0,Tennis,85,Medium,15.0,138,6.7,3,8741,1.7,20.1,72.3,110.7,66.1,None,Former,4.17
+1178,2024-03-08,29,M,172.5,73.2,Basketball,20,High,4.5,175,5.7,9,10075,2.0,20.1,72.3,110.7,66.1,None,Former,4.2
+1178,2024-03-09,29,M,172.5,73.5,Basketball,49,Medium,9.6,138,7.3,8,8824,2.4,20.1,72.3,110.7,66.1,None,Former,4.26
+1178,2024-03-10,29,M,172.5,73.7,Walking,40,Low,3.1,124,7.9,8,10341,2.9,20.1,72.3,110.7,66.1,None,Former,4.3
+1178,2024-03-11,29,M,172.5,74.0,Basketball,72,Medium,14.2,148,9.0,7,9020,2.1,20.1,72.3,110.7,66.1,None,Former,4.38
+1178,2024-03-12,29,M,172.5,74.3,Weight Training,62,Medium,9.2,144,7.3,10,8565,2.2,20.1,72.3,110.7,66.1,None,Former,4.46
+1178,2024-03-13,29,M,172.5,74.5,Weight Training,41,Medium,6.1,161,5.6,1,12791,3.0,20.1,72.3,110.7,66.1,None,Former,4.51
+1178,2024-03-14,29,M,172.5,74.8,Basketball,23,Low,3.8,122,9.0,5,10994,2.8,20.1,72.3,110.7,66.1,None,Former,4.53
+1178,2024-03-16,29,M,172.5,75.0,Cycling,88,Low,15.5,115,7.2,2,8771,1.6,20.1,72.3,110.7,66.1,None,Former,4.62
+1178,2024-03-17,29,M,172.5,75.3,Weight Training,82,High,14.4,153,8.6,3,10661,1.6,20.1,72.3,110.7,66.1,None,Former,4.73
+1178,2024-03-18,29,M,172.5,75.6,Weight Training,21,Medium,3.2,153,6.4,1,8915,3.3,20.1,72.3,110.7,66.1,None,Former,4.76
+1178,2024-03-21,29,M,172.5,75.8,Cycling,49,Medium,10.5,136,6.4,9,7826,1.5,20.1,72.3,110.7,66.1,None,Former,4.82
+1178,2024-03-24,29,M,172.5,76.1,Running,88,Low,18.2,124,6.8,1,9545,2.8,20.1,72.3,110.7,66.1,None,Former,4.91
+1178,2024-03-26,29,M,172.5,76.3,Running,39,Medium,9.7,138,6.6,8,11143,3.5,20.1,72.3,110.7,66.1,None,Former,4.95

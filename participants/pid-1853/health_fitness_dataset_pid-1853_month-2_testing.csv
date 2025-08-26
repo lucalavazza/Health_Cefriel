@@ -1,0 +1,20 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+1853,2024-02-02,60,M,174.3,77.3,Walking,39,Low,3.2,109,6.4,7,9546,2.7,24,73,117.6,73.2,Asthma,Current,1.35
+1853,2024-02-05,60,M,174.3,77.6,Walking,112,Medium,11.0,140,7.1,7,8555,2.8,24,73,117.6,73.2,Asthma,Current,1.49
+1853,2024-02-08,60,M,174.3,77.9,Walking,53,Low,4.3,102,6.8,8,10538,2.3,24,73,117.6,73.2,Asthma,Current,1.54
+1853,2024-02-10,60,M,174.3,78.1,Walking,101,Low,8.3,115,5.8,4,13308,3.3,24,73,117.6,73.2,Asthma,Current,1.64
+1853,2024-02-11,60,M,174.3,78.4,Walking,54,Low,4.5,110,5.8,3,11276,2.3,24,73,117.6,73.2,Asthma,Current,1.69
+1853,2024-02-12,60,M,174.3,78.6,Walking,67,Medium,6.7,122,6.1,3,10442,2.7,24,73,117.6,73.2,Asthma,Current,1.77
+1853,2024-02-13,60,M,174.3,78.9,Walking,119,Medium,11.9,124,6.1,6,6442,2.6,24,73,117.6,73.2,Asthma,Current,1.92
+1853,2024-02-14,60,M,174.3,79.1,Walking,33,Low,2.7,101,6.0,5,6343,1.6,24,73,117.6,73.2,Asthma,Current,1.95
+1853,2024-02-15,60,M,174.3,79.4,HIIT,56,Medium,17.7,122,5.1,6,9705,2.4,24,73,117.6,73.2,Asthma,Current,2.02
+1853,2024-02-17,60,M,174.3,79.7,Walking,43,Low,3.6,106,6.7,10,11370,2.6,24,73,117.6,73.2,Asthma,Current,2.06
+1853,2024-02-19,60,M,174.3,79.9,Walking,72,Medium,7.3,113,7.8,7,11552,2.2,24,73,117.6,73.2,Asthma,Current,2.15
+1853,2024-02-20,60,M,174.3,80.2,Walking,92,Low,7.8,93,6.1,9,5140,3.2,24,73,117.6,73.2,Asthma,Current,2.24
+1853,2024-02-21,60,M,174.3,80.4,Walking,36,Low,3.0,104,5.6,2,9682,3.1,24,73,117.6,73.2,Asthma,Current,2.27
+1853,2024-02-22,60,M,174.3,80.7,Walking,111,Medium,11.3,132,7.1,2,9741,1.6,24,73,117.6,73.2,Asthma,Current,2.41
+1853,2024-02-23,60,M,174.3,81.0,Walking,66,Medium,6.7,112,6.1,6,11720,3.3,24,73,117.6,73.2,Asthma,Current,2.49
+1853,2024-02-26,60,M,174.3,81.2,Weight Training,66,Medium,10.7,130,6.7,7,6584,3.5,24,73,117.6,73.2,Asthma,Current,2.57
+1853,2024-02-27,60,M,174.3,81.5,Weight Training,84,Medium,13.6,115,5.7,5,9244,3.4,24,73,117.6,73.2,Asthma,Current,2.67
+1853,2024-02-28,60,M,174.3,81.7,Swimming,95,Medium,18.1,122,6.2,2,7893,1.8,24,73,117.6,73.2,Asthma,Current,2.78
+1853,2024-02-29,60,M,174.3,82.0,Swimming,91,Medium,17.4,114,7.2,8,7234,3.4,24,73,117.6,73.2,Asthma,Current,2.89

@@ -1,0 +1,18 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+5,2024-08-01,50,M,172,126.8,Running,117,Medium,48.4,128,7.2,8,7237,2.5,29.1,70.2,139.4,80.7,None,Current,13.34
+5,2024-08-02,50,M,172,127.1,Running,42,High,20.3,147,6.9,4,7528,3.4,29.1,70.2,139.4,80.7,None,Current,13.4
+5,2024-08-03,50,M,172,127.4,Running,82,Medium,34.0,123,6.3,3,7803,2.0,29.1,70.2,139.4,80.7,None,Current,13.5
+5,2024-08-05,50,M,172,127.6,Yoga,68,Medium,8.7,123,8.0,2,5826,1.8,29.1,70.2,139.4,80.7,None,Current,13.58
+5,2024-08-06,50,M,172,127.9,Yoga,107,Low,11.4,115,6.7,1,7570,2.1,29.1,70.2,139.4,80.7,None,Current,13.69
+5,2024-08-08,50,M,172,128.1,Running,98,Medium,40.9,108,9.3,10,8965,2.0,29.1,70.2,139.4,80.7,None,Current,13.8
+5,2024-08-12,50,M,172,128.4,Weight Training,33,High,9.9,147,5.6,10,4474,2.5,29.1,70.2,139.4,80.7,None,Current,13.85
+5,2024-08-15,50,M,172,128.6,Yoga,98,Medium,12.6,130,8.5,7,6984,2.3,29.1,70.2,139.4,80.7,None,Current,13.97
+5,2024-08-18,50,M,172,128.9,Walking,84,Low,11.4,117,5.4,2,7613,2.6,29.1,70.2,139.4,80.7,None,Current,14.05
+5,2024-08-19,50,M,172,129.2,Walking,67,Medium,10.9,127,6.0,4,5811,2.1,29.1,70.2,139.4,80.7,None,Current,14.13
+5,2024-08-20,50,M,172,129.4,Walking,81,Medium,13.3,122,5.7,5,5972,3.1,29.1,70.2,139.4,80.7,None,Current,14.23
+5,2024-08-21,50,M,172,129.7,Walking,62,Low,8.5,111,6.2,4,7665,1.8,29.1,70.2,139.4,80.7,None,Current,14.29
+5,2024-08-22,50,M,172,129.9,Swimming,117,Low,29.5,117,6.4,1,4714,3.4,29.1,70.2,139.4,80.7,None,Current,14.41
+5,2024-08-24,50,M,172,130.2,HIIT,25,High,15.2,139,8.3,1,8039,2.5,29.1,70.2,139.4,80.7,None,Current,14.44
+5,2024-08-25,50,M,172,130.4,Swimming,69,Medium,21.0,128,7.0,7,9503,2.3,29.1,70.2,139.4,80.7,None,Current,14.53
+5,2024-08-30,50,M,172,130.7,Swimming,61,Low,15.5,110,8.4,10,6443,3.3,29.1,70.2,139.4,80.7,None,Current,14.59
+5,2024-08-31,50,M,172,131.0,Swimming,37,Low,9.4,113,7.9,3,5671,1.8,29.1,70.2,139.4,80.7,None,Current,14.62

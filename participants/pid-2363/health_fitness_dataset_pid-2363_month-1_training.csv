@@ -1,0 +1,19 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+2363,2024-01-04,20,F,163.6,55.7,Weight Training,111,Low,10.3,143,8.0,4,5977,3.4,20.7,77.4,128.7,70.3,None,Never,0.11
+2363,2024-01-06,20,F,163.6,56.0,Weight Training,102,Low,9.5,129,7.8,2,9615,1.9,20.7,77.4,128.7,70.3,None,Never,0.21
+2363,2024-01-07,20,F,163.6,56.2,Weight Training,52,Low,4.8,133,6.0,9,8569,2.9,20.7,77.4,128.7,70.3,None,Never,0.27
+2363,2024-01-09,20,F,163.6,56.5,Weight Training,80,Medium,9.0,153,6.2,3,9481,2.2,20.7,77.4,128.7,70.3,None,Never,0.36
+2363,2024-01-12,20,F,163.6,56.7,Weight Training,51,Medium,5.8,138,7.4,3,6169,2.3,20.7,77.4,128.7,70.3,None,Never,0.42
+2363,2024-01-13,20,F,163.6,57.0,Weight Training,97,Low,9.2,123,7.3,5,9555,2.2,20.7,77.4,128.7,70.3,None,Never,0.52
+2363,2024-01-14,20,F,163.6,57.3,Weight Training,79,Medium,9.0,147,7.8,3,11544,1.5,20.7,77.4,128.7,70.3,None,Never,0.61
+2363,2024-01-15,20,F,163.6,57.5,Weight Training,31,Low,3.0,133,6.6,1,10500,1.8,20.7,77.4,128.7,70.3,None,Never,0.65
+2363,2024-01-16,20,F,163.6,57.8,Weight Training,105,Low,10.1,125,7.7,6,9290,3.0,20.7,77.4,128.7,70.3,None,Never,0.75
+2363,2024-01-18,20,F,163.6,58.0,Weight Training,55,Medium,6.4,155,6.1,7,5086,3.3,20.7,77.4,128.7,70.3,None,Never,0.82
+2363,2024-01-20,20,F,163.6,58.3,Dancing,23,Medium,2.4,145,7.6,7,8944,3.0,20.7,77.4,128.7,70.3,None,Never,0.84
+2363,2024-01-21,20,F,163.6,58.5,Dancing,74,High,9.2,171,8.2,5,10477,3.2,20.7,77.4,128.7,70.3,None,Never,0.95
+2363,2024-01-26,20,F,163.6,58.8,Dancing,92,Medium,9.9,152,7.6,7,8664,3.4,20.7,77.4,128.7,70.3,None,Never,1.06
+2363,2024-01-27,20,F,163.6,59.1,Walking,44,Medium,3.3,154,6.1,6,10847,1.7,20.7,77.4,128.7,70.3,None,Never,1.11
+2363,2024-01-28,20,F,163.6,59.3,HIIT,84,Medium,19.8,147,7.7,10,9746,3.0,20.7,77.4,128.7,70.3,None,Never,1.21
+2363,2024-01-29,20,F,163.6,59.6,Walking,118,Medium,8.9,159,6.3,5,6820,2.8,20.7,77.4,128.7,70.3,None,Never,1.35
+2363,2024-01-30,20,F,163.6,59.8,HIIT,113,Medium,26.9,146,7.2,4,12303,2.6,20.7,77.4,128.7,70.3,None,Never,1.49
+2363,2024-01-31,20,F,163.6,60.1,Walking,47,High,4.2,160,6.9,2,10441,2.0,20.7,77.4,128.7,70.3,None,Never,1.55

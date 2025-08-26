@@ -1,0 +1,20 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+877,2024-06-01,53,F,155.5,79.2,Walking,118,Low,9.8,97,7.5,8,13059,3.5,22.4,78.5,128.1,83.4,None,Former,8.59
+877,2024-06-02,53,F,155.5,79.4,HIIT,73,High,27.0,149,6.6,1,9842,2.3,22.4,78.5,128.1,83.4,None,Former,8.69
+877,2024-06-03,53,F,155.5,79.7,HIIT,90,Medium,28.6,122,6.8,1,8977,2.0,22.4,78.5,128.1,83.4,None,Former,8.8
+877,2024-06-05,53,F,155.5,79.9,Walking,39,Medium,3.9,132,7.8,9,10886,2.6,22.4,78.5,128.1,83.4,None,Former,8.84
+877,2024-06-11,53,F,155.5,80.2,Walking,23,Low,1.9,116,5.9,8,7964,1.9,22.4,78.5,128.1,83.4,None,Former,8.87
+877,2024-06-12,53,F,155.5,80.5,Walking,70,Medium,7.1,133,5.9,2,8732,3.4,22.4,78.5,128.1,83.4,None,Former,8.95
+877,2024-06-14,53,F,155.5,80.7,Walking,105,Low,8.9,104,7.0,9,7615,2.3,22.4,78.5,128.1,83.4,None,Former,9.05
+877,2024-06-16,53,F,155.5,81.0,Weight Training,68,High,12.8,152,6.3,1,8317,3.0,22.4,78.5,128.1,83.4,None,Former,9.15
+877,2024-06-19,53,F,155.5,81.2,Tennis,119,High,27.4,144,5.6,1,11450,3.4,22.4,78.5,128.1,83.4,None,Former,9.32
+877,2024-06-20,53,F,155.5,81.5,Weight Training,72,Low,9.7,106,7.5,1,6653,3.1,22.4,78.5,128.1,83.4,None,Former,9.39
+877,2024-06-21,53,F,155.5,81.8,Weight Training,71,Medium,11.6,128,7.7,5,8355,2.7,22.4,78.5,128.1,83.4,None,Former,9.47
+877,2024-06-23,53,F,155.5,82.0,Tennis,105,Medium,20.9,139,5.4,3,10396,2.3,22.4,78.5,128.1,83.4,None,Former,9.6
+877,2024-06-24,53,F,155.5,82.3,Tennis,34,Low,5.7,111,7.3,8,6407,3.2,22.4,78.5,128.1,83.4,None,Former,9.63
+877,2024-06-25,53,F,155.5,82.5,Weight Training,98,Medium,16.1,116,7.1,10,7104,3.5,22.4,78.5,128.1,83.4,None,Former,9.75
+877,2024-06-26,53,F,155.5,82.8,Weight Training,37,High,7.1,138,7.5,10,7954,2.1,22.4,78.5,128.1,83.4,None,Former,9.8
+877,2024-06-27,53,F,155.5,83.0,Weight Training,84,Medium,13.9,123,8.6,4,9102,2.3,22.4,78.5,128.1,83.4,None,Former,9.9
+877,2024-06-28,53,F,155.5,83.3,Weight Training,72,Medium,12.0,111,7.0,3,10301,3.2,22.4,78.5,128.1,83.4,None,Former,9.99
+877,2024-06-29,53,F,155.5,83.6,Weight Training,46,Low,6.4,116,6.6,1,10267,3.4,22.4,78.5,128.1,83.4,None,Former,10.04
+877,2024-06-30,53,F,155.5,83.8,Weight Training,50,Medium,8.4,119,8.0,8,8307,3.4,22.4,78.5,128.1,83.4,None,Former,10.1

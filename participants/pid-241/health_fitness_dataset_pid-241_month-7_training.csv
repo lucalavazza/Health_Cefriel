@@ -1,0 +1,17 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+241,2024-07-01,60,F,172.2,82.6,Weight Training,98,Medium,16.1,114,7.6,9,5848,1.8,15.9,66.7,118.9,81.3,None,Never,11.02
+241,2024-07-03,60,F,172.2,82.8,Weight Training,107,Medium,17.7,104,5.5,7,6788,3.1,15.9,66.7,118.9,81.3,None,Never,11.15
+241,2024-07-04,60,F,172.2,83.1,Basketball,75,Medium,16.6,125,7.1,5,8697,2.6,15.9,66.7,118.9,81.3,None,Never,11.24
+241,2024-07-05,60,F,172.2,83.3,Weight Training,55,Medium,9.1,120,7.8,9,7361,2.5,15.9,66.7,118.9,81.3,None,Never,11.31
+241,2024-07-11,60,F,172.2,83.6,Weight Training,50,Medium,8.3,121,7.2,10,7146,3.1,15.9,66.7,118.9,81.3,None,Never,11.37
+241,2024-07-12,60,F,172.2,83.9,Weight Training,52,Low,7.2,102,8.5,8,7547,2.5,15.9,66.7,118.9,81.3,None,Never,11.42
+241,2024-07-13,60,F,172.2,84.1,Yoga,43,Low,3.0,101,6.0,5,7702,3.4,15.9,66.7,118.9,81.3,None,Never,11.46
+241,2024-07-15,60,F,172.2,84.4,Weight Training,65,Low,9.1,106,6.7,5,6884,2.0,15.9,66.7,118.9,81.3,None,Never,11.53
+241,2024-07-18,60,F,172.2,84.6,Yoga,39,Medium,3.3,130,5.8,2,6900,2.3,15.9,66.7,118.9,81.3,None,Never,11.58
+241,2024-07-20,60,F,172.2,84.9,Yoga,49,Medium,4.1,118,6.3,1,11555,3.0,15.9,66.7,118.9,81.3,None,Never,11.63
+241,2024-07-21,60,F,172.2,85.1,Yoga,50,High,5.0,149,7.3,1,9602,1.6,15.9,66.7,118.9,81.3,None,Never,11.7
+241,2024-07-24,60,F,172.2,85.4,Yoga,36,Medium,3.1,119,7.9,10,7880,2.7,15.9,66.7,118.9,81.3,None,Never,11.75
+241,2024-07-25,60,F,172.2,85.7,Basketball,22,High,5.8,137,6.0,6,8719,3.1,15.9,66.7,118.9,81.3,None,Never,11.78
+241,2024-07-26,60,F,172.2,85.9,Yoga,120,Low,8.6,107,5.7,10,7780,2.0,15.9,66.7,118.9,81.3,None,Never,11.9
+241,2024-07-28,60,F,172.2,86.2,Weight Training,79,Medium,13.6,128,7.7,7,9481,2.2,15.9,66.7,118.9,81.3,None,Never,11.99
+241,2024-07-31,60,F,172.2,86.4,Basketball,28,Medium,6.4,116,6.5,6,7421,1.8,15.9,66.7,118.9,81.3,None,Never,12.03

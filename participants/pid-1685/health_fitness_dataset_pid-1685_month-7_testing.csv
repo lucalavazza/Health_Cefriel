@@ -1,0 +1,18 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+1685,2024-07-01,19,M,166,83.3,Walking,48,Medium,5.1,161,8.7,6,6446,3.3,18.1,69,115.1,83.5,None,Former,10.78
+1685,2024-07-02,19,M,166,83.6,Basketball,33,Medium,7.3,145,6.9,1,6078,2.2,18.1,69,115.1,83.5,None,Former,10.82
+1685,2024-07-04,19,M,166,83.8,Swimming,94,Medium,18.3,152,6.4,2,6204,1.9,18.1,69,115.1,83.5,None,Former,10.93
+1685,2024-07-07,19,M,166,84.1,Basketball,80,Low,14.9,134,8.8,6,9808,3.0,18.1,69,115.1,83.5,None,Former,11.01
+1685,2024-07-10,19,M,166,84.4,Swimming,92,High,21.1,168,6.8,4,9978,2.3,18.1,69,115.1,83.5,None,Former,11.14
+1685,2024-07-11,19,M,166,84.6,Swimming,43,Low,7.1,130,8.3,6,7886,2.8,18.1,69,115.1,83.5,None,Former,11.18
+1685,2024-07-12,19,M,166,84.9,Basketball,120,Low,22.6,129,7.6,10,5482,2.1,18.1,69,115.1,83.5,None,Former,11.3
+1685,2024-07-14,19,M,166,85.1,Weight Training,63,Low,8.9,117,7.1,9,7444,2.8,18.1,69,115.1,83.5,None,Former,11.36
+1685,2024-07-15,19,M,166,85.4,Basketball,74,Medium,16.8,146,7.3,5,6405,3.2,18.1,69,115.1,83.5,None,Former,11.45
+1685,2024-07-18,19,M,166,85.6,Basketball,69,Medium,15.7,159,9.4,8,8852,3.2,18.1,69,115.1,83.5,None,Former,11.53
+1685,2024-07-19,19,M,166,85.9,Weight Training,34,High,6.8,177,5.3,8,10522,1.9,18.1,69,115.1,83.5,None,Former,11.58
+1685,2024-07-20,19,M,166,86.2,Dancing,39,Low,5.1,118,8.2,8,8461,3.3,18.1,69,115.1,83.5,None,Former,11.62
+1685,2024-07-22,19,M,166,86.4,Basketball,114,Low,21.8,124,5.9,7,5931,2.4,18.1,69,115.1,83.5,None,Former,11.73
+1685,2024-07-23,19,M,166,86.7,Swimming,90,Low,15.1,128,7.7,8,7777,1.8,18.1,69,115.1,83.5,None,Former,11.82
+1685,2024-07-25,19,M,166,86.9,Dancing,93,Medium,14.8,146,7.9,6,8733,1.7,18.1,69,115.1,83.5,None,Former,11.94
+1685,2024-07-26,19,M,166,87.2,Yoga,112,High,11.4,167,7.9,4,6821,3.1,18.1,69,115.1,83.5,None,Former,12.09
+1685,2024-07-28,19,M,166,87.5,Yoga,38,Low,2.8,130,7.4,10,6027,1.7,18.1,69,115.1,83.5,None,Former,12.13

@@ -1,0 +1,17 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+1350,2024-11-02,35,F,165.4,107.0,Basketball,41,Medium,11.7,143,7.0,2,6976,2.7,21,69.2,116.7,80.3,None,Current,16.47
+1350,2024-11-04,35,F,165.4,107.2,Dancing,66,High,15.1,150,7.9,4,8152,1.8,21,69.2,116.7,80.3,None,Current,16.56
+1350,2024-11-07,35,F,165.4,107.5,Basketball,42,High,14.0,163,7.9,5,9001,3.3,21,69.2,116.7,80.3,None,Current,16.62
+1350,2024-11-08,35,F,165.4,107.8,Dancing,83,Medium,16.4,130,6.5,4,5047,2.4,21,69.2,116.7,80.3,None,Current,16.72
+1350,2024-11-10,35,F,165.4,108.0,Basketball,118,Medium,33.9,132,6.7,2,6538,2.1,21,69.2,116.7,80.3,None,Current,16.86
+1350,2024-11-12,35,F,165.4,108.3,Basketball,83,Medium,23.9,137,5.5,4,8969,3.2,21,69.2,116.7,80.3,None,Current,16.96
+1350,2024-11-14,35,F,165.4,108.5,Basketball,94,Low,22.6,117,8.6,1,8344,1.6,21,69.2,116.7,80.3,None,Current,17.05
+1350,2024-11-15,35,F,165.4,108.8,Cycling,87,Medium,26.8,144,9.1,1,7738,3.3,21,69.2,116.7,80.3,None,Current,17.16
+1350,2024-11-17,35,F,165.4,109.0,Walking,113,Low,13.0,124,7.2,4,8265,1.5,21,69.2,116.7,80.3,None,Current,17.27
+1350,2024-11-20,35,F,165.4,109.3,Walking,111,High,17.9,170,6.8,6,8369,3.0,21,69.2,116.7,80.3,None,Current,17.43
+1350,2024-11-21,35,F,165.4,109.6,Cycling,112,Medium,34.7,136,7.5,7,8898,2.5,21,69.2,116.7,80.3,None,Current,17.56
+1350,2024-11-24,35,F,165.4,109.8,Walking,103,High,16.7,159,8.3,7,9936,1.8,21,69.2,116.7,80.3,None,Current,17.71
+1350,2024-11-25,35,F,165.4,110.1,Cycling,28,Low,7.3,109,7.7,4,8450,3.4,21,69.2,116.7,80.3,None,Current,17.73
+1350,2024-11-27,35,F,165.4,110.3,Walking,75,High,12.2,166,7.6,9,7277,2.2,21,69.2,116.7,80.3,None,Current,17.84
+1350,2024-11-28,35,F,165.4,110.6,Walking,34,Medium,4.8,152,8.3,6,8279,3.4,21,69.2,116.7,80.3,None,Current,17.88
+1350,2024-11-29,35,F,165.4,110.8,Walking,119,Medium,16.7,140,6.5,8,6241,2.6,21,69.2,116.7,80.3,None,Current,18.02

@@ -1,0 +1,17 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+70,2024-11-01,64,F,176.5,130.9,HIIT,109,High,66.4,134,8.8,3,6963,2.2,25.2,61.4,116.4,82.3,Hypertension,Never,16.93
+70,2024-11-04,64,F,176.5,131.1,Walking,117,Medium,19.4,125,7.0,5,5279,3.2,25.2,61.4,116.4,82.3,Hypertension,Never,17.07
+70,2024-11-05,64,F,176.5,131.4,HIIT,75,Medium,39.3,111,7.4,4,9056,3.5,25.2,61.4,116.4,82.3,Hypertension,Never,17.16
+70,2024-11-06,64,F,176.5,131.6,HIIT,62,High,38.0,120,5.9,6,3485,3.0,25.2,61.4,116.4,82.3,Hypertension,Never,17.24
+70,2024-11-08,64,F,176.5,131.9,Weight Training,63,Medium,16.6,100,7.2,2,8367,2.9,25.2,61.4,116.4,82.3,Hypertension,Never,17.32
+70,2024-11-12,64,F,176.5,132.1,Weight Training,84,High,25.8,116,7.3,1,5269,2.4,25.2,61.4,116.4,82.3,Hypertension,Never,17.44
+70,2024-11-13,64,F,176.5,132.4,HIIT,68,Low,30.0,99,7.0,1,7482,1.7,25.2,61.4,116.4,82.3,Hypertension,Never,17.5
+70,2024-11-15,64,F,176.5,132.7,Swimming,107,Medium,33.1,124,8.7,6,6283,2.9,25.2,61.4,116.4,82.3,Hypertension,Never,17.63
+70,2024-11-16,64,F,176.5,132.9,Walking,96,High,18.8,129,6.9,10,11177,1.5,25.2,61.4,116.4,82.3,Hypertension,Never,17.77
+70,2024-11-18,64,F,176.5,133.2,Dancing,37,Medium,9.0,117,8.1,3,6640,3.5,25.2,61.4,116.4,82.3,Hypertension,Never,17.81
+70,2024-11-20,64,F,176.5,133.4,Walking,85,High,16.7,127,7.3,4,10693,1.9,25.2,61.4,116.4,82.3,Hypertension,Never,17.93
+70,2024-11-23,64,F,176.5,133.7,Walking,47,Medium,7.9,123,6.9,10,9855,1.7,25.2,61.4,116.4,82.3,Hypertension,Never,17.99
+70,2024-11-24,64,F,176.5,133.9,Dancing,97,Low,19.8,100,6.2,1,7564,2.9,25.2,61.4,116.4,82.3,Hypertension,Never,18.08
+70,2024-11-26,64,F,176.5,134.2,Walking,82,Medium,13.9,120,6.9,3,9203,1.7,25.2,61.4,116.4,82.3,Hypertension,Never,18.18
+70,2024-11-28,64,F,176.5,134.5,Dancing,98,High,28.1,116,7.6,7,7257,3.2,25.2,61.4,116.4,82.3,Hypertension,Never,18.32
+70,2024-11-29,64,F,176.5,134.7,Dancing,23,Low,4.7,108,5.9,8,6596,2.5,25.2,61.4,116.4,82.3,Hypertension,Never,18.34

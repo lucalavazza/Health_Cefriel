@@ -1,0 +1,16 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+1043,2024-08-01,41,F,156.6,85.0,Cycling,80,Low,16.0,117,5.3,1,6510,2.0,18.3,69.8,117.1,82.3,Asthma,Never,12.42
+1043,2024-08-04,41,F,156.6,85.3,Weight Training,44,Medium,7.5,136,5.7,7,7901,1.6,18.3,69.8,117.1,82.3,Asthma,Never,12.47
+1043,2024-08-06,41,F,156.6,85.6,Cycling,69,Low,13.9,121,7.4,6,8312,2.4,18.3,69.8,117.1,82.3,Asthma,Never,12.54
+1043,2024-08-07,41,F,156.6,85.8,Dancing,86,High,15.7,152,8.1,5,5669,2.7,18.3,69.8,117.1,82.3,Asthma,Never,12.66
+1043,2024-08-09,41,F,156.6,86.1,Weight Training,73,High,14.6,148,6.2,2,6560,3.2,18.3,69.8,117.1,82.3,Asthma,Never,12.76
+1043,2024-08-13,41,F,156.6,86.3,Dancing,80,Medium,12.6,143,5.5,7,8440,2.1,18.3,69.8,117.1,82.3,Asthma,Never,12.86
+1043,2024-08-14,41,F,156.6,86.6,Weight Training,31,Medium,5.4,131,6.3,9,8134,1.7,18.3,69.8,117.1,82.3,Asthma,Never,12.9
+1043,2024-08-16,41,F,156.6,86.8,Dancing,53,Low,7.0,120,6.0,4,8610,3.3,18.3,69.8,117.1,82.3,Asthma,Never,12.95
+1043,2024-08-17,41,F,156.6,87.1,Weight Training,93,Medium,16.2,120,7.5,4,7735,3.0,18.3,69.8,117.1,82.3,Asthma,Never,13.06
+1043,2024-08-18,41,F,156.6,87.4,HIIT,46,Medium,16.0,140,5.9,3,6696,1.7,18.3,69.8,117.1,82.3,Asthma,Never,13.12
+1043,2024-08-19,41,F,156.6,87.6,HIIT,25,High,10.2,147,8.2,7,5819,2.2,18.3,69.8,117.1,82.3,Asthma,Never,13.15
+1043,2024-08-21,41,F,156.6,87.9,Weight Training,102,Medium,17.9,138,6.0,6,5419,3.0,18.3,69.8,117.1,82.3,Asthma,Never,13.27
+1043,2024-08-22,41,F,156.6,88.1,Weight Training,38,High,7.8,149,7.6,8,8057,2.0,18.3,69.8,117.1,82.3,Asthma,Never,13.33
+1043,2024-08-23,41,F,156.6,88.4,HIIT,57,Medium,20.1,138,7.1,2,5917,1.5,18.3,69.8,117.1,82.3,Asthma,Never,13.39
+1043,2024-08-27,41,F,156.6,88.6,HIIT,96,Low,28.3,111,9.3,4,7084,1.6,18.3,69.8,117.1,82.3,Asthma,Never,13.49

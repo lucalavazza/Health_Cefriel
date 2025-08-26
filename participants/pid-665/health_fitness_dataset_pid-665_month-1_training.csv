@@ -1,0 +1,17 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+665,2024-01-03,41,M,176.3,93.4,Cycling,23,Medium,6.1,141,7.3,9,8520,1.9,30,78.1,113,85.9,Diabetes,Never,0.03
+665,2024-01-04,41,M,176.3,93.7,HIIT,67,Medium,25.0,132,5.3,3,5712,2.1,30,78.1,113,85.9,Diabetes,Never,0.11
+665,2024-01-08,41,M,176.3,94.0,HIIT,116,High,50.7,145,6.8,4,7548,3.4,30,78.1,113,85.9,Diabetes,Never,0.27
+665,2024-01-09,41,M,176.3,94.2,HIIT,107,High,46.9,142,7.8,6,10506,3.1,30,78.1,113,85.9,Diabetes,Never,0.42
+665,2024-01-10,41,M,176.3,94.5,HIIT,63,Medium,23.7,133,7.0,4,5698,1.8,30,78.1,113,85.9,Diabetes,Never,0.5
+665,2024-01-11,41,M,176.3,94.7,HIIT,98,Medium,37.0,135,7.7,8,8027,3.1,30,78.1,113,85.9,Diabetes,Never,0.61
+665,2024-01-14,41,M,176.3,95.0,HIIT,79,Low,24.9,118,8.0,9,7863,2.7,30,78.1,113,85.9,Diabetes,Never,0.69
+665,2024-01-17,41,M,176.3,95.2,Tennis,106,Medium,24.5,138,6.9,8,7343,2.4,30,78.1,113,85.9,Diabetes,Never,0.82
+665,2024-01-19,41,M,176.3,95.5,HIIT,87,Medium,33.1,135,7.0,6,7798,2.3,30,78.1,113,85.9,Diabetes,Never,0.92
+665,2024-01-20,41,M,176.3,95.8,HIIT,20,Medium,7.6,133,6.4,6,11007,2.7,30,78.1,113,85.9,Diabetes,Never,0.95
+665,2024-01-21,41,M,176.3,96.0,Swimming,33,Medium,7.4,130,6.7,2,8845,1.8,30,78.1,113,85.9,Diabetes,Never,0.99
+665,2024-01-22,41,M,176.3,96.3,Swimming,44,Medium,9.9,119,6.9,7,6485,2.5,30,78.1,113,85.9,Diabetes,Never,1.04
+665,2024-01-23,41,M,176.3,96.5,Swimming,31,Medium,7.0,136,8.2,8,6324,3.5,30,78.1,113,85.9,Diabetes,Never,1.08
+665,2024-01-25,41,M,176.3,96.8,Swimming,37,Low,6.9,115,6.7,6,11351,2.4,30,78.1,113,85.9,Diabetes,Never,1.11
+665,2024-01-28,41,M,176.3,97.0,Swimming,76,High,20.0,141,6.7,1,10619,2.5,30,78.1,113,85.9,Diabetes,Never,1.22
+665,2024-01-29,41,M,176.3,97.3,Yoga,115,Medium,11.2,136,7.3,1,9429,1.8,30,78.1,113,85.9,Diabetes,Never,1.36

@@ -1,0 +1,13 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+1968,2024-08-02,32,F,168.5,94.0,Cycling,88,Medium,23.4,139,7.4,2,9769,2.5,19.7,62.8,80.3,75.6,None,Never,11.96
+1968,2024-08-09,32,F,168.5,94.3,Cycling,45,Medium,12.0,139,7.4,7,5279,3.2,19.7,62.8,80.3,75.6,None,Never,12.02
+1968,2024-08-10,32,F,168.5,94.6,Cycling,40,Medium,10.7,146,6.7,7,8875,3.1,19.7,62.8,80.3,75.6,None,Never,12.07
+1968,2024-08-11,32,F,168.5,94.8,Cycling,105,Medium,28.1,138,8.6,2,7321,2.1,19.7,62.8,80.3,75.6,None,Never,12.19
+1968,2024-08-13,32,F,168.5,95.1,HIIT,80,Medium,30.3,150,7.2,7,8314,2.6,19.7,62.8,80.3,75.6,None,Never,12.29
+1968,2024-08-15,32,F,168.5,95.3,HIIT,94,Low,29.8,124,8.4,9,5988,2.0,19.7,62.8,80.3,75.6,None,Never,12.38
+1968,2024-08-16,32,F,168.5,95.6,HIIT,91,Medium,34.7,150,6.3,9,5770,1.9,19.7,62.8,80.3,75.6,None,Never,12.49
+1968,2024-08-21,32,F,168.5,95.8,Walking,50,Low,5.0,125,6.9,1,6100,1.6,19.7,62.8,80.3,75.6,None,Never,12.54
+1968,2024-08-24,32,F,168.5,96.1,Yoga,110,Medium,10.5,142,4.8,6,10359,2.4,19.7,62.8,80.3,75.6,None,Never,12.67
+1968,2024-08-25,32,F,168.5,96.4,HIIT,85,Medium,32.7,138,7.2,7,8460,3.2,19.7,62.8,80.3,75.6,None,Never,12.78
+1968,2024-08-30,32,F,168.5,96.6,Walking,101,Medium,12.3,134,7.3,2,7952,1.9,19.7,62.8,80.3,75.6,None,Never,12.9
+1968,2024-08-31,32,F,168.5,96.9,Yoga,97,Medium,9.4,152,5.9,10,10203,2.6,19.7,62.8,80.3,75.6,None,Never,13.01

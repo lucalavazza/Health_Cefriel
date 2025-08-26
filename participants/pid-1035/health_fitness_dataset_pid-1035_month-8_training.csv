@@ -1,0 +1,17 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+1035,2024-08-01,52,M,180.5,109.3,Dancing,117,Medium,23.4,120,6.7,4,10165,2.1,21.3,61.5,134.6,80.8,Diabetes,Never,12.82
+1035,2024-08-04,52,M,180.5,109.5,Walking,53,Medium,7.3,114,6.2,1,7946,3.3,21.3,61.5,134.6,80.8,Diabetes,Never,12.88
+1035,2024-08-08,52,M,180.5,109.8,Dancing,93,Medium,18.7,124,6.8,10,7459,2.9,21.3,61.5,134.6,80.8,Diabetes,Never,13.0
+1035,2024-08-09,52,M,180.5,110.1,Walking,59,Low,6.8,108,6.9,6,7119,1.7,21.3,61.5,134.6,80.8,Diabetes,Never,13.06
+1035,2024-08-10,52,M,180.5,110.3,Dancing,36,Medium,7.3,126,7.5,2,6150,2.3,21.3,61.5,134.6,80.8,Diabetes,Never,13.1
+1035,2024-08-11,52,M,180.5,110.6,Dancing,38,Medium,7.7,126,6.6,4,8477,2.4,21.3,61.5,134.6,80.8,Diabetes,Never,13.14
+1035,2024-08-12,52,M,180.5,110.8,Dancing,106,Low,17.9,108,8.2,7,5633,2.9,21.3,61.5,134.6,80.8,Diabetes,Never,13.25
+1035,2024-08-13,52,M,180.5,111.1,Cycling,75,Medium,23.6,119,7.6,7,6593,2.0,21.3,61.5,134.6,80.8,Diabetes,Never,13.34
+1035,2024-08-16,52,M,180.5,111.3,Cycling,44,Low,11.5,109,6.5,9,4893,3.2,21.3,61.5,134.6,80.8,Diabetes,Never,13.38
+1035,2024-08-19,52,M,180.5,111.6,Cycling,51,Low,13.4,110,5.8,4,8946,2.7,21.3,61.5,134.6,80.8,Diabetes,Never,13.44
+1035,2024-08-20,52,M,180.5,111.9,Dancing,73,Medium,14.9,140,6.0,2,7224,1.7,21.3,61.5,134.6,80.8,Diabetes,Never,13.52
+1035,2024-08-21,52,M,180.5,112.1,Dancing,51,Medium,10.5,127,7.2,1,7317,2.9,21.3,61.5,134.6,80.8,Diabetes,Never,13.58
+1035,2024-08-24,52,M,180.5,112.4,Weight Training,32,Low,6.0,109,6.0,7,7441,2.9,21.3,61.5,134.6,80.8,Diabetes,Never,13.62
+1035,2024-08-29,52,M,180.5,112.6,Weight Training,89,High,23.3,139,6.5,4,3429,1.8,21.3,61.5,134.6,80.8,Diabetes,Never,13.74
+1035,2024-08-30,52,M,180.5,112.9,HIIT,57,Medium,25.7,133,6.4,1,6001,2.1,21.3,61.5,134.6,80.8,Diabetes,Never,13.81
+1035,2024-08-31,52,M,180.5,113.2,Basketball,41,High,14.4,153,9.2,10,11683,2.8,21.3,61.5,134.6,80.8,Diabetes,Never,13.87

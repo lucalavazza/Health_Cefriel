@@ -1,0 +1,17 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+787,2024-11-01,56,F,164.6,98.2,Weight Training,28,Medium,5.5,124,6.9,6,6682,2.1,16.6,63.2,111.7,87.6,None,Former,17.23
+787,2024-11-03,56,F,164.6,98.4,Basketball,44,Low,9.6,101,6.2,6,6875,2.5,16.6,63.2,111.7,87.6,None,Former,17.27
+787,2024-11-04,56,F,164.6,98.7,Cycling,111,Medium,31.0,120,6.4,3,8153,2.2,16.6,63.2,111.7,87.6,None,Former,17.41
+787,2024-11-05,56,F,164.6,98.9,Weight Training,114,High,26.3,149,5.0,6,8355,1.6,16.6,63.2,111.7,87.6,None,Former,17.57
+787,2024-11-06,56,F,164.6,99.2,Weight Training,74,High,17.1,137,8.2,3,6429,2.3,16.6,63.2,111.7,87.6,None,Former,17.67
+787,2024-11-11,56,F,164.6,99.5,Weight Training,53,High,12.3,132,7.3,2,7849,1.6,16.6,63.2,111.7,87.6,None,Former,17.74
+787,2024-11-15,56,F,164.6,99.7,Weight Training,70,High,16.2,141,7.7,3,5350,2.3,16.6,63.2,111.7,87.6,None,Former,17.84
+787,2024-11-16,56,F,164.6,100.0,Weight Training,77,Medium,15.4,123,8.0,3,6392,2.6,16.6,63.2,111.7,87.6,None,Former,17.93
+787,2024-11-18,56,F,164.6,100.2,Weight Training,51,Medium,10.2,120,5.5,5,7770,2.3,16.6,63.2,111.7,87.6,None,Former,17.99
+787,2024-11-19,56,F,164.6,100.5,Dancing,69,Low,10.6,101,7.5,7,6083,2.6,16.6,63.2,111.7,87.6,None,Former,18.06
+787,2024-11-22,56,F,164.6,100.7,Dancing,83,Medium,15.3,111,6.9,2,7083,2.7,16.6,63.2,111.7,87.6,None,Former,18.16
+787,2024-11-24,56,F,164.6,101.0,Dancing,88,High,19.0,133,7.1,9,7468,3.1,16.6,63.2,111.7,87.6,None,Former,18.29
+787,2024-11-25,56,F,164.6,101.3,Dancing,98,Medium,18.1,123,7.5,3,6712,2.7,16.6,63.2,111.7,87.6,None,Former,18.4
+787,2024-11-26,56,F,164.6,101.5,Weight Training,114,Medium,23.1,136,7.3,7,6802,2.8,16.6,63.2,111.7,87.6,None,Former,18.54
+787,2024-11-28,56,F,164.6,101.8,Tennis,34,Low,7.0,105,7.5,6,9069,2.6,16.6,63.2,111.7,87.6,None,Former,18.57
+787,2024-11-30,56,F,164.6,102.0,Dancing,89,Medium,16.6,112,7.3,6,6240,2.0,16.6,63.2,111.7,87.6,None,Former,18.68

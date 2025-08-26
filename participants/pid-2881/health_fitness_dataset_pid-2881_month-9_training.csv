@@ -1,0 +1,17 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+2881,2024-09-01,20,M,175.1,122.2,Basketball,27,Medium,8.8,145,10.0,4,4630,2.7,26.3,70.8,125,86.9,Diabetes,Former,13.23
+2881,2024-09-02,20,M,175.1,122.5,Running,91,Low,30.3,134,8.6,6,4882,2.6,26.3,70.8,125,86.9,Diabetes,Former,13.33
+2881,2024-09-03,20,M,175.1,122.8,Basketball,90,Low,24.5,131,5.6,10,4862,3.3,26.3,70.8,125,86.9,Diabetes,Former,13.42
+2881,2024-09-07,20,M,175.1,123.0,Weight Training,28,Low,5.7,139,5.9,2,10568,1.8,26.3,70.8,125,86.9,Diabetes,Former,13.44
+2881,2024-09-08,20,M,175.1,123.3,Running,27,High,12.7,159,6.4,7,9473,3.4,26.3,70.8,125,86.9,Diabetes,Former,13.48
+2881,2024-09-12,20,M,175.1,123.5,Running,45,Medium,18.1,148,7.0,4,6480,2.8,26.3,70.8,125,86.9,Diabetes,Former,13.54
+2881,2024-09-13,20,M,175.1,123.8,Weight Training,108,High,31.1,164,7.4,1,4190,1.9,26.3,70.8,125,86.9,Diabetes,Former,13.69
+2881,2024-09-14,20,M,175.1,124.0,Running,42,High,19.8,171,6.1,6,5828,2.9,26.3,70.8,125,86.9,Diabetes,Former,13.75
+2881,2024-09-15,20,M,175.1,124.3,Running,21,Low,7.1,139,5.2,1,7185,2.7,26.3,70.8,125,86.9,Diabetes,Former,13.77
+2881,2024-09-21,20,M,175.1,124.6,Running,80,Medium,32.5,160,6.8,5,8186,3.5,26.3,70.8,125,86.9,Diabetes,Former,13.86
+2881,2024-09-22,20,M,175.1,124.8,Running,105,Medium,42.7,154,6.7,10,5530,2.9,26.3,70.8,125,86.9,Diabetes,Former,13.99
+2881,2024-09-23,20,M,175.1,125.1,Running,29,High,13.8,180,7.0,5,5709,1.9,26.3,70.8,125,86.9,Diabetes,Former,14.03
+2881,2024-09-24,20,M,175.1,125.3,Running,110,High,52.4,167,7.9,6,6930,2.0,26.3,70.8,125,86.9,Diabetes,Former,14.18
+2881,2024-09-26,20,M,175.1,125.6,Swimming,61,High,20.8,167,7.9,2,6686,3.5,26.3,70.8,125,86.9,Diabetes,Former,14.27
+2881,2024-09-28,20,M,175.1,125.8,Running,66,High,31.6,163,7.0,4,5599,1.7,26.3,70.8,125,86.9,Diabetes,Former,14.36
+2881,2024-09-29,20,M,175.1,126.1,Cycling,31,Medium,11.1,152,5.7,5,7350,1.6,26.3,70.8,125,86.9,Diabetes,Former,14.4

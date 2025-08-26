@@ -1,0 +1,24 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+1645,2024-02-01,30,F,158.8,62.9,Tennis,73,Low,9.3,119,8.6,9,12325,3.1,22.3,66.8,132.9,73.1,None,Current,2.4
+1645,2024-02-04,30,F,158.8,63.1,Weight Training,46,Medium,5.8,148,6.1,4,11140,1.9,22.3,66.8,132.9,73.1,None,Current,2.45
+1645,2024-02-07,30,F,158.8,63.4,Swimming,117,High,20.1,141,8.1,3,11123,1.6,22.3,66.8,132.9,73.1,None,Current,2.62
+1645,2024-02-08,30,F,158.8,63.6,Weight Training,21,Medium,2.7,132,7.3,9,9901,2.9,22.3,66.8,132.9,73.1,None,Current,2.64
+1645,2024-02-09,30,F,158.8,63.9,Weight Training,41,Low,4.3,132,7.1,8,9834,2.9,22.3,66.8,132.9,73.1,None,Current,2.68
+1645,2024-02-10,30,F,158.8,64.1,Swimming,119,High,20.7,168,8.4,5,7966,2.1,22.3,66.8,132.9,73.1,None,Current,2.85
+1645,2024-02-11,30,F,158.8,64.4,Weight Training,63,Medium,8.1,144,6.7,10,10077,2.7,22.3,66.8,132.9,73.1,None,Current,2.92
+1645,2024-02-12,30,F,158.8,64.7,Weight Training,81,Medium,10.4,156,7.3,7,11540,2.5,22.3,66.8,132.9,73.1,None,Current,3.02
+1645,2024-02-13,30,F,158.8,64.9,Weight Training,73,Medium,9.4,135,6.8,10,7070,3.2,22.3,66.8,132.9,73.1,None,Current,3.11
+1645,2024-02-14,30,F,158.8,65.2,Weight Training,70,Medium,9.1,139,6.7,9,11829,2.9,22.3,66.8,132.9,73.1,None,Current,3.19
+1645,2024-02-15,30,F,158.8,65.4,Weight Training,23,Medium,3.0,141,5.2,5,8971,2.2,22.3,66.8,132.9,73.1,None,Current,3.22
+1645,2024-02-16,30,F,158.8,65.7,Running,95,High,23.7,138,8.5,1,12058,3.4,22.3,66.8,132.9,73.1,None,Current,3.35
+1645,2024-02-18,30,F,158.8,66.0,Weight Training,93,Medium,12.2,141,6.5,5,12379,3.5,22.3,66.8,132.9,73.1,None,Current,3.46
+1645,2024-02-20,30,F,158.8,66.2,Basketball,45,Medium,7.9,136,6.4,4,8828,2.5,22.3,66.8,132.9,73.1,None,Current,3.52
+1645,2024-02-21,30,F,158.8,66.5,Running,43,Low,7.8,123,6.2,4,9955,2.9,22.3,66.8,132.9,73.1,None,Current,3.56
+1645,2024-02-22,30,F,158.8,66.7,Weight Training,114,Medium,15.2,158,5.6,7,9480,2.7,22.3,66.8,132.9,73.1,None,Current,3.7
+1645,2024-02-23,30,F,158.8,67.0,Dancing,70,Medium,8.6,136,6.6,6,8869,2.0,22.3,66.8,132.9,73.1,None,Current,3.78
+1645,2024-02-24,30,F,158.8,67.2,Weight Training,46,Low,5.1,121,6.5,1,10944,2.7,22.3,66.8,132.9,73.1,None,Current,3.83
+1645,2024-02-25,30,F,158.8,67.5,Weight Training,33,Medium,4.4,149,8.3,5,10507,2.5,22.3,66.8,132.9,73.1,None,Current,3.87
+1645,2024-02-26,30,F,158.8,67.8,Dancing,75,Medium,9.3,136,4.6,8,9813,3.0,22.3,66.8,132.9,73.1,None,Current,3.96
+1645,2024-02-27,30,F,158.8,68.0,Dancing,83,Medium,10.3,141,6.7,5,9925,3.2,22.3,66.8,132.9,73.1,None,Current,4.06
+1645,2024-02-28,30,F,158.8,68.3,Walking,115,Low,8.3,130,8.0,5,9071,3.0,22.3,66.8,132.9,73.1,None,Current,4.17
+1645,2024-02-29,30,F,158.8,68.5,Basketball,88,Medium,16.0,148,6.8,9,12693,2.6,22.3,66.8,132.9,73.1,None,Current,4.28

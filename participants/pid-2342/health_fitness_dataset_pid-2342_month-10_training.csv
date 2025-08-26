@@ -1,0 +1,15 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+2342,2024-10-01,47,M,181.8,119.8,Basketball,46,Medium,14.7,127,7.2,9,6999,2.9,21.7,74.9,102.6,89.8,Diabetes,Former,14.88
+2342,2024-10-02,47,M,181.8,120.0,Weight Training,73,Medium,17.5,112,6.3,10,9561,2.6,21.7,74.9,102.6,89.8,Diabetes,Former,14.97
+2342,2024-10-04,47,M,181.8,120.3,Weight Training,85,Low,17.0,122,8.8,4,9309,2.8,21.7,74.9,102.6,89.8,Diabetes,Former,15.06
+2342,2024-10-07,47,M,181.8,120.5,Tennis,103,Low,25.1,109,6.2,5,7630,2.1,21.7,74.9,102.6,89.8,Diabetes,Former,15.16
+2342,2024-10-11,47,M,181.8,120.8,Tennis,26,Low,6.4,110,9.0,1,6185,2.6,21.7,74.9,102.6,89.8,Diabetes,Former,15.19
+2342,2024-10-15,47,M,181.8,121.1,Tennis,97,Medium,28.5,151,7.0,2,7198,2.7,21.7,74.9,102.6,89.8,Diabetes,Former,15.3
+2342,2024-10-18,47,M,181.8,121.3,Tennis,76,Low,18.7,116,7.8,6,5467,2.0,21.7,74.9,102.6,89.8,Diabetes,Former,15.38
+2342,2024-10-19,47,M,181.8,121.6,Tennis,45,High,15.5,153,7.4,10,6455,2.3,21.7,74.9,102.6,89.8,Diabetes,Former,15.44
+2342,2024-10-21,47,M,181.8,121.8,Tennis,79,Medium,23.4,129,8.4,5,8688,1.7,21.7,74.9,102.6,89.8,Diabetes,Former,15.54
+2342,2024-10-22,47,M,181.8,122.1,Tennis,34,High,11.8,127,6.4,8,8900,3.1,21.7,74.9,102.6,89.8,Diabetes,Former,15.58
+2342,2024-10-23,47,M,181.8,122.3,Tennis,41,Medium,12.2,126,8.6,6,4987,2.1,21.7,74.9,102.6,89.8,Diabetes,Former,15.63
+2342,2024-10-24,47,M,181.8,122.6,Weight Training,51,High,14.6,148,7.3,5,4782,3.4,21.7,74.9,102.6,89.8,Diabetes,Former,15.7
+2342,2024-10-25,47,M,181.8,122.9,Weight Training,104,Medium,25.5,119,7.4,6,6161,2.2,21.7,74.9,102.6,89.8,Diabetes,Former,15.83
+2342,2024-10-27,47,M,181.8,123.1,Weight Training,29,Medium,7.1,131,6.8,7,9599,3.1,21.7,74.9,102.6,89.8,Diabetes,Former,15.86

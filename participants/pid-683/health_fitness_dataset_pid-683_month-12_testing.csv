@@ -1,0 +1,14 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+683,2024-12-01,43,F,164.4,129.3,Weight Training,69,Low,14.8,118,8.1,8,7334,1.6,28.6,66.9,126.3,66.2,Asthma,Never,17.58
+683,2024-12-02,43,F,164.4,129.5,Weight Training,86,Low,18.5,109,7.8,5,8045,3.1,28.6,66.9,126.3,66.2,Asthma,Never,17.67
+683,2024-12-03,43,F,164.4,129.8,Weight Training,44,Low,9.5,110,7.9,6,7502,1.9,28.6,66.9,126.3,66.2,Asthma,Never,17.71
+683,2024-12-07,43,F,164.4,130.0,Weight Training,21,Medium,5.5,146,8.2,1,6697,2.8,28.6,66.9,126.3,66.2,Asthma,Never,17.73
+683,2024-12-08,43,F,164.4,130.3,Weight Training,63,Low,13.7,115,8.8,6,7255,1.7,28.6,66.9,126.3,66.2,Asthma,Never,17.8
+683,2024-12-10,43,F,164.4,130.6,Weight Training,20,Medium,5.2,139,6.6,5,8339,2.6,28.6,66.9,126.3,66.2,Asthma,Never,17.82
+683,2024-12-11,43,F,164.4,130.8,Weight Training,46,Low,10.0,113,6.6,8,6332,2.7,28.6,66.9,126.3,66.2,Asthma,Never,17.87
+683,2024-12-14,43,F,164.4,131.1,Weight Training,63,Medium,16.5,139,6.8,2,9055,3.5,28.6,66.9,126.3,66.2,Asthma,Never,17.94
+683,2024-12-18,43,F,164.4,131.3,Weight Training,74,Medium,19.4,119,6.9,9,7263,2.1,28.6,66.9,126.3,66.2,Asthma,Never,18.03
+683,2024-12-19,43,F,164.4,131.6,Weight Training,35,High,10.7,163,5.1,6,7368,1.9,28.6,66.9,126.3,66.2,Asthma,Never,18.08
+683,2024-12-20,43,F,164.4,131.8,Weight Training,81,Low,17.8,107,4.7,1,7416,1.8,28.6,66.9,126.3,66.2,Asthma,Never,18.16
+683,2024-12-21,43,F,164.4,132.1,Weight Training,22,Low,4.8,110,6.5,5,11049,1.6,28.6,66.9,126.3,66.2,Asthma,Never,18.18
+683,2024-12-23,43,F,164.4,132.4,Cycling,59,High,25.8,148,7.0,2,11653,2.3,28.6,66.9,126.3,66.2,Asthma,Never,18.27

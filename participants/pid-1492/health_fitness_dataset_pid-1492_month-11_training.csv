@@ -1,0 +1,17 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+1492,2024-11-01,32,F,161.8,112.1,Dancing,59,High,14.1,175,5.4,7,4645,1.9,21.2,70,134.4,70.3,Asthma,Former,17.54
+1492,2024-11-03,32,F,161.8,112.4,Walking,83,Medium,11.8,131,8.7,6,8505,3.1,21.2,70,134.4,70.3,Asthma,Former,17.64
+1492,2024-11-07,32,F,161.8,112.6,Walking,37,High,6.1,151,7.0,6,6339,2.4,21.2,70,134.4,70.3,Asthma,Former,17.69
+1492,2024-11-08,32,F,161.8,112.9,Dancing,79,Low,13.6,127,5.7,7,6402,1.7,21.2,70,134.4,70.3,Asthma,Former,17.77
+1492,2024-11-09,32,F,161.8,113.2,Dancing,99,Medium,20.5,146,7.6,4,6135,1.7,21.2,70,134.4,70.3,Asthma,Former,17.89
+1492,2024-11-11,32,F,161.8,113.4,Walking,32,Medium,4.6,143,6.6,8,7622,1.8,21.2,70,134.4,70.3,Asthma,Former,17.93
+1492,2024-11-12,32,F,161.8,113.7,Walking,31,Medium,4.5,132,5.8,8,8457,2.3,21.2,70,134.4,70.3,Asthma,Former,17.97
+1492,2024-11-13,32,F,161.8,113.9,Dancing,107,Medium,22.3,129,7.9,3,8232,3.1,21.2,70,134.4,70.3,Asthma,Former,18.09
+1492,2024-11-14,32,F,161.8,114.2,Dancing,59,Low,10.3,117,6.6,5,4886,1.8,21.2,70,134.4,70.3,Asthma,Former,18.15
+1492,2024-11-15,32,F,161.8,114.4,Dancing,94,Medium,19.7,141,6.3,6,8642,1.7,21.2,70,134.4,70.3,Asthma,Former,18.27
+1492,2024-11-16,32,F,161.8,114.7,Dancing,76,High,18.6,172,7.7,3,7786,2.5,21.2,70,134.4,70.3,Asthma,Former,18.37
+1492,2024-11-21,32,F,161.8,115.0,Dancing,80,Medium,16.8,142,7.0,3,7351,2.6,21.2,70,134.4,70.3,Asthma,Former,18.47
+1492,2024-11-24,32,F,161.8,115.2,Dancing,85,Medium,17.9,158,7.4,1,9524,2.8,21.2,70,134.4,70.3,Asthma,Former,18.57
+1492,2024-11-25,32,F,161.8,115.5,Dancing,23,High,5.7,152,8.0,10,5753,2.0,21.2,70,134.4,70.3,Asthma,Former,18.6
+1492,2024-11-26,32,F,161.8,115.7,Dancing,45,Low,7.9,125,7.0,8,7923,2.7,21.2,70,134.4,70.3,Asthma,Former,18.65
+1492,2024-11-28,32,F,161.8,116.0,Dancing,22,High,5.4,164,8.3,6,4834,3.2,21.2,70,134.4,70.3,Asthma,Former,18.68

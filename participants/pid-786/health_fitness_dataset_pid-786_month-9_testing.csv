@@ -1,0 +1,20 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+786,2024-09-03,21,F,171.7,87.8,HIIT,108,High,44.1,177,5.8,7,4025,1.6,15.8,70.7,126.7,98.2,None,Current,13.28
+786,2024-09-05,21,F,171.7,88.1,Weight Training,107,High,21.9,171,7.3,1,5978,1.8,15.8,70.7,126.7,98.2,None,Current,13.43
+786,2024-09-06,21,F,171.7,88.3,Weight Training,84,Medium,14.8,152,7.2,2,6780,3.4,15.8,70.7,126.7,98.2,None,Current,13.53
+786,2024-09-07,21,F,171.7,88.6,Weight Training,34,Medium,6.0,143,8.6,5,7677,2.4,15.8,70.7,126.7,98.2,None,Current,13.57
+786,2024-09-08,21,F,171.7,88.9,Weight Training,79,Medium,14.0,154,7.0,10,8256,3.3,15.8,70.7,126.7,98.2,None,Current,13.67
+786,2024-09-09,21,F,171.7,89.1,Cycling,120,High,35.2,168,5.7,8,7259,3.0,15.8,70.7,126.7,98.2,None,Current,13.84
+786,2024-09-10,21,F,171.7,89.4,Weight Training,52,Medium,9.3,144,4.3,8,2420,2.2,15.8,70.7,126.7,98.2,None,Current,13.9
+786,2024-09-12,21,F,171.7,89.6,Weight Training,74,Low,11.0,124,4.6,1,6859,1.6,15.8,70.7,126.7,98.2,None,Current,13.97
+786,2024-09-13,21,F,171.7,89.9,Weight Training,50,Medium,9.0,144,6.0,1,8194,2.1,15.8,70.7,126.7,98.2,None,Current,14.03
+786,2024-09-14,21,F,171.7,90.1,Weight Training,24,Low,3.6,132,8.1,7,8783,2.5,15.8,70.7,126.7,98.2,None,Current,14.06
+786,2024-09-18,21,F,171.7,90.4,Weight Training,34,Low,5.1,130,6.5,1,5875,3.3,15.8,70.7,126.7,98.2,None,Current,14.09
+786,2024-09-19,21,F,171.7,90.7,Weight Training,29,Medium,5.2,151,7.4,9,5844,1.8,15.8,70.7,126.7,98.2,None,Current,14.13
+786,2024-09-21,21,F,171.7,90.9,HIIT,79,High,33.4,168,4.8,4,7257,1.6,15.8,70.7,126.7,98.2,None,Current,14.24
+786,2024-09-23,21,F,171.7,91.2,Yoga,78,Medium,7.1,155,5.5,2,6387,2.2,15.8,70.7,126.7,98.2,None,Current,14.33
+786,2024-09-24,21,F,171.7,91.4,HIIT,79,Medium,28.8,156,6.3,2,6489,2.0,15.8,70.7,126.7,98.2,None,Current,14.43
+786,2024-09-25,21,F,171.7,91.7,Walking,73,High,9.9,173,7.3,1,4611,3.1,15.8,70.7,126.7,98.2,None,Current,14.53
+786,2024-09-26,21,F,171.7,92.0,Yoga,77,Low,5.9,127,7.6,5,6994,3.4,15.8,70.7,126.7,98.2,None,Current,14.6
+786,2024-09-27,21,F,171.7,92.2,Yoga,49,High,5.3,164,6.5,8,4859,1.8,15.8,70.7,126.7,98.2,None,Current,14.67
+786,2024-09-28,21,F,171.7,92.5,HIIT,59,Medium,21.8,146,6.8,2,6011,3.0,15.8,70.7,126.7,98.2,None,Current,14.74

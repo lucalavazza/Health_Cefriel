@@ -1,0 +1,17 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+1421,2024-09-02,34,M,177.2,128.8,Running,49,Low,17.1,125,7.2,6,4221,3.3,27.4,72,102,90.3,None,Current,13.38
+1421,2024-09-04,34,M,177.2,129.1,Running,21,Medium,8.8,140,7.0,10,6633,3.1,27.4,72,102,90.3,None,Current,13.4
+1421,2024-09-06,34,M,177.2,129.3,Running,92,Medium,38.8,154,4.7,4,6470,2.2,27.4,72,102,90.3,None,Current,13.51
+1421,2024-09-07,34,M,177.2,129.6,Running,37,Medium,15.6,134,7.8,6,6461,3.5,27.4,72,102,90.3,None,Current,13.56
+1421,2024-09-12,34,M,177.2,129.8,Walking,115,Low,15.7,134,6.8,2,5897,3.3,27.4,72,102,90.3,None,Current,13.67
+1421,2024-09-13,34,M,177.2,130.1,Cycling,87,Medium,32.0,139,6.8,3,9274,1.7,27.4,72,102,90.3,None,Current,13.78
+1421,2024-09-15,34,M,177.2,130.4,Tennis,65,Low,17.1,116,7.4,8,8616,3.1,27.4,72,102,90.3,None,Current,13.84
+1421,2024-09-16,34,M,177.2,130.6,Walking,94,Medium,15.5,142,7.1,6,9249,2.3,27.4,72,102,90.3,None,Current,13.96
+1421,2024-09-17,34,M,177.2,130.9,HIIT,23,Medium,12.0,145,6.8,5,6587,1.7,27.4,72,102,90.3,None,Current,13.98
+1421,2024-09-18,34,M,177.2,131.1,Walking,97,Medium,16.1,130,7.9,9,6638,2.8,27.4,72,102,90.3,None,Current,14.1
+1421,2024-09-21,34,M,177.2,131.4,Walking,22,Low,3.0,115,7.0,6,5183,1.7,27.4,72,102,90.3,None,Current,14.12
+1421,2024-09-24,34,M,177.2,131.6,HIIT,91,Low,39.9,113,5.2,6,4203,2.3,27.4,72,102,90.3,None,Current,14.21
+1421,2024-09-27,34,M,177.2,131.9,HIIT,36,High,22.1,149,9.1,8,6648,1.8,27.4,72,102,90.3,None,Current,14.26
+1421,2024-09-28,34,M,177.2,132.2,Walking,52,Medium,8.7,146,7.7,6,8881,2.9,27.4,72,102,90.3,None,Current,14.33
+1421,2024-09-29,34,M,177.2,132.4,Walking,106,Medium,17.7,139,8.1,8,6810,2.5,27.4,72,102,90.3,None,Current,14.45
+1421,2024-09-30,34,M,177.2,132.7,Walking,27,Medium,4.5,134,5.7,3,5645,2.2,27.4,72,102,90.3,None,Current,14.48

@@ -1,0 +1,17 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+2184,2024-09-01,37,F,171.8,88.6,HIIT,102,High,42.1,164,6.3,10,6998,2.7,15.9,74.6,117.1,102.4,None,Never,13.07
+2184,2024-09-04,37,F,171.8,88.9,Weight Training,28,Low,4.1,113,6.8,8,9304,3.1,15.9,74.6,117.1,102.4,None,Never,13.1
+2184,2024-09-08,37,F,171.8,89.1,Weight Training,73,Low,10.8,120,9.2,7,6369,3.2,15.9,74.6,117.1,102.4,None,Never,13.17
+2184,2024-09-11,37,F,171.8,89.4,Weight Training,50,Medium,8.9,137,7.7,7,7292,2.9,15.9,74.6,117.1,102.4,None,Never,13.23
+2184,2024-09-12,37,F,171.8,89.6,Weight Training,70,Low,10.4,122,6.7,3,6351,3.3,15.9,74.6,117.1,102.4,None,Never,13.3
+2184,2024-09-16,37,F,171.8,89.9,Weight Training,86,High,18.0,165,6.9,9,5338,1.9,15.9,74.6,117.1,102.4,None,Never,13.42
+2184,2024-09-17,37,F,171.8,90.2,Weight Training,113,High,23.7,159,5.6,3,7239,2.9,15.9,74.6,117.1,102.4,None,Never,13.58
+2184,2024-09-18,37,F,171.8,90.4,Weight Training,87,Medium,15.7,153,5.8,7,7960,2.2,15.9,74.6,117.1,102.4,None,Never,13.69
+2184,2024-09-19,37,F,171.8,90.7,Running,52,High,17.9,141,6.3,5,7162,1.7,15.9,74.6,117.1,102.4,None,Never,13.76
+2184,2024-09-21,37,F,171.8,90.9,Running,40,Low,9.9,119,8.0,4,7151,3.4,15.9,74.6,117.1,102.4,None,Never,13.8
+2184,2024-09-22,37,F,171.8,91.2,Running,34,Medium,10.1,153,6.7,4,8416,2.8,15.9,74.6,117.1,102.4,None,Never,13.84
+2184,2024-09-25,37,F,171.8,91.5,Walking,46,Low,4.4,119,6.6,2,6084,2.9,15.9,74.6,117.1,102.4,None,Never,13.89
+2184,2024-09-26,37,F,171.8,91.7,Walking,71,Medium,8.2,132,8.8,10,5568,1.7,15.9,74.6,117.1,102.4,None,Never,13.97
+2184,2024-09-27,37,F,171.8,92.0,Walking,95,Low,9.2,118,6.0,8,7309,1.6,15.9,74.6,117.1,102.4,None,Never,14.07
+2184,2024-09-28,37,F,171.8,92.2,Walking,75,Medium,8.7,148,7.9,7,6340,3.4,15.9,74.6,117.1,102.4,None,Never,14.16
+2184,2024-09-30,37,F,171.8,92.5,Walking,20,Medium,2.3,129,5.8,3,6907,2.1,15.9,74.6,117.1,102.4,None,Never,14.18

@@ -1,0 +1,19 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+1355,2024-01-02,64,M,173.5,71.7,Tennis,110,Medium,19.1,129,6.9,2,6507,2.4,23.7,71.2,113.8,94.2,Diabetes,Never,0.13
+1355,2024-01-04,64,M,173.5,71.9,Swimming,102,Low,14.2,95,6.9,5,6719,1.9,23.7,71.2,113.8,94.2,Diabetes,Never,0.23
+1355,2024-01-05,64,M,173.5,72.2,Tennis,105,Medium,18.4,120,7.2,9,9061,3.2,23.7,71.2,113.8,94.2,Diabetes,Never,0.36
+1355,2024-01-06,64,M,173.5,72.4,Tennis,75,High,15.4,142,6.6,2,8882,1.7,23.7,71.2,113.8,94.2,Diabetes,Never,0.47
+1355,2024-01-10,64,M,173.5,72.7,Walking,74,Low,5.7,102,6.5,2,6899,1.8,23.7,71.2,113.8,94.2,Diabetes,Never,0.54
+1355,2024-01-13,64,M,173.5,72.9,Dancing,97,Medium,12.9,128,6.2,2,10112,2.9,23.7,71.2,113.8,94.2,Diabetes,Never,0.66
+1355,2024-01-15,64,M,173.5,73.2,Dancing,52,Medium,7.0,113,7.6,3,7963,2.3,23.7,71.2,113.8,94.2,Diabetes,Never,0.72
+1355,2024-01-16,64,M,173.5,73.5,Walking,47,Medium,4.4,107,6.6,7,6043,1.9,23.7,71.2,113.8,94.2,Diabetes,Never,0.77
+1355,2024-01-17,64,M,173.5,73.7,Dancing,74,Medium,10.0,118,7.1,7,7812,2.4,23.7,71.2,113.8,94.2,Diabetes,Never,0.86
+1355,2024-01-20,64,M,173.5,74.0,Weight Training,95,Medium,14.0,126,7.6,6,12931,1.8,23.7,71.2,113.8,94.2,Diabetes,Never,0.98
+1355,2024-01-22,64,M,173.5,74.2,Walking,29,Medium,2.7,106,7.3,8,8825,3.3,23.7,71.2,113.8,94.2,Diabetes,Never,1.01
+1355,2024-01-24,64,M,173.5,74.5,Basketball,112,Low,18.5,98,6.3,4,7437,3.3,23.7,71.2,113.8,94.2,Diabetes,Never,1.12
+1355,2024-01-25,64,M,173.5,74.8,Weight Training,25,Low,3.1,94,7.7,6,7355,3.0,23.7,71.2,113.8,94.2,Diabetes,Never,1.15
+1355,2024-01-26,64,M,173.5,75.0,Weight Training,81,Medium,12.1,110,8.2,5,9346,3.0,23.7,71.2,113.8,94.2,Diabetes,Never,1.25
+1355,2024-01-28,64,M,173.5,75.3,Basketball,66,Medium,13.2,97,8.5,8,12290,2.4,23.7,71.2,113.8,94.2,Diabetes,Never,1.33
+1355,2024-01-29,64,M,173.5,75.5,Weight Training,113,Low,14.2,99,8.4,6,8670,2.5,23.7,71.2,113.8,94.2,Diabetes,Never,1.44
+1355,2024-01-30,64,M,173.5,75.8,Running,50,High,14.4,131,6.3,8,10037,2.6,23.7,71.2,113.8,94.2,Diabetes,Never,1.51
+1355,2024-01-31,64,M,173.5,76.0,Running,87,Low,17.9,100,7.9,9,9478,1.7,23.7,71.2,113.8,94.2,Diabetes,Never,1.6

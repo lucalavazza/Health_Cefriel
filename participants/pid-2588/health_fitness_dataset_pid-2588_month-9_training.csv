@@ -1,0 +1,17 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+2588,2024-09-03,50,M,156.3,92.9,HIIT,64,High,27.7,158,6.4,4,7170,2.6,20.5,78,106.9,71.8,Hypertension,Former,13.38
+2588,2024-09-05,50,M,156.3,93.2,HIIT,65,Medium,24.2,131,7.5,1,5975,1.9,20.5,78,106.9,71.8,Hypertension,Former,13.46
+2588,2024-09-06,50,M,156.3,93.4,HIIT,91,Medium,33.9,130,6.9,6,7695,3.2,20.5,78,106.9,71.8,Hypertension,Former,13.57
+2588,2024-09-09,50,M,156.3,93.7,Weight Training,86,Low,13.4,109,8.0,7,8023,3.1,20.5,78,106.9,71.8,Hypertension,Former,13.65
+2588,2024-09-10,50,M,156.3,93.9,HIIT,67,Medium,25.1,112,8.7,2,4565,2.4,20.5,78,106.9,71.8,Hypertension,Former,13.73
+2588,2024-09-15,50,M,156.3,94.2,Cycling,54,High,16.8,152,7.0,10,7897,1.9,20.5,78,106.9,71.8,Hypertension,Former,13.81
+2588,2024-09-16,50,M,156.3,94.4,Running,93,Low,23.8,109,9.9,7,4564,1.7,20.5,78,106.9,71.8,Hypertension,Former,13.9
+2588,2024-09-17,50,M,156.3,94.7,Running,44,High,15.8,140,5.8,7,6439,3.1,20.5,78,106.9,71.8,Hypertension,Former,13.96
+2588,2024-09-18,50,M,156.3,95.0,Cycling,52,Medium,14.0,121,8.5,6,4982,2.5,20.5,78,106.9,71.8,Hypertension,Former,14.02
+2588,2024-09-19,50,M,156.3,95.2,Yoga,72,High,8.0,147,5.4,4,7845,2.9,20.5,78,106.9,71.8,Hypertension,Former,14.13
+2588,2024-09-20,50,M,156.3,95.5,Running,42,Medium,13.1,119,8.4,4,8600,1.7,20.5,78,106.9,71.8,Hypertension,Former,14.18
+2588,2024-09-21,50,M,156.3,95.7,Running,75,Medium,23.4,119,7.1,6,8003,2.3,20.5,78,106.9,71.8,Hypertension,Former,14.27
+2588,2024-09-25,50,M,156.3,96.0,Yoga,33,Medium,3.2,128,6.0,5,5453,2.4,20.5,78,106.9,71.8,Hypertension,Former,14.31
+2588,2024-09-28,50,M,156.3,96.2,Yoga,58,Medium,5.6,122,7.2,3,7305,2.1,20.5,78,106.9,71.8,Hypertension,Former,14.38
+2588,2024-09-29,50,M,156.3,96.5,Yoga,35,Low,2.8,112,5.9,2,7591,1.7,20.5,78,106.9,71.8,Hypertension,Former,14.41
+2588,2024-09-30,50,M,156.3,96.8,Tennis,45,Medium,10.6,127,5.7,9,4783,2.0,20.5,78,106.9,71.8,Hypertension,Former,14.46

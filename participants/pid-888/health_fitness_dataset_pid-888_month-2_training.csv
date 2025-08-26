@@ -1,0 +1,19 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+888,2024-02-01,63,M,176.2,85.9,Weight Training,41,Low,5.9,102,7.0,5,10486,3.1,26.2,73.4,116.3,83,None,Never,1.29
+888,2024-02-02,63,M,176.2,86.2,Weight Training,79,Low,11.3,92,7.8,5,7954,1.5,26.2,73.4,116.3,83,None,Never,1.37
+888,2024-02-03,63,M,176.2,86.5,Weight Training,61,High,12.3,119,6.8,9,9213,1.6,26.2,73.4,116.3,83,None,Never,1.45
+888,2024-02-05,63,M,176.2,86.7,Weight Training,90,Medium,15.6,107,6.9,4,10793,3.4,26.2,73.4,116.3,83,None,Never,1.56
+888,2024-02-07,63,M,176.2,87.0,Weight Training,90,Medium,15.6,117,6.7,9,9466,1.8,26.2,73.4,116.3,83,None,Never,1.67
+888,2024-02-08,63,M,176.2,87.2,Basketball,68,Low,13.1,98,6.6,3,8735,1.6,26.2,73.4,116.3,83,None,Never,1.74
+888,2024-02-10,63,M,176.2,87.5,Running,64,Medium,18.2,133,5.4,6,11867,2.7,26.2,73.4,116.3,83,None,Never,1.81
+888,2024-02-13,63,M,176.2,87.7,Basketball,67,Low,13.0,107,6.0,5,8214,1.7,26.2,73.4,116.3,83,None,Never,1.88
+888,2024-02-17,63,M,176.2,88.0,Basketball,49,Low,9.6,105,6.5,7,12540,2.2,26.2,73.4,116.3,83,None,Never,1.93
+888,2024-02-18,63,M,176.2,88.3,Basketball,39,Medium,9.2,111,6.6,5,10643,2.2,26.2,73.4,116.3,83,None,Never,1.98
+888,2024-02-20,63,M,176.2,88.5,Basketball,110,Low,21.6,107,7.9,3,8670,3.1,26.2,73.4,116.3,83,None,Never,2.09
+888,2024-02-22,63,M,176.2,88.8,Cycling,62,High,18.1,145,7.2,2,7334,1.5,26.2,73.4,116.3,83,None,Never,2.17
+888,2024-02-23,63,M,176.2,89.0,Cycling,61,High,17.9,120,6.3,4,7616,1.7,26.2,73.4,116.3,83,None,Never,2.26
+888,2024-02-24,63,M,176.2,89.3,Cycling,41,Low,8.6,98,6.4,6,9961,3.2,26.2,73.4,116.3,83,None,Never,2.3
+888,2024-02-26,63,M,176.2,89.6,HIIT,59,Medium,21.1,116,4.0,7,7263,2.0,26.2,73.4,116.3,83,None,Never,2.37
+888,2024-02-27,63,M,176.2,89.8,Cycling,109,Low,23.0,101,8.4,2,11597,2.6,26.2,73.4,116.3,83,None,Never,2.48
+888,2024-02-28,63,M,176.2,90.1,Weight Training,99,High,20.7,128,7.4,6,9789,2.6,26.2,73.4,116.3,83,None,Never,2.62
+888,2024-02-29,63,M,176.2,90.3,HIIT,118,Medium,42.5,116,6.4,2,8466,2.2,26.2,73.4,116.3,83,None,Never,2.76

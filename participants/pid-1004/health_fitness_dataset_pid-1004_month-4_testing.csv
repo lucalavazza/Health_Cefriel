@@ -1,0 +1,17 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+1004,2024-04-05,54,M,173.7,89.3,Tennis,65,High,16.4,136,6.2,4,8809,2.2,24,67.1,109.6,79.7,None,Current,5.53
+1004,2024-04-06,54,M,173.7,89.6,Walking,69,Medium,7.8,132,8.5,8,12619,2.8,24,67.1,109.6,79.7,None,Current,5.61
+1004,2024-04-10,54,M,173.7,89.9,Walking,92,Low,8.7,106,6.9,5,9109,2.0,24,67.1,109.6,79.7,None,Current,5.7
+1004,2024-04-11,54,M,173.7,90.1,Yoga,107,Low,8.0,104,8.3,7,5720,2.6,24,67.1,109.6,79.7,None,Current,5.81
+1004,2024-04-15,54,M,173.7,90.4,Yoga,27,Medium,2.4,122,6.3,6,10998,2.9,24,67.1,109.6,79.7,None,Current,5.84
+1004,2024-04-16,54,M,173.7,90.6,Walking,105,Medium,12.0,130,9.2,2,9978,2.7,24,67.1,109.6,79.7,None,Current,5.97
+1004,2024-04-17,54,M,173.7,90.9,Walking,117,Low,11.2,107,6.4,7,8600,3.2,24,67.1,109.6,79.7,None,Current,6.08
+1004,2024-04-18,54,M,173.7,91.2,Walking,55,Medium,6.3,128,7.2,9,8867,2.6,24,67.1,109.6,79.7,None,Current,6.15
+1004,2024-04-19,54,M,173.7,91.4,Walking,91,Low,8.8,111,6.3,8,8359,2.6,24,67.1,109.6,79.7,None,Current,6.24
+1004,2024-04-20,54,M,173.7,91.7,Walking,90,High,12.2,146,5.7,10,9368,2.9,24,67.1,109.6,79.7,None,Current,6.37
+1004,2024-04-22,54,M,173.7,91.9,Dancing,32,Low,4.5,109,7.1,7,13315,3.2,24,67.1,109.6,79.7,None,Current,6.4
+1004,2024-04-25,54,M,173.7,92.2,Walking,96,Low,9.3,104,6.4,3,7692,2.1,24,67.1,109.6,79.7,None,Current,6.5
+1004,2024-04-27,54,M,173.7,92.4,Dancing,113,Low,15.9,100,8.0,9,10027,2.0,24,67.1,109.6,79.7,None,Current,6.61
+1004,2024-04-28,54,M,173.7,92.7,Tennis,25,Medium,5.6,124,7.3,7,11559,3.5,24,67.1,109.6,79.7,None,Current,6.64
+1004,2024-04-29,54,M,173.7,93.0,Basketball,35,Medium,8.7,110,5.5,10,9144,3.0,24,67.1,109.6,79.7,None,Current,6.68
+1004,2024-04-30,54,M,173.7,93.2,Dancing,65,Medium,11.1,119,6.0,4,10037,2.9,24,67.1,109.6,79.7,None,Current,6.76

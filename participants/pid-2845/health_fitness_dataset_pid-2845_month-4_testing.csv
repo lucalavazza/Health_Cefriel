@@ -1,0 +1,21 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+2845,2024-04-01,18,F,163.8,64.7,Walking,31,Medium,2.5,156,8.4,9,11405,2.6,17.3,70.1,108.5,91.5,Diabetes,Never,5.61
+2845,2024-04-02,18,F,163.8,65.0,HIIT,116,Low,25.0,131,6.4,3,8038,2.2,17.3,70.1,108.5,91.5,Diabetes,Never,5.73
+2845,2024-04-03,18,F,163.8,65.3,Walking,59,Medium,4.9,153,7.8,7,11539,1.6,17.3,70.1,108.5,91.5,Diabetes,Never,5.8
+2845,2024-04-05,18,F,163.8,65.5,Weight Training,68,Medium,8.9,151,6.4,5,10211,2.7,17.3,70.1,108.5,91.5,Diabetes,Never,5.88
+2845,2024-04-06,18,F,163.8,65.8,Walking,27,High,2.6,189,8.4,10,12338,1.7,17.3,70.1,108.5,91.5,Diabetes,Never,5.92
+2845,2024-04-08,18,F,163.8,66.0,Walking,32,Medium,2.7,165,5.4,4,11199,2.6,17.3,70.1,108.5,91.5,Diabetes,Never,5.96
+2845,2024-04-10,18,F,163.8,66.3,Weight Training,104,Low,11.4,131,7.4,2,9914,2.3,17.3,70.1,108.5,91.5,Diabetes,Never,6.06
+2845,2024-04-11,18,F,163.8,66.6,Walking,88,Low,6.2,133,5.3,4,10660,2.5,17.3,70.1,108.5,91.5,Diabetes,Never,6.15
+2845,2024-04-12,18,F,163.8,66.8,Walking,47,Medium,4.0,154,6.8,1,11545,3.4,17.3,70.1,108.5,91.5,Diabetes,Never,6.21
+2845,2024-04-16,18,F,163.8,67.1,Weight Training,68,High,10.6,165,6.4,8,7476,3.3,17.3,70.1,108.5,91.5,Diabetes,Never,6.3
+2845,2024-04-17,18,F,163.8,67.3,Weight Training,102,High,16.0,177,7.2,3,12216,3.4,17.3,70.1,108.5,91.5,Diabetes,Never,6.45
+2845,2024-04-18,18,F,163.8,67.6,Walking,47,Medium,4.0,144,7.6,4,9259,1.6,17.3,70.1,108.5,91.5,Diabetes,Never,6.5
+2845,2024-04-19,18,F,163.8,67.9,Yoga,95,Medium,6.4,148,6.0,4,10644,2.7,17.3,70.1,108.5,91.5,Diabetes,Never,6.62
+2845,2024-04-20,18,F,163.8,68.1,Yoga,109,Low,6.2,134,6.8,2,12931,2.2,17.3,70.1,108.5,91.5,Diabetes,Never,6.72
+2845,2024-04-21,18,F,163.8,68.4,Yoga,99,Medium,6.7,145,8.1,4,12858,3.4,17.3,70.1,108.5,91.5,Diabetes,Never,6.84
+2845,2024-04-22,18,F,163.8,68.6,Running,48,Medium,10.7,151,6.8,7,7046,3.5,17.3,70.1,108.5,91.5,Diabetes,Never,6.9
+2845,2024-04-25,18,F,163.8,68.9,Swimming,71,High,13.3,161,6.6,4,8052,3.2,17.3,70.1,108.5,91.5,Diabetes,Never,7.0
+2845,2024-04-27,18,F,163.8,69.1,Cycling,75,Medium,14.6,158,5.4,5,11543,2.6,17.3,70.1,108.5,91.5,Diabetes,Never,7.09
+2845,2024-04-28,18,F,163.8,69.4,Cycling,86,Medium,16.8,144,7.5,7,10342,3.3,17.3,70.1,108.5,91.5,Diabetes,Never,7.19
+2845,2024-04-29,18,F,163.8,69.7,Cycling,112,Low,18.4,141,8.0,5,7409,1.8,17.3,70.1,108.5,91.5,Diabetes,Never,7.31

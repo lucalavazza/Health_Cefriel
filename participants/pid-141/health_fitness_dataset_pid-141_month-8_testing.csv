@@ -1,0 +1,16 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+141,2024-08-01,49,F,153.3,91.0,Cycling,26,Medium,6.7,133,7.4,2,8307,2.3,21.6,72.8,126,82.8,Asthma,Never,13.44
+141,2024-08-02,49,F,153.3,91.2,Cycling,30,Medium,7.7,140,6.4,6,6656,3.1,21.6,72.8,126,82.8,Asthma,Never,13.48
+141,2024-08-05,49,F,153.3,91.5,Cycling,119,Low,25.6,114,6.1,5,9007,3.0,21.6,72.8,126,82.8,Asthma,Never,13.6
+141,2024-08-08,49,F,153.3,91.8,Cycling,120,Medium,31.1,148,8.9,9,7557,2.9,21.6,72.8,126,82.8,Asthma,Never,13.74
+141,2024-08-13,49,F,153.3,92.0,HIIT,23,Low,7.0,109,7.4,8,7719,2.2,21.6,72.8,126,82.8,Asthma,Never,13.76
+141,2024-08-14,49,F,153.3,92.3,Cycling,58,High,17.6,149,7.0,2,3170,3.2,21.6,72.8,126,82.8,Asthma,Never,13.84
+141,2024-08-16,49,F,153.3,92.5,Cycling,120,Low,26.1,112,7.0,4,6966,1.6,21.6,72.8,126,82.8,Asthma,Never,13.96
+141,2024-08-18,49,F,153.3,92.8,Cycling,60,Medium,15.7,132,5.8,1,6782,2.0,21.6,72.8,126,82.8,Asthma,Never,14.04
+141,2024-08-20,49,F,153.3,93.0,Cycling,34,High,10.4,135,6.2,4,6036,2.5,21.6,72.8,126,82.8,Asthma,Never,14.08
+141,2024-08-21,49,F,153.3,93.3,Yoga,93,Low,7.2,111,6.5,2,7337,1.9,21.6,72.8,126,82.8,Asthma,Never,14.18
+141,2024-08-23,49,F,153.3,93.6,Yoga,66,High,7.2,153,6.2,4,5822,2.6,21.6,72.8,126,82.8,Asthma,Never,14.27
+141,2024-08-26,49,F,153.3,93.8,Yoga,50,Medium,4.7,135,7.9,3,6852,3.2,21.6,72.8,126,82.8,Asthma,Never,14.33
+141,2024-08-27,49,F,153.3,94.1,Yoga,58,Low,4.5,111,6.9,6,4840,2.6,21.6,72.8,126,82.8,Asthma,Never,14.39
+141,2024-08-28,49,F,153.3,94.3,Yoga,79,Low,6.2,108,6.1,1,6919,3.4,21.6,72.8,126,82.8,Asthma,Never,14.47
+141,2024-08-31,49,F,153.3,94.6,Yoga,34,Medium,3.2,135,7.1,3,7180,3.5,21.6,72.8,126,82.8,Asthma,Never,14.51

@@ -1,0 +1,17 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+1216,2024-09-01,44,M,173.7,133.0,Basketball,105,Medium,37.2,131,6.6,2,9200,2.2,29.3,73.5,125.4,67.6,None,Current,14.06
+1216,2024-09-03,44,M,173.7,133.3,Basketball,42,Medium,14.9,123,8.2,2,7192,2.7,29.3,73.5,125.4,67.6,None,Current,14.11
+1216,2024-09-04,44,M,173.7,133.6,HIIT,79,Medium,42.1,132,6.2,3,7867,2.6,29.3,73.5,125.4,67.6,None,Current,14.2
+1216,2024-09-06,44,M,173.7,133.8,Basketball,102,Medium,36.3,145,7.5,7,5263,3.1,29.3,73.5,125.4,67.6,None,Current,14.33
+1216,2024-09-07,44,M,173.7,134.1,HIIT,59,Medium,31.6,139,6.9,8,6966,2.2,29.3,73.5,125.4,67.6,None,Current,14.4
+1216,2024-09-09,44,M,173.7,134.3,Basketball,63,Medium,22.5,131,6.3,7,9067,2.4,29.3,73.5,125.4,67.6,None,Current,14.47
+1216,2024-09-11,44,M,173.7,134.6,HIIT,74,High,46.4,141,6.9,6,5754,2.1,29.3,73.5,125.4,67.6,None,Current,14.58
+1216,2024-09-13,44,M,173.7,134.8,Weight Training,24,High,7.5,119,5.3,10,7022,2.8,29.3,73.5,125.4,67.6,None,Current,14.61
+1216,2024-09-18,44,M,173.7,135.1,Weight Training,35,Medium,9.4,137,7.3,1,7514,3.2,29.3,73.5,125.4,67.6,None,Current,14.65
+1216,2024-09-20,44,M,173.7,135.3,Weight Training,110,Low,24.8,119,6.2,2,5045,2.4,29.3,73.5,125.4,67.6,None,Current,14.76
+1216,2024-09-21,44,M,173.7,135.6,Dancing,31,High,9.0,152,6.5,3,7568,3.2,29.3,73.5,125.4,67.6,None,Current,14.8
+1216,2024-09-22,44,M,173.7,135.9,Weight Training,53,High,16.8,148,6.3,5,7838,2.6,29.3,73.5,125.4,67.6,None,Current,14.88
+1216,2024-09-23,44,M,173.7,136.1,Weight Training,100,Low,22.6,104,7.6,8,971,2.8,29.3,73.5,125.4,67.6,None,Current,14.98
+1216,2024-09-26,44,M,173.7,136.4,Weight Training,82,High,26.0,139,6.8,4,7964,3.3,29.3,73.5,125.4,67.6,None,Current,15.09
+1216,2024-09-27,44,M,173.7,136.6,Weight Training,27,Low,6.1,111,7.4,4,8100,2.8,29.3,73.5,125.4,67.6,None,Current,15.12
+1216,2024-09-30,44,M,173.7,136.9,Dancing,99,Medium,24.8,134,8.2,2,5377,3.2,29.3,73.5,125.4,67.6,None,Current,15.24

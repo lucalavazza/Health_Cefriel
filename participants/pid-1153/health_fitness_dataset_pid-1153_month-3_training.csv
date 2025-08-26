@@ -1,0 +1,29 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+1153,2024-03-01,28,Other,162.3,76.6,Running,98,Low,20.4,127,8.4,7,11902,1.7,24.7,75.9,127.9,71.5,Diabetes,Former,3.59
+1153,2024-03-02,28,Other,162.3,76.8,Cycling,22,Low,4.0,122,8.4,8,9480,2.1,24.7,75.9,127.9,71.5,Diabetes,Former,3.61
+1153,2024-03-03,28,Other,162.3,77.1,Cycling,60,Medium,13.1,141,6.8,5,12068,2.8,24.7,75.9,127.9,71.5,Diabetes,Former,3.69
+1153,2024-03-04,28,Other,162.3,77.4,Running,24,Low,5.0,127,7.9,8,8185,2.4,24.7,75.9,127.9,71.5,Diabetes,Former,3.71
+1153,2024-03-05,28,Other,162.3,77.6,Yoga,102,Medium,7.9,135,8.2,6,9072,1.7,24.7,75.9,127.9,71.5,Diabetes,Former,3.83
+1153,2024-03-06,28,Other,162.3,77.9,Cycling,102,Low,18.7,123,7.5,10,10883,2.0,24.7,75.9,127.9,71.5,Diabetes,Former,3.94
+1153,2024-03-08,28,Other,162.3,78.1,Cycling,100,Low,18.4,118,6.6,4,7144,1.9,24.7,75.9,127.9,71.5,Diabetes,Former,4.04
+1153,2024-03-09,28,Other,162.3,78.4,Yoga,30,Low,2.0,123,6.6,6,13032,2.0,24.7,75.9,127.9,71.5,Diabetes,Former,4.07
+1153,2024-03-10,28,Other,162.3,78.6,Yoga,28,Low,1.8,123,7.5,3,15513,2.6,24.7,75.9,127.9,71.5,Diabetes,Former,4.09
+1153,2024-03-11,28,Other,162.3,78.9,Yoga,42,Low,2.8,119,8.7,5,9344,2.8,24.7,75.9,127.9,71.5,Diabetes,Former,4.14
+1153,2024-03-13,28,Other,162.3,79.2,Yoga,32,Medium,2.5,150,6.1,7,9383,2.0,24.7,75.9,127.9,71.5,Diabetes,Former,4.17
+1153,2024-03-15,28,Other,162.3,79.4,Yoga,109,Medium,8.6,133,6.8,1,9320,2.4,24.7,75.9,127.9,71.5,Diabetes,Former,4.3
+1153,2024-03-16,28,Other,162.3,79.7,Walking,69,Low,5.8,128,7.5,4,11049,2.4,24.7,75.9,127.9,71.5,Diabetes,Former,4.37
+1153,2024-03-17,28,Other,162.3,79.9,Walking,112,Medium,11.3,138,8.1,8,12093,2.8,24.7,75.9,127.9,71.5,Diabetes,Former,4.51
+1153,2024-03-18,28,Other,162.3,80.2,Walking,89,Low,7.5,122,6.9,2,11218,2.4,24.7,75.9,127.9,71.5,Diabetes,Former,4.6
+1153,2024-03-19,28,Other,162.3,80.5,Walking,23,Low,1.9,119,7.1,4,9071,2.2,24.7,75.9,127.9,71.5,Diabetes,Former,4.62
+1153,2024-03-20,28,Other,162.3,80.7,Walking,117,High,13.9,152,6.0,2,6798,3.4,24.7,75.9,127.9,71.5,Diabetes,Former,4.78
+1153,2024-03-21,28,Other,162.3,81.0,Weight Training,50,High,9.4,165,8.8,8,5036,3.2,24.7,75.9,127.9,71.5,Diabetes,Former,4.85
+1153,2024-03-22,28,Other,162.3,81.2,Walking,79,Medium,8.1,147,7.7,8,8690,3.5,24.7,75.9,127.9,71.5,Diabetes,Former,4.95
+1153,2024-03-23,28,Other,162.3,81.5,Weight Training,83,Low,11.2,125,7.2,1,10965,1.5,24.7,75.9,127.9,71.5,Diabetes,Former,5.03
+1153,2024-03-24,28,Other,162.3,81.8,Walking,35,High,4.2,175,7.0,8,11045,3.2,24.7,75.9,127.9,71.5,Diabetes,Former,5.08
+1153,2024-03-25,28,Other,162.3,82.0,Walking,42,Low,3.6,124,7.2,6,9998,2.1,24.7,75.9,127.9,71.5,Diabetes,Former,5.12
+1153,2024-03-26,28,Other,162.3,82.3,Walking,36,Medium,3.7,146,7.4,4,8754,3.0,24.7,75.9,127.9,71.5,Diabetes,Former,5.17
+1153,2024-03-27,28,Other,162.3,82.5,Walking,97,Medium,10.1,142,5.6,10,8587,2.5,24.7,75.9,127.9,71.5,Diabetes,Former,5.28
+1153,2024-03-28,28,Other,162.3,82.8,Tennis,113,Medium,22.7,140,6.8,5,7411,1.9,24.7,75.9,127.9,71.5,Diabetes,Former,5.42
+1153,2024-03-29,28,Other,162.3,83.0,Tennis,110,Medium,22.2,145,8.4,3,7557,1.9,24.7,75.9,127.9,71.5,Diabetes,Former,5.55
+1153,2024-03-30,28,Other,162.3,83.3,Tennis,65,Medium,13.1,132,7.5,9,11684,1.6,24.7,75.9,127.9,71.5,Diabetes,Former,5.63
+1153,2024-03-31,28,Other,162.3,83.6,Tennis,26,Medium,5.3,156,6.1,1,10465,2.7,24.7,75.9,127.9,71.5,Diabetes,Former,5.66

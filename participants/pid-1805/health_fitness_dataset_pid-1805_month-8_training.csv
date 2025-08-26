@@ -1,0 +1,16 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+1805,2024-08-01,19,M,174,106.4,Tennis,79,Low,17.0,136,9.6,1,6830,2.0,23.1,69.6,116.1,73.6,Hypertension,Former,11.62
+1805,2024-08-04,19,M,174,106.7,Tennis,91,Low,19.6,133,4.9,1,6345,3.1,23.1,69.6,116.1,73.6,Hypertension,Former,11.71
+1805,2024-08-08,19,M,174,106.9,Tennis,116,High,35.1,166,7.7,3,7176,3.1,23.1,69.6,116.1,73.6,Hypertension,Former,11.87
+1805,2024-08-09,19,M,174,107.2,Tennis,73,Low,15.8,130,6.0,7,8789,3.0,23.1,69.6,116.1,73.6,Hypertension,Former,11.94
+1805,2024-08-10,19,M,174,107.5,Tennis,63,High,19.2,181,6.6,4,5757,1.6,23.1,69.6,116.1,73.6,Hypertension,Former,12.03
+1805,2024-08-11,19,M,174,107.7,Tennis,78,Low,17.0,129,7.2,10,8344,2.7,23.1,69.6,116.1,73.6,Hypertension,Former,12.11
+1805,2024-08-12,19,M,174,108.0,Tennis,71,Medium,18.6,165,7.0,9,6512,3.4,23.1,69.6,116.1,73.6,Hypertension,Former,12.2
+1805,2024-08-15,19,M,174,108.2,Tennis,78,Low,17.1,124,6.7,5,7216,1.6,23.1,69.6,116.1,73.6,Hypertension,Former,12.27
+1805,2024-08-16,19,M,174,108.5,Tennis,112,Low,24.6,131,7.9,3,5780,2.5,23.1,69.6,116.1,73.6,Hypertension,Former,12.39
+1805,2024-08-20,19,M,174,108.7,Tennis,100,Medium,26.4,158,5.1,3,4849,2.2,23.1,69.6,116.1,73.6,Hypertension,Former,12.51
+1805,2024-08-21,19,M,174,109.0,Tennis,97,High,29.9,173,7.6,3,4272,1.8,23.1,69.6,116.1,73.6,Hypertension,Former,12.64
+1805,2024-08-26,19,M,174,109.3,Tennis,96,Medium,25.5,157,7.9,6,5446,3.2,23.1,69.6,116.1,73.6,Hypertension,Former,12.76
+1805,2024-08-28,19,M,174,109.5,Cycling,46,Medium,14.2,152,7.2,5,3639,2.1,23.1,69.6,116.1,73.6,Hypertension,Former,12.81
+1805,2024-08-29,19,M,174,109.8,Running,105,Medium,37.6,148,5.7,3,8627,2.6,23.1,69.6,116.1,73.6,Hypertension,Former,12.94
+1805,2024-08-31,19,M,174,110.0,Running,52,Low,15.5,125,8.1,8,7078,3.0,23.1,69.6,116.1,73.6,Hypertension,Former,12.99

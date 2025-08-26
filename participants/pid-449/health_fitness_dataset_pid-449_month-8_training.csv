@@ -1,0 +1,19 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+449,2024-08-01,33,M,173.8,106.1,Basketball,98,High,32.3,140,7.3,5,6409,3.3,23,63.4,118.5,72.8,Diabetes,Former,12.22
+449,2024-08-02,33,M,173.8,106.4,Weight Training,61,Medium,12.9,141,7.2,3,6059,2.7,23,63.4,118.5,72.8,Diabetes,Former,12.29
+449,2024-08-03,33,M,173.8,106.6,Basketball,113,Medium,32.1,143,7.9,5,8797,1.7,23,63.4,118.5,72.8,Diabetes,Former,12.42
+449,2024-08-06,33,M,173.8,106.9,Tennis,112,Medium,29.1,138,6.0,10,9246,2.9,23,63.4,118.5,72.8,Diabetes,Former,12.56
+449,2024-08-07,33,M,173.8,107.1,Basketball,77,Medium,21.9,147,7.0,2,8383,1.5,23,63.4,118.5,72.8,Diabetes,Former,12.65
+449,2024-08-10,33,M,173.8,107.4,Swimming,79,High,23.0,163,6.2,3,7603,2.8,23,63.4,118.5,72.8,Diabetes,Former,12.76
+449,2024-08-12,33,M,173.8,107.6,Tennis,96,Medium,25.1,145,6.5,6,6917,3.4,23,63.4,118.5,72.8,Diabetes,Former,12.88
+449,2024-08-13,33,M,173.8,107.9,Swimming,28,High,8.2,166,7.7,5,6374,2.3,23,63.4,118.5,72.8,Diabetes,Former,12.92
+449,2024-08-17,33,M,173.8,108.2,Tennis,22,Low,4.8,113,7.1,7,8610,2.8,23,63.4,118.5,72.8,Diabetes,Former,12.94
+449,2024-08-19,33,M,173.8,108.4,Tennis,116,Low,25.4,111,7.8,5,7653,3.4,23,63.4,118.5,72.8,Diabetes,Former,13.05
+449,2024-08-21,33,M,173.8,108.7,Cycling,99,Low,25.3,118,8.4,3,9441,2.5,23,63.4,118.5,72.8,Diabetes,Former,13.15
+449,2024-08-22,33,M,173.8,108.9,Tennis,74,Medium,19.6,138,8.0,5,7009,3.1,23,63.4,118.5,72.8,Diabetes,Former,13.24
+449,2024-08-23,33,M,173.8,109.2,Tennis,102,Low,22.5,120,6.5,9,9190,1.8,23,63.4,118.5,72.8,Diabetes,Former,13.34
+449,2024-08-24,33,M,173.8,109.5,Tennis,30,Medium,8.0,142,6.5,1,7671,1.6,23,63.4,118.5,72.8,Diabetes,Former,13.38
+449,2024-08-25,33,M,173.8,109.7,Tennis,23,High,7.1,159,7.7,7,9444,1.8,23,63.4,118.5,72.8,Diabetes,Former,13.41
+449,2024-08-28,33,M,173.8,110.0,HIIT,46,High,23.6,164,6.1,9,5636,3.3,23,63.4,118.5,72.8,Diabetes,Former,13.48
+449,2024-08-29,33,M,173.8,110.2,HIIT,105,Low,38.5,123,7.0,9,3954,2.9,23,63.4,118.5,72.8,Diabetes,Former,13.58
+449,2024-08-30,33,M,173.8,110.5,Yoga,23,High,3.0,174,7.1,8,6295,2.9,23,63.4,118.5,72.8,Diabetes,Former,13.61

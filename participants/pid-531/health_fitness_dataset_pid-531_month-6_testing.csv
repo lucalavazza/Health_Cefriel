@@ -1,0 +1,23 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+531,2024-06-02,61,M,155,79.7,Weight Training,118,High,21.9,140,6.8,9,8548,3.0,21.4,62.8,106.9,95.4,None,Current,8.88
+531,2024-06-03,61,M,155,80.0,Weight Training,108,Low,14.3,94,6.6,6,8544,3.5,21.4,62.8,106.9,95.4,None,Current,8.99
+531,2024-06-05,61,M,155,80.2,Weight Training,41,Low,5.5,101,5.8,7,7745,2.3,21.4,62.8,106.9,95.4,None,Current,9.03
+531,2024-06-06,61,M,155,80.5,Cycling,41,Medium,9.3,116,7.4,7,9024,2.5,21.4,62.8,106.9,95.4,None,Current,9.08
+531,2024-06-08,61,M,155,80.7,Weight Training,31,Low,4.2,100,6.4,6,8505,2.3,21.4,62.8,106.9,95.4,None,Current,9.11
+531,2024-06-11,61,M,155,81.0,Cycling,93,High,24.8,126,5.6,1,10078,2.3,21.4,62.8,106.9,95.4,None,Current,9.24
+531,2024-06-12,61,M,155,81.3,Weight Training,50,Medium,8.1,130,7.9,3,7506,2.9,21.4,62.8,106.9,95.4,None,Current,9.3
+531,2024-06-13,61,M,155,81.5,Cycling,30,Low,5.8,101,8.3,5,10489,2.8,21.4,62.8,106.9,95.4,None,Current,9.33
+531,2024-06-14,61,M,155,81.8,Cycling,77,Medium,17.8,110,5.9,2,8519,2.6,21.4,62.8,106.9,95.4,None,Current,9.42
+531,2024-06-15,61,M,155,82.0,Weight Training,87,Medium,14.2,125,6.1,8,9885,3.3,21.4,62.8,106.9,95.4,None,Current,9.52
+531,2024-06-16,61,M,155,82.3,Cycling,33,Medium,7.7,109,6.4,5,6665,1.6,21.4,62.8,106.9,95.4,None,Current,9.56
+531,2024-06-17,61,M,155,82.5,Cycling,38,High,10.3,142,7.4,7,8890,2.2,21.4,62.8,106.9,95.4,None,Current,9.62
+531,2024-06-18,61,M,155,82.8,Weight Training,73,High,14.1,136,7.3,2,6729,2.8,21.4,62.8,106.9,95.4,None,Current,9.72
+531,2024-06-19,61,M,155,83.1,Weight Training,74,Medium,12.3,108,7.2,5,7097,2.9,21.4,62.8,106.9,95.4,None,Current,9.81
+531,2024-06-20,61,M,155,83.3,Dancing,105,Low,13.3,100,7.7,6,8857,2.7,21.4,62.8,106.9,95.4,None,Current,9.91
+531,2024-06-22,61,M,155,83.6,Weight Training,103,Medium,17.2,131,8.1,6,9217,2.6,21.4,62.8,106.9,95.4,None,Current,10.04
+531,2024-06-24,61,M,155,83.8,Weight Training,57,Medium,9.5,117,5.6,7,9421,1.7,21.4,62.8,106.9,95.4,None,Current,10.1
+531,2024-06-25,61,M,155,84.1,Weight Training,63,High,12.3,149,6.2,5,7430,1.8,21.4,62.8,106.9,95.4,None,Current,10.19
+531,2024-06-26,61,M,155,84.4,Weight Training,48,Medium,8.1,108,6.3,4,5472,2.0,21.4,62.8,106.9,95.4,None,Current,10.25
+531,2024-06-27,61,M,155,84.6,HIIT,50,High,19.7,136,8.0,7,7318,1.8,21.4,62.8,106.9,95.4,None,Current,10.32
+531,2024-06-28,61,M,155,84.9,Walking,117,Medium,12.5,107,7.6,3,10533,1.9,21.4,62.8,106.9,95.4,None,Current,10.46
+531,2024-06-29,61,M,155,85.1,HIIT,76,Medium,25.8,130,8.1,6,8127,2.5,21.4,62.8,106.9,95.4,None,Current,10.55

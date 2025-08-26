@@ -1,0 +1,16 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+2133,2024-11-02,18,F,154.3,105.3,Basketball,106,Medium,29.7,154,7.3,4,10125,2.8,22.2,74.2,128.5,76.9,Hypertension,Never,16.45
+2133,2024-11-04,18,F,154.3,105.5,Running,20,High,8.0,166,6.8,3,6680,3.3,22.2,74.2,128.5,76.9,Hypertension,Never,16.48
+2133,2024-11-05,18,F,154.3,105.8,Running,70,High,28.2,181,6.1,2,4787,1.9,22.2,74.2,128.5,76.9,Hypertension,Never,16.57
+2133,2024-11-06,18,F,154.3,106.1,Running,26,High,10.5,167,7.4,5,5929,2.1,22.2,74.2,128.5,76.9,Hypertension,Never,16.61
+2133,2024-11-07,18,F,154.3,106.3,Running,26,Medium,9.0,161,8.0,2,7225,2.0,22.2,74.2,128.5,76.9,Hypertension,Never,16.64
+2133,2024-11-10,18,F,154.3,106.6,Running,45,High,18.2,174,8.6,6,11408,2.3,22.2,74.2,128.5,76.9,Hypertension,Never,16.71
+2133,2024-11-17,18,F,154.3,106.8,Weight Training,73,Low,13.0,127,6.6,5,8264,1.9,22.2,74.2,128.5,76.9,Hypertension,Never,16.78
+2133,2024-11-18,18,F,154.3,107.1,Weight Training,78,Medium,16.7,162,8.2,4,6595,2.8,22.2,74.2,128.5,76.9,Hypertension,Never,16.87
+2133,2024-11-20,18,F,154.3,107.3,Weight Training,91,Medium,19.5,147,6.8,8,6049,2.9,22.2,74.2,128.5,76.9,Hypertension,Never,16.98
+2133,2024-11-21,18,F,154.3,107.6,Cycling,35,Medium,10.6,147,7.2,8,5410,2.4,22.2,74.2,128.5,76.9,Hypertension,Never,17.02
+2133,2024-11-22,18,F,154.3,107.9,Cycling,94,Low,23.9,127,8.3,1,5195,2.7,22.2,74.2,128.5,76.9,Hypertension,Never,17.12
+2133,2024-11-23,18,F,154.3,108.1,Cycling,95,Medium,29.0,144,5.5,3,8655,2.9,22.2,74.2,128.5,76.9,Hypertension,Never,17.23
+2133,2024-11-27,18,F,154.3,108.4,Cycling,101,Low,25.8,134,5.3,10,8142,2.1,22.2,74.2,128.5,76.9,Hypertension,Never,17.33
+2133,2024-11-28,18,F,154.3,108.6,Cycling,50,Low,12.8,128,6.6,4,9868,1.7,22.2,74.2,128.5,76.9,Hypertension,Never,17.38
+2133,2024-11-29,18,F,154.3,108.9,Running,67,Low,19.8,128,8.8,9,8919,2.1,22.2,74.2,128.5,76.9,Hypertension,Never,17.45

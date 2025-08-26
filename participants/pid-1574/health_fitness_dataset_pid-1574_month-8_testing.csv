@@ -1,0 +1,16 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+1574,2024-08-01,21,F,170.1,102.5,Weight Training,104,Low,17.7,131,7.4,3,7753,2.4,22.3,71.4,118.1,95.1,None,Never,12.04
+1574,2024-08-02,21,F,170.1,102.8,Weight Training,42,Low,7.2,122,5.2,3,9143,3.4,22.3,71.4,118.1,95.1,None,Never,12.08
+1574,2024-08-03,21,F,170.1,103.1,Weight Training,85,High,20.4,167,7.3,6,9163,1.6,22.3,71.4,118.1,95.1,None,Never,12.2
+1574,2024-08-07,21,F,170.1,103.3,Running,119,Medium,40.1,152,7.3,7,7561,3.4,22.3,71.4,118.1,95.1,None,Never,12.34
+1574,2024-08-08,21,F,170.1,103.6,Weight Training,25,Medium,5.2,145,6.2,1,9053,3.5,22.3,71.4,118.1,95.1,None,Never,12.37
+1574,2024-08-13,21,F,170.1,103.8,Running,92,Medium,31.1,146,6.3,6,7158,1.9,22.3,71.4,118.1,95.1,None,Never,12.48
+1574,2024-08-16,21,F,170.1,104.1,Cycling,22,Medium,6.5,141,7.0,1,8141,2.7,22.3,71.4,118.1,95.1,None,Never,12.51
+1574,2024-08-17,21,F,170.1,104.3,Weight Training,101,Medium,21.0,148,7.1,5,8329,3.0,22.3,71.4,118.1,95.1,None,Never,12.63
+1574,2024-08-18,21,F,170.1,104.6,Swimming,87,High,24.7,161,7.3,8,7479,1.7,22.3,71.4,118.1,95.1,None,Never,12.75
+1574,2024-08-24,21,F,170.1,104.9,Cycling,45,Medium,13.3,138,6.3,1,8968,3.5,22.3,71.4,118.1,95.1,None,Never,12.8
+1574,2024-08-26,21,F,170.1,105.1,Weight Training,101,Low,17.7,135,9.3,6,6431,3.2,22.3,71.4,118.1,95.1,None,Never,12.9
+1574,2024-08-27,21,F,170.1,105.4,Cycling,44,Medium,13.1,152,6.5,5,7444,3.3,22.3,71.4,118.1,95.1,None,Never,12.96
+1574,2024-08-28,21,F,170.1,105.6,Dancing,104,Medium,20.1,142,5.8,3,5703,2.9,22.3,71.4,118.1,95.1,None,Never,13.08
+1574,2024-08-30,21,F,170.1,105.9,Yoga,32,Medium,3.4,142,8.8,3,6112,1.6,22.3,71.4,118.1,95.1,None,Never,13.12
+1574,2024-08-31,21,F,170.1,106.2,Dancing,25,Medium,4.9,155,6.7,2,7924,2.6,22.3,71.4,118.1,95.1,None,Never,13.15

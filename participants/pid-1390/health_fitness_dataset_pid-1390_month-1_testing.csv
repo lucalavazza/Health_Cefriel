@@ -1,0 +1,20 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+1390,2024-01-01,45,M,170,66.7,Basketball,97,High,20.1,164,7.1,3,8124,3.3,23,64.9,122.6,92.8,None,Former,0.14
+1390,2024-01-04,45,M,170,67.0,Basketball,42,High,8.7,165,7.7,6,6125,2.3,23,64.9,122.6,92.8,None,Former,0.19
+1390,2024-01-05,45,M,170,67.2,Swimming,26,Low,3.4,112,5.8,4,7783,3.1,23,64.9,122.6,92.8,None,Former,0.22
+1390,2024-01-07,45,M,170,67.5,Weight Training,105,Medium,14.1,131,6.4,1,9674,3.0,23,64.9,122.6,92.8,None,Former,0.35
+1390,2024-01-08,45,M,170,67.7,Swimming,107,Medium,16.8,114,7.6,4,7586,3.0,23,64.9,122.6,92.8,None,Former,0.47
+1390,2024-01-09,45,M,170,68.0,Weight Training,111,Medium,15.0,127,7.7,1,6650,2.1,23,64.9,122.6,92.8,None,Former,0.61
+1390,2024-01-10,45,M,170,68.3,Weight Training,71,Medium,9.7,138,6.7,8,5699,2.0,23,64.9,122.6,92.8,None,Former,0.69
+1390,2024-01-11,45,M,170,68.5,Weight Training,58,Medium,7.9,121,6.1,3,8994,3.5,23,64.9,122.6,92.8,None,Former,0.76
+1390,2024-01-12,45,M,170,68.8,Weight Training,56,High,9.0,155,7.4,3,4950,2.3,23,64.9,122.6,92.8,None,Former,0.84
+1390,2024-01-16,45,M,170,69.0,Running,99,Medium,22.2,124,6.5,8,8097,1.8,23,64.9,122.6,92.8,None,Former,0.96
+1390,2024-01-18,45,M,170,69.3,Running,79,Medium,17.8,137,5.5,7,10623,3.2,23,64.9,122.6,92.8,None,Former,1.05
+1390,2024-01-20,45,M,170,69.5,Basketball,82,Medium,15.1,125,8.0,8,10064,1.5,23,64.9,122.6,92.8,None,Former,1.15
+1390,2024-01-21,45,M,170,69.8,Running,61,High,16.2,146,7.6,1,13337,2.1,23,64.9,122.6,92.8,None,Former,1.24
+1390,2024-01-23,45,M,170,70.1,Cycling,111,Low,18.3,115,6.1,5,8441,1.6,23,64.9,122.6,92.8,None,Former,1.35
+1390,2024-01-25,45,M,170,70.3,Running,49,Low,9.3,121,7.4,9,10932,2.7,23,64.9,122.6,92.8,None,Former,1.4
+1390,2024-01-26,45,M,170,70.6,Running,113,Medium,26.0,124,7.4,5,10947,1.9,23,64.9,122.6,92.8,None,Former,1.53
+1390,2024-01-28,45,M,170,70.8,Running,115,High,30.9,141,6.9,3,10502,2.2,23,64.9,122.6,92.8,None,Former,1.7
+1390,2024-01-30,45,M,170,71.1,Weight Training,115,High,19.0,144,6.9,7,10549,2.1,23,64.9,122.6,92.8,None,Former,1.86
+1390,2024-01-31,45,M,170,71.3,Running,103,Low,19.9,115,7.2,6,9669,2.3,23,64.9,122.6,92.8,None,Former,1.96

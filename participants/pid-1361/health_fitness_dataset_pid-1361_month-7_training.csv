@@ -1,0 +1,16 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+1361,2024-07-01,44,M,173.7,96.7,Weight Training,106,Medium,20.5,129,7.1,1,8282,2.6,20.9,63.7,112.4,72.3,Hypertension,Current,10.19
+1361,2024-07-02,44,M,173.7,97.0,Walking,95,Low,9.7,115,6.9,10,3891,2.8,20.9,63.7,112.4,72.3,Hypertension,Current,10.29
+1361,2024-07-04,44,M,173.7,97.2,Weight Training,108,Medium,20.9,134,6.7,7,7124,2.9,20.9,63.7,112.4,72.3,Hypertension,Current,10.42
+1361,2024-07-09,44,M,173.7,97.5,Running,99,Medium,31.4,131,8.0,3,9458,2.5,20.9,63.7,112.4,72.3,Hypertension,Current,10.53
+1361,2024-07-12,44,M,173.7,97.8,Running,92,High,34.2,148,6.0,6,8703,2.5,20.9,63.7,112.4,72.3,Hypertension,Current,10.66
+1361,2024-07-14,44,M,173.7,98.0,Running,118,Medium,37.7,148,7.3,6,7748,2.8,20.9,63.7,112.4,72.3,Hypertension,Current,10.8
+1361,2024-07-15,44,M,173.7,98.3,Running,107,High,40.0,166,8.7,2,6987,3.0,20.9,63.7,112.4,72.3,Hypertension,Current,10.95
+1361,2024-07-16,44,M,173.7,98.5,Running,105,Medium,33.7,121,5.9,8,7515,2.2,20.9,63.7,112.4,72.3,Hypertension,Current,11.08
+1361,2024-07-18,44,M,173.7,98.8,Running,31,High,11.6,157,6.7,5,8065,2.6,20.9,63.7,112.4,72.3,Hypertension,Current,11.12
+1361,2024-07-23,44,M,173.7,99.0,Running,53,Medium,17.1,130,6.5,7,8571,3.1,20.9,63.7,112.4,72.3,Hypertension,Current,11.19
+1361,2024-07-24,44,M,173.7,99.3,Running,64,Medium,20.7,136,5.3,1,5215,2.2,20.9,63.7,112.4,72.3,Hypertension,Current,11.26
+1361,2024-07-25,44,M,173.7,99.6,Running,22,Medium,7.1,121,5.8,5,7691,3.2,20.9,63.7,112.4,72.3,Hypertension,Current,11.29
+1361,2024-07-27,44,M,173.7,99.8,Running,117,Medium,38.0,127,8.9,8,7802,2.6,20.9,63.7,112.4,72.3,Hypertension,Current,11.43
+1361,2024-07-28,44,M,173.7,100.1,Running,21,Medium,6.8,124,9.0,6,10064,2.9,20.9,63.7,112.4,72.3,Hypertension,Current,11.46
+1361,2024-07-29,44,M,173.7,100.3,Weight Training,50,Medium,10.0,126,7.3,5,7006,3.5,20.9,63.7,112.4,72.3,Hypertension,Current,11.52

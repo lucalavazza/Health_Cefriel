@@ -1,0 +1,17 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+1228,2024-06-01,28,F,157.4,73.4,Cycling,104,High,25.1,176,6.8,7,11453,3.0,18.2,66.1,108.7,92.8,None,Current,9.42
+1228,2024-06-04,28,F,157.4,73.7,Cycling,96,Low,16.6,124,6.3,7,7320,3.3,18.2,66.1,108.7,92.8,None,Current,9.52
+1228,2024-06-05,28,F,157.4,73.9,Tennis,99,Medium,17.7,161,6.9,5,9101,2.9,18.2,66.1,108.7,92.8,None,Current,9.64
+1228,2024-06-06,28,F,157.4,74.2,Cycling,48,Medium,10.1,133,6.1,9,9504,2.7,18.2,66.1,108.7,92.8,None,Current,9.7
+1228,2024-06-07,28,F,157.4,74.4,Cycling,32,Medium,6.7,140,9.2,6,9963,3.3,18.2,66.1,108.7,92.8,None,Current,9.73
+1228,2024-06-09,28,F,157.4,74.7,Tennis,20,Medium,3.6,135,6.9,4,10130,2.0,18.2,66.1,108.7,92.8,None,Current,9.76
+1228,2024-06-10,28,F,157.4,75.0,Weight Training,28,Medium,4.2,156,6.5,1,7996,2.2,18.2,66.1,108.7,92.8,None,Current,9.79
+1228,2024-06-12,28,F,157.4,75.2,Tennis,47,Low,7.1,129,7.8,4,8669,3.2,18.2,66.1,108.7,92.8,None,Current,9.84
+1228,2024-06-14,28,F,157.4,75.5,Weight Training,33,Low,4.1,122,7.6,8,7947,2.3,18.2,66.1,108.7,92.8,None,Current,9.87
+1228,2024-06-18,28,F,157.4,75.7,Weight Training,118,Medium,17.8,156,5.3,1,7410,1.7,18.2,66.1,108.7,92.8,None,Current,10.01
+1228,2024-06-19,28,F,157.4,76.0,Tennis,25,Low,3.8,130,6.1,5,9602,3.4,18.2,66.1,108.7,92.8,None,Current,10.04
+1228,2024-06-22,28,F,157.4,76.3,Tennis,108,High,23.3,163,7.6,9,9474,2.9,18.2,66.1,108.7,92.8,None,Current,10.19
+1228,2024-06-25,28,F,157.4,76.5,Tennis,42,Low,6.5,133,7.9,10,8194,1.6,18.2,66.1,108.7,92.8,None,Current,10.23
+1228,2024-06-26,28,F,157.4,76.8,Tennis,77,Medium,14.3,156,8.7,7,8887,2.4,18.2,66.1,108.7,92.8,None,Current,10.32
+1228,2024-06-28,28,F,157.4,77.0,Tennis,23,Medium,4.3,152,7.2,6,8389,3.0,18.2,66.1,108.7,92.8,None,Current,10.35
+1228,2024-06-29,28,F,157.4,77.3,Tennis,91,Medium,17.1,138,8.2,5,7796,2.1,18.2,66.1,108.7,92.8,None,Current,10.46

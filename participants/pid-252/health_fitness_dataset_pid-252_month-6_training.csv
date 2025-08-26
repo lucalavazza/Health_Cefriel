@@ -1,0 +1,17 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+252,2024-06-01,27,F,159.9,73.8,Cycling,29,Low,5.0,124,5.6,8,8933,3.4,18.1,72,111.8,70.5,None,Former,8.81
+252,2024-06-05,27,F,159.9,74.1,Walking,30,Medium,2.8,147,7.4,5,12016,1.5,18.1,72,111.8,70.5,None,Former,8.85
+252,2024-06-06,27,F,159.9,74.3,Cycling,107,Medium,22.5,149,7.4,5,7954,2.5,18.1,72,111.8,70.5,None,Former,8.97
+252,2024-06-07,27,F,159.9,74.6,Walking,80,Medium,7.5,142,6.2,6,8901,2.9,18.1,72,111.8,70.5,None,Former,9.07
+252,2024-06-08,27,F,159.9,74.8,Tennis,56,High,11.9,166,7.0,5,10228,2.8,18.1,72,111.8,70.5,None,Former,9.15
+252,2024-06-09,27,F,159.9,75.1,Walking,55,Medium,5.2,152,8.5,2,10203,2.6,18.1,72,111.8,70.5,None,Former,9.21
+252,2024-06-10,27,F,159.9,75.4,Walking,118,High,13.1,174,4.6,10,6001,2.6,18.1,72,111.8,70.5,None,Former,9.38
+252,2024-06-11,27,F,159.9,75.6,HIIT,86,Medium,25.9,148,4.8,5,9346,2.1,18.1,72,111.8,70.5,None,Former,9.48
+252,2024-06-16,27,F,159.9,75.9,Walking,101,Low,8.1,122,6.9,8,12460,1.8,18.1,72,111.8,70.5,None,Former,9.58
+252,2024-06-18,27,F,159.9,76.1,HIIT,49,Medium,14.9,141,4.4,5,7291,2.2,18.1,72,111.8,70.5,None,Former,9.64
+252,2024-06-19,27,F,159.9,76.4,Yoga,77,Low,4.9,116,6.8,3,9145,2.1,18.1,72,111.8,70.5,None,Former,9.72
+252,2024-06-20,27,F,159.9,76.6,Walking,67,Medium,6.5,148,7.9,7,7360,2.7,18.1,72,111.8,70.5,None,Former,9.8
+252,2024-06-21,27,F,159.9,76.9,Walking,70,Medium,6.8,137,7.1,9,9097,2.2,18.1,72,111.8,70.5,None,Former,9.88
+252,2024-06-25,27,F,159.9,77.2,Walking,78,Medium,7.6,148,7.1,8,10035,1.9,18.1,72,111.8,70.5,None,Former,9.98
+252,2024-06-26,27,F,159.9,77.4,Walking,109,High,12.4,165,6.1,7,7097,2.9,18.1,72,111.8,70.5,None,Former,10.13
+252,2024-06-29,27,F,159.9,77.7,Basketball,31,Medium,6.4,133,6.9,2,9785,3.0,18.1,72,111.8,70.5,None,Former,10.17

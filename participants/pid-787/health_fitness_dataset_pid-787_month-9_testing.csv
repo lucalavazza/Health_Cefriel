@@ -1,0 +1,17 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+787,2024-09-01,56,F,164.6,90.2,Basketball,60,Medium,14.4,124,6.0,9,7994,1.8,16.6,63.2,111.7,87.6,None,Former,14.78
+787,2024-09-05,56,F,164.6,90.4,Basketball,26,Medium,6.3,117,7.6,4,8758,2.4,16.6,63.2,111.7,87.6,None,Former,14.81
+787,2024-09-06,56,F,164.6,90.7,Basketball,91,High,25.6,152,7.9,1,5509,2.0,16.6,63.2,111.7,87.6,None,Former,14.94
+787,2024-09-08,56,F,164.6,91.0,Basketball,23,High,6.5,136,6.0,10,6622,2.6,16.6,63.2,111.7,87.6,None,Former,14.97
+787,2024-09-09,56,F,164.6,91.2,Basketball,91,Low,18.4,109,6.1,10,5185,2.6,16.6,63.2,111.7,87.6,None,Former,15.06
+787,2024-09-11,56,F,164.6,91.5,Basketball,113,Medium,27.5,120,6.2,7,7149,2.6,16.6,63.2,111.7,87.6,None,Former,15.2
+787,2024-09-12,56,F,164.6,91.7,Basketball,78,Medium,19.0,121,8.4,1,5976,1.8,16.6,63.2,111.7,87.6,None,Former,15.29
+787,2024-09-13,56,F,164.6,92.0,Walking,103,Medium,12.0,115,7.0,10,8693,1.7,16.6,63.2,111.7,87.6,None,Former,15.41
+787,2024-09-16,56,F,164.6,92.2,Cycling,114,Low,24.8,121,6.7,6,5397,3.3,16.6,63.2,111.7,87.6,None,Former,15.53
+787,2024-09-17,56,F,164.6,92.5,Walking,116,Low,11.3,113,6.0,8,5426,3.4,16.6,63.2,111.7,87.6,None,Former,15.64
+787,2024-09-20,56,F,164.6,92.8,Cycling,81,Medium,21.2,123,7.8,8,5572,3.2,16.6,63.2,111.7,87.6,None,Former,15.74
+787,2024-09-23,56,F,164.6,93.0,Cycling,58,Medium,15.2,127,7.3,6,9161,1.8,16.6,63.2,111.7,87.6,None,Former,15.81
+787,2024-09-24,56,F,164.6,93.3,Walking,46,High,6.3,144,6.7,3,10294,1.7,16.6,63.2,111.7,87.6,None,Former,15.87
+787,2024-09-26,56,F,164.6,93.5,Swimming,33,High,8.4,138,7.9,2,5514,2.1,16.6,63.2,111.7,87.6,None,Former,15.92
+787,2024-09-29,56,F,164.6,93.8,Cycling,105,Medium,27.8,131,7.1,9,6824,3.1,16.6,63.2,111.7,87.6,None,Former,16.05
+787,2024-09-30,56,F,164.6,94.0,Dancing,50,Medium,8.6,140,7.8,6,9222,3.0,16.6,63.2,111.7,87.6,None,Former,16.11

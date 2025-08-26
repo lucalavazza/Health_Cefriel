@@ -1,0 +1,17 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+623,2024-10-07,24,F,160.8,94.9,Walking,93,Medium,11.1,160,8.6,5,8190,1.5,17.4,71.8,119.1,79.4,None,Former,16.1
+623,2024-10-12,24,F,160.8,95.1,Yoga,49,Medium,4.6,132,8.5,5,4315,3.0,17.4,71.8,119.1,79.4,None,Former,16.16
+623,2024-10-13,24,F,160.8,95.4,Yoga,35,Low,2.8,125,6.6,10,8218,2.9,17.4,71.8,119.1,79.4,None,Former,16.2
+623,2024-10-14,24,F,160.8,95.6,Walking,87,Low,8.8,133,5.7,1,8032,3.0,17.4,71.8,119.1,79.4,None,Former,16.28
+623,2024-10-16,24,F,160.8,95.9,Yoga,108,Medium,10.3,140,7.2,4,7145,1.8,17.4,71.8,119.1,79.4,None,Former,16.41
+623,2024-10-18,24,F,160.8,96.1,Walking,110,Low,11.1,135,6.6,5,8013,1.7,17.4,71.8,119.1,79.4,None,Former,16.52
+623,2024-10-20,24,F,160.8,96.4,Weight Training,26,Medium,5.0,157,7.3,5,6673,2.7,17.4,71.8,119.1,79.4,None,Former,16.56
+623,2024-10-21,24,F,160.8,96.7,Weight Training,100,Medium,19.3,148,7.5,4,4056,1.8,17.4,71.8,119.1,79.4,None,Former,16.68
+623,2024-10-22,24,F,160.8,96.9,Walking,60,Medium,7.3,138,7.1,9,8107,3.0,17.4,71.8,119.1,79.4,None,Former,16.75
+623,2024-10-23,24,F,160.8,97.2,Weight Training,103,Medium,20.0,147,7.1,5,7647,2.9,17.4,71.8,119.1,79.4,None,Former,16.87
+623,2024-10-26,24,F,160.8,97.4,Walking,72,Medium,8.9,137,7.4,6,7035,2.1,17.4,71.8,119.1,79.4,None,Former,16.96
+623,2024-10-27,24,F,160.8,97.7,Weight Training,75,Medium,14.6,161,6.2,6,7966,2.2,17.4,71.8,119.1,79.4,None,Former,17.05
+623,2024-10-28,24,F,160.8,98.0,Walking,106,Medium,13.1,169,6.9,2,4979,1.8,17.4,71.8,119.1,79.4,None,Former,17.17
+623,2024-10-29,24,F,160.8,98.2,Walking,20,Medium,2.5,150,6.4,9,10077,2.5,17.4,71.8,119.1,79.4,None,Former,17.2
+623,2024-10-30,24,F,160.8,98.5,Basketball,20,Low,4.4,132,7.4,7,7141,2.1,17.4,71.8,119.1,79.4,None,Former,17.22
+623,2024-10-31,24,F,160.8,98.7,HIIT,111,High,51.0,186,5.9,1,9066,2.2,17.4,71.8,119.1,79.4,None,Former,17.37

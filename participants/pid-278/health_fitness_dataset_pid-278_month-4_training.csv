@@ -1,0 +1,19 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+278,2024-04-01,39,M,182.2,103.3,Running,63,High,24.7,148,8.5,2,12227,3.0,25.8,74.2,115.3,89.3,Diabetes,Former,5.55
+278,2024-04-02,39,M,182.2,103.5,Weight Training,96,Low,16.5,112,7.2,10,12527,1.6,25.8,74.2,115.3,89.3,Diabetes,Former,5.65
+278,2024-04-03,39,M,182.2,103.8,Weight Training,64,Medium,13.3,139,6.6,4,12761,1.8,25.8,74.2,115.3,89.3,Diabetes,Former,5.72
+278,2024-04-04,39,M,182.2,104.0,Running,58,High,22.9,159,7.2,1,10202,3.3,25.8,74.2,115.3,89.3,Diabetes,Former,5.81
+278,2024-04-06,39,M,182.2,104.3,Swimming,28,High,7.9,155,6.6,10,14874,1.7,25.8,74.2,115.3,89.3,Diabetes,Former,5.85
+278,2024-04-08,39,M,182.2,104.6,Running,116,Low,32.9,116,7.7,2,7497,3.2,25.8,74.2,115.3,89.3,Diabetes,Former,5.96
+278,2024-04-09,39,M,182.2,104.8,Running,38,High,15.1,140,7.9,10,11335,1.9,25.8,74.2,115.3,89.3,Diabetes,Former,6.01
+278,2024-04-11,39,M,182.2,105.1,Swimming,80,Low,16.3,119,6.7,5,8643,3.0,25.8,74.2,115.3,89.3,Diabetes,Former,6.09
+278,2024-04-15,39,M,182.2,105.3,Swimming,114,Medium,28.0,132,7.8,4,7754,2.2,25.8,74.2,115.3,89.3,Diabetes,Former,6.23
+278,2024-04-17,39,M,182.2,105.6,Swimming,100,High,28.7,157,6.8,7,11036,2.3,25.8,74.2,115.3,89.3,Diabetes,Former,6.37
+278,2024-04-18,39,M,182.2,105.8,Swimming,29,Low,6.0,117,7.1,4,9883,2.6,25.8,74.2,115.3,89.3,Diabetes,Former,6.4
+278,2024-04-20,39,M,182.2,106.1,Swimming,100,Low,20.6,122,8.2,9,10777,2.1,25.8,74.2,115.3,89.3,Diabetes,Former,6.5
+278,2024-04-22,39,M,182.2,106.4,Swimming,40,Medium,9.9,133,8.2,2,13651,3.1,25.8,74.2,115.3,89.3,Diabetes,Former,6.55
+278,2024-04-23,39,M,182.2,106.6,Swimming,48,Medium,11.9,129,7.7,8,10651,1.9,25.8,74.2,115.3,89.3,Diabetes,Former,6.61
+278,2024-04-24,39,M,182.2,106.9,Swimming,22,Medium,5.5,141,6.4,4,10393,3.4,25.8,74.2,115.3,89.3,Diabetes,Former,6.63
+278,2024-04-25,39,M,182.2,107.1,Swimming,21,High,6.1,161,6.9,7,10800,2.1,25.8,74.2,115.3,89.3,Diabetes,Former,6.66
+278,2024-04-28,39,M,182.2,107.4,Tennis,63,Medium,16.4,132,6.1,4,11193,2.6,25.8,74.2,115.3,89.3,Diabetes,Former,6.74
+278,2024-04-29,39,M,182.2,107.7,Swimming,113,Medium,28.3,142,6.6,4,8926,3.2,25.8,74.2,115.3,89.3,Diabetes,Former,6.87

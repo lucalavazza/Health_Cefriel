@@ -1,0 +1,17 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+984,2024-06-01,22,M,173.5,92.7,Walking,44,High,6.0,169,7.5,10,8546,2.7,21.2,73.9,108.9,81.3,Diabetes,Never,10.25
+984,2024-06-04,22,M,173.5,93.0,Walking,23,Medium,2.7,147,7.4,9,11106,1.7,21.2,73.9,108.9,81.3,Diabetes,Never,10.28
+984,2024-06-05,22,M,173.5,93.2,Running,30,Medium,9.1,142,7.7,7,9353,2.0,21.2,73.9,108.9,81.3,Diabetes,Never,10.32
+984,2024-06-08,22,M,173.5,93.5,Cycling,51,High,15.7,167,6.0,7,10503,1.8,21.2,73.9,108.9,81.3,Diabetes,Never,10.39
+984,2024-06-12,22,M,173.5,93.8,Cycling,22,Medium,5.8,150,6.7,7,7652,1.7,21.2,73.9,108.9,81.3,Diabetes,Never,10.42
+984,2024-06-14,22,M,173.5,94.0,Cycling,24,Medium,6.4,148,6.3,3,7194,2.8,21.2,73.9,108.9,81.3,Diabetes,Never,10.44
+984,2024-06-15,22,M,173.5,94.3,Cycling,49,Medium,13.1,143,7.3,5,7204,2.2,21.2,73.9,108.9,81.3,Diabetes,Never,10.5
+984,2024-06-16,22,M,173.5,94.5,Cycling,31,Medium,8.3,149,6.9,4,7670,2.6,21.2,73.9,108.9,81.3,Diabetes,Never,10.54
+984,2024-06-17,22,M,173.5,94.8,Basketball,108,Medium,27.2,150,6.4,10,7767,2.4,21.2,73.9,108.9,81.3,Diabetes,Never,10.67
+984,2024-06-18,22,M,173.5,95.0,Swimming,27,Low,5.0,131,7.4,5,8824,3.4,21.2,73.9,108.9,81.3,Diabetes,Never,10.7
+984,2024-06-19,22,M,173.5,95.3,Running,103,High,37.3,153,6.2,9,7760,2.9,21.2,73.9,108.9,81.3,Diabetes,Never,10.84
+984,2024-06-20,22,M,173.5,95.6,Swimming,45,Low,8.3,122,7.5,2,6277,2.9,21.2,73.9,108.9,81.3,Diabetes,Never,10.89
+984,2024-06-24,22,M,173.5,95.8,Running,28,High,10.2,177,7.3,5,7410,3.1,21.2,73.9,108.9,81.3,Diabetes,Never,10.93
+984,2024-06-26,22,M,173.5,96.1,Swimming,26,High,6.8,166,6.7,5,10031,2.6,21.2,73.9,108.9,81.3,Diabetes,Never,10.96
+984,2024-06-28,22,M,173.5,96.3,Swimming,27,Medium,6.1,150,6.7,5,8703,2.4,21.2,73.9,108.9,81.3,Diabetes,Never,10.99
+984,2024-06-30,22,M,173.5,96.6,Swimming,87,High,22.8,166,5.4,7,8037,2.6,21.2,73.9,108.9,81.3,Diabetes,Never,11.12

@@ -1,0 +1,17 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+1632,2024-12-01,37,M,183.9,129.7,HIIT,120,Low,51.8,118,7.6,6,9911,3.4,21.6,66.7,103.7,81,Hypertension,Current,18.86
+1632,2024-12-03,37,M,183.9,129.9,HIIT,95,Medium,49.3,145,6.4,3,7190,2.0,21.6,66.7,103.7,81,Hypertension,Current,18.98
+1632,2024-12-04,37,M,183.9,130.2,HIIT,37,High,22.4,159,6.6,3,8691,3.0,21.6,66.7,103.7,81,Hypertension,Current,19.03
+1632,2024-12-05,37,M,183.9,130.4,HIIT,57,High,34.6,146,6.5,7,9247,2.4,21.6,66.7,103.7,81,Hypertension,Current,19.11
+1632,2024-12-06,37,M,183.9,130.7,HIIT,71,Medium,37.0,144,6.7,6,8605,2.4,21.6,66.7,103.7,81,Hypertension,Current,19.19
+1632,2024-12-08,37,M,183.9,131.0,HIIT,103,Low,44.9,122,5.5,3,10398,2.9,21.6,66.7,103.7,81,Hypertension,Current,19.3
+1632,2024-12-09,37,M,183.9,131.2,HIIT,33,Low,14.4,129,5.7,6,5379,1.6,21.6,66.7,103.7,81,Hypertension,Current,19.33
+1632,2024-12-12,37,M,183.9,131.5,HIIT,107,Medium,56.2,129,7.1,5,5945,1.7,21.6,66.7,103.7,81,Hypertension,Current,19.46
+1632,2024-12-13,37,M,183.9,131.7,Walking,96,High,18.7,158,7.3,8,10844,2.3,21.6,66.7,103.7,81,Hypertension,Current,19.59
+1632,2024-12-14,37,M,183.9,132.0,Walking,64,High,12.5,157,7.8,10,6695,1.6,21.6,66.7,103.7,81,Hypertension,Current,19.68
+1632,2024-12-16,37,M,183.9,132.2,Tennis,32,Medium,10.3,136,6.9,3,8033,2.0,21.6,66.7,103.7,81,Hypertension,Current,19.72
+1632,2024-12-17,37,M,183.9,132.5,Tennis,29,High,10.9,149,6.5,10,6664,1.6,21.6,66.7,103.7,81,Hypertension,Current,19.76
+1632,2024-12-18,37,M,183.9,132.8,Dancing,107,Medium,26.0,130,7.6,9,7878,2.9,21.6,66.7,103.7,81,Hypertension,Current,19.89
+1632,2024-12-21,37,M,183.9,133.0,Basketball,66,Medium,23.4,127,6.9,9,10538,2.1,21.6,66.7,103.7,81,Hypertension,Current,19.97
+1632,2024-12-22,37,M,183.9,133.3,Yoga,34,Low,3.8,123,7.4,2,8033,2.5,21.6,66.7,103.7,81,Hypertension,Current,20.0
+1632,2024-12-24,37,M,183.9,133.5,Yoga,40,Medium,5.3,132,7.9,7,6790,2.6,21.6,66.7,103.7,81,Hypertension,Current,20.05

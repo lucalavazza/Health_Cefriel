@@ -1,0 +1,14 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+218,2024-10-01,47,F,172,102.1,Dancing,106,Medium,19.8,123,6.3,6,6122,2.7,18.5,76.2,116.7,85.8,None,Never,15.0
+218,2024-10-03,47,F,172,102.4,Swimming,64,High,17.8,132,7.2,2,6490,2.4,18.5,76.2,116.7,85.8,None,Never,15.09
+218,2024-10-06,47,F,172,102.6,Swimming,98,Medium,23.4,120,6.6,9,5821,3.4,18.5,76.2,116.7,85.8,None,Never,15.21
+218,2024-10-11,47,F,172,102.9,Swimming,96,Low,19.2,109,6.1,1,8757,2.4,18.5,76.2,116.7,85.8,None,Never,15.3
+218,2024-10-12,47,F,172,103.1,Swimming,67,Medium,16.1,126,7.8,8,8329,2.5,18.5,76.2,116.7,85.8,None,Never,15.38
+218,2024-10-14,47,F,172,103.4,Swimming,76,Medium,18.3,134,5.6,7,6670,2.6,18.5,76.2,116.7,85.8,None,Never,15.47
+218,2024-10-15,47,F,172,103.6,Swimming,91,Medium,22.0,136,7.6,5,3734,3.0,18.5,76.2,116.7,85.8,None,Never,15.58
+218,2024-10-17,47,F,172,103.9,Swimming,27,Medium,6.5,126,7.6,5,8099,2.8,18.5,76.2,116.7,85.8,None,Never,15.61
+218,2024-10-19,47,F,172,104.2,Swimming,26,High,7.4,155,7.5,5,9050,3.3,18.5,76.2,116.7,85.8,None,Never,15.65
+218,2024-10-21,47,F,172,104.4,Swimming,91,High,25.8,144,7.0,1,6672,2.1,18.5,76.2,116.7,85.8,None,Never,15.78
+218,2024-10-22,47,F,172,104.7,Swimming,27,High,7.7,152,5.9,7,6099,2.1,18.5,76.2,116.7,85.8,None,Never,15.82
+218,2024-10-28,47,F,172,104.9,Swimming,75,Medium,18.3,120,7.3,5,5231,2.7,18.5,76.2,116.7,85.8,None,Never,15.91
+218,2024-10-31,47,F,172,105.2,Cycling,103,Low,25.5,118,7.4,5,6576,2.1,18.5,76.2,116.7,85.8,None,Never,16.01

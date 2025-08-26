@@ -1,0 +1,16 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+58,2024-09-01,64,M,172.3,104.2,Running,27,Low,7.6,99,7.1,6,6248,3.1,21.3,72.8,78,72.5,Hypertension,Current,12.63
+58,2024-09-05,64,M,172.3,104.5,Running,65,Medium,22.1,115,7.8,8,6383,2.4,21.3,72.8,78,72.5,Hypertension,Current,12.71
+58,2024-09-09,64,M,172.3,104.7,Running,62,Low,17.6,100,4.7,3,4098,1.9,21.3,72.8,78,72.5,Hypertension,Current,12.77
+58,2024-09-12,64,M,172.3,105.0,Running,105,Medium,35.9,110,7.6,5,5496,1.8,21.3,72.8,78,72.5,Hypertension,Current,12.9
+58,2024-09-13,64,M,172.3,105.3,Tennis,98,Low,20.9,105,5.7,2,6566,3.0,21.3,72.8,78,72.5,Hypertension,Current,13.0
+58,2024-09-14,64,M,172.3,105.5,Running,39,Medium,13.4,119,8.2,2,6641,2.5,21.3,72.8,78,72.5,Hypertension,Current,13.04
+58,2024-09-15,64,M,172.3,105.8,Running,43,Medium,14.8,106,4.8,9,5896,2.0,21.3,72.8,78,72.5,Hypertension,Current,13.09
+58,2024-09-16,64,M,172.3,106.0,Running,24,High,9.7,124,7.0,1,7602,3.2,21.3,72.8,78,72.5,Hypertension,Current,13.13
+58,2024-09-17,64,M,172.3,106.3,Running,93,Medium,32.2,116,7.3,6,8857,3.3,21.3,72.8,78,72.5,Hypertension,Current,13.24
+58,2024-09-20,64,M,172.3,106.5,Running,72,High,29.2,127,5.8,1,4776,1.9,21.3,72.8,78,72.5,Hypertension,Current,13.34
+58,2024-09-22,64,M,172.3,106.8,Running,37,High,15.0,147,8.3,1,7701,2.2,21.3,72.8,78,72.5,Hypertension,Current,13.39
+58,2024-09-23,64,M,172.3,107.1,Running,63,Medium,22.0,114,5.7,7,5090,3.3,21.3,72.8,78,72.5,Hypertension,Current,13.47
+58,2024-09-26,64,M,172.3,107.3,Running,23,Medium,8.0,118,7.2,7,7456,2.9,21.3,72.8,78,72.5,Hypertension,Current,13.5
+58,2024-09-27,64,M,172.3,107.6,Dancing,66,Medium,13.0,109,5.5,2,4190,2.0,21.3,72.8,78,72.5,Hypertension,Current,13.57
+58,2024-09-30,64,M,172.3,107.8,Walking,33,High,5.2,142,6.5,4,5857,2.5,21.3,72.8,78,72.5,Hypertension,Current,13.62

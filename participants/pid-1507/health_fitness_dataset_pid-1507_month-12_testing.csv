@@ -1,0 +1,19 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+1507,2024-12-01,19,M,175.3,124.4,Walking,69,High,12.7,180,6.5,9,7730,1.9,22.3,60.9,122.3,79.6,None,Never,18.2
+1507,2024-12-03,19,M,175.3,124.6,Walking,110,Low,14.4,135,6.1,5,5286,2.6,22.3,60.9,122.3,79.6,None,Never,18.31
+1507,2024-12-06,19,M,175.3,124.9,Walking,75,Medium,11.8,150,7.0,1,9097,3.0,22.3,60.9,122.3,79.6,None,Never,18.4
+1507,2024-12-07,19,M,175.3,125.1,Weight Training,60,Medium,15.0,145,5.6,3,5756,2.7,22.3,60.9,122.3,79.6,None,Never,18.47
+1507,2024-12-08,19,M,175.3,125.4,Weight Training,113,High,33.0,172,6.2,5,9533,3.2,22.3,60.9,122.3,79.6,None,Never,18.63
+1507,2024-12-10,19,M,175.3,125.6,Weight Training,66,Low,13.8,120,6.1,8,6868,2.0,22.3,60.9,122.3,79.6,None,Never,18.69
+1507,2024-12-11,19,M,175.3,125.9,Swimming,86,High,29.4,180,7.7,3,9110,1.9,22.3,60.9,122.3,79.6,None,Never,18.81
+1507,2024-12-12,19,M,175.3,126.2,Weight Training,106,Low,22.2,129,10.0,8,6166,2.3,22.3,60.9,122.3,79.6,None,Never,18.92
+1507,2024-12-13,19,M,175.3,126.4,Weight Training,45,Medium,11.4,155,6.4,3,5811,1.7,22.3,60.9,122.3,79.6,None,Never,18.97
+1507,2024-12-15,19,M,175.3,126.7,Weight Training,75,Medium,19.0,140,6.5,3,11068,2.2,22.3,60.9,122.3,79.6,None,Never,19.06
+1507,2024-12-16,19,M,175.3,126.9,Weight Training,111,Medium,28.1,163,7.4,3,8109,1.8,22.3,60.9,122.3,79.6,None,Never,19.2
+1507,2024-12-17,19,M,175.3,127.2,Weight Training,85,Medium,21.6,148,6.7,4,7728,2.0,22.3,60.9,122.3,79.6,None,Never,19.3
+1507,2024-12-19,19,M,175.3,127.4,Swimming,119,Medium,35.3,146,6.5,2,7741,3.5,22.3,60.9,122.3,79.6,None,Never,19.44
+1507,2024-12-21,19,M,175.3,127.7,Weight Training,90,Medium,22.9,149,7.3,4,9195,1.8,22.3,60.9,122.3,79.6,None,Never,19.55
+1507,2024-12-22,19,M,175.3,128.0,Swimming,54,Medium,16.1,153,7.2,8,10101,3.4,22.3,60.9,122.3,79.6,None,Never,19.62
+1507,2024-12-23,19,M,175.3,128.2,Weight Training,39,High,11.6,175,7.8,2,8108,3.3,22.3,60.9,122.3,79.6,None,Never,19.67
+1507,2024-12-24,19,M,175.3,128.5,Weight Training,82,Medium,21.0,172,7.2,1,7607,1.6,22.3,60.9,122.3,79.6,None,Never,19.77
+1507,2024-12-25,19,M,175.3,128.7,Cycling,46,Medium,16.7,148,7.5,9,10242,1.8,22.3,60.9,122.3,79.6,None,Never,19.82

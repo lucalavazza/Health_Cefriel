@@ -1,0 +1,17 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+2671,2024-12-01,45,F,174.6,117.9,Weight Training,89,Low,17.5,116,7.1,10,6844,1.7,19.7,63,127.6,55.8,None,Never,18.51
+2671,2024-12-03,45,F,174.6,118.2,Swimming,111,Low,25.4,118,6.8,10,8665,1.9,19.7,63,127.6,55.8,None,Never,18.62
+2671,2024-12-04,45,F,174.6,118.4,Weight Training,65,Low,12.8,119,8.0,1,5221,3.0,19.7,63,127.6,55.8,None,Never,18.69
+2671,2024-12-06,45,F,174.6,118.7,Weight Training,95,High,26.3,143,8.4,7,8020,1.8,19.7,63,127.6,55.8,None,Never,18.82
+2671,2024-12-07,45,F,174.6,118.9,Weight Training,27,Medium,6.4,106,8.1,4,8416,1.9,19.7,63,127.6,55.8,None,Never,18.85
+2671,2024-12-09,45,F,174.6,119.2,Weight Training,107,Low,21.2,119,6.7,6,6302,2.3,19.7,63,127.6,55.8,None,Never,18.96
+2671,2024-12-10,45,F,174.6,119.5,Weight Training,61,Medium,14.5,132,7.3,4,7731,2.7,19.7,63,127.6,55.8,None,Never,19.03
+2671,2024-12-11,45,F,174.6,119.7,Weight Training,44,Low,8.8,121,6.5,5,6067,1.8,19.7,63,127.6,55.8,None,Never,19.08
+2671,2024-12-12,45,F,174.6,120.0,Weight Training,41,High,11.5,169,7.0,6,6914,3.0,19.7,63,127.6,55.8,None,Never,19.13
+2671,2024-12-13,45,F,174.6,120.2,Weight Training,31,Medium,7.4,137,8.1,2,7293,3.0,19.7,63,127.6,55.8,None,Never,19.17
+2671,2024-12-15,45,F,174.6,120.5,Weight Training,24,Low,4.8,101,5.8,9,9095,2.3,19.7,63,127.6,55.8,None,Never,19.2
+2671,2024-12-17,45,F,174.6,120.7,Swimming,75,Medium,21.1,141,6.6,4,6470,3.3,19.7,63,127.6,55.8,None,Never,19.29
+2671,2024-12-19,45,F,174.6,121.0,Swimming,63,Medium,17.7,141,9.0,9,7359,3.2,19.7,63,127.6,55.8,None,Never,19.36
+2671,2024-12-22,45,F,174.6,121.3,HIIT,109,High,61.5,142,6.3,2,9654,2.0,19.7,63,127.6,55.8,None,Never,19.51
+2671,2024-12-23,45,F,174.6,121.5,HIIT,114,Medium,55.3,132,6.2,7,6690,3.0,19.7,63,127.6,55.8,None,Never,19.65
+2671,2024-12-25,45,F,174.6,121.8,Running,54,Low,17.9,115,7.5,4,4777,1.5,19.7,63,127.6,55.8,None,Never,19.7

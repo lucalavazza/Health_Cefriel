@@ -1,0 +1,17 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+1802,2024-06-02,57,Other,161.7,89.0,Yoga,90,Medium,8.0,130,6.9,3,8414,3.2,22.9,77.9,127.9,66.6,None,Never,9.63
+1802,2024-06-05,57,Other,161.7,89.3,Yoga,104,Medium,9.3,141,7.6,3,8406,1.8,22.9,77.9,127.9,66.6,None,Never,9.75
+1802,2024-06-06,57,Other,161.7,89.5,Yoga,100,Low,7.4,96,6.8,1,9249,1.9,22.9,77.9,127.9,66.6,None,Never,9.85
+1802,2024-06-08,57,Other,161.7,89.8,Yoga,20,Medium,1.8,113,8.5,8,9335,2.1,22.9,77.9,127.9,66.6,None,Never,9.88
+1802,2024-06-09,57,Other,161.7,90.1,Yoga,30,Medium,2.7,115,5.7,7,11377,1.6,22.9,77.9,127.9,66.6,None,Never,9.91
+1802,2024-06-11,57,Other,161.7,90.3,Yoga,94,Medium,8.5,132,6.6,5,11271,2.1,22.9,77.9,127.9,66.6,None,Never,10.03
+1802,2024-06-15,57,Other,161.7,90.6,Yoga,56,Medium,5.1,120,5.3,6,8005,2.2,22.9,77.9,127.9,66.6,None,Never,10.09
+1802,2024-06-16,57,Other,161.7,90.8,Yoga,58,High,6.1,156,7.5,6,13046,2.0,22.9,77.9,127.9,66.6,None,Never,10.17
+1802,2024-06-17,57,Other,161.7,91.1,Yoga,28,High,3.0,148,8.5,7,9632,3.3,22.9,77.9,127.9,66.6,None,Never,10.21
+1802,2024-06-18,57,Other,161.7,91.4,Running,75,Medium,22.3,118,6.7,4,8512,1.5,22.9,77.9,127.9,66.6,None,Never,10.3
+1802,2024-06-21,57,Other,161.7,91.6,Running,67,High,23.3,141,7.8,5,10000,2.0,22.9,77.9,127.9,66.6,None,Never,10.4
+1802,2024-06-22,57,Other,161.7,91.9,Yoga,102,Low,7.8,100,9.1,6,9832,3.2,22.9,77.9,127.9,66.6,None,Never,10.5
+1802,2024-06-23,57,Other,161.7,92.1,Running,66,Medium,19.8,121,7.9,4,10884,2.2,22.9,77.9,127.9,66.6,None,Never,10.58
+1802,2024-06-25,57,Other,161.7,92.4,Running,66,Medium,19.9,129,6.6,6,4244,2.3,22.9,77.9,127.9,66.6,None,Never,10.66
+1802,2024-06-27,57,Other,161.7,92.6,Running,69,Medium,20.8,125,8.3,4,6918,1.5,22.9,77.9,127.9,66.6,None,Never,10.74
+1802,2024-06-30,57,Other,161.7,92.9,Cycling,108,Medium,28.3,122,5.0,4,6998,3.4,22.9,77.9,127.9,66.6,None,Never,10.87

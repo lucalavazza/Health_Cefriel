@@ -1,0 +1,22 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+2955,2024-01-01,44,M,185.1,102.9,Tennis,79,Medium,19.7,135,7.0,5,7101,3.4,30,60.5,114.4,64.2,Hypertension,Former,0.09
+2955,2024-01-02,44,M,185.1,103.1,Tennis,60,Medium,15.0,117,7.4,3,9242,2.4,30,60.5,114.4,64.2,Hypertension,Former,0.17
+2955,2024-01-03,44,M,185.1,103.4,Yoga,110,Low,9.5,113,5.7,8,7361,1.5,30,60.5,114.4,64.2,Hypertension,Former,0.28
+2955,2024-01-05,44,M,185.1,103.7,Yoga,61,Medium,6.3,137,6.4,2,6780,2.5,30,60.5,114.4,64.2,Hypertension,Former,0.35
+2955,2024-01-06,44,M,185.1,103.9,Yoga,34,Medium,3.5,126,5.1,4,10501,2.1,30,60.5,114.4,64.2,Hypertension,Former,0.39
+2955,2024-01-09,44,M,185.1,104.2,Running,77,Low,21.8,108,5.0,6,10113,2.7,30,60.5,114.4,64.2,Hypertension,Former,0.47
+2955,2024-01-10,44,M,185.1,104.4,Running,34,High,13.5,135,6.8,4,6862,2.1,30,60.5,114.4,64.2,Hypertension,Former,0.52
+2955,2024-01-11,44,M,185.1,104.7,Yoga,63,Low,5.5,108,8.5,6,7505,3.4,30,60.5,114.4,64.2,Hypertension,Former,0.58
+2955,2024-01-12,44,M,185.1,105.0,Yoga,21,Low,1.8,109,6.0,2,6500,2.1,30,60.5,114.4,64.2,Hypertension,Former,0.6
+2955,2024-01-13,44,M,185.1,105.2,Yoga,22,Low,1.9,116,6.0,9,9226,1.5,30,60.5,114.4,64.2,Hypertension,Former,0.62
+2955,2024-01-14,44,M,185.1,105.5,Yoga,93,High,11.4,145,8.3,7,10369,2.9,30,60.5,114.4,64.2,Hypertension,Former,0.75
+2955,2024-01-16,44,M,185.1,105.7,Yoga,46,Medium,4.9,131,6.5,5,8420,1.7,30,60.5,114.4,64.2,Hypertension,Former,0.81
+2955,2024-01-18,44,M,185.1,106.0,Yoga,48,High,5.9,146,7.4,8,7662,3.5,30,60.5,114.4,64.2,Hypertension,Former,0.87
+2955,2024-01-20,44,M,185.1,106.3,Walking,63,Medium,8.5,138,6.8,8,8950,3.0,30,60.5,114.4,64.2,Hypertension,Former,0.95
+2955,2024-01-21,44,M,185.1,106.5,Yoga,61,Medium,6.5,127,8.5,3,12053,2.5,30,60.5,114.4,64.2,Hypertension,Former,1.02
+2955,2024-01-24,44,M,185.1,106.8,Walking,100,Medium,13.5,141,6.3,3,7556,3.5,30,60.5,114.4,64.2,Hypertension,Former,1.14
+2955,2024-01-27,44,M,185.1,107.0,Walking,92,Low,10.4,112,8.1,9,11440,1.9,30,60.5,114.4,64.2,Hypertension,Former,1.23
+2955,2024-01-28,44,M,185.1,107.3,Yoga,105,Medium,11.2,146,6.7,7,13151,3.4,30,60.5,114.4,64.2,Hypertension,Former,1.36
+2955,2024-01-29,44,M,185.1,107.5,Cycling,37,Low,9.4,116,6.2,2,10246,1.6,30,60.5,114.4,64.2,Hypertension,Former,1.4
+2955,2024-01-30,44,M,185.1,107.8,Weight Training,24,Medium,5.2,120,6.2,8,8907,2.7,30,60.5,114.4,64.2,Hypertension,Former,1.43
+2955,2024-01-31,44,M,185.1,108.1,Cycling,73,Medium,22.3,147,4.7,10,11057,2.8,30,60.5,114.4,64.2,Hypertension,Former,1.51

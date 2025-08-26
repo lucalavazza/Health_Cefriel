@@ -1,0 +1,17 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+968,2024-02-02,37,M,184.9,98.0,Weight Training,55,Medium,10.8,116,4.7,2,10527,2.9,27.2,77,131.3,88.1,None,Never,1.51
+968,2024-02-03,37,M,184.9,98.2,Swimming,25,Medium,5.7,118,7.1,6,11029,1.7,27.2,77,131.3,88.1,None,Never,1.54
+968,2024-02-04,37,M,184.9,98.5,Weight Training,70,Low,11.5,116,6.8,8,12084,2.2,27.2,77,131.3,88.1,None,Never,1.61
+968,2024-02-05,37,M,184.9,98.8,Weight Training,120,Low,19.7,119,7.3,1,8540,2.1,27.2,77,131.3,88.1,None,Never,1.73
+968,2024-02-06,37,M,184.9,99.0,Tennis,94,Medium,22.6,135,6.2,1,7303,3.4,27.2,77,131.3,88.1,None,Never,1.84
+968,2024-02-07,37,M,184.9,99.3,Weight Training,96,Low,15.8,116,7.0,4,8379,2.1,27.2,77,131.3,88.1,None,Never,1.94
+968,2024-02-08,37,M,184.9,99.5,Tennis,97,Medium,23.4,145,7.9,8,6842,2.4,27.2,77,131.3,88.1,None,Never,2.05
+968,2024-02-09,37,M,184.9,99.8,Dancing,82,Medium,15.0,151,6.8,2,7337,3.2,27.2,77,131.3,88.1,None,Never,2.15
+968,2024-02-12,37,M,184.9,100.1,Weight Training,44,Low,7.3,108,7.5,7,8292,2.5,27.2,77,131.3,88.1,None,Never,2.2
+968,2024-02-13,37,M,184.9,100.3,Cycling,86,Medium,24.4,128,7.9,6,6907,1.8,27.2,77,131.3,88.1,None,Never,2.3
+968,2024-02-14,37,M,184.9,100.6,Cycling,82,Medium,23.3,133,6.1,5,9028,3.3,27.2,77,131.3,88.1,None,Never,2.4
+968,2024-02-15,37,M,184.9,100.8,HIIT,45,Low,15.1,122,10.0,7,9267,2.1,27.2,77,131.3,88.1,None,Never,2.44
+968,2024-02-16,37,M,184.9,101.1,Cycling,34,Medium,9.7,125,7.9,3,10751,1.6,27.2,77,131.3,88.1,None,Never,2.48
+968,2024-02-23,37,M,184.9,101.3,Cycling,100,Low,23.9,108,6.8,6,12963,3.0,27.2,77,131.3,88.1,None,Never,2.58
+968,2024-02-28,37,M,184.9,101.6,Weight Training,33,Medium,6.7,135,5.7,4,9594,2.6,27.2,77,131.3,88.1,None,Never,2.62
+968,2024-02-29,37,M,184.9,101.9,Cycling,62,Low,14.9,120,6.8,1,8946,3.4,27.2,77,131.3,88.1,None,Never,2.69

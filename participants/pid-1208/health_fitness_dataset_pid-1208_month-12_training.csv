@@ -1,0 +1,17 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+1208,2024-12-01,42,M,182,155.4,Weight Training,96,Low,24.8,107,7.0,4,10539,1.7,28.5,81.4,145.7,77.2,None,Former,19.04
+1208,2024-12-02,42,M,182,155.7,Basketball,28,Medium,11.6,137,6.3,8,4639,2.1,28.5,81.4,145.7,77.2,None,Former,19.07
+1208,2024-12-04,42,M,182,155.9,Basketball,117,Medium,48.6,138,7.5,1,5733,1.7,28.5,81.4,145.7,77.2,None,Former,19.21
+1208,2024-12-05,42,M,182,156.2,Weight Training,24,High,8.7,131,7.6,6,7303,1.6,28.5,81.4,145.7,77.2,None,Former,19.24
+1208,2024-12-06,42,M,182,156.5,Basketball,82,Low,28.5,117,7.5,2,8018,2.6,28.5,81.4,145.7,77.2,None,Former,19.32
+1208,2024-12-08,42,M,182,156.7,Basketball,31,Low,10.8,121,7.2,8,9750,2.5,28.5,81.4,145.7,77.2,None,Former,19.36
+1208,2024-12-10,42,M,182,157.0,Basketball,21,Low,7.3,116,6.9,1,9555,3.5,28.5,81.4,145.7,77.2,None,Former,19.38
+1208,2024-12-11,42,M,182,157.2,Basketball,86,High,42.0,148,8.1,10,6903,2.8,28.5,81.4,145.7,77.2,None,Former,19.5
+1208,2024-12-12,42,M,182,157.5,HIIT,71,High,52.1,143,7.7,5,6592,1.7,28.5,81.4,145.7,77.2,None,Former,19.6
+1208,2024-12-14,42,M,182,157.7,HIIT,20,Low,10.5,106,6.6,6,10200,1.7,28.5,81.4,145.7,77.2,None,Former,19.62
+1208,2024-12-15,42,M,182,158.0,Basketball,101,Medium,42.5,121,4.9,2,9790,3.3,28.5,81.4,145.7,77.2,None,Former,19.74
+1208,2024-12-18,42,M,182,158.2,Cycling,98,Low,36.6,118,9.0,7,7607,1.6,28.5,81.4,145.7,77.2,None,Former,19.84
+1208,2024-12-20,42,M,182,158.5,Tennis,103,High,46.3,150,6.6,9,7137,1.8,28.5,81.4,145.7,77.2,None,Former,19.98
+1208,2024-12-22,42,M,182,158.8,Swimming,67,Medium,24.8,120,6.6,10,9296,2.0,28.5,81.4,145.7,77.2,None,Former,20.06
+1208,2024-12-24,42,M,182,159.0,Walking,20,High,4.7,154,5.5,7,9431,2.9,28.5,81.4,145.7,77.2,None,Former,20.09
+1208,2024-12-25,42,M,182,159.3,Swimming,75,High,32.5,139,5.7,9,7806,3.3,28.5,81.4,145.7,77.2,None,Former,20.19

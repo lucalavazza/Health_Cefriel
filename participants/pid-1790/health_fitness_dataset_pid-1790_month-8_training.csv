@@ -1,0 +1,14 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+1790,2024-08-03,50,M,176.6,106.7,Cycling,67,High,23.6,138,5.6,10,10017,3.1,21.5,65.1,136.5,66,Diabetes,Current,12.97
+1790,2024-08-04,50,M,176.6,107.0,Cycling,79,Low,19.9,121,8.0,6,6801,3.0,21.5,65.1,136.5,66,Diabetes,Current,13.05
+1790,2024-08-05,50,M,176.6,107.2,Weight Training,26,Low,4.6,106,7.0,4,6557,1.9,21.5,65.1,136.5,66,Diabetes,Current,13.07
+1790,2024-08-06,50,M,176.6,107.5,Cycling,96,High,34.0,138,5.2,7,8716,3.1,21.5,65.1,136.5,66,Diabetes,Current,13.21
+1790,2024-08-08,50,M,176.6,107.7,Yoga,93,High,11.7,156,4.4,6,7511,3.0,21.5,65.1,136.5,66,Diabetes,Current,13.34
+1790,2024-08-10,50,M,176.6,108.0,Cycling,72,Medium,22.0,116,7.5,7,7230,1.7,21.5,65.1,136.5,66,Diabetes,Current,13.42
+1790,2024-08-18,50,M,176.6,108.2,Yoga,52,Medium,5.6,127,7.0,3,6738,3.3,21.5,65.1,136.5,66,Diabetes,Current,13.49
+1790,2024-08-19,50,M,176.6,108.5,Cycling,78,Medium,23.9,127,6.0,5,7909,2.3,21.5,65.1,136.5,66,Diabetes,Current,13.58
+1790,2024-08-20,50,M,176.6,108.8,Walking,106,Medium,14.6,110,6.5,7,7020,3.4,21.5,65.1,136.5,66,Diabetes,Current,13.71
+1790,2024-08-23,50,M,176.6,109.0,Yoga,63,High,8.0,158,6.2,8,7979,1.6,21.5,65.1,136.5,66,Diabetes,Current,13.79
+1790,2024-08-26,50,M,176.6,109.3,Yoga,53,Medium,5.8,136,8.4,6,9166,2.8,21.5,65.1,136.5,66,Diabetes,Current,13.86
+1790,2024-08-27,50,M,176.6,109.5,Yoga,107,Medium,11.7,134,7.4,8,6837,1.8,21.5,65.1,136.5,66,Diabetes,Current,13.99
+1790,2024-08-29,50,M,176.6,109.8,Yoga,30,Low,2.7,107,6.6,10,7142,3.2,21.5,65.1,136.5,66,Diabetes,Current,14.02

@@ -1,0 +1,15 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+399,2024-10-01,38,F,158,92.6,Yoga,24,Medium,2.2,141,7.7,5,5305,2.9,20.1,68,128.1,84.3,None,Current,13.25
+399,2024-10-03,38,F,158,92.8,Swimming,97,Medium,20.9,139,9.3,4,7284,3.2,20.1,68,128.1,84.3,None,Current,13.37
+399,2024-10-07,38,F,158,93.1,Yoga,36,Low,2.8,117,5.3,10,7963,2.6,20.1,68,128.1,84.3,None,Current,13.41
+399,2024-10-08,38,F,158,93.3,Yoga,74,Medium,6.9,137,8.5,4,6289,2.7,20.1,68,128.1,84.3,None,Current,13.49
+399,2024-10-10,38,F,158,93.6,Dancing,27,Low,3.8,117,6.2,2,5949,2.8,20.1,68,128.1,84.3,None,Current,13.52
+399,2024-10-13,38,F,158,93.9,Yoga,84,Medium,7.9,139,6.8,8,5244,3.4,20.1,68,128.1,84.3,None,Current,13.62
+399,2024-10-16,38,F,158,94.1,Dancing,68,Medium,11.7,126,8.5,2,4409,3.2,20.1,68,128.1,84.3,None,Current,13.7
+399,2024-10-17,38,F,158,94.4,Dancing,75,Medium,12.9,126,5.6,3,4360,2.2,20.1,68,128.1,84.3,None,Current,13.79
+399,2024-10-22,38,F,158,94.6,Yoga,119,Low,9.4,118,7.8,6,4757,2.9,20.1,68,128.1,84.3,None,Current,13.91
+399,2024-10-23,38,F,158,94.9,Yoga,64,Low,5.0,121,5.5,7,4572,3.4,20.1,68,128.1,84.3,None,Current,13.98
+399,2024-10-26,38,F,158,95.1,Dancing,37,High,7.5,145,6.6,3,9061,3.3,20.1,68,128.1,84.3,None,Current,14.03
+399,2024-10-28,38,F,158,95.4,Dancing,100,High,20.4,163,7.7,9,4871,3.3,20.1,68,128.1,84.3,None,Current,14.17
+399,2024-10-30,38,F,158,95.7,Yoga,75,Low,6.0,120,5.0,8,3457,2.4,20.1,68,128.1,84.3,None,Current,14.24
+399,2024-10-31,38,F,158,95.9,Tennis,60,Medium,14.0,128,7.3,10,5789,1.6,20.1,68,128.1,84.3,None,Current,14.32

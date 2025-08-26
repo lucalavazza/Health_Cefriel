@@ -1,0 +1,16 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+890,2024-12-01,45,F,162,100.3,Basketball,111,High,34.5,156,6.2,6,9088,3.4,17.1,64.1,116.9,72.4,Hypertension,Former,17.19
+890,2024-12-02,45,F,162,100.5,Basketball,83,High,25.9,151,5.2,7,10896,2.3,17.1,64.1,116.9,72.4,Hypertension,Former,17.31
+890,2024-12-03,45,F,162,100.8,Swimming,66,Low,12.9,110,7.7,9,8209,2.9,17.1,64.1,116.9,72.4,Hypertension,Former,17.37
+890,2024-12-06,45,F,162,101.1,Running,98,Medium,32.3,136,6.2,5,6123,3.5,17.1,64.1,116.9,72.4,Hypertension,Former,17.49
+890,2024-12-09,45,F,162,101.3,Swimming,47,Low,9.2,109,7.0,2,9479,1.6,17.1,64.1,116.9,72.4,Hypertension,Former,17.54
+890,2024-12-11,45,F,162,101.6,Swimming,92,Medium,21.7,140,7.9,3,8065,2.6,17.1,64.1,116.9,72.4,Hypertension,Former,17.65
+890,2024-12-12,45,F,162,101.8,Swimming,113,Medium,26.8,125,7.0,8,7427,2.1,17.1,64.1,116.9,72.4,Hypertension,Former,17.78
+890,2024-12-14,45,F,162,102.1,Swimming,25,Medium,5.9,140,6.1,9,11137,2.8,17.1,64.1,116.9,72.4,Hypertension,Former,17.81
+890,2024-12-17,45,F,162,102.3,Swimming,55,Medium,13.1,124,7.6,2,7524,1.7,17.1,64.1,116.9,72.4,Hypertension,Former,17.88
+890,2024-12-18,45,F,162,102.6,Basketball,80,Low,18.2,108,9.4,5,5983,3.4,17.1,64.1,116.9,72.4,Hypertension,Former,17.96
+890,2024-12-19,45,F,162,102.9,Swimming,42,Medium,10.1,134,5.8,10,8416,2.1,17.1,64.1,116.9,72.4,Hypertension,Former,18.01
+890,2024-12-21,45,F,162,103.1,Swimming,52,Low,10.4,118,8.0,2,8644,3.1,17.1,64.1,116.9,72.4,Hypertension,Former,18.06
+890,2024-12-23,45,F,162,103.4,Basketball,37,Medium,10.2,138,6.7,4,11651,2.0,17.1,64.1,116.9,72.4,Hypertension,Former,18.11
+890,2024-12-24,45,F,162,103.6,Cycling,94,High,32.1,135,7.6,5,6668,1.6,17.1,64.1,116.9,72.4,Hypertension,Former,18.24
+890,2024-12-25,45,F,162,103.9,Swimming,30,Low,6.0,119,8.0,5,7412,3.1,17.1,64.1,116.9,72.4,Hypertension,Former,18.27

@@ -1,0 +1,19 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+41,2024-08-01,52,F,159.9,97.0,Walking,87,Low,8.9,117,4.0,10,5580,2.1,22.5,78.7,124.3,79.4,Asthma,Never,12.56
+41,2024-08-03,52,F,159.9,97.2,Walking,41,Low,4.2,115,7.5,3,6806,2.0,22.5,78.7,124.3,79.4,Asthma,Never,12.6
+41,2024-08-04,52,F,159.9,97.5,Walking,68,Low,7.0,109,7.7,5,10613,1.6,22.5,78.7,124.3,79.4,Asthma,Never,12.67
+41,2024-08-05,52,F,159.9,97.7,Walking,24,Low,2.5,110,6.4,8,4683,1.8,22.5,78.7,124.3,79.4,Asthma,Never,12.69
+41,2024-08-07,52,F,159.9,98.0,Walking,21,Medium,2.6,124,5.1,10,8626,2.1,22.5,78.7,124.3,79.4,Asthma,Never,12.72
+41,2024-08-08,52,F,159.9,98.3,Basketball,62,Medium,16.2,133,8.9,6,8240,3.0,22.5,78.7,124.3,79.4,Asthma,Never,12.79
+41,2024-08-09,52,F,159.9,98.5,Walking,101,Low,10.5,101,7.2,4,5990,1.8,22.5,78.7,124.3,79.4,Asthma,Never,12.89
+41,2024-08-10,52,F,159.9,98.8,Weight Training,103,Medium,20.3,114,7.5,1,10424,2.6,22.5,78.7,124.3,79.4,Asthma,Never,13.01
+41,2024-08-14,52,F,159.9,99.0,Weight Training,103,Low,17.0,104,7.8,6,8885,1.6,22.5,78.7,124.3,79.4,Asthma,Never,13.12
+41,2024-08-15,52,F,159.9,99.3,Weight Training,24,Medium,4.8,135,5.0,8,9462,2.5,22.5,78.7,124.3,79.4,Asthma,Never,13.15
+41,2024-08-17,52,F,159.9,99.5,Cycling,69,Medium,19.4,131,7.8,2,8940,1.7,22.5,78.7,124.3,79.4,Asthma,Never,13.23
+41,2024-08-19,52,F,159.9,99.8,Cycling,35,High,11.5,171,7.4,10,4775,1.8,22.5,78.7,124.3,79.4,Asthma,Never,13.28
+41,2024-08-23,52,F,159.9,100.1,Cycling,80,High,26.4,137,6.3,4,4224,1.9,22.5,78.7,124.3,79.4,Asthma,Never,13.39
+41,2024-08-24,52,F,159.9,100.3,Cycling,66,Medium,18.7,127,7.6,7,7706,3.3,22.5,78.7,124.3,79.4,Asthma,Never,13.47
+41,2024-08-26,52,F,159.9,100.6,Cycling,34,Medium,9.7,125,6.3,2,7729,3.2,22.5,78.7,124.3,79.4,Asthma,Never,13.51
+41,2024-08-29,52,F,159.9,100.8,Cycling,83,High,27.6,137,7.3,1,4550,3.4,22.5,78.7,124.3,79.4,Asthma,Never,13.63
+41,2024-08-30,52,F,159.9,101.1,Cycling,77,Medium,22.0,130,7.1,2,6503,2.7,22.5,78.7,124.3,79.4,Asthma,Never,13.72
+41,2024-08-31,52,F,159.9,101.3,Dancing,107,Medium,19.8,109,8.1,1,7945,2.5,22.5,78.7,124.3,79.4,Asthma,Never,13.85

@@ -1,0 +1,17 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+2471,2024-01-02,28,M,177.4,90.1,Cycling,90,Medium,22.9,162,8.2,2,10746,2.3,28.6,78.9,107.9,73,None,Never,0.11
+2471,2024-01-03,28,M,177.4,90.4,Cycling,115,Low,24.5,122,5.9,3,8744,1.6,28.6,78.9,107.9,73,None,Never,0.22
+2471,2024-01-04,28,M,177.4,90.6,Cycling,86,Medium,22.0,144,7.8,9,8030,1.6,28.6,78.9,107.9,73,None,Never,0.33
+2471,2024-01-06,28,M,177.4,90.9,HIIT,36,High,15.2,163,7.1,1,10826,1.7,28.6,78.9,107.9,73,None,Never,0.38
+2471,2024-01-07,28,M,177.4,91.1,HIIT,46,Low,13.9,125,6.2,2,11877,3.4,28.6,78.9,107.9,73,None,Never,0.42
+2471,2024-01-08,28,M,177.4,91.4,HIIT,93,Medium,33.9,163,6.9,3,7863,1.5,28.6,78.9,107.9,73,None,Never,0.53
+2471,2024-01-15,28,M,177.4,91.7,Weight Training,82,Medium,15.0,125,7.6,6,7529,2.9,28.6,78.9,107.9,73,None,Never,0.63
+2471,2024-01-17,28,M,177.4,91.9,Yoga,85,Low,6.5,128,7.3,2,8300,3.2,28.6,78.9,107.9,73,None,Never,0.72
+2471,2024-01-18,28,M,177.4,92.2,Yoga,56,Medium,5.1,135,6.4,10,8284,2.1,28.6,78.9,107.9,73,None,Never,0.78
+2471,2024-01-19,28,M,177.4,92.4,Weight Training,67,Low,10.3,123,7.8,9,9677,2.3,28.6,78.9,107.9,73,None,Never,0.85
+2471,2024-01-23,28,M,177.4,92.7,Weight Training,75,Low,11.6,118,7.8,8,7722,2.3,28.6,78.9,107.9,73,None,Never,0.93
+2471,2024-01-24,28,M,177.4,92.9,Weight Training,69,Low,10.7,128,7.8,3,7245,2.8,28.6,78.9,107.9,73,None,Never,1.0
+2471,2024-01-25,28,M,177.4,93.2,Weight Training,79,Low,12.2,122,8.9,8,6166,2.0,28.6,78.9,107.9,73,None,Never,1.07
+2471,2024-01-27,28,M,177.4,93.5,Weight Training,26,Low,4.0,125,5.4,2,9603,3.3,28.6,78.9,107.9,73,None,Never,1.1
+2471,2024-01-28,28,M,177.4,93.7,Weight Training,81,Medium,15.1,140,7.6,7,13353,2.8,28.6,78.9,107.9,73,None,Never,1.2
+2471,2024-01-31,28,M,177.4,94.0,Weight Training,84,Medium,15.7,143,8.0,5,9096,3.0,28.6,78.9,107.9,73,None,Never,1.3

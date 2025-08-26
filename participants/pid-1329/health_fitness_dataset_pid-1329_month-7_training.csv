@@ -1,0 +1,17 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+1329,2024-07-01,61,M,172.7,118.7,HIIT,74,High,40.9,127,6.5,6,6788,2.0,28,67.2,124.5,89.8,Asthma,Current,10.72
+1329,2024-07-02,61,M,172.7,119.0,HIIT,84,Low,33.2,102,7.3,4,5072,2.8,28,67.2,124.5,89.8,Asthma,Current,10.81
+1329,2024-07-03,61,M,172.7,119.3,Yoga,82,Medium,9.8,120,7.1,2,10046,1.7,28,67.2,124.5,89.8,Asthma,Current,10.9
+1329,2024-07-04,61,M,172.7,119.5,Yoga,33,High,4.6,138,8.8,9,8531,2.3,28,67.2,124.5,89.8,Asthma,Current,10.95
+1329,2024-07-05,61,M,172.7,119.8,HIIT,47,Medium,22.5,134,7.7,7,7544,2.5,28,67.2,124.5,89.8,Asthma,Current,11.01
+1329,2024-07-06,61,M,172.7,120.0,Cycling,33,High,13.1,135,8.5,9,8968,2.8,28,67.2,124.5,89.8,Asthma,Current,11.05
+1329,2024-07-07,61,M,172.7,120.3,Dancing,74,Medium,16.3,109,7.8,5,10348,2.9,28,67.2,124.5,89.8,Asthma,Current,11.14
+1329,2024-07-13,61,M,172.7,120.5,HIIT,62,Medium,29.8,135,7.3,3,8994,2.2,28,67.2,124.5,89.8,Asthma,Current,11.22
+1329,2024-07-17,61,M,172.7,120.8,HIIT,29,Low,11.7,104,5.6,7,9993,2.6,28,67.2,124.5,89.8,Asthma,Current,11.24
+1329,2024-07-18,61,M,172.7,121.1,Dancing,47,Medium,10.4,120,7.3,4,5282,2.5,28,67.2,124.5,89.8,Asthma,Current,11.3
+1329,2024-07-20,61,M,172.7,121.3,HIIT,30,Medium,14.5,114,7.9,6,10595,2.7,28,67.2,124.5,89.8,Asthma,Current,11.34
+1329,2024-07-21,61,M,172.7,121.6,Cycling,33,Medium,11.3,119,7.1,7,10511,2.2,28,67.2,124.5,89.8,Asthma,Current,11.38
+1329,2024-07-22,61,M,172.7,121.8,Weight Training,49,Medium,11.9,120,5.9,2,7870,1.6,28,67.2,124.5,89.8,Asthma,Current,11.44
+1329,2024-07-27,61,M,172.7,122.1,Cycling,62,Low,17.8,105,7.6,3,9338,2.3,28,67.2,124.5,89.8,Asthma,Current,11.5
+1329,2024-07-28,61,M,172.7,122.3,Dancing,92,Medium,20.6,119,7.4,8,3734,1.6,28,67.2,124.5,89.8,Asthma,Current,11.61
+1329,2024-07-30,61,M,172.7,122.6,Weight Training,118,Medium,28.9,109,6.1,1,8175,3.5,28,67.2,124.5,89.8,Asthma,Current,11.75

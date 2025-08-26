@@ -1,0 +1,18 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+1939,2024-12-01,64,F,167.1,127.7,Running,108,Medium,45.0,113,6.7,6,8821,2.9,26.8,81.6,106.4,81.4,Asthma,Former,17.36
+1939,2024-12-02,64,F,167.1,128.0,Running,95,Low,33.0,93,7.2,8,6187,3.2,26.8,81.6,106.4,81.4,Asthma,Former,17.46
+1939,2024-12-03,64,F,167.1,128.2,Running,82,Low,28.6,107,6.8,9,6192,2.2,26.8,81.6,106.4,81.4,Asthma,Former,17.54
+1939,2024-12-06,64,F,167.1,128.5,Running,23,Medium,9.6,116,6.4,1,7415,3.3,26.8,81.6,106.4,81.4,Asthma,Former,17.57
+1939,2024-12-07,64,F,167.1,128.7,Running,49,High,24.0,128,6.3,4,9425,2.8,26.8,81.6,106.4,81.4,Asthma,Former,17.63
+1939,2024-12-08,64,F,167.1,129.0,Running,30,Medium,12.6,118,7.4,1,8504,2.7,26.8,81.6,106.4,81.4,Asthma,Former,17.67
+1939,2024-12-09,64,F,167.1,129.2,Walking,41,High,7.8,131,6.5,8,8706,3.3,26.8,81.6,106.4,81.4,Asthma,Former,17.73
+1939,2024-12-11,64,F,167.1,129.5,Running,65,Medium,27.4,110,9.0,6,8372,1.5,26.8,81.6,106.4,81.4,Asthma,Former,17.81
+1939,2024-12-12,64,F,167.1,129.8,Running,115,Medium,48.6,115,7.9,8,8842,1.7,26.8,81.6,106.4,81.4,Asthma,Former,17.94
+1939,2024-12-13,64,F,167.1,130.0,Running,55,High,27.2,123,7.8,1,8549,2.0,26.8,81.6,106.4,81.4,Asthma,Former,18.02
+1939,2024-12-14,64,F,167.1,130.3,Running,21,Low,7.4,101,8.6,8,9197,3.3,26.8,81.6,106.4,81.4,Asthma,Former,18.04
+1939,2024-12-18,64,F,167.1,130.5,Weight Training,29,Medium,7.6,128,7.9,10,5157,2.4,26.8,81.6,106.4,81.4,Asthma,Former,18.08
+1939,2024-12-20,64,F,167.1,130.8,Running,29,Medium,12.4,122,6.9,9,9485,3.0,26.8,81.6,106.4,81.4,Asthma,Former,18.11
+1939,2024-12-21,64,F,167.1,131.0,Running,103,Medium,44.0,129,7.3,7,10934,2.7,26.8,81.6,106.4,81.4,Asthma,Former,18.23
+1939,2024-12-23,64,F,167.1,131.3,Weight Training,109,Medium,28.6,103,6.6,7,7900,2.7,26.8,81.6,106.4,81.4,Asthma,Former,18.37
+1939,2024-12-24,64,F,167.1,131.6,Weight Training,90,Medium,23.6,117,6.6,7,7108,2.0,26.8,81.6,106.4,81.4,Asthma,Former,18.47
+1939,2024-12-25,64,F,167.1,131.8,Weight Training,101,Medium,26.6,119,5.5,3,5048,2.2,26.8,81.6,106.4,81.4,Asthma,Former,18.59

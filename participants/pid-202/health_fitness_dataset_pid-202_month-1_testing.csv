@@ -1,0 +1,20 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+202,2024-01-01,24,M,176.3,75.0,Basketball,52,Medium,10.4,144,5.2,9,7817,2.8,24,73,118.9,75.5,None,Current,0.06
+202,2024-01-02,24,M,176.3,75.3,Basketball,45,Medium,9.0,154,6.5,5,10200,2.0,24,73,118.9,75.5,None,Current,0.12
+202,2024-01-03,24,M,176.3,75.5,Basketball,118,Low,19.7,124,7.2,1,9294,3.2,24,73,118.9,75.5,None,Current,0.23
+202,2024-01-04,24,M,176.3,75.8,Basketball,94,Low,15.8,129,6.8,1,5637,2.0,24,73,118.9,75.5,None,Current,0.33
+202,2024-01-06,24,M,176.3,76.1,Basketball,78,Medium,15.8,138,9.8,4,10022,2.4,24,73,118.9,75.5,None,Current,0.42
+202,2024-01-07,24,M,176.3,76.3,Cycling,85,Medium,18.3,146,8.8,7,8246,1.8,24,73,118.9,75.5,None,Current,0.52
+202,2024-01-09,24,M,176.3,76.6,Basketball,109,Low,18.5,129,6.1,7,9976,2.5,24,73,118.9,75.5,None,Current,0.63
+202,2024-01-11,24,M,176.3,76.8,Weight Training,95,Low,12.1,129,7.3,10,6994,1.8,24,73,118.9,75.5,None,Current,0.73
+202,2024-01-13,24,M,176.3,77.1,Cycling,94,Medium,20.5,154,7.2,1,7984,3.1,24,73,118.9,75.5,None,Current,0.84
+202,2024-01-14,24,M,176.3,77.4,Cycling,47,Medium,10.3,155,6.1,6,11883,3.4,24,73,118.9,75.5,None,Current,0.9
+202,2024-01-15,24,M,176.3,77.6,HIIT,59,High,21.3,181,6.6,3,4287,2.2,24,73,118.9,75.5,None,Current,0.98
+202,2024-01-19,24,M,176.3,77.9,Cycling,104,Low,19.1,126,6.5,7,5062,1.9,24,73,118.9,75.5,None,Current,1.08
+202,2024-01-21,24,M,176.3,78.1,Tennis,58,Low,9.2,129,6.5,7,12417,2.8,24,73,118.9,75.5,None,Current,1.14
+202,2024-01-24,24,M,176.3,78.4,Tennis,52,Medium,9.9,150,7.7,2,10803,3.3,24,73,118.9,75.5,None,Current,1.2
+202,2024-01-25,24,M,176.3,78.6,Tennis,92,Medium,17.5,126,7.3,6,5949,1.6,24,73,118.9,75.5,None,Current,1.31
+202,2024-01-26,24,M,176.3,78.9,Tennis,65,Medium,12.4,128,6.7,7,8475,3.2,24,73,118.9,75.5,None,Current,1.39
+202,2024-01-28,24,M,176.3,79.2,Tennis,31,Medium,6.0,143,7.6,7,8895,3.5,24,73,118.9,75.5,None,Current,1.43
+202,2024-01-30,24,M,176.3,79.4,Tennis,87,Medium,16.8,139,6.2,7,7950,3.2,24,73,118.9,75.5,None,Current,1.53
+202,2024-01-31,24,M,176.3,79.7,Tennis,66,Medium,12.8,145,7.8,10,10479,2.7,24,73,118.9,75.5,None,Current,1.61

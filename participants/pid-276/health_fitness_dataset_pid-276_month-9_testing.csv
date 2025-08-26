@@ -1,0 +1,17 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+276,2024-09-02,29,F,152,101.2,Tennis,118,Medium,29.0,133,7.2,5,2929,3.2,22.6,69.3,123.6,73.1,None,Never,16.11
+276,2024-09-03,29,F,152,101.4,Cycling,62,High,20.7,166,6.0,1,2534,1.7,22.6,69.3,123.6,73.1,None,Never,16.19
+276,2024-09-04,29,F,152,101.7,Cycling,68,Medium,19.5,148,8.2,9,3975,1.8,22.6,69.3,123.6,73.1,None,Never,16.27
+276,2024-09-05,29,F,152,102.0,Swimming,30,Medium,7.1,138,8.5,4,4774,2.5,22.6,69.3,123.6,73.1,None,Never,16.31
+276,2024-09-06,29,F,152,102.2,Swimming,105,Medium,25.0,158,6.8,1,4626,1.7,22.6,69.3,123.6,73.1,None,Never,16.44
+276,2024-09-09,29,F,152,102.5,Cycling,94,Medium,27.2,132,7.8,5,6280,1.9,22.6,69.3,123.6,73.1,None,Never,16.55
+276,2024-09-12,29,F,152,102.7,Swimming,98,Low,19.5,123,8.4,1,7680,3.1,22.6,69.3,123.6,73.1,None,Never,16.65
+276,2024-09-14,29,F,152,103.0,Swimming,20,Medium,4.8,143,6.5,5,10320,2.9,22.6,69.3,123.6,73.1,None,Never,16.67
+276,2024-09-16,29,F,152,103.2,Weight Training,73,Low,12.5,129,8.3,4,5494,3.0,22.6,69.3,123.6,73.1,None,Never,16.74
+276,2024-09-19,29,F,152,103.5,Swimming,70,Medium,16.9,144,7.8,1,5067,3.4,22.6,69.3,123.6,73.1,None,Never,16.83
+276,2024-09-21,29,F,152,103.8,Swimming,111,Medium,26.8,150,6.2,8,7305,2.4,22.6,69.3,123.6,73.1,None,Never,16.96
+276,2024-09-23,29,F,152,104.0,Weight Training,72,Medium,14.9,140,5.2,5,5961,1.8,22.6,69.3,123.6,73.1,None,Never,17.05
+276,2024-09-24,29,F,152,104.3,Swimming,46,Medium,11.2,146,6.8,5,5502,1.6,22.6,69.3,123.6,73.1,None,Never,17.1
+276,2024-09-27,29,F,152,104.5,Yoga,69,Medium,7.2,153,7.9,7,5633,3.3,22.6,69.3,123.6,73.1,None,Never,17.18
+276,2024-09-28,29,F,152,104.8,Yoga,67,Medium,7.0,143,7.5,8,6767,3.2,22.6,69.3,123.6,73.1,None,Never,17.27
+276,2024-09-30,29,F,152,105.1,Cycling,56,Medium,16.6,133,7.2,4,5898,3.1,22.6,69.3,123.6,73.1,None,Never,17.33

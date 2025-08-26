@@ -1,0 +1,17 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+676,2024-09-04,46,F,162.6,88.1,Yoga,20,Medium,1.8,120,8.9,8,2577,2.3,17,69.9,117.4,87.4,Hypertension,Current,13.68
+676,2024-09-05,46,F,162.6,88.4,Cycling,71,Medium,17.7,137,5.8,1,6484,2.4,17,69.9,117.4,87.4,Hypertension,Current,13.76
+676,2024-09-06,46,F,162.6,88.6,Yoga,30,High,3.1,154,6.1,6,4129,3.5,17,69.9,117.4,87.4,Hypertension,Current,13.8
+676,2024-09-08,46,F,162.6,88.9,Cycling,44,Medium,11.0,143,7.9,6,10772,1.6,17,69.9,117.4,87.4,Hypertension,Current,13.86
+676,2024-09-09,46,F,162.6,89.1,Yoga,52,Low,3.9,121,7.7,8,9340,2.3,17,69.9,117.4,87.4,Hypertension,Current,13.91
+676,2024-09-10,46,F,162.6,89.4,Cycling,120,High,35.4,165,7.6,9,8697,2.4,17,69.9,117.4,87.4,Hypertension,Current,14.08
+676,2024-09-12,46,F,162.6,89.7,Cycling,24,Low,5.1,119,6.6,5,8345,2.5,17,69.9,117.4,87.4,Hypertension,Current,14.1
+676,2024-09-13,46,F,162.6,89.9,Yoga,102,Low,7.6,117,8.0,3,3519,2.0,17,69.9,117.4,87.4,Hypertension,Current,14.2
+676,2024-09-19,46,F,162.6,90.2,Cycling,62,Low,13.2,116,7.0,3,7949,2.5,17,69.9,117.4,87.4,Hypertension,Current,14.26
+676,2024-09-20,46,F,162.6,90.4,Yoga,75,Medium,6.8,136,9.7,3,7612,2.0,17,69.9,117.4,87.4,Hypertension,Current,14.35
+676,2024-09-21,46,F,162.6,90.7,Yoga,90,Low,6.8,114,8.1,6,8422,1.8,17,69.9,117.4,87.4,Hypertension,Current,14.44
+676,2024-09-22,46,F,162.6,90.9,Cycling,38,Medium,9.8,144,6.5,8,9437,2.9,17,69.9,117.4,87.4,Hypertension,Current,14.49
+676,2024-09-23,46,F,162.6,91.2,Yoga,47,Low,3.6,110,5.9,2,7264,3.0,17,69.9,117.4,87.4,Hypertension,Current,14.54
+676,2024-09-24,46,F,162.6,91.5,Cycling,68,Low,14.6,105,7.7,1,4123,1.9,17,69.9,117.4,87.4,Hypertension,Current,14.61
+676,2024-09-25,46,F,162.6,91.7,Yoga,67,High,7.1,137,7.2,3,5479,2.9,17,69.9,117.4,87.4,Hypertension,Current,14.7
+676,2024-09-30,46,F,162.6,92.0,Yoga,47,High,5.0,150,9.6,3,6641,2.7,17,69.9,117.4,87.4,Hypertension,Current,14.76

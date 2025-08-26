@@ -1,0 +1,16 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+2214,2024-12-01,49,M,166,122.2,Basketball,56,High,21.3,129,6.5,9,9592,2.4,24.2,65.2,112.2,84.7,Hypertension,Current,17.56
+2214,2024-12-02,49,M,166,122.5,Basketball,106,High,40.3,135,6.8,5,7528,1.6,24.2,65.2,112.2,84.7,Hypertension,Current,17.71
+2214,2024-12-03,49,M,166,122.7,Basketball,97,Medium,31.7,135,6.1,6,5513,3.1,24.2,65.2,112.2,84.7,Hypertension,Current,17.83
+2214,2024-12-04,49,M,166,123.0,Basketball,29,High,11.1,159,7.5,5,6172,1.9,24.2,65.2,112.2,84.7,Hypertension,Current,17.87
+2214,2024-12-10,49,M,166,123.3,Basketball,101,Medium,33.1,130,8.5,6,7517,3.4,24.2,65.2,112.2,84.7,Hypertension,Current,17.99
+2214,2024-12-11,49,M,166,123.5,Basketball,28,Low,7.7,114,6.9,6,7743,1.6,24.2,65.2,112.2,84.7,Hypertension,Current,18.02
+2214,2024-12-12,49,M,166,123.8,Basketball,67,Medium,22.1,127,6.8,1,9262,2.1,24.2,65.2,112.2,84.7,Hypertension,Current,18.1
+2214,2024-12-13,49,M,166,124.0,Basketball,120,Medium,39.6,130,7.2,10,7576,2.5,24.2,65.2,112.2,84.7,Hypertension,Current,18.24
+2214,2024-12-14,49,M,166,124.3,Cycling,106,High,43.5,140,7.6,2,11443,2.8,24.2,65.2,112.2,84.7,Hypertension,Current,18.39
+2214,2024-12-15,49,M,166,124.5,Cycling,80,Medium,28.2,117,7.9,1,9907,2.5,24.2,65.2,112.2,84.7,Hypertension,Current,18.49
+2214,2024-12-17,49,M,166,124.8,Basketball,105,Low,29.1,115,6.4,9,7404,2.6,24.2,65.2,112.2,84.7,Hypertension,Current,18.59
+2214,2024-12-19,49,M,166,125.0,Basketball,100,Medium,33.3,128,7.2,3,7553,2.4,24.2,65.2,112.2,84.7,Hypertension,Current,18.71
+2214,2024-12-20,49,M,166,125.3,Cycling,75,Medium,26.6,131,6.6,10,6938,3.2,24.2,65.2,112.2,84.7,Hypertension,Current,18.8
+2214,2024-12-21,49,M,166,125.6,HIIT,31,Medium,15.5,138,8.6,6,12284,1.5,24.2,65.2,112.2,84.7,Hypertension,Current,18.84
+2214,2024-12-25,49,M,166,125.8,HIIT,69,High,40.4,144,6.8,9,6892,2.1,24.2,65.2,112.2,84.7,Hypertension,Current,18.93

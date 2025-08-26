@@ -1,0 +1,20 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+351,2024-02-02,34,F,163,60.3,HIIT,43,Low,8.6,118,6.0,3,8664,2.2,20.9,66.1,130,91.1,None,Never,1.4
+351,2024-02-03,34,F,163,60.5,Dancing,81,Low,7.5,118,7.6,8,9312,1.8,20.9,66.1,130,91.1,None,Never,1.48
+351,2024-02-05,34,F,163,60.8,Dancing,70,Medium,7.8,144,6.8,5,6990,1.8,20.9,66.1,130,91.1,None,Never,1.57
+351,2024-02-07,34,F,163,61.1,Running,54,Medium,10.7,137,7.4,9,10997,1.5,20.9,66.1,130,91.1,None,Never,1.63
+351,2024-02-08,34,F,163,61.3,Tennis,73,High,12.7,177,8.7,10,9746,2.4,20.9,66.1,130,91.1,None,Never,1.74
+351,2024-02-10,34,F,163,61.6,Tennis,32,Medium,4.8,122,8.6,2,10034,2.5,20.9,66.1,130,91.1,None,Never,1.77
+351,2024-02-12,34,F,163,61.8,Tennis,85,Low,10.6,119,9.0,7,9925,1.9,20.9,66.1,130,91.1,None,Never,1.86
+351,2024-02-13,34,F,163,62.1,Tennis,48,High,8.4,151,7.0,9,8573,2.9,20.9,66.1,130,91.1,None,Never,1.93
+351,2024-02-14,34,F,163,62.3,Weight Training,117,Medium,14.5,133,7.8,5,7926,2.2,20.9,66.1,130,91.1,None,Never,2.07
+351,2024-02-15,34,F,163,62.6,Tennis,30,Medium,4.6,137,7.8,4,8017,2.5,20.9,66.1,130,91.1,None,Never,2.1
+351,2024-02-16,34,F,163,62.9,Tennis,48,Low,6.1,114,5.2,7,7786,3.4,20.9,66.1,130,91.1,None,Never,2.15
+351,2024-02-18,34,F,163,63.1,Weight Training,120,Low,12.6,113,7.5,1,11728,1.6,20.9,66.1,130,91.1,None,Never,2.27
+351,2024-02-21,34,F,163,63.4,Weight Training,84,Medium,10.6,148,6.9,2,11105,2.9,20.9,66.1,130,91.1,None,Never,2.37
+351,2024-02-22,34,F,163,63.6,Weight Training,64,Medium,8.1,147,8.4,8,7992,3.4,20.9,66.1,130,91.1,None,Never,2.45
+351,2024-02-23,34,F,163,63.9,Weight Training,31,Low,3.3,123,6.7,7,8775,1.7,20.9,66.1,130,91.1,None,Never,2.48
+351,2024-02-24,34,F,163,64.2,Tennis,42,High,7.6,141,6.7,6,13092,2.0,20.9,66.1,130,91.1,None,Never,2.54
+351,2024-02-26,34,F,163,64.4,Weight Training,42,Medium,5.4,141,7.1,2,7388,1.9,20.9,66.1,130,91.1,None,Never,2.59
+351,2024-02-27,34,F,163,64.7,Tennis,44,Medium,6.9,138,5.4,3,8972,2.8,20.9,66.1,130,91.1,None,Never,2.64
+351,2024-02-28,34,F,163,64.9,Weight Training,65,Medium,8.4,143,7.6,8,10590,2.5,20.9,66.1,130,91.1,None,Never,2.72

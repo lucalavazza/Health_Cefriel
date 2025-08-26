@@ -1,0 +1,17 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+1064,2024-06-01,64,F,156.2,87.9,Running,63,Low,15.0,90,6.9,8,11805,2.6,24.2,69.1,134.9,69.7,None,Former,8.76
+1064,2024-06-03,64,F,156.2,88.2,Cycling,118,Medium,29.4,114,6.7,6,7063,3.1,24.2,69.1,134.9,69.7,None,Former,8.91
+1064,2024-06-04,64,F,156.2,88.4,Weight Training,31,High,6.4,139,8.9,6,8681,1.7,24.2,69.1,134.9,69.7,None,Former,8.95
+1064,2024-06-06,64,F,156.2,88.7,Basketball,64,Low,12.6,109,8.1,4,9021,1.8,24.2,69.1,134.9,69.7,None,Former,9.01
+1064,2024-06-08,64,F,156.2,89.0,Cycling,52,Medium,13.1,125,4.8,3,10954,1.6,24.2,69.1,134.9,69.7,None,Former,9.08
+1064,2024-06-09,64,F,156.2,89.2,Weight Training,90,Medium,16.0,108,8.1,4,12685,1.5,24.2,69.1,134.9,69.7,None,Former,9.18
+1064,2024-06-10,64,F,156.2,89.5,Weight Training,68,Medium,12.1,123,6.4,9,8133,1.6,24.2,69.1,134.9,69.7,None,Former,9.26
+1064,2024-06-11,64,F,156.2,89.7,Cycling,29,Low,6.1,106,7.9,2,9237,2.1,24.2,69.1,134.9,69.7,None,Former,9.29
+1064,2024-06-13,64,F,156.2,90.0,Weight Training,113,High,23.7,125,8.6,6,5668,2.1,24.2,69.1,134.9,69.7,None,Former,9.45
+1064,2024-06-14,64,F,156.2,90.3,Weight Training,49,Low,7.3,103,7.5,2,10867,1.6,24.2,69.1,134.9,69.7,None,Former,9.5
+1064,2024-06-15,64,F,156.2,90.5,HIIT,90,Low,27.1,106,6.3,5,8707,2.5,24.2,69.1,134.9,69.7,None,Former,9.59
+1064,2024-06-17,64,F,156.2,90.8,Weight Training,86,High,18.2,141,6.2,1,7394,3.2,24.2,69.1,134.9,69.7,None,Former,9.71
+1064,2024-06-18,64,F,156.2,91.0,Running,48,Low,11.9,102,6.6,1,8938,3.3,24.2,69.1,134.9,69.7,None,Former,9.76
+1064,2024-06-21,64,F,156.2,91.3,Weight Training,26,Medium,4.7,129,6.9,7,8855,2.9,24.2,69.1,134.9,69.7,None,Former,9.79
+1064,2024-06-29,64,F,156.2,91.5,Weight Training,31,Low,4.7,104,7.9,6,9567,2.7,24.2,69.1,134.9,69.7,None,Former,9.82
+1064,2024-06-30,64,F,156.2,91.8,Running,103,High,35.9,146,5.7,2,10902,2.7,24.2,69.1,134.9,69.7,None,Former,9.97

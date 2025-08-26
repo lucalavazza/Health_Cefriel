@@ -1,0 +1,16 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+980,2024-11-02,34,F,166.2,103.6,Running,107,Medium,36.1,132,6.8,5,7756,1.6,19.5,67.1,116.9,85.2,Hypertension,Never,16.07
+980,2024-11-03,34,F,166.2,103.8,HIIT,119,Medium,49.3,141,6.3,1,7608,2.6,19.5,67.1,116.9,85.2,Hypertension,Never,16.21
+980,2024-11-04,34,F,166.2,104.1,Running,103,Low,29.1,128,7.4,6,7053,2.7,19.5,67.1,116.9,85.2,Hypertension,Never,16.32
+980,2024-11-05,34,F,166.2,104.3,Running,66,Low,18.7,115,7.0,2,6792,2.6,19.5,67.1,116.9,85.2,Hypertension,Never,16.38
+980,2024-11-10,34,F,166.2,104.6,Running,64,Medium,21.8,133,6.7,6,9374,3.3,19.5,67.1,116.9,85.2,Hypertension,Never,16.46
+980,2024-11-12,34,F,166.2,104.9,Running,49,Medium,16.7,146,4.6,7,2495,3.2,19.5,67.1,116.9,85.2,Hypertension,Never,16.52
+980,2024-11-15,34,F,166.2,105.1,HIIT,64,Low,22.4,113,7.2,7,5733,2.7,19.5,67.1,116.9,85.2,Hypertension,Never,16.58
+980,2024-11-16,34,F,166.2,105.4,HIIT,81,Medium,34.1,138,8.5,4,8522,2.4,19.5,67.1,116.9,85.2,Hypertension,Never,16.68
+980,2024-11-18,34,F,166.2,105.6,Weight Training,42,Medium,8.9,138,5.7,7,5688,2.2,19.5,67.1,116.9,85.2,Hypertension,Never,16.73
+980,2024-11-21,34,F,166.2,105.9,Weight Training,118,Medium,24.9,135,7.6,8,7783,3.2,19.5,67.1,116.9,85.2,Hypertension,Never,16.87
+980,2024-11-23,34,F,166.2,106.1,Tennis,108,High,32.5,150,7.3,5,6860,3.0,19.5,67.1,116.9,85.2,Hypertension,Never,17.02
+980,2024-11-25,34,F,166.2,106.4,Weight Training,42,High,10.4,168,6.3,8,7585,3.5,19.5,67.1,116.9,85.2,Hypertension,Never,17.08
+980,2024-11-26,34,F,166.2,106.7,Tennis,119,High,35.9,153,6.2,4,9977,3.1,19.5,67.1,116.9,85.2,Hypertension,Never,17.25
+980,2024-11-28,34,F,166.2,106.9,Weight Training,94,Low,16.7,116,6.6,9,6215,1.5,19.5,67.1,116.9,85.2,Hypertension,Never,17.34
+980,2024-11-29,34,F,166.2,107.2,Swimming,33,Medium,8.2,144,7.1,5,7545,1.6,19.5,67.1,116.9,85.2,Hypertension,Never,17.38

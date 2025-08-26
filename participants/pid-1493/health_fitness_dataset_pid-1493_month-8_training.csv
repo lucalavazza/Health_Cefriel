@@ -1,0 +1,17 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+1493,2024-08-01,48,F,156.6,83.9,Weight Training,77,Low,10.7,108,7.8,2,7417,2.9,19.7,67.3,108.8,78.2,None,Former,11.01
+1493,2024-08-03,48,F,156.6,84.2,Weight Training,79,Medium,13.3,145,5.7,10,8410,3.5,19.7,67.3,108.8,78.2,None,Former,11.11
+1493,2024-08-04,48,F,156.6,84.4,HIIT,27,Medium,9.1,138,6.6,3,7469,2.2,19.7,67.3,108.8,78.2,None,Former,11.14
+1493,2024-08-05,48,F,156.6,84.7,Weight Training,112,Low,15.8,112,6.5,4,7347,3.0,19.7,67.3,108.8,78.2,None,Former,11.25
+1493,2024-08-09,48,F,156.6,84.9,Weight Training,92,Medium,15.6,128,7.5,5,5507,2.1,19.7,67.3,108.8,78.2,None,Former,11.36
+1493,2024-08-10,48,F,156.6,85.2,Weight Training,44,Medium,7.5,119,6.9,8,8811,2.1,19.7,67.3,108.8,78.2,None,Former,11.42
+1493,2024-08-12,48,F,156.6,85.4,Weight Training,67,Low,9.5,114,7.8,4,6790,1.5,19.7,67.3,108.8,78.2,None,Former,11.48
+1493,2024-08-13,48,F,156.6,85.7,Weight Training,63,Medium,10.8,134,7.5,7,6316,2.4,19.7,67.3,108.8,78.2,None,Former,11.56
+1493,2024-08-15,48,F,156.6,86.0,Weight Training,79,Low,11.3,122,7.0,2,6613,3.3,19.7,67.3,108.8,78.2,None,Former,11.64
+1493,2024-08-19,48,F,156.6,86.2,Weight Training,67,Low,9.6,110,6.3,1,8846,2.1,19.7,67.3,108.8,78.2,None,Former,11.7
+1493,2024-08-21,48,F,156.6,86.5,Weight Training,101,High,20.3,140,7.0,7,7442,3.3,19.7,67.3,108.8,78.2,None,Former,11.85
+1493,2024-08-23,48,F,156.6,86.7,Yoga,103,Medium,8.9,120,8.4,5,5888,2.4,19.7,67.3,108.8,78.2,None,Former,11.97
+1493,2024-08-24,48,F,156.6,87.0,Yoga,59,Low,4.3,114,6.8,2,6261,2.7,19.7,67.3,108.8,78.2,None,Former,12.03
+1493,2024-08-26,48,F,156.6,87.3,Yoga,37,Medium,3.2,127,7.2,1,5326,3.3,19.7,67.3,108.8,78.2,None,Former,12.07
+1493,2024-08-29,48,F,156.6,87.5,Yoga,78,Medium,6.8,129,6.3,6,5545,1.8,19.7,67.3,108.8,78.2,None,Former,12.17
+1493,2024-08-31,48,F,156.6,87.8,Yoga,105,Low,7.7,105,6.9,10,8792,2.1,19.7,67.3,108.8,78.2,None,Former,12.27

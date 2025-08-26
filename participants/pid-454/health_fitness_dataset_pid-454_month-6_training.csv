@@ -1,0 +1,19 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+454,2024-06-01,31,F,168.9,98.5,Walking,24,Medium,3.0,144,7.2,9,12505,1.8,25,67,134.7,75.5,Asthma,Never,8.63
+454,2024-06-02,31,F,168.9,98.7,Walking,62,Low,6.4,117,8.3,2,10547,1.6,25,67,134.7,75.5,Asthma,Never,8.69
+454,2024-06-03,31,F,168.9,99.0,Running,100,High,37.6,159,6.5,5,9372,2.2,25,67,134.7,75.5,Asthma,Never,8.83
+454,2024-06-06,31,F,168.9,99.2,Cycling,119,Medium,33.4,138,6.7,2,9316,3.5,25,67,134.7,75.5,Asthma,Never,8.98
+454,2024-06-07,31,F,168.9,99.5,Walking,77,High,11.3,158,5.5,8,10624,2.3,25,67,134.7,75.5,Asthma,Never,9.08
+454,2024-06-08,31,F,168.9,99.8,Walking,83,Medium,10.5,158,7.1,5,8831,1.5,25,67,134.7,75.5,Asthma,Never,9.18
+454,2024-06-09,31,F,168.9,100.0,Walking,92,Medium,11.6,140,7.3,4,12752,3.4,25,67,134.7,75.5,Asthma,Never,9.29
+454,2024-06-12,31,F,168.9,100.3,Yoga,36,Medium,3.6,124,6.0,5,7862,3.3,25,67,134.7,75.5,Asthma,Never,9.34
+454,2024-06-13,31,F,168.9,100.5,Walking,44,Medium,5.6,155,6.6,4,5407,1.9,25,67,134.7,75.5,Asthma,Never,9.39
+454,2024-06-14,31,F,168.9,100.8,Basketball,93,Medium,24.9,141,7.5,9,7557,2.6,25,67,134.7,75.5,Asthma,Never,9.5
+454,2024-06-17,31,F,168.9,101.0,Weight Training,25,Low,4.2,125,6.5,1,11601,3.3,25,67,134.7,75.5,Asthma,Never,9.53
+454,2024-06-18,31,F,168.9,101.3,Weight Training,106,Medium,21.4,139,7.8,7,7196,2.9,25,67,134.7,75.5,Asthma,Never,9.65
+454,2024-06-21,31,F,168.9,101.6,Dancing,75,Medium,13.9,133,7.3,5,8860,2.9,25,67,134.7,75.5,Asthma,Never,9.74
+454,2024-06-22,31,F,168.9,101.8,Weight Training,101,Medium,20.5,149,6.3,4,8979,2.2,25,67,134.7,75.5,Asthma,Never,9.86
+454,2024-06-23,31,F,168.9,102.1,Weight Training,27,Low,4.6,119,6.9,6,8148,1.6,25,67,134.7,75.5,Asthma,Never,9.89
+454,2024-06-25,31,F,168.9,102.3,Weight Training,106,Medium,21.6,135,8.2,4,6825,2.0,25,67,134.7,75.5,Asthma,Never,10.02
+454,2024-06-28,31,F,168.9,102.6,Swimming,30,High,8.4,156,6.7,6,7356,2.6,25,67,134.7,75.5,Asthma,Never,10.06
+454,2024-06-29,31,F,168.9,102.9,Swimming,48,Medium,11.5,145,6.6,9,8808,2.1,25,67,134.7,75.5,Asthma,Never,10.12

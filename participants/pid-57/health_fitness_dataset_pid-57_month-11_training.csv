@@ -1,0 +1,18 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+57,2024-11-01,21,M,182,104.7,Dancing,78,Medium,14.9,151,6.2,4,7668,3.4,15.1,85.6,115,72.2,None,Never,17.89
+57,2024-11-02,21,M,182,104.9,Dancing,23,High,5.1,169,7.5,1,5884,3.2,15.1,85.6,115,72.2,None,Never,17.92
+57,2024-11-05,21,M,182,105.2,Dancing,52,Medium,10.0,139,6.5,8,5313,2.0,15.1,85.6,115,72.2,None,Never,17.99
+57,2024-11-07,21,M,182,105.5,Dancing,109,Medium,21.0,156,8.1,4,6986,2.8,15.1,85.6,115,72.2,None,Never,18.12
+57,2024-11-09,21,M,182,105.7,Dancing,24,Low,3.9,128,8.2,5,9618,1.7,15.1,85.6,115,72.2,None,Never,18.14
+57,2024-11-10,21,M,182,106.0,Dancing,82,Low,13.2,134,7.2,5,11191,2.9,15.1,85.6,115,72.2,None,Never,18.22
+57,2024-11-13,21,M,182,106.2,Dancing,75,Low,12.1,128,8.8,5,6346,3.4,15.1,85.6,115,72.2,None,Never,18.3
+57,2024-11-16,21,M,182,106.5,Walking,59,Low,6.6,129,6.4,8,6944,2.1,15.1,85.6,115,72.2,None,Never,18.36
+57,2024-11-17,21,M,182,106.8,Walking,51,Medium,6.9,146,7.0,4,9680,1.6,15.1,85.6,115,72.2,None,Never,18.42
+57,2024-11-19,21,M,182,107.0,Weight Training,69,Medium,14.7,134,7.5,7,8378,1.8,15.1,85.6,115,72.2,None,Never,18.5
+57,2024-11-21,21,M,182,107.3,Weight Training,52,High,13.0,171,8.0,8,6099,1.7,15.1,85.6,115,72.2,None,Never,18.57
+57,2024-11-22,21,M,182,107.5,Weight Training,69,High,17.3,149,6.1,10,9520,2.2,15.1,85.6,115,72.2,None,Never,18.67
+57,2024-11-23,21,M,182,107.8,Weight Training,89,Low,15.9,125,8.8,1,9396,2.1,15.1,85.6,115,72.2,None,Never,18.76
+57,2024-11-25,21,M,182,108.0,Weight Training,45,Medium,9.7,157,7.2,10,5418,2.0,15.1,85.6,115,72.2,None,Never,18.81
+57,2024-11-26,21,M,182,108.3,Weight Training,20,Medium,4.3,145,7.3,5,5777,2.5,15.1,85.6,115,72.2,None,Never,18.84
+57,2024-11-27,21,M,182,108.6,Weight Training,33,Medium,7.1,154,7.0,7,6419,1.5,15.1,85.6,115,72.2,None,Never,18.88
+57,2024-11-28,21,M,182,108.8,Tennis,116,High,35.8,175,6.9,3,6969,2.2,15.1,85.6,115,72.2,None,Never,19.04

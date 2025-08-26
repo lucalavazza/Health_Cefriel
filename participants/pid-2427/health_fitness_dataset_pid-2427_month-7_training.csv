@@ -1,0 +1,17 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+2427,2024-07-03,55,M,172.1,107.9,Weight Training,25,Medium,5.4,120,6.1,5,9081,2.5,23.7,65,118.3,80.2,None,Never,12.24
+2427,2024-07-04,55,M,172.1,108.2,Weight Training,96,Medium,20.7,116,6.8,10,5763,3.3,23.7,65,118.3,80.2,None,Never,12.36
+2427,2024-07-05,55,M,172.1,108.5,Weight Training,49,Medium,10.6,113,6.9,2,7335,2.9,23.7,65,118.3,80.2,None,Never,12.42
+2427,2024-07-06,55,M,172.1,108.7,Weight Training,61,Low,11.0,117,7.3,5,8561,1.7,23.7,65,118.3,80.2,None,Never,12.48
+2427,2024-07-07,55,M,172.1,109.0,Weight Training,118,Low,21.4,108,8.4,4,9574,2.4,23.7,65,118.3,80.2,None,Never,12.59
+2427,2024-07-09,55,M,172.1,109.2,Weight Training,36,Medium,7.8,122,6.9,8,6386,1.8,23.7,65,118.3,80.2,None,Never,12.64
+2427,2024-07-10,55,M,172.1,109.5,Tennis,75,Medium,19.9,113,7.6,8,7586,2.0,23.7,65,118.3,80.2,None,Never,12.73
+2427,2024-07-12,55,M,172.1,109.7,Weight Training,40,Medium,8.8,133,6.7,8,6147,2.5,23.7,65,118.3,80.2,None,Never,12.78
+2427,2024-07-13,55,M,172.1,110.0,Weight Training,105,Low,19.2,115,7.2,4,7350,2.4,23.7,65,118.3,80.2,None,Never,12.88
+2427,2024-07-16,55,M,172.1,110.3,Weight Training,82,Medium,18.0,122,8.1,8,5507,2.4,23.7,65,118.3,80.2,None,Never,12.98
+2427,2024-07-17,55,M,172.1,110.5,Weight Training,101,Medium,22.3,117,6.0,3,8348,3.1,23.7,65,118.3,80.2,None,Never,13.1
+2427,2024-07-21,55,M,172.1,110.8,Swimming,106,High,31.9,145,7.4,2,7977,1.9,23.7,65,118.3,80.2,None,Never,13.25
+2427,2024-07-22,55,M,172.1,111.0,Swimming,31,Medium,8.0,120,7.6,8,8095,1.7,23.7,65,118.3,80.2,None,Never,13.29
+2427,2024-07-26,55,M,172.1,111.3,Swimming,112,Medium,29.0,120,7.2,5,7241,3.4,23.7,65,118.3,80.2,None,Never,13.42
+2427,2024-07-27,55,M,172.1,111.5,Swimming,93,High,28.2,123,9.3,1,8100,2.0,23.7,65,118.3,80.2,None,Never,13.55
+2427,2024-07-31,55,M,172.1,111.8,Yoga,47,Medium,5.2,115,9.2,4,7611,2.9,23.7,65,118.3,80.2,None,Never,13.61

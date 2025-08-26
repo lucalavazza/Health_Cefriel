@@ -1,0 +1,16 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+1268,2024-12-01,64,F,158.5,105.6,Swimming,35,Medium,8.6,118,6.9,6,10392,2.1,21.3,68.8,119.9,89.5,Diabetes,Never,16.89
+1268,2024-12-02,64,F,158.5,105.9,HIIT,35,High,17.2,145,8.3,6,7788,2.4,21.3,68.8,119.9,89.5,Diabetes,Never,16.93
+1268,2024-12-04,64,F,158.5,106.1,HIIT,110,Low,38.8,100,6.5,8,7155,2.7,21.3,68.8,119.9,89.5,Diabetes,Never,17.04
+1268,2024-12-05,64,F,158.5,106.4,Swimming,82,High,23.7,121,8.0,7,8113,2.3,21.3,68.8,119.9,89.5,Diabetes,Never,17.16
+1268,2024-12-08,64,F,158.5,106.6,Swimming,97,Medium,24.1,111,6.5,6,6355,1.7,21.3,68.8,119.9,89.5,Diabetes,Never,17.28
+1268,2024-12-11,64,F,158.5,106.9,HIIT,38,Medium,16.2,116,7.9,7,6287,2.5,21.3,68.8,119.9,89.5,Diabetes,Never,17.32
+1268,2024-12-15,64,F,158.5,107.1,Tennis,47,Medium,12.2,118,6.8,8,8734,2.7,21.3,68.8,119.9,89.5,Diabetes,Never,17.38
+1268,2024-12-16,64,F,158.5,107.4,Tennis,100,Medium,26.1,117,7.5,6,6187,2.6,21.3,68.8,119.9,89.5,Diabetes,Never,17.5
+1268,2024-12-18,64,F,158.5,107.7,Tennis,70,Medium,18.3,111,9.2,10,8769,2.5,21.3,68.8,119.9,89.5,Diabetes,Never,17.58
+1268,2024-12-19,64,F,158.5,107.9,Tennis,113,Medium,29.6,117,7.5,9,8429,2.8,21.3,68.8,119.9,89.5,Diabetes,Never,17.72
+1268,2024-12-20,64,F,158.5,108.2,Tennis,66,Medium,17.3,109,6.9,7,6771,2.8,21.3,68.8,119.9,89.5,Diabetes,Never,17.8
+1268,2024-12-21,64,F,158.5,108.4,Tennis,50,Low,11.0,99,7.1,4,7477,3.0,21.3,68.8,119.9,89.5,Diabetes,Never,17.85
+1268,2024-12-22,64,F,158.5,108.7,Weight Training,67,Low,12.1,98,9.1,4,9198,3.2,21.3,68.8,119.9,89.5,Diabetes,Never,17.91
+1268,2024-12-23,64,F,158.5,108.9,Walking,69,Low,7.9,106,8.1,10,8384,1.6,21.3,68.8,119.9,89.5,Diabetes,Never,17.98
+1268,2024-12-25,64,F,158.5,109.2,Weight Training,117,Low,21.2,100,7.0,3,6873,2.6,21.3,68.8,119.9,89.5,Diabetes,Never,18.1

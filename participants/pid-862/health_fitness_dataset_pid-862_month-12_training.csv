@@ -1,0 +1,16 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+862,2024-12-01,47,M,169.1,120.5,Running,80,Medium,31.4,128,5.7,6,7004,2.6,22.1,71.2,104.4,72.7,None,Current,17.78
+862,2024-12-02,47,M,169.1,120.7,Weight Training,102,Medium,24.6,128,7.8,9,6664,3.3,22.1,71.2,104.4,72.7,None,Current,17.9
+862,2024-12-07,47,M,169.1,121.0,Weight Training,74,Medium,17.9,132,7.2,5,8828,2.5,22.1,71.2,104.4,72.7,None,Current,17.99
+862,2024-12-09,47,M,169.1,121.2,Weight Training,105,High,29.6,137,6.9,7,6960,3.0,22.1,71.2,104.4,72.7,None,Current,18.14
+862,2024-12-10,47,M,169.1,121.5,Weight Training,51,Medium,12.4,130,8.7,6,8629,2.0,22.1,71.2,104.4,72.7,None,Current,18.2
+862,2024-12-13,47,M,169.1,121.7,Weight Training,28,Low,5.7,113,6.0,5,7650,3.1,22.1,71.2,104.4,72.7,None,Current,18.23
+862,2024-12-14,47,M,169.1,122.0,Cycling,77,High,31.0,142,7.0,8,7716,1.9,22.1,71.2,104.4,72.7,None,Current,18.33
+862,2024-12-15,47,M,169.1,122.3,Tennis,107,Low,26.5,114,8.0,6,9371,2.1,22.1,71.2,104.4,72.7,None,Current,18.44
+862,2024-12-16,47,M,169.1,122.5,Basketball,49,High,18.6,137,7.7,8,6001,3.1,22.1,71.2,104.4,72.7,None,Current,18.51
+862,2024-12-18,47,M,169.1,122.8,Tennis,107,Low,26.6,106,8.3,8,9518,2.1,22.1,71.2,104.4,72.7,None,Current,18.62
+862,2024-12-19,47,M,169.1,123.0,Basketball,68,Medium,22.3,106,6.8,4,8251,1.6,22.1,71.2,104.4,72.7,None,Current,18.7
+862,2024-12-20,47,M,169.1,123.3,Basketball,79,Medium,25.9,117,6.4,10,8755,1.7,22.1,71.2,104.4,72.7,None,Current,18.79
+862,2024-12-22,47,M,169.1,123.5,Basketball,113,Medium,37.2,121,6.4,2,8840,2.8,22.1,71.2,104.4,72.7,None,Current,18.93
+862,2024-12-23,47,M,169.1,123.8,Basketball,89,Medium,29.3,124,7.7,9,8222,3.4,22.1,71.2,104.4,72.7,None,Current,19.04
+862,2024-12-24,47,M,169.1,124.1,Basketball,109,Medium,36.0,147,7.6,10,4570,2.4,22.1,71.2,104.4,72.7,None,Current,19.17

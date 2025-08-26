@@ -1,0 +1,17 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+1067,2024-12-01,63,Other,161,104.2,Running,84,Medium,28.5,116,6.6,3,11678,2.3,20.4,69,118.1,71.6,None,Never,16.26
+1067,2024-12-03,63,Other,161,104.5,Running,101,High,40.1,121,6.7,8,7371,3.3,20.4,69,118.1,71.6,None,Never,16.4
+1067,2024-12-06,63,Other,161,104.7,Running,26,Medium,8.9,110,7.6,8,9022,2.2,20.4,69,118.1,71.6,None,Never,16.44
+1067,2024-12-07,63,Other,161,105.0,Running,34,Medium,11.6,120,6.5,2,9480,2.2,20.4,69,118.1,71.6,None,Never,16.48
+1067,2024-12-08,63,Other,161,105.2,Running,61,Low,17.4,102,7.8,5,4406,2.7,20.4,69,118.1,71.6,None,Never,16.54
+1067,2024-12-09,63,Other,161,105.5,Tennis,114,Low,24.3,104,7.7,4,5349,1.9,20.4,69,118.1,71.6,None,Never,16.65
+1067,2024-12-10,63,Other,161,105.7,Running,109,High,43.8,137,6.8,7,8805,3.2,20.4,69,118.1,71.6,None,Never,16.8
+1067,2024-12-11,63,Other,161,106.0,Running,104,Medium,35.9,111,6.6,6,11042,1.6,20.4,69,118.1,71.6,None,Never,16.93
+1067,2024-12-12,63,Other,161,106.2,Tennis,56,Medium,14.4,123,5.3,3,5784,3.2,20.4,69,118.1,71.6,None,Never,17.0
+1067,2024-12-17,63,Other,161,106.5,Tennis,22,High,6.6,136,7.2,9,6838,2.1,20.4,69,118.1,71.6,None,Never,17.03
+1067,2024-12-18,63,Other,161,106.8,HIIT,85,Medium,36.2,108,6.6,1,5999,3.0,20.4,69,118.1,71.6,None,Never,17.13
+1067,2024-12-19,63,Other,161,107.0,Tennis,112,Low,24.2,97,5.5,4,8278,1.8,20.4,69,118.1,71.6,None,Never,17.24
+1067,2024-12-20,63,Other,161,107.3,Weight Training,104,Medium,22.3,118,7.2,10,6733,2.6,20.4,69,118.1,71.6,None,Never,17.37
+1067,2024-12-21,63,Other,161,107.5,HIIT,79,Low,28.2,97,7.5,6,11618,2.0,20.4,69,118.1,71.6,None,Never,17.44
+1067,2024-12-23,63,Other,161,107.8,HIIT,95,Low,34.1,93,7.2,9,6394,2.6,20.4,69,118.1,71.6,None,Never,17.54
+1067,2024-12-25,63,Other,161,108.0,Weight Training,118,High,29.7,142,6.1,9,10024,2.1,20.4,69,118.1,71.6,None,Never,17.7

@@ -1,0 +1,20 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+485,2024-06-01,52,F,168.3,87.1,Yoga,64,Medium,5.6,132,8.3,8,7726,2.0,20.1,71.5,144.8,83.5,Diabetes,Former,9.18
+485,2024-06-02,52,F,168.3,87.4,Yoga,82,Medium,7.1,125,4.8,2,10360,3.4,20.1,71.5,144.8,83.5,Diabetes,Former,9.28
+485,2024-06-03,52,F,168.3,87.7,Walking,79,Medium,8.7,123,5.8,3,10502,3.0,20.1,71.5,144.8,83.5,Diabetes,Former,9.38
+485,2024-06-05,52,F,168.3,87.9,Weight Training,88,Medium,15.4,110,7.5,3,9231,2.4,20.1,71.5,144.8,83.5,Diabetes,Former,9.48
+485,2024-06-06,52,F,168.3,88.2,Weight Training,102,Medium,17.9,127,6.1,8,9308,2.9,20.1,71.5,144.8,83.5,Diabetes,Former,9.6
+485,2024-06-07,52,F,168.3,88.4,Weight Training,91,Medium,16.0,139,9.1,5,8523,2.0,20.1,71.5,144.8,83.5,Diabetes,Former,9.71
+485,2024-06-08,52,F,168.3,88.7,Weight Training,62,Medium,11.0,132,7.4,2,11697,1.7,20.1,71.5,144.8,83.5,Diabetes,Former,9.79
+485,2024-06-09,52,F,168.3,89.0,Walking,109,Low,10.2,99,7.8,6,11143,2.1,20.1,71.5,144.8,83.5,Diabetes,Former,9.9
+485,2024-06-12,52,F,168.3,89.2,Walking,46,Medium,5.2,132,7.1,4,10088,3.0,20.1,71.5,144.8,83.5,Diabetes,Former,9.95
+485,2024-06-13,52,F,168.3,89.5,Walking,55,High,7.3,152,6.7,7,8114,2.8,20.1,71.5,144.8,83.5,Diabetes,Former,10.03
+485,2024-06-15,52,F,168.3,89.7,Walking,38,Low,3.6,107,8.5,3,10038,2.9,20.1,71.5,144.8,83.5,Diabetes,Former,10.07
+485,2024-06-16,52,F,168.3,90.0,Walking,109,Medium,12.4,124,6.5,10,11664,3.5,20.1,71.5,144.8,83.5,Diabetes,Former,10.2
+485,2024-06-17,52,F,168.3,90.2,Walking,120,Low,11.4,105,8.0,3,8180,2.1,20.1,71.5,144.8,83.5,Diabetes,Former,10.32
+485,2024-06-19,52,F,168.3,90.5,Swimming,103,Medium,21.7,128,7.2,3,9313,2.7,20.1,71.5,144.8,83.5,Diabetes,Former,10.44
+485,2024-06-21,52,F,168.3,90.8,Walking,21,Medium,2.4,133,7.2,8,6846,1.7,20.1,71.5,144.8,83.5,Diabetes,Former,10.47
+485,2024-06-25,52,F,168.3,91.0,Swimming,93,Medium,19.7,130,8.1,1,6092,1.6,20.1,71.5,144.8,83.5,Diabetes,Former,10.58
+485,2024-06-27,52,F,168.3,91.3,Walking,54,Medium,6.2,135,9.1,7,8742,1.8,20.1,71.5,144.8,83.5,Diabetes,Former,10.64
+485,2024-06-28,52,F,168.3,91.5,Walking,35,Medium,4.0,131,7.4,9,7614,2.9,20.1,71.5,144.8,83.5,Diabetes,Former,10.68
+485,2024-06-30,52,F,168.3,91.8,Running,74,Medium,22.1,112,6.5,2,10518,2.2,20.1,71.5,144.8,83.5,Diabetes,Former,10.77

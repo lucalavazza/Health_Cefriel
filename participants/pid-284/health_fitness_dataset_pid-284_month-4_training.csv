@@ -1,0 +1,25 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+284,2024-04-01,28,F,158.8,70.1,Walking,46,Medium,4.1,144,6.4,9,13758,3.1,21.8,73.3,122.8,86.3,Diabetes,Current,4.91
+284,2024-04-02,28,F,158.8,70.4,Tennis,89,Medium,15.2,140,6.7,7,10490,2.3,21.8,73.3,122.8,86.3,Diabetes,Current,5.02
+284,2024-04-03,28,F,158.8,70.7,Tennis,93,High,18.6,163,4.8,4,10234,1.5,21.8,73.3,122.8,86.3,Diabetes,Current,5.15
+284,2024-04-04,28,F,158.8,70.9,Tennis,101,Medium,17.4,161,7.0,8,9342,2.6,21.8,73.3,122.8,86.3,Diabetes,Current,5.27
+284,2024-04-05,28,F,158.8,71.2,Tennis,104,Medium,17.9,140,8.8,7,9099,3.2,21.8,73.3,122.8,86.3,Diabetes,Current,5.39
+284,2024-04-06,28,F,158.8,71.4,Tennis,116,Medium,20.1,134,7.8,6,8084,1.8,21.8,73.3,122.8,86.3,Diabetes,Current,5.53
+284,2024-04-09,28,F,158.8,71.7,Tennis,83,Low,12.0,118,6.8,7,9310,3.2,21.8,73.3,122.8,86.3,Diabetes,Current,5.62
+284,2024-04-10,28,F,158.8,71.9,Tennis,27,Medium,4.7,129,8.8,10,10786,1.5,21.8,73.3,122.8,86.3,Diabetes,Current,5.65
+284,2024-04-11,28,F,158.8,72.2,Dancing,78,Low,8.6,122,5.4,8,9118,2.3,21.8,73.3,122.8,86.3,Diabetes,Current,5.73
+284,2024-04-12,28,F,158.8,72.5,Dancing,45,Medium,6.0,150,7.9,6,8748,1.6,21.8,73.3,122.8,86.3,Diabetes,Current,5.78
+284,2024-04-14,28,F,158.8,72.7,Tennis,80,High,16.5,162,7.0,6,12280,3.3,21.8,73.3,122.8,86.3,Diabetes,Current,5.89
+284,2024-04-15,28,F,158.8,73.0,Tennis,53,Medium,9.4,138,7.6,6,10470,3.4,21.8,73.3,122.8,86.3,Diabetes,Current,5.96
+284,2024-04-16,28,F,158.8,73.2,Tennis,118,Low,17.5,124,4.7,5,9702,2.4,21.8,73.3,122.8,86.3,Diabetes,Current,6.07
+284,2024-04-17,28,F,158.8,73.5,HIIT,37,Medium,10.8,144,6.1,8,7894,3.3,21.8,73.3,122.8,86.3,Diabetes,Current,6.12
+284,2024-04-18,28,F,158.8,73.8,Tennis,55,Medium,9.8,158,7.4,5,12335,3.0,21.8,73.3,122.8,86.3,Diabetes,Current,6.18
+284,2024-04-20,28,F,158.8,74.0,HIIT,31,Medium,9.1,143,8.2,5,11314,3.3,21.8,73.3,122.8,86.3,Diabetes,Current,6.22
+284,2024-04-21,28,F,158.8,74.3,Tennis,87,High,18.3,161,7.5,5,9323,2.8,21.8,73.3,122.8,86.3,Diabetes,Current,6.34
+284,2024-04-22,28,F,158.8,74.5,HIIT,32,Low,7.9,121,6.9,5,10988,2.7,21.8,73.3,122.8,86.3,Diabetes,Current,6.37
+284,2024-04-23,28,F,158.8,74.8,Weight Training,36,Medium,5.4,153,6.9,4,9484,2.9,21.8,73.3,122.8,86.3,Diabetes,Current,6.42
+284,2024-04-24,28,F,158.8,75.0,HIIT,82,Low,20.4,116,7.2,6,10961,1.6,21.8,73.3,122.8,86.3,Diabetes,Current,6.5
+284,2024-04-25,28,F,158.8,75.3,Weight Training,62,Medium,9.3,146,8.5,5,7835,2.3,21.8,73.3,122.8,86.3,Diabetes,Current,6.57
+284,2024-04-27,28,F,158.8,75.6,Weight Training,81,High,14.2,176,5.5,5,12438,2.5,21.8,73.3,122.8,86.3,Diabetes,Current,6.69
+284,2024-04-28,28,F,158.8,75.8,Weight Training,64,High,11.3,162,8.0,2,10475,1.5,21.8,73.3,122.8,86.3,Diabetes,Current,6.78
+284,2024-04-30,28,F,158.8,76.1,Cycling,78,High,19.5,168,7.8,8,6448,3.4,21.8,73.3,122.8,86.3,Diabetes,Current,6.89

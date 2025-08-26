@@ -1,0 +1,17 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+760,2024-11-01,50,M,174.9,133.6,Walking,50,Medium,8.4,123,6.5,3,8441,2.8,26.8,70.6,105.3,82,None,Never,16.86
+760,2024-11-06,50,M,174.9,133.9,Walking,83,High,16.4,146,6.7,4,6068,2.3,26.8,70.6,105.3,82,None,Never,16.98
+760,2024-11-10,50,M,174.9,134.1,Basketball,87,Medium,31.1,123,7.9,9,5919,3.2,26.8,70.6,105.3,82,None,Never,17.08
+760,2024-11-12,50,M,174.9,134.4,Basketball,87,Low,25.9,98,7.8,10,7206,1.6,26.8,70.6,105.3,82,None,Never,17.17
+760,2024-11-13,50,M,174.9,134.7,Basketball,44,Low,13.1,109,7.0,7,6533,3.1,26.8,70.6,105.3,82,None,Never,17.21
+760,2024-11-15,50,M,174.9,134.9,Basketball,110,Medium,39.5,119,7.5,3,7854,1.5,26.8,70.6,105.3,82,None,Never,17.35
+760,2024-11-16,50,M,174.9,135.2,Yoga,52,High,8.2,141,8.8,7,7925,2.8,26.8,70.6,105.3,82,None,Never,17.42
+760,2024-11-19,50,M,174.9,135.4,Basketball,31,Medium,11.2,133,6.4,5,7369,1.9,26.8,70.6,105.3,82,None,Never,17.46
+760,2024-11-20,50,M,174.9,135.7,Tennis,52,High,20.0,144,6.6,1,5409,2.8,26.8,70.6,105.3,82,None,Never,17.53
+760,2024-11-23,50,M,174.9,135.9,Yoga,97,Medium,13.2,133,6.3,3,7342,3.4,26.8,70.6,105.3,82,None,Never,17.64
+760,2024-11-25,50,M,174.9,136.2,Weight Training,91,Low,20.6,105,7.8,6,7300,3.2,26.8,70.6,105.3,82,None,Never,17.74
+760,2024-11-26,50,M,174.9,136.5,Yoga,89,Low,10.1,101,8.4,10,6429,2.3,26.8,70.6,105.3,82,None,Never,17.82
+760,2024-11-27,50,M,174.9,136.7,Swimming,119,Medium,37.9,122,9.1,9,4581,2.2,26.8,70.6,105.3,82,None,Never,17.97
+760,2024-11-28,50,M,174.9,137.0,Weight Training,57,Low,13.0,108,6.7,1,7564,2.8,26.8,70.6,105.3,82,None,Never,18.02
+760,2024-11-29,50,M,174.9,137.2,Weight Training,56,Medium,15.3,123,7.0,4,6178,2.3,26.8,70.6,105.3,82,None,Never,18.09
+760,2024-11-30,50,M,174.9,137.5,Weight Training,83,Medium,22.8,123,6.6,7,8787,3.4,26.8,70.6,105.3,82,None,Never,18.19

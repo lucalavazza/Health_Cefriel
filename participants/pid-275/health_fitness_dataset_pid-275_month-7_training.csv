@@ -1,0 +1,17 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+275,2024-07-02,20,F,158.2,77.0,Dancing,50,High,8.2,175,5.0,1,8880,1.8,18,65.4,117.6,90.1,None,Former,9.73
+275,2024-07-03,20,F,158.2,77.3,Dancing,41,Medium,5.8,158,6.9,2,7374,2.8,18,65.4,117.6,90.1,None,Former,9.78
+275,2024-07-04,20,F,158.2,77.6,Swimming,56,High,11.8,158,6.7,1,8695,3.3,18,65.4,117.6,90.1,None,Former,9.85
+275,2024-07-06,20,F,158.2,77.8,Swimming,87,Medium,15.7,155,5.6,3,9175,3.0,18,65.4,117.6,90.1,None,Former,9.96
+275,2024-07-09,20,F,158.2,78.1,Swimming,90,Low,13.6,141,8.0,7,9013,2.2,18,65.4,117.6,90.1,None,Former,10.05
+275,2024-07-11,20,F,158.2,78.3,Swimming,113,Low,17.2,133,6.6,7,10263,2.7,18,65.4,117.6,90.1,None,Former,10.16
+275,2024-07-13,20,F,158.2,78.6,Tennis,31,Medium,5.9,151,8.2,7,8883,2.8,18,65.4,117.6,90.1,None,Former,10.2
+275,2024-07-16,20,F,158.2,78.8,Tennis,35,Medium,6.7,152,8.4,9,6418,2.4,18,65.4,117.6,90.1,None,Former,10.24
+275,2024-07-18,20,F,158.2,79.1,Dancing,97,High,16.4,175,6.3,10,7456,2.9,18,65.4,117.6,90.1,None,Former,10.38
+275,2024-07-20,20,F,158.2,79.4,Dancing,90,High,15.2,166,7.5,1,9939,1.8,18,65.4,117.6,90.1,None,Former,10.5
+275,2024-07-21,20,F,158.2,79.6,Tennis,26,Low,4.2,136,6.0,8,7714,3.3,18,65.4,117.6,90.1,None,Former,10.53
+275,2024-07-26,20,F,158.2,79.9,Tennis,65,Low,10.5,133,5.5,2,4160,2.6,18,65.4,117.6,90.1,None,Former,10.59
+275,2024-07-27,20,F,158.2,80.1,Dancing,107,Medium,15.7,142,7.9,8,10465,1.6,18,65.4,117.6,90.1,None,Former,10.72
+275,2024-07-28,20,F,158.2,80.4,Weight Training,44,High,8.2,177,6.9,3,11350,1.5,18,65.4,117.6,90.1,None,Former,10.78
+275,2024-07-29,20,F,158.2,80.7,Weight Training,59,High,11.1,176,7.1,10,7856,2.7,18,65.4,117.6,90.1,None,Former,10.87
+275,2024-07-31,20,F,158.2,80.9,Running,65,Medium,17.1,140,7.9,3,8285,1.8,18,65.4,117.6,90.1,None,Former,10.94

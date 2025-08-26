@@ -1,0 +1,19 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+255,2024-07-01,53,M,190.6,108.6,Tennis,96,Medium,25.3,123,6.7,1,11405,2.7,20.5,80.5,121.1,79.1,None,Current,10.74
+255,2024-07-02,53,M,190.6,108.8,Weight Training,71,High,18.0,142,7.5,6,6205,3.0,20.5,80.5,121.1,79.1,None,Current,10.84
+255,2024-07-03,53,M,190.6,109.1,Dancing,54,High,12.6,160,6.6,2,9162,3.4,20.5,80.5,121.1,79.1,None,Current,10.91
+255,2024-07-06,53,M,190.6,109.3,Weight Training,93,Medium,20.3,122,5.0,7,9474,2.0,20.5,80.5,121.1,79.1,None,Current,11.03
+255,2024-07-07,53,M,190.6,109.6,Weight Training,110,Medium,24.1,115,6.6,1,9569,3.0,20.5,80.5,121.1,79.1,None,Current,11.16
+255,2024-07-08,53,M,190.6,109.9,Dancing,112,Low,18.8,113,6.9,1,7069,2.5,20.5,80.5,121.1,79.1,None,Current,11.27
+255,2024-07-09,53,M,190.6,110.1,Basketball,101,Medium,29.6,123,6.0,1,8524,3.2,20.5,80.5,121.1,79.1,None,Current,11.39
+255,2024-07-10,53,M,190.6,110.4,Walking,111,High,18.1,147,7.8,9,10944,3.5,20.5,80.5,121.1,79.1,None,Current,11.55
+255,2024-07-15,53,M,190.6,110.6,Walking,116,Medium,16.2,113,7.7,3,8162,2.7,20.5,80.5,121.1,79.1,None,Current,11.69
+255,2024-07-18,53,M,190.6,110.9,Walking,112,Low,13.1,99,6.6,9,6017,3.0,20.5,80.5,121.1,79.1,None,Current,11.8
+255,2024-07-21,53,M,190.6,111.1,Walking,22,Medium,3.1,126,4.3,6,8831,1.6,20.5,80.5,121.1,79.1,None,Current,11.82
+255,2024-07-22,53,M,190.6,111.4,Walking,35,High,5.7,146,6.0,4,7529,3.2,20.5,80.5,121.1,79.1,None,Current,11.87
+255,2024-07-23,53,M,190.6,111.7,Walking,85,Low,10.0,114,7.4,5,8400,2.5,20.5,80.5,121.1,79.1,None,Current,11.96
+255,2024-07-24,53,M,190.6,111.9,Walking,113,High,18.6,144,5.3,6,9311,2.2,20.5,80.5,121.1,79.1,None,Current,12.12
+255,2024-07-25,53,M,190.6,112.2,Weight Training,52,Medium,11.6,124,5.6,4,8338,1.9,20.5,80.5,121.1,79.1,None,Current,12.18
+255,2024-07-27,53,M,190.6,112.4,Weight Training,98,Medium,22.0,114,7.3,5,8351,1.8,20.5,80.5,121.1,79.1,None,Current,12.3
+255,2024-07-29,53,M,190.6,112.7,Weight Training,99,Low,18.6,101,7.5,3,6038,2.0,20.5,80.5,121.1,79.1,None,Current,12.4
+255,2024-07-30,53,M,190.6,112.9,Weight Training,54,High,14.2,133,6.1,9,6374,2.3,20.5,80.5,121.1,79.1,None,Current,12.47

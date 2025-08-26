@@ -1,0 +1,16 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+1783,2024-08-01,60,M,172.5,119.1,Basketball,80,High,29.6,137,7.3,5,4745,1.8,26.9,65.5,142.1,82.8,None,Current,12.21
+1783,2024-08-02,60,M,172.5,119.4,Basketball,115,Medium,36.5,125,7.0,10,6471,2.2,26.9,65.5,142.1,82.8,None,Current,12.35
+1783,2024-08-04,60,M,172.5,119.6,Basketball,87,Medium,27.7,122,7.8,1,9051,3.1,26.9,65.5,142.1,82.8,None,Current,12.46
+1783,2024-08-06,60,M,172.5,119.9,Basketball,116,Low,30.8,108,6.6,1,8383,2.5,26.9,65.5,142.1,82.8,None,Current,12.57
+1783,2024-08-07,60,M,172.5,120.1,Basketball,67,Medium,21.4,102,5.4,5,8711,3.3,26.9,65.5,142.1,82.8,None,Current,12.65
+1783,2024-08-09,60,M,172.5,120.4,Basketball,108,Low,28.8,104,6.4,3,7979,2.2,26.9,65.5,142.1,82.8,None,Current,12.76
+1783,2024-08-18,60,M,172.5,120.7,Swimming,111,Medium,31.2,118,7.2,5,9636,3.4,26.9,65.5,142.1,82.8,None,Current,12.89
+1783,2024-08-19,60,M,172.5,120.9,Swimming,82,Low,19.2,106,8.1,10,7148,2.4,26.9,65.5,142.1,82.8,None,Current,12.98
+1783,2024-08-21,60,M,172.5,121.2,Weight Training,42,Medium,10.2,125,7.4,5,4934,2.6,26.9,65.5,142.1,82.8,None,Current,13.03
+1783,2024-08-23,60,M,172.5,121.4,Basketball,20,High,7.5,124,9.0,5,7798,3.1,26.9,65.5,142.1,82.8,None,Current,13.06
+1783,2024-08-26,60,M,172.5,121.7,Basketball,79,Low,21.3,102,10.0,6,5909,2.1,26.9,65.5,142.1,82.8,None,Current,13.13
+1783,2024-08-28,60,M,172.5,121.9,Weight Training,41,Medium,10.0,119,7.5,3,6225,1.9,26.9,65.5,142.1,82.8,None,Current,13.18
+1783,2024-08-29,60,M,172.5,122.2,Swimming,80,Medium,22.8,125,6.3,1,6882,2.6,26.9,65.5,142.1,82.8,None,Current,13.28
+1783,2024-08-30,60,M,172.5,122.5,Weight Training,23,High,6.6,126,9.2,5,4300,1.8,26.9,65.5,142.1,82.8,None,Current,13.31
+1783,2024-08-31,60,M,172.5,122.7,Swimming,66,Medium,18.9,116,8.3,2,9795,2.3,26.9,65.5,142.1,82.8,None,Current,13.39

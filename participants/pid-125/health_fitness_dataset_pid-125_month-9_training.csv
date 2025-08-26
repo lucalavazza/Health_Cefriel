@@ -1,0 +1,17 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+125,2024-09-01,57,F,158.9,107.4,Running,42,Low,12.2,108,7.4,6,10932,2.1,27.2,61.3,104.5,80.2,Asthma,Former,11.54
+125,2024-09-02,57,F,158.9,107.6,Running,86,Medium,30.2,138,5.6,2,6581,2.3,27.2,61.3,104.5,80.2,Asthma,Former,11.64
+125,2024-09-05,57,F,158.9,107.9,Running,23,Medium,8.1,115,6.9,1,6529,2.3,27.2,61.3,104.5,80.2,Asthma,Former,11.67
+125,2024-09-09,57,F,158.9,108.1,Running,117,Medium,41.2,128,7.6,8,6277,3.3,27.2,61.3,104.5,80.2,Asthma,Former,11.81
+125,2024-09-11,57,F,158.9,108.4,Running,107,Low,31.5,107,6.2,1,6987,3.5,27.2,61.3,104.5,80.2,Asthma,Former,11.92
+125,2024-09-15,57,F,158.9,108.6,Basketball,64,Low,15.4,100,8.4,4,7854,2.4,27.2,61.3,104.5,80.2,Asthma,Former,11.98
+125,2024-09-17,57,F,158.9,108.9,Running,64,Medium,22.7,133,9.5,3,10135,3.0,27.2,61.3,104.5,80.2,Asthma,Former,12.06
+125,2024-09-19,57,F,158.9,109.2,Running,49,Low,14.5,108,9.4,10,3903,2.6,27.2,61.3,104.5,80.2,Asthma,Former,12.11
+125,2024-09-20,57,F,158.9,109.4,Running,98,Medium,34.9,121,5.0,2,6580,2.8,27.2,61.3,104.5,80.2,Asthma,Former,12.22
+125,2024-09-22,57,F,158.9,109.7,Walking,32,Medium,4.4,120,8.4,5,6666,2.4,27.2,61.3,104.5,80.2,Asthma,Former,12.26
+125,2024-09-23,57,F,158.9,109.9,Walking,111,Low,12.9,99,7.1,2,6994,3.1,27.2,61.3,104.5,80.2,Asthma,Former,12.37
+125,2024-09-24,57,F,158.9,110.2,Swimming,100,High,29.9,151,8.0,9,6253,2.8,27.2,61.3,104.5,80.2,Asthma,Former,12.51
+125,2024-09-25,57,F,158.9,110.4,Walking,42,Low,4.9,109,5.8,3,4540,2.9,27.2,61.3,104.5,80.2,Asthma,Former,12.56
+125,2024-09-26,57,F,158.9,110.7,HIIT,109,Medium,48.2,132,8.4,4,7311,2.5,27.2,61.3,104.5,80.2,Asthma,Former,12.69
+125,2024-09-28,57,F,158.9,111.0,Walking,37,High,6.1,134,8.2,6,8312,2.2,27.2,61.3,104.5,80.2,Asthma,Former,12.74
+125,2024-09-30,57,F,158.9,111.2,Walking,67,Medium,9.4,124,6.3,4,7358,2.3,27.2,61.3,104.5,80.2,Asthma,Former,12.82

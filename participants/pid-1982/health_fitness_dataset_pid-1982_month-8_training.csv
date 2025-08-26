@@ -1,0 +1,16 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+1982,2024-08-01,62,M,180.7,116.9,Walking,35,Medium,5.2,121,5.7,8,6802,2.6,24,55.3,100.5,78.7,None,Current,12.49
+1982,2024-08-02,62,M,180.7,117.1,Cycling,26,Medium,8.6,110,7.5,7,7824,3.2,24,55.3,100.5,78.7,None,Current,12.52
+1982,2024-08-03,62,M,180.7,117.4,Cycling,51,High,19.7,125,6.7,1,9975,1.7,24,55.3,100.5,78.7,None,Current,12.59
+1982,2024-08-06,62,M,180.7,117.7,Cycling,60,Low,16.6,100,6.8,3,7529,2.6,24,55.3,100.5,78.7,None,Current,12.65
+1982,2024-08-07,62,M,180.7,117.9,Running,120,Low,38.4,107,7.0,4,4504,2.7,24,55.3,100.5,78.7,None,Current,12.77
+1982,2024-08-09,62,M,180.7,118.2,Cycling,105,Medium,35.1,126,7.6,8,5283,3.3,24,55.3,100.5,78.7,None,Current,12.9
+1982,2024-08-14,62,M,180.7,118.4,Weight Training,102,High,28.1,122,7.7,8,7899,2.2,24,55.3,100.5,78.7,None,Current,13.04
+1982,2024-08-17,62,M,180.7,118.7,Running,113,Medium,43.7,125,7.0,1,8383,1.7,24,55.3,100.5,78.7,None,Current,13.18
+1982,2024-08-18,62,M,180.7,118.9,Weight Training,55,High,15.2,139,6.7,6,8820,2.4,24,55.3,100.5,78.7,None,Current,13.25
+1982,2024-08-21,62,M,180.7,119.2,Weight Training,77,Medium,18.3,115,6.1,2,5904,3.4,24,55.3,100.5,78.7,None,Current,13.35
+1982,2024-08-23,62,M,180.7,119.4,Weight Training,97,Medium,23.1,109,6.5,2,6745,2.8,24,55.3,100.5,78.7,None,Current,13.46
+1982,2024-08-24,62,M,180.7,119.7,Weight Training,99,Low,19.7,107,7.5,1,10044,1.6,24,55.3,100.5,78.7,None,Current,13.56
+1982,2024-08-25,62,M,180.7,120.0,Weight Training,62,Low,12.4,100,6.9,10,7886,2.2,24,55.3,100.5,78.7,None,Current,13.62
+1982,2024-08-28,62,M,180.7,120.2,Weight Training,118,Low,23.6,112,7.4,10,6325,2.6,24,55.3,100.5,78.7,None,Current,13.74
+1982,2024-08-29,62,M,180.7,120.5,Basketball,111,Medium,35.6,120,5.3,5,6369,3.3,24,55.3,100.5,78.7,None,Current,13.87

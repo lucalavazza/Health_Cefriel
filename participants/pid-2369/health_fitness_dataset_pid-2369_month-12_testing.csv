@@ -1,0 +1,17 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+2369,2024-12-01,52,M,168.3,119.8,Walking,30,Low,3.8,104,5.5,6,6986,2.6,22.4,74.1,122,79.7,None,Never,17.35
+2369,2024-12-02,52,M,168.3,120.0,HIIT,106,Medium,50.8,128,7.4,6,4426,2.5,22.4,74.1,122,79.7,None,Never,17.47
+2369,2024-12-03,52,M,168.3,120.3,Tennis,33,Low,8.0,114,5.9,7,8248,3.5,22.4,74.1,122,79.7,None,Never,17.51
+2369,2024-12-05,52,M,168.3,120.5,Walking,69,Medium,10.5,115,8.6,6,8545,2.3,22.4,74.1,122,79.7,None,Never,17.59
+2369,2024-12-09,52,M,168.3,120.8,Walking,74,Medium,11.3,130,7.7,4,8651,3.0,22.4,74.1,122,79.7,None,Never,17.68
+2369,2024-12-10,52,M,168.3,121.1,Weight Training,74,Medium,17.9,128,6.8,6,9832,2.4,22.4,74.1,122,79.7,None,Never,17.77
+2369,2024-12-11,52,M,168.3,121.3,Walking,47,Medium,7.2,120,6.8,6,7396,2.4,22.4,74.1,122,79.7,None,Never,17.82
+2369,2024-12-14,52,M,168.3,121.6,Weight Training,76,Low,15.4,115,6.1,2,6222,1.9,22.4,74.1,122,79.7,None,Never,17.9
+2369,2024-12-15,52,M,168.3,121.8,Walking,48,Low,6.2,116,6.5,5,9007,1.6,22.4,74.1,122,79.7,None,Never,17.95
+2369,2024-12-16,52,M,168.3,122.1,Walking,20,High,3.6,137,6.2,5,9531,3.0,22.4,74.1,122,79.7,None,Never,17.97
+2369,2024-12-17,52,M,168.3,122.4,Weight Training,25,Medium,6.1,115,6.0,9,4235,3.4,22.4,74.1,122,79.7,None,Never,18.0
+2369,2024-12-20,52,M,168.3,122.6,Walking,91,Medium,14.1,135,5.2,9,8734,1.7,22.4,74.1,122,79.7,None,Never,18.11
+2369,2024-12-21,52,M,168.3,122.9,Weight Training,60,Medium,14.7,127,6.4,5,10859,2.9,22.4,74.1,122,79.7,None,Never,18.19
+2369,2024-12-22,52,M,168.3,123.1,Weight Training,44,Low,9.0,114,6.6,3,9629,2.5,22.4,74.1,122,79.7,None,Never,18.23
+2369,2024-12-23,52,M,168.3,123.4,Walking,90,High,16.4,123,6.2,9,6442,3.3,22.4,74.1,122,79.7,None,Never,18.36
+2369,2024-12-24,52,M,168.3,123.6,Weight Training,110,High,31.7,138,5.3,6,7408,3.4,22.4,74.1,122,79.7,None,Never,18.51

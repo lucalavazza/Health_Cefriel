@@ -1,0 +1,16 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+1302,2024-09-02,64,M,176.7,113.2,HIIT,68,High,35.9,132,6.2,4,6473,3.5,21.9,72.7,132,80.1,Asthma,Current,14.04
+1302,2024-09-03,64,M,176.7,113.5,Walking,96,Medium,13.8,111,8.3,1,7705,2.5,21.9,72.7,132,80.1,Asthma,Current,14.16
+1302,2024-09-04,64,M,176.7,113.8,Basketball,54,Low,13.6,96,8.0,7,6986,1.7,21.9,72.7,132,80.1,Asthma,Current,14.21
+1302,2024-09-05,64,M,176.7,114.0,Running,84,Medium,31.2,111,6.7,2,6226,3.2,21.9,72.7,132,80.1,Asthma,Current,14.31
+1302,2024-09-06,64,M,176.7,114.3,Running,35,Low,10.9,101,6.7,2,2763,2.6,21.9,72.7,132,80.1,Asthma,Current,14.35
+1302,2024-09-09,64,M,176.7,114.5,Yoga,29,Low,2.8,100,6.4,2,5738,3.5,21.9,72.7,132,80.1,Asthma,Current,14.37
+1302,2024-09-11,64,M,176.7,114.8,Yoga,107,Medium,12.3,122,6.3,4,5715,2.9,21.9,72.7,132,80.1,Asthma,Current,14.5
+1302,2024-09-12,64,M,176.7,115.0,Dancing,98,High,24.1,134,7.6,6,2368,3.3,21.9,72.7,132,80.1,Asthma,Current,14.64
+1302,2024-09-13,64,M,176.7,115.3,Dancing,66,Medium,13.9,112,7.4,7,5915,2.6,21.9,72.7,132,80.1,Asthma,Current,14.72
+1302,2024-09-14,64,M,176.7,115.6,Dancing,99,Medium,20.9,122,7.3,7,7933,2.9,21.9,72.7,132,80.1,Asthma,Current,14.84
+1302,2024-09-20,64,M,176.7,115.8,Dancing,20,Low,3.5,94,6.0,4,6042,1.5,21.9,72.7,132,80.1,Asthma,Current,14.86
+1302,2024-09-23,64,M,176.7,116.1,Basketball,45,Medium,13.9,113,6.6,8,10551,2.5,21.9,72.7,132,80.1,Asthma,Current,14.91
+1302,2024-09-27,64,M,176.7,116.3,Dancing,104,Low,18.4,105,4.9,10,5131,3.2,21.9,72.7,132,80.1,Asthma,Current,15.02
+1302,2024-09-28,64,M,176.7,116.6,Dancing,53,Low,9.4,108,7.2,5,8936,3.0,21.9,72.7,132,80.1,Asthma,Current,15.07
+1302,2024-09-30,64,M,176.7,116.9,Dancing,52,High,13.0,133,7.1,4,7076,2.4,21.9,72.7,132,80.1,Asthma,Current,15.14

@@ -1,0 +1,19 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+329,2024-11-01,40,F,160.9,108.7,Weight Training,40,High,10.1,161,5.9,4,5442,1.5,22,63.7,125.3,77.7,None,Former,15.7
+329,2024-11-02,40,F,160.9,108.9,Weight Training,106,Low,19.2,121,7.6,1,8625,3.1,22,63.7,125.3,77.7,None,Former,15.81
+329,2024-11-03,40,F,160.9,109.2,Tennis,69,High,21.3,146,6.3,10,9400,1.5,22,63.7,125.3,77.7,None,Former,15.91
+329,2024-11-07,40,F,160.9,109.5,Yoga,36,Medium,3.9,127,7.6,7,7559,1.8,22,63.7,125.3,77.7,None,Former,15.95
+329,2024-11-12,40,F,160.9,109.7,Weight Training,29,Medium,6.3,150,6.4,3,4108,1.6,22,63.7,125.3,77.7,None,Former,15.98
+329,2024-11-13,40,F,160.9,110.0,Weight Training,35,Low,6.4,112,7.8,9,7148,3.3,22,63.7,125.3,77.7,None,Former,16.02
+329,2024-11-14,40,F,160.9,110.2,Weight Training,116,Low,21.3,121,8.0,6,6019,2.1,22,63.7,125.3,77.7,None,Former,16.14
+329,2024-11-16,40,F,160.9,110.5,Weight Training,89,Medium,19.6,135,7.1,8,7766,1.7,22,63.7,125.3,77.7,None,Former,16.24
+329,2024-11-17,40,F,160.9,110.7,Swimming,117,Medium,30.2,130,6.0,10,7242,2.4,22,63.7,125.3,77.7,None,Former,16.38
+329,2024-11-18,40,F,160.9,111.0,Weight Training,40,High,10.3,156,6.7,5,5955,3.3,22,63.7,125.3,77.7,None,Former,16.44
+329,2024-11-19,40,F,160.9,111.3,Walking,90,Low,10.5,123,7.1,7,7218,1.8,22,63.7,125.3,77.7,None,Former,16.53
+329,2024-11-20,40,F,160.9,111.5,Walking,106,Medium,14.9,133,6.3,4,7361,2.6,22,63.7,125.3,77.7,None,Former,16.66
+329,2024-11-22,40,F,160.9,111.8,Weight Training,33,High,8.6,161,6.8,5,6041,3.0,22,63.7,125.3,77.7,None,Former,16.7
+329,2024-11-23,40,F,160.9,112.0,HIIT,72,Medium,32.2,128,7.2,7,6852,2.9,22,63.7,125.3,77.7,None,Former,16.79
+329,2024-11-24,40,F,160.9,112.3,Weight Training,104,Low,19.4,118,6.7,6,10240,2.0,22,63.7,125.3,77.7,None,Former,16.89
+329,2024-11-25,40,F,160.9,112.5,HIIT,64,High,33.5,143,8.3,1,6398,3.2,22,63.7,125.3,77.7,None,Former,16.98
+329,2024-11-28,40,F,160.9,112.8,HIIT,34,High,17.9,153,6.8,6,8441,3.5,22,63.7,125.3,77.7,None,Former,17.03
+329,2024-11-30,40,F,160.9,113.1,Weight Training,97,High,25.5,144,5.0,7,10463,2.3,22,63.7,125.3,77.7,None,Former,17.17

@@ -1,0 +1,17 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+2240,2024-12-02,53,Other,171.7,117.2,Cycling,25,Low,6.9,112,6.3,4,8852,2.4,21.1,64.2,111.5,69.3,None,Former,16.91
+2240,2024-12-03,53,Other,171.7,117.5,Cycling,69,Medium,22.9,113,7.3,6,6713,2.1,21.1,64.2,111.5,69.3,None,Former,16.99
+2240,2024-12-04,53,Other,171.7,117.7,Basketball,55,High,20.1,149,7.5,3,8283,2.0,21.1,64.2,111.5,69.3,None,Former,17.07
+2240,2024-12-06,53,Other,171.7,118.0,Cycling,69,High,26.8,145,7.1,7,8660,2.2,21.1,64.2,111.5,69.3,None,Former,17.16
+2240,2024-12-07,53,Other,171.7,118.2,Cycling,29,Low,8.1,103,7.5,9,8663,1.8,21.1,64.2,111.5,69.3,None,Former,17.19
+2240,2024-12-09,53,Other,171.7,118.5,Cycling,85,Low,23.7,112,6.8,2,6267,2.0,21.1,64.2,111.5,69.3,None,Former,17.28
+2240,2024-12-11,53,Other,171.7,118.7,Cycling,20,Medium,6.7,122,6.3,5,8391,1.6,21.1,64.2,111.5,69.3,None,Former,17.3
+2240,2024-12-13,53,Other,171.7,119.0,Running,86,Medium,33.4,120,6.4,5,4329,3.3,21.1,64.2,111.5,69.3,None,Former,17.4
+2240,2024-12-14,53,Other,171.7,119.3,Swimming,82,Low,19.0,113,6.2,7,9395,2.4,21.1,64.2,111.5,69.3,None,Former,17.49
+2240,2024-12-18,53,Other,171.7,119.5,Swimming,107,Medium,29.8,129,7.1,10,8618,1.9,21.1,64.2,111.5,69.3,None,Former,17.62
+2240,2024-12-19,53,Other,171.7,119.8,Swimming,54,Low,12.5,102,6.5,10,8142,3.1,21.1,64.2,111.5,69.3,None,Former,17.67
+2240,2024-12-20,53,Other,171.7,120.0,Swimming,90,Low,21.0,108,6.4,7,8366,3.3,21.1,64.2,111.5,69.3,None,Former,17.76
+2240,2024-12-21,53,Other,171.7,120.3,Swimming,57,Medium,16.0,119,6.5,6,8147,3.1,21.1,64.2,111.5,69.3,None,Former,17.83
+2240,2024-12-22,53,Other,171.7,120.5,Swimming,89,Medium,25.0,139,7.7,7,10955,2.5,21.1,64.2,111.5,69.3,None,Former,17.93
+2240,2024-12-23,53,Other,171.7,120.8,Swimming,52,Medium,14.6,138,6.5,6,8150,1.5,21.1,64.2,111.5,69.3,None,Former,18.0
+2240,2024-12-24,53,Other,171.7,121.1,Swimming,27,Medium,7.6,114,6.7,3,7527,2.4,21.1,64.2,111.5,69.3,None,Former,18.03

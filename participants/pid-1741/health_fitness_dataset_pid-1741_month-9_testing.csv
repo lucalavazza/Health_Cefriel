@@ -1,0 +1,16 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+1741,2024-09-01,52,F,170.5,89.4,Weight Training,96,Low,14.3,107,7.7,3,8056,3.1,15.5,57.9,119.2,77.9,None,Current,15.21
+1741,2024-09-02,52,F,170.5,89.6,Weight Training,61,Low,9.1,108,6.3,8,4781,3.4,15.5,57.9,119.2,77.9,None,Current,15.27
+1741,2024-09-05,52,F,170.5,89.9,Weight Training,68,Medium,12.2,130,8.2,5,6431,2.0,15.5,57.9,119.2,77.9,None,Current,15.35
+1741,2024-09-06,52,F,170.5,90.2,Weight Training,69,Medium,12.4,129,5.8,6,6437,3.2,15.5,57.9,119.2,77.9,None,Current,15.44
+1741,2024-09-08,52,F,170.5,90.4,Weight Training,39,Medium,7.0,121,5.1,8,7614,1.9,15.5,57.9,119.2,77.9,None,Current,15.48
+1741,2024-09-10,52,F,170.5,90.7,Swimming,96,Medium,20.3,124,6.0,2,4562,3.4,15.5,57.9,119.2,77.9,None,Current,15.6
+1741,2024-09-11,52,F,170.5,90.9,Swimming,31,Medium,6.6,123,6.6,5,6994,3.2,15.5,57.9,119.2,77.9,None,Current,15.63
+1741,2024-09-12,52,F,170.5,91.2,Swimming,63,Medium,13.4,129,7.4,1,3991,1.7,15.5,57.9,119.2,77.9,None,Current,15.71
+1741,2024-09-14,52,F,170.5,91.4,Swimming,82,High,20.4,149,6.4,7,8022,3.4,15.5,57.9,119.2,77.9,None,Current,15.82
+1741,2024-09-15,52,F,170.5,91.7,Swimming,20,Low,3.6,103,7.4,7,8221,1.6,15.5,57.9,119.2,77.9,None,Current,15.84
+1741,2024-09-19,52,F,170.5,92.0,Swimming,36,High,9.0,142,8.1,2,8079,2.3,15.5,57.9,119.2,77.9,None,Current,15.9
+1741,2024-09-22,52,F,170.5,92.2,Yoga,28,Low,2.1,106,6.1,8,9390,3.1,15.5,57.9,119.2,77.9,None,Current,15.92
+1741,2024-09-24,52,F,170.5,92.5,Swimming,49,Medium,10.5,131,6.1,8,7391,1.6,15.5,57.9,119.2,77.9,None,Current,15.98
+1741,2024-09-27,52,F,170.5,92.7,Weight Training,113,Medium,20.9,119,6.2,9,6661,1.7,15.5,57.9,119.2,77.9,None,Current,16.12
+1741,2024-09-29,52,F,170.5,93.0,Walking,52,Low,5.1,107,7.4,5,8077,2.2,15.5,57.9,119.2,77.9,None,Current,16.17

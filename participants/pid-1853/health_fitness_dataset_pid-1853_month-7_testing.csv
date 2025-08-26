@@ -1,0 +1,19 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+1853,2024-07-01,60,M,174.3,104.1,HIIT,112,Medium,46.5,133,8.5,8,8935,2.0,24,73,117.6,73.2,Asthma,Current,10.22
+1853,2024-07-04,60,M,174.3,104.4,Basketball,22,High,7.1,139,6.8,3,7113,2.9,24,73,117.6,73.2,Asthma,Current,10.25
+1853,2024-07-08,60,M,174.3,104.6,HIIT,23,Low,8.0,103,5.2,1,6038,1.6,24,73,117.6,73.2,Asthma,Current,10.27
+1853,2024-07-10,60,M,174.3,104.9,Weight Training,117,High,28.6,131,6.7,6,8428,3.5,24,73,117.6,73.2,Asthma,Current,10.44
+1853,2024-07-12,60,M,174.3,105.2,Basketball,35,Medium,9.8,123,7.4,7,4370,2.6,24,73,117.6,73.2,Asthma,Current,10.48
+1853,2024-07-14,60,M,174.3,105.4,Cycling,91,Medium,27.1,112,6.2,4,9775,1.6,24,73,117.6,73.2,Asthma,Current,10.59
+1853,2024-07-15,60,M,174.3,105.7,HIIT,92,Low,32.3,101,7.7,6,10189,1.8,24,73,117.6,73.2,Asthma,Current,10.68
+1853,2024-07-16,60,M,174.3,105.9,Basketball,77,High,25.3,148,8.8,2,6522,1.5,24,73,117.6,73.2,Asthma,Current,10.79
+1853,2024-07-17,60,M,174.3,106.2,Basketball,93,Medium,26.3,127,8.2,10,9590,2.1,24,73,117.6,73.2,Asthma,Current,10.9
+1853,2024-07-18,60,M,174.3,106.4,Running,62,Medium,21.5,119,8.3,7,7685,2.0,24,73,117.6,73.2,Asthma,Current,10.97
+1853,2024-07-19,60,M,174.3,106.7,Tennis,80,Low,17.3,99,6.1,2,8042,2.1,24,73,117.6,73.2,Asthma,Current,11.05
+1853,2024-07-20,60,M,174.3,107.0,Tennis,30,High,9.1,132,8.2,1,6997,2.5,24,73,117.6,73.2,Asthma,Current,11.1
+1853,2024-07-21,60,M,174.3,107.2,Yoga,40,Low,3.6,102,7.1,9,9295,1.9,24,73,117.6,73.2,Asthma,Current,11.14
+1853,2024-07-25,60,M,174.3,107.5,Tennis,106,Low,23.0,98,8.3,8,7759,2.0,24,73,117.6,73.2,Asthma,Current,11.24
+1853,2024-07-26,60,M,174.3,107.7,Tennis,48,Medium,12.6,103,5.7,8,7917,1.9,24,73,117.6,73.2,Asthma,Current,11.3
+1853,2024-07-27,60,M,174.3,108.0,Tennis,102,Medium,26.7,126,6.9,2,7864,3.0,24,73,117.6,73.2,Asthma,Current,11.42
+1853,2024-07-28,60,M,174.3,108.2,Tennis,120,Low,26.3,108,7.1,2,8393,1.8,24,73,117.6,73.2,Asthma,Current,11.54
+1853,2024-07-30,60,M,174.3,108.5,Tennis,30,Medium,7.9,116,8.9,7,5986,1.5,24,73,117.6,73.2,Asthma,Current,11.58

@@ -1,0 +1,17 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+1317,2024-11-02,45,M,169.3,118.4,HIIT,104,Medium,49.1,136,6.1,1,10143,2.7,24,76.4,124.2,69.4,None,Former,15.52
+1317,2024-11-03,45,M,169.3,118.7,Dancing,111,High,28.1,149,8.0,3,9677,3.4,24,76.4,124.2,69.4,None,Former,15.68
+1317,2024-11-06,45,M,169.3,118.9,Cycling,58,Medium,19.5,146,7.8,7,5320,2.1,24,76.4,124.2,69.4,None,Former,15.75
+1317,2024-11-08,45,M,169.3,119.2,Dancing,68,Low,12.4,119,7.3,3,9870,2.5,24,76.4,124.2,69.4,None,Former,15.82
+1317,2024-11-13,45,M,169.3,119.4,Dancing,103,Medium,22.5,136,7.4,3,4196,2.8,24,76.4,124.2,69.4,None,Former,15.94
+1317,2024-11-14,45,M,169.3,119.7,Cycling,39,Medium,13.2,113,5.9,6,6978,2.7,24,76.4,124.2,69.4,None,Former,15.99
+1317,2024-11-17,45,M,169.3,119.9,Cycling,71,Medium,24.1,127,5.7,2,8586,3.2,24,76.4,124.2,69.4,None,Former,16.07
+1317,2024-11-18,45,M,169.3,120.2,Weight Training,56,Medium,13.4,134,8.6,7,6795,2.7,24,76.4,124.2,69.4,None,Former,16.14
+1317,2024-11-19,45,M,169.3,120.5,Weight Training,68,Medium,16.3,143,7.2,3,4071,3.2,24,76.4,124.2,69.4,None,Former,16.22
+1317,2024-11-20,45,M,169.3,120.7,Weight Training,117,High,32.9,155,7.6,4,10340,2.2,24,76.4,124.2,69.4,None,Former,16.39
+1317,2024-11-21,45,M,169.3,121.0,Weight Training,61,Medium,14.7,145,6.4,2,5781,3.4,24,76.4,124.2,69.4,None,Former,16.46
+1317,2024-11-22,45,M,169.3,121.2,Weight Training,69,Medium,16.7,126,8.2,1,7580,3.0,24,76.4,124.2,69.4,None,Former,16.54
+1317,2024-11-26,45,M,169.3,121.5,Weight Training,29,Medium,7.0,124,9.0,10,7656,3.0,24,76.4,124.2,69.4,None,Former,16.58
+1317,2024-11-28,45,M,169.3,121.7,Weight Training,90,Low,18.2,120,7.3,1,5569,2.2,24,76.4,124.2,69.4,None,Former,16.67
+1317,2024-11-29,45,M,169.3,122.0,Weight Training,42,Medium,10.2,118,7.6,5,6711,1.8,24,76.4,124.2,69.4,None,Former,16.72
+1317,2024-11-30,45,M,169.3,122.3,Weight Training,36,Low,7.3,118,8.0,8,9550,2.4,24,76.4,124.2,69.4,None,Former,16.75

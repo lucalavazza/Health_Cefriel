@@ -1,0 +1,15 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+1819,2024-08-04,60,Other,164.5,103.8,Walking,102,Medium,13.4,122,7.2,8,7585,2.9,23.2,65.4,125.9,78.8,None,Never,13.23
+1819,2024-08-05,60,Other,164.5,104.0,Walking,82,Low,9.0,112,8.1,1,6777,3.5,23.2,65.4,125.9,78.8,None,Never,13.31
+1819,2024-08-07,60,Other,164.5,104.3,Walking,70,High,10.8,122,6.6,4,7669,2.8,23.2,65.4,125.9,78.8,None,Never,13.41
+1819,2024-08-08,60,Other,164.5,104.5,Basketball,104,Low,24.1,97,7.4,9,3475,2.2,23.2,65.4,125.9,78.8,None,Never,13.51
+1819,2024-08-09,60,Other,164.5,104.8,Basketball,114,Medium,31.8,115,5.6,1,8177,1.7,23.2,65.4,125.9,78.8,None,Never,13.65
+1819,2024-08-11,60,Other,164.5,105.1,Swimming,68,Medium,16.6,114,7.5,10,10837,2.3,23.2,65.4,125.9,78.8,None,Never,13.73
+1819,2024-08-13,60,Other,164.5,105.3,HIIT,75,Low,26.3,106,6.7,5,6509,2.8,23.2,65.4,125.9,78.8,None,Never,13.81
+1819,2024-08-14,60,Other,164.5,105.6,HIIT,92,Low,32.3,102,6.0,3,3401,1.9,23.2,65.4,125.9,78.8,None,Never,13.9
+1819,2024-08-16,60,Other,164.5,105.8,HIIT,111,Low,39.1,116,7.2,6,6781,2.9,23.2,65.4,125.9,78.8,None,Never,14.01
+1819,2024-08-20,60,Other,164.5,106.1,HIIT,20,High,9.9,120,8.4,9,8145,1.6,23.2,65.4,125.9,78.8,None,Never,14.04
+1819,2024-08-21,60,Other,164.5,106.3,Tennis,112,High,33.7,143,7.5,7,7554,3.0,23.2,65.4,125.9,78.8,None,Never,14.19
+1819,2024-08-22,60,Other,164.5,106.6,Tennis,86,Medium,22.3,119,5.5,6,7058,2.1,23.2,65.4,125.9,78.8,None,Never,14.3
+1819,2024-08-26,60,Other,164.5,106.9,Swimming,55,High,16.0,151,6.2,3,8233,3.3,23.2,65.4,125.9,78.8,None,Never,14.37
+1819,2024-08-28,60,Other,164.5,107.1,Swimming,28,Medium,7.0,135,7.6,9,6211,1.7,23.2,65.4,125.9,78.8,None,Never,14.41

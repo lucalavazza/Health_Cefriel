@@ -1,0 +1,16 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+194,2024-12-01,19,M,177.9,130.1,HIIT,27,Medium,14.0,149,5.4,2,9124,1.7,23.3,78.8,126.5,76.6,None,Never,17.34
+194,2024-12-03,19,M,177.9,130.4,Weight Training,51,Medium,13.3,143,5.6,2,7753,3.1,23.3,78.8,126.5,76.6,None,Never,17.4
+194,2024-12-05,19,M,177.9,130.7,Basketball,29,High,11.8,176,8.1,1,6668,2.7,23.3,78.8,126.5,76.6,None,Never,17.44
+194,2024-12-06,19,M,177.9,130.9,Weight Training,80,Medium,20.9,164,8.3,1,5669,1.5,23.3,78.8,126.5,76.6,None,Never,17.54
+194,2024-12-07,19,M,177.9,131.2,Weight Training,20,Medium,5.2,164,6.8,6,5857,1.7,23.3,78.8,126.5,76.6,None,Never,17.56
+194,2024-12-08,19,M,177.9,131.4,Weight Training,40,Low,8.7,133,6.8,2,7686,2.3,23.3,78.8,126.5,76.6,None,Never,17.6
+194,2024-12-11,19,M,177.9,131.7,Weight Training,108,Medium,28.4,155,8.1,3,8263,2.3,23.3,78.8,126.5,76.6,None,Never,17.73
+194,2024-12-13,19,M,177.9,131.9,Weight Training,63,High,19.4,179,9.2,1,6162,3.2,23.3,78.8,126.5,76.6,None,Never,17.82
+194,2024-12-16,19,M,177.9,132.2,Weight Training,61,Medium,16.1,144,6.1,1,6557,2.2,23.3,78.8,126.5,76.6,None,Never,17.89
+194,2024-12-17,19,M,177.9,132.5,Swimming,60,High,21.6,156,6.1,1,6062,3.0,23.3,78.8,126.5,76.6,None,Never,17.98
+194,2024-12-19,19,M,177.9,132.7,Weight Training,118,High,36.5,178,7.6,9,6012,2.4,23.3,78.8,126.5,76.6,None,Never,18.14
+194,2024-12-20,19,M,177.9,133.0,Swimming,36,Medium,11.1,146,6.8,3,8325,3.0,23.3,78.8,126.5,76.6,None,Never,18.18
+194,2024-12-21,19,M,177.9,133.2,Swimming,96,Medium,29.8,135,7.2,6,8029,1.8,23.3,78.8,126.5,76.6,None,Never,18.3
+194,2024-12-23,19,M,177.9,133.5,Swimming,20,Medium,6.2,144,7.4,6,6845,2.1,23.3,78.8,126.5,76.6,None,Never,18.32
+194,2024-12-25,19,M,177.9,133.7,Dancing,80,Medium,19.6,150,8.5,6,8470,2.6,23.3,78.8,126.5,76.6,None,Never,18.42

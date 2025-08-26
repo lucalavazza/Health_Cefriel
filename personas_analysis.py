@@ -21,7 +21,7 @@ warnings.filterwarnings(action='ignore', category=UserWarning)
 set_random_seed(7)
 
 fitness_data = pd.read_csv(
-    '/Users/luca_lavazza/Documents/GitHub/Health_Cefriel/datasets/labelled_regularised_averaged_health_fitness_dataset.csv')
+    '/Users/luca_lavazza/Documents/GitHub/Health_Cefriel/datasets/labelled_regularised_averaged_health_fitness_dataset_testing.csv')
 edges = np.load(
     '/Users/luca_lavazza/Documents/GitHub/Health_Cefriel/graphs/causallearn/edges/npy/labelling_causal_graph_causal-learn_pc_fisherz.npy')
 

@@ -1,0 +1,27 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+1925,2024-05-01,33,M,167.3,88.4,Basketball,105,Low,20.6,115,8.2,6,7973,1.6,23.9,73.7,118.3,69.4,Hypertension,Current,6.83
+1925,2024-05-03,33,M,167.3,88.6,Cycling,86,Low,17.9,123,7.1,9,8531,2.2,23.9,73.7,118.3,69.4,Hypertension,Current,6.92
+1925,2024-05-04,33,M,167.3,88.9,Cycling,85,Medium,21.3,147,7.1,2,9482,2.5,23.9,73.7,118.3,69.4,Hypertension,Current,7.02
+1925,2024-05-05,33,M,167.3,89.1,Basketball,80,Medium,19.0,140,8.2,1,11272,1.8,23.9,73.7,118.3,69.4,Hypertension,Current,7.11
+1925,2024-05-08,33,M,167.3,89.4,Basketball,77,High,21.4,135,7.9,2,9470,2.8,23.9,73.7,118.3,69.4,Hypertension,Current,7.22
+1925,2024-05-09,33,M,167.3,89.6,Cycling,87,Medium,22.0,137,8.3,3,6576,3.5,23.9,73.7,118.3,69.4,Hypertension,Current,7.33
+1925,2024-05-10,33,M,167.3,89.9,Cycling,114,Medium,29.0,139,7.0,1,9956,2.1,23.9,73.7,118.3,69.4,Hypertension,Current,7.46
+1925,2024-05-11,33,M,167.3,90.2,Basketball,34,Medium,8.2,136,7.4,6,10386,2.6,23.9,73.7,118.3,69.4,Hypertension,Current,7.5
+1925,2024-05-12,33,M,167.3,90.4,Basketball,79,Low,15.8,133,8.9,3,12489,2.7,23.9,73.7,118.3,69.4,Hypertension,Current,7.58
+1925,2024-05-13,33,M,167.3,90.7,Walking,69,Low,6.6,126,6.4,9,6363,2.7,23.9,73.7,118.3,69.4,Hypertension,Current,7.65
+1925,2024-05-14,33,M,167.3,90.9,Basketball,115,Medium,27.8,143,7.2,4,9516,3.2,23.9,73.7,118.3,69.4,Hypertension,Current,7.79
+1925,2024-05-15,33,M,167.3,91.2,Basketball,36,Medium,8.7,134,6.7,9,9035,2.6,23.9,73.7,118.3,69.4,Hypertension,Current,7.83
+1925,2024-05-16,33,M,167.3,91.5,Weight Training,78,Medium,14.2,146,5.4,3,6377,3.4,23.9,73.7,118.3,69.4,Hypertension,Current,7.93
+1925,2024-05-17,33,M,167.3,91.7,Swimming,60,High,14.9,154,9.2,6,10913,1.6,23.9,73.7,118.3,69.4,Hypertension,Current,8.01
+1925,2024-05-18,33,M,167.3,92.0,Basketball,51,Medium,12.5,143,6.8,3,9915,1.8,23.9,73.7,118.3,69.4,Hypertension,Current,8.07
+1925,2024-05-19,33,M,167.3,92.2,Running,96,Low,24.0,123,7.6,8,11359,3.1,23.9,73.7,118.3,69.4,Hypertension,Current,8.17
+1925,2024-05-20,33,M,167.3,92.5,Basketball,78,Low,16.0,118,5.9,7,10135,3.0,23.9,73.7,118.3,69.4,Hypertension,Current,8.25
+1925,2024-05-21,33,M,167.3,92.7,Basketball,70,High,20.1,161,7.8,4,6715,2.6,23.9,73.7,118.3,69.4,Hypertension,Current,8.34
+1925,2024-05-22,33,M,167.3,93.0,Yoga,109,Low,8.4,123,8.9,2,9718,2.3,23.9,73.7,118.3,69.4,Hypertension,Current,8.45
+1925,2024-05-23,33,M,167.3,93.3,Basketball,42,Low,8.7,120,6.9,1,10401,3.1,23.9,73.7,118.3,69.4,Hypertension,Current,8.5
+1925,2024-05-24,33,M,167.3,93.5,Basketball,52,Medium,12.9,133,7.4,6,9153,3.1,23.9,73.7,118.3,69.4,Hypertension,Current,8.56
+1925,2024-05-25,33,M,167.3,93.8,Basketball,57,High,16.6,166,8.4,6,12960,3.4,23.9,73.7,118.3,69.4,Hypertension,Current,8.64
+1925,2024-05-26,33,M,167.3,94.0,Basketball,116,Medium,29.0,140,7.7,5,10039,2.9,23.9,73.7,118.3,69.4,Hypertension,Current,8.78
+1925,2024-05-27,33,M,167.3,94.3,Basketball,25,Medium,6.3,131,6.4,3,9453,2.4,23.9,73.7,118.3,69.4,Hypertension,Current,8.81
+1925,2024-05-30,33,M,167.3,94.5,Basketball,27,High,7.9,162,7.2,1,9238,3.3,23.9,73.7,118.3,69.4,Hypertension,Current,8.84
+1925,2024-05-31,33,M,167.3,94.8,Basketball,65,Low,13.7,111,9.6,4,9670,3.0,23.9,73.7,118.3,69.4,Hypertension,Current,8.91

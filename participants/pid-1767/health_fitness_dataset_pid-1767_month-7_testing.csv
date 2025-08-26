@@ -1,0 +1,17 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+1767,2024-07-02,60,M,167.1,85.7,HIIT,59,Medium,20.2,118,7.9,7,8351,3.1,19.8,69.9,111.2,95.5,None,Current,9.71
+1767,2024-07-03,60,M,167.1,85.9,Tennis,64,High,15.6,146,6.9,1,8269,3.4,19.8,69.9,111.2,95.5,None,Current,9.8
+1767,2024-07-05,60,M,167.1,86.2,HIIT,20,High,8.0,121,7.5,7,4507,2.3,19.8,69.9,111.2,95.5,None,Current,9.83
+1767,2024-07-09,60,M,167.1,86.5,HIIT,109,Low,31.3,113,7.0,8,11579,3.2,19.8,69.9,111.2,95.5,None,Current,9.94
+1767,2024-07-13,60,M,167.1,86.7,Cycling,99,Medium,24.3,129,6.2,4,7556,2.3,19.8,69.9,111.2,95.5,None,Current,10.06
+1767,2024-07-14,60,M,167.1,87.0,HIIT,49,Medium,17.0,121,6.8,9,10012,2.4,19.8,69.9,111.2,95.5,None,Current,10.12
+1767,2024-07-15,60,M,167.1,87.2,Cycling,39,High,11.2,127,7.6,8,7861,3.0,19.8,69.9,111.2,95.5,None,Current,10.17
+1767,2024-07-17,60,M,167.1,87.5,Basketball,120,Medium,27.9,122,5.9,5,7137,1.7,19.8,69.9,111.2,95.5,None,Current,10.32
+1767,2024-07-19,60,M,167.1,87.7,Basketball,90,Low,17.5,104,8.6,7,7195,2.8,19.8,69.9,111.2,95.5,None,Current,10.41
+1767,2024-07-20,60,M,167.1,88.0,Cycling,109,High,31.6,144,6.3,5,9874,3.1,19.8,69.9,111.2,95.5,None,Current,10.56
+1767,2024-07-22,60,M,167.1,88.3,Basketball,81,Low,15.8,104,7.2,6,6030,2.6,19.8,69.9,111.2,95.5,None,Current,10.64
+1767,2024-07-23,60,M,167.1,88.5,Basketball,47,Medium,11.1,118,7.8,8,9103,2.0,19.8,69.9,111.2,95.5,None,Current,10.7
+1767,2024-07-24,60,M,167.1,88.8,Cycling,80,Low,16.7,102,6.6,7,10206,3.2,19.8,69.9,111.2,95.5,None,Current,10.78
+1767,2024-07-25,60,M,167.1,89.0,Cycling,111,Medium,27.9,121,7.0,1,7120,2.3,19.8,69.9,111.2,95.5,None,Current,10.91
+1767,2024-07-26,60,M,167.1,89.3,Weight Training,20,Medium,3.6,103,6.5,10,6444,2.0,19.8,69.9,111.2,95.5,None,Current,10.93
+1767,2024-07-28,60,M,167.1,89.5,Weight Training,96,High,20.0,147,5.9,1,10940,2.6,19.8,69.9,111.2,95.5,None,Current,11.07

@@ -1,0 +1,18 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+99,2024-12-01,44,F,174.3,141.5,Running,32,Medium,14.8,129,6.8,6,5468,2.2,27.3,72.5,111.8,90,None,Current,19.16
+99,2024-12-02,44,F,174.3,141.7,Dancing,73,Medium,18.9,140,7.1,5,6242,2.4,27.3,72.5,111.8,90,None,Current,19.24
+99,2024-12-05,44,F,174.3,142.0,Dancing,69,Medium,17.9,131,6.6,6,6438,2.7,27.3,72.5,111.8,90,None,Current,19.33
+99,2024-12-06,44,F,174.3,142.2,Running,116,Low,44.8,114,6.1,10,8903,1.9,27.3,72.5,111.8,90,None,Current,19.44
+99,2024-12-07,44,F,174.3,142.5,Dancing,24,Low,5.2,114,8.1,6,10224,2.5,27.3,72.5,111.8,90,None,Current,19.47
+99,2024-12-08,44,F,174.3,142.8,Yoga,64,Low,7.6,114,7.0,2,7893,1.7,27.3,72.5,111.8,90,None,Current,19.53
+99,2024-12-09,44,F,174.3,143.0,Dancing,55,Medium,14.4,136,6.7,3,8713,1.8,27.3,72.5,111.8,90,None,Current,19.6
+99,2024-12-10,44,F,174.3,143.3,Dancing,104,Medium,27.3,117,5.6,3,7530,2.3,27.3,72.5,111.8,90,None,Current,19.72
+99,2024-12-13,44,F,174.3,143.5,Yoga,95,Medium,13.6,123,7.5,10,9196,1.6,27.3,72.5,111.8,90,None,Current,19.84
+99,2024-12-14,44,F,174.3,143.8,Dancing,107,Low,23.5,114,8.1,2,7663,2.7,27.3,72.5,111.8,90,None,Current,19.94
+99,2024-12-15,44,F,174.3,144.0,Dancing,59,Low,13.0,114,7.1,2,9341,2.8,27.3,72.5,111.8,90,None,Current,20.0
+99,2024-12-16,44,F,174.3,144.3,Dancing,90,Medium,23.8,132,5.2,4,6391,2.4,27.3,72.5,111.8,90,None,Current,20.11
+99,2024-12-18,44,F,174.3,144.6,Dancing,59,Low,13.0,117,6.6,7,7094,2.0,27.3,72.5,111.8,90,None,Current,20.17
+99,2024-12-20,44,F,174.3,144.8,Dancing,120,Medium,31.8,134,7.8,7,7040,1.8,27.3,72.5,111.8,90,None,Current,20.31
+99,2024-12-22,44,F,174.3,145.1,Dancing,120,Low,26.5,107,7.2,5,11286,2.3,27.3,72.5,111.8,90,None,Current,20.43
+99,2024-12-23,44,F,174.3,145.3,Weight Training,34,Low,8.2,116,7.8,6,5789,3.0,27.3,72.5,111.8,90,None,Current,20.47
+99,2024-12-25,44,F,174.3,145.6,Weight Training,54,Medium,15.7,134,6.3,9,6757,1.9,27.3,72.5,111.8,90,None,Current,20.53

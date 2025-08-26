@@ -1,0 +1,17 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+2045,2024-02-01,35,F,152.9,57.2,Basketball,48,Medium,7.3,136,5.4,9,8321,1.9,21.7,67.6,117.4,64.8,None,Former,1.68
+2045,2024-02-02,35,F,152.9,57.5,Dancing,115,Low,10.1,126,8.0,6,7692,1.7,21.7,67.6,117.4,64.8,None,Former,1.8
+2045,2024-02-03,35,F,152.9,57.8,Weight Training,53,High,7.1,150,6.6,1,10442,3.3,21.7,67.6,117.4,64.8,None,Former,1.87
+2045,2024-02-05,35,F,152.9,58.0,Basketball,75,Medium,11.6,151,6.9,8,6897,1.8,21.7,67.6,117.4,64.8,None,Former,1.96
+2045,2024-02-06,35,F,152.9,58.3,Dancing,79,Medium,8.4,126,8.0,3,7541,3.5,21.7,67.6,117.4,64.8,None,Former,2.05
+2045,2024-02-07,35,F,152.9,58.5,Weight Training,37,Low,3.6,118,7.8,6,9863,1.8,21.7,67.6,117.4,64.8,None,Former,2.09
+2045,2024-02-09,35,F,152.9,58.8,Basketball,85,Medium,13.3,140,8.1,4,6966,1.9,21.7,67.6,117.4,64.8,None,Former,2.19
+2045,2024-02-10,35,F,152.9,59.1,Basketball,86,Low,11.2,125,7.1,4,12732,3.3,21.7,67.6,117.4,64.8,None,Former,2.28
+2045,2024-02-14,35,F,152.9,59.3,Weight Training,60,Low,5.9,130,7.5,10,10028,3.4,21.7,67.6,117.4,64.8,None,Former,2.34
+2045,2024-02-18,35,F,152.9,59.6,Dancing,69,Medium,7.5,136,7.1,7,12283,1.7,21.7,67.6,117.4,64.8,None,Former,2.42
+2045,2024-02-19,35,F,152.9,59.8,Dancing,119,Medium,13.0,139,7.4,7,7471,2.3,21.7,67.6,117.4,64.8,None,Former,2.57
+2045,2024-02-20,35,F,152.9,60.1,Weight Training,106,Medium,12.7,119,4.9,6,11617,2.2,21.7,67.6,117.4,64.8,None,Former,2.69
+2045,2024-02-21,35,F,152.9,60.3,Dancing,113,High,14.5,170,7.2,5,9491,2.4,21.7,67.6,117.4,64.8,None,Former,2.85
+2045,2024-02-22,35,F,152.9,60.6,Yoga,40,High,2.8,150,6.5,4,8365,2.2,21.7,67.6,117.4,64.8,None,Former,2.91
+2045,2024-02-25,35,F,152.9,60.9,Dancing,71,Medium,7.9,140,5.4,7,11884,3.0,21.7,67.6,117.4,64.8,None,Former,2.99
+2045,2024-02-28,35,F,152.9,61.1,HIIT,42,Medium,10.2,140,9.8,4,8017,1.6,21.7,67.6,117.4,64.8,None,Former,3.04

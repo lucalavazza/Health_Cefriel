@@ -1,0 +1,21 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+517,2024-06-01,59,M,177,102.4,Yoga,90,Low,7.7,108,7.0,3,11698,1.7,23.2,69.9,121.5,83.9,Diabetes,Former,9.51
+517,2024-06-02,59,M,177,102.7,Yoga,36,Medium,3.7,110,6.5,7,9768,3.1,23.2,69.9,121.5,83.9,Diabetes,Former,9.55
+517,2024-06-03,59,M,177,102.9,Dancing,117,Low,18.4,110,9.6,5,10100,3.1,23.2,69.9,121.5,83.9,Diabetes,Former,9.67
+517,2024-06-04,59,M,177,103.2,Dancing,120,Medium,22.6,129,7.0,6,8778,2.1,23.2,69.9,121.5,83.9,Diabetes,Former,9.81
+517,2024-06-06,59,M,177,103.5,Swimming,99,Low,19.9,103,7.6,2,8198,3.3,23.2,69.9,121.5,83.9,Diabetes,Former,9.91
+517,2024-06-07,59,M,177,103.7,Dancing,93,Medium,17.6,99,7.5,10,9859,2.6,23.2,69.9,121.5,83.9,Diabetes,Former,10.02
+517,2024-06-08,59,M,177,104.0,Dancing,74,High,16.4,131,5.7,2,12318,2.4,23.2,69.9,121.5,83.9,Diabetes,Former,10.13
+517,2024-06-09,59,M,177,104.2,Yoga,91,Low,7.9,106,7.8,8,10411,2.0,23.2,69.9,121.5,83.9,Diabetes,Former,10.22
+517,2024-06-10,59,M,177,104.5,Dancing,111,Medium,21.2,130,8.8,7,10437,1.5,23.2,69.9,121.5,83.9,Diabetes,Former,10.35
+517,2024-06-13,59,M,177,104.7,Weight Training,27,Medium,5.6,133,5.5,9,8974,2.7,23.2,69.9,121.5,83.9,Diabetes,Former,10.38
+517,2024-06-14,59,M,177,105.0,Dancing,106,Low,17.0,100,7.4,4,8988,2.9,23.2,69.9,121.5,83.9,Diabetes,Former,10.49
+517,2024-06-16,59,M,177,105.3,Weight Training,28,High,6.9,149,6.7,4,9049,3.5,23.2,69.9,121.5,83.9,Diabetes,Former,10.53
+517,2024-06-18,59,M,177,105.5,Basketball,28,Low,6.5,108,7.5,6,9111,1.6,23.2,69.9,121.5,83.9,Diabetes,Former,10.56
+517,2024-06-22,59,M,177,105.8,Basketball,21,Low,4.9,111,8.4,5,10340,1.6,23.2,69.9,121.5,83.9,Diabetes,Former,10.58
+517,2024-06-23,59,M,177,106.0,Yoga,60,Low,5.3,104,7.4,7,10050,1.7,23.2,69.9,121.5,83.9,Diabetes,Former,10.64
+517,2024-06-24,59,M,177,106.3,Yoga,116,Medium,12.3,127,6.0,1,6974,1.8,23.2,69.9,121.5,83.9,Diabetes,Former,10.78
+517,2024-06-25,59,M,177,106.6,Basketball,36,Medium,10.2,118,6.7,4,5892,2.0,23.2,69.9,121.5,83.9,Diabetes,Former,10.82
+517,2024-06-26,59,M,177,106.8,Basketball,39,Medium,11.1,123,6.1,3,9001,3.4,23.2,69.9,121.5,83.9,Diabetes,Former,10.87
+517,2024-06-28,59,M,177,107.1,Basketball,78,Medium,22.2,117,8.0,9,10291,3.3,23.2,69.9,121.5,83.9,Diabetes,Former,10.96
+517,2024-06-30,59,M,177,107.3,HIIT,102,Low,36.4,109,6.8,10,10479,1.9,23.2,69.9,121.5,83.9,Diabetes,Former,11.06

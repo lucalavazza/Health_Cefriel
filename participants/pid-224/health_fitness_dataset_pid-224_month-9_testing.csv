@@ -1,0 +1,17 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+224,2024-09-01,38,F,161.5,89.3,HIIT,22,Low,6.5,118,8.5,3,8131,3.0,17.8,72.1,112.7,79,None,Current,13.72
+224,2024-09-02,38,F,161.5,89.6,Tennis,96,High,24.3,172,6.2,1,7714,2.2,17.8,72.1,112.7,79,None,Current,13.86
+224,2024-09-03,38,F,161.5,89.8,Tennis,71,Medium,15.5,143,7.6,4,6744,2.9,17.8,72.1,112.7,79,None,Current,13.94
+224,2024-09-05,38,F,161.5,90.1,Tennis,47,Medium,10.3,134,7.3,3,9776,3.2,17.8,72.1,112.7,79,None,Current,14.0
+224,2024-09-07,38,F,161.5,90.3,Tennis,101,High,25.8,143,7.3,3,7908,2.2,17.8,72.1,112.7,79,None,Current,14.14
+224,2024-09-10,38,F,161.5,90.6,Tennis,24,Low,4.4,120,7.1,5,7297,2.7,17.8,72.1,112.7,79,None,Current,14.17
+224,2024-09-12,38,F,161.5,90.8,Tennis,104,Medium,22.9,141,7.4,6,7532,1.5,17.8,72.1,112.7,79,None,Current,14.29
+224,2024-09-15,38,F,161.5,91.1,Dancing,73,High,14.2,165,6.9,6,7797,3.2,17.8,72.1,112.7,79,None,Current,14.39
+224,2024-09-17,38,F,161.5,91.4,Tennis,21,Low,3.9,114,9.0,1,4519,2.2,17.8,72.1,112.7,79,None,Current,14.41
+224,2024-09-19,38,F,161.5,91.6,Dancing,36,High,7.0,154,6.1,2,4907,2.9,17.8,72.1,112.7,79,None,Current,14.46
+224,2024-09-21,38,F,161.5,91.9,Dancing,24,Low,3.4,117,7.1,8,6178,1.7,17.8,72.1,112.7,79,None,Current,14.49
+224,2024-09-23,38,F,161.5,92.1,Tennis,65,Medium,14.5,141,6.0,4,4790,2.5,17.8,72.1,112.7,79,None,Current,14.57
+224,2024-09-24,38,F,161.5,92.4,Tennis,71,Medium,15.9,126,6.7,7,6910,1.8,17.8,72.1,112.7,79,None,Current,14.65
+224,2024-09-25,38,F,161.5,92.7,Dancing,75,Medium,12.7,131,6.5,5,6951,1.7,17.8,72.1,112.7,79,None,Current,14.74
+224,2024-09-27,38,F,161.5,92.9,Dancing,28,Medium,4.8,130,6.6,8,4831,3.1,17.8,72.1,112.7,79,None,Current,14.77
+224,2024-09-28,38,F,161.5,93.2,Tennis,38,High,10.0,161,6.0,4,9563,1.6,17.8,72.1,112.7,79,None,Current,14.83

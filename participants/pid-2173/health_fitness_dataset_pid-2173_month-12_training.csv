@@ -1,0 +1,17 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+2173,2024-12-01,33,M,186.5,127.6,Walking,33,Low,4.4,111,7.9,8,7583,1.8,20.1,83.9,121.8,78.9,Asthma,Former,18.53
+2173,2024-12-02,33,M,186.5,127.8,Weight Training,102,Low,21.7,117,8.3,8,5709,1.6,20.1,83.9,121.8,78.9,Asthma,Former,18.63
+2173,2024-12-03,33,M,186.5,128.1,Walking,75,Low,10.1,126,6.5,3,7697,3.4,20.1,83.9,121.8,78.9,Asthma,Former,18.71
+2173,2024-12-04,33,M,186.5,128.4,Walking,87,High,16.5,159,6.4,4,6685,2.8,20.1,83.9,121.8,78.9,Asthma,Former,18.83
+2173,2024-12-05,33,M,186.5,128.6,Weight Training,71,Medium,18.2,127,8.8,5,8902,3.2,20.1,83.9,121.8,78.9,Asthma,Former,18.91
+2173,2024-12-06,33,M,186.5,128.9,Weight Training,35,Low,7.5,122,8.3,4,10499,3.4,20.1,83.9,121.8,78.9,Asthma,Former,18.95
+2173,2024-12-07,33,M,186.5,129.1,Walking,92,Medium,15.0,141,6.3,8,6137,3.2,20.1,83.9,121.8,78.9,Asthma,Former,19.06
+2173,2024-12-12,33,M,186.5,129.4,Walking,76,Medium,12.4,148,7.9,8,7933,2.6,20.1,83.9,121.8,78.9,Asthma,Former,19.15
+2173,2024-12-14,33,M,186.5,129.7,Walking,114,Medium,18.7,146,6.5,3,9359,1.6,20.1,83.9,121.8,78.9,Asthma,Former,19.29
+2173,2024-12-16,33,M,186.5,129.9,Walking,34,Medium,5.6,129,6.9,9,7252,3.3,20.1,83.9,121.8,78.9,Asthma,Former,19.33
+2173,2024-12-17,33,M,186.5,130.2,Walking,77,Medium,12.7,117,6.6,9,7567,2.1,20.1,83.9,121.8,78.9,Asthma,Former,19.42
+2173,2024-12-19,33,M,186.5,130.4,Yoga,68,Low,7.4,123,6.8,2,6363,3.4,20.1,83.9,121.8,78.9,Asthma,Former,19.49
+2173,2024-12-20,33,M,186.5,130.7,Walking,93,Medium,15.4,146,7.2,9,9331,2.9,20.1,83.9,121.8,78.9,Asthma,Former,19.6
+2173,2024-12-21,33,M,186.5,130.9,Running,28,High,13.9,167,6.5,2,9519,1.9,20.1,83.9,121.8,78.9,Asthma,Former,19.64
+2173,2024-12-22,33,M,186.5,131.2,Basketball,97,Low,28.2,120,7.3,5,7850,1.8,20.1,83.9,121.8,78.9,Asthma,Former,19.74
+2173,2024-12-25,33,M,186.5,131.5,Tennis,101,Medium,32.2,155,6.3,9,7572,1.9,20.1,83.9,121.8,78.9,Asthma,Former,19.86

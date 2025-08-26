@@ -1,0 +1,17 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+125,2024-10-01,57,F,158.9,111.5,Weight Training,79,Medium,17.6,129,6.5,10,6287,1.9,27.2,61.3,104.5,80.2,Asthma,Former,12.91
+125,2024-10-03,57,F,158.9,111.7,Walking,81,Medium,11.4,119,6.9,6,4201,1.9,27.2,61.3,104.5,80.2,Asthma,Former,13.01
+125,2024-10-06,57,F,158.9,112.0,Walking,23,Medium,3.3,123,7.1,5,8500,1.5,27.2,61.3,104.5,80.2,Asthma,Former,13.04
+125,2024-10-07,57,F,158.9,112.3,Walking,40,Low,4.7,107,6.6,8,6901,1.8,27.2,61.3,104.5,80.2,Asthma,Former,13.08
+125,2024-10-08,57,F,158.9,112.5,Cycling,88,Medium,28.0,126,7.0,4,7757,2.2,27.2,61.3,104.5,80.2,Asthma,Former,13.18
+125,2024-10-09,57,F,158.9,112.8,HIIT,60,Medium,27.0,118,6.5,8,6387,2.1,27.2,61.3,104.5,80.2,Asthma,Former,13.26
+125,2024-10-10,57,F,158.9,113.0,HIIT,99,Medium,44.7,122,7.1,1,6193,2.4,27.2,61.3,104.5,80.2,Asthma,Former,13.38
+125,2024-10-14,57,F,158.9,113.3,Cycling,57,Low,15.2,104,7.8,5,2433,2.5,27.2,61.3,104.5,80.2,Asthma,Former,13.43
+125,2024-10-16,57,F,158.9,113.5,Cycling,59,Low,15.8,108,6.5,9,9178,1.8,27.2,61.3,104.5,80.2,Asthma,Former,13.49
+125,2024-10-17,57,F,158.9,113.8,Cycling,89,Medium,28.6,120,7.7,3,7734,2.3,27.2,61.3,104.5,80.2,Asthma,Former,13.6
+125,2024-10-19,57,F,158.9,114.0,Cycling,35,Low,9.4,110,6.4,5,6997,2.2,27.2,61.3,104.5,80.2,Asthma,Former,13.63
+125,2024-10-24,57,F,158.9,114.3,Tennis,98,Low,22.7,103,6.7,2,6040,3.4,27.2,61.3,104.5,80.2,Asthma,Former,13.73
+125,2024-10-26,57,F,158.9,114.6,Cycling,79,Low,21.3,110,6.8,7,7702,1.5,27.2,61.3,104.5,80.2,Asthma,Former,13.81
+125,2024-10-27,57,F,158.9,114.8,Basketball,92,High,32.8,130,5.5,7,6624,3.3,27.2,61.3,104.5,80.2,Asthma,Former,13.94
+125,2024-10-29,57,F,158.9,115.1,Basketball,103,Medium,31.5,118,7.8,1,5609,2.7,27.2,61.3,104.5,80.2,Asthma,Former,14.06
+125,2024-10-30,57,F,158.9,115.3,Weight Training,100,Low,19.2,106,7.7,6,7569,2.8,27.2,61.3,104.5,80.2,Asthma,Former,14.16

@@ -1,0 +1,17 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+1588,2024-10-07,39,F,174,104.9,HIIT,55,High,26.9,156,5.8,3,6331,3.4,19.3,68.5,140,71.4,None,Current,14.63
+1588,2024-10-08,39,F,174,105.1,Running,103,Medium,35.3,145,5.1,4,5349,1.7,19.3,68.5,140,71.4,None,Current,14.75
+1588,2024-10-09,39,F,174,105.4,Running,21,Medium,7.2,139,7.3,2,4958,1.7,19.3,68.5,140,71.4,None,Current,14.78
+1588,2024-10-11,39,F,174,105.7,Running,83,Low,23.8,116,6.0,6,2437,1.8,19.3,68.5,140,71.4,None,Current,14.86
+1588,2024-10-13,39,F,174,105.9,Running,93,Low,26.7,121,7.5,4,6434,1.9,19.3,68.5,140,71.4,None,Current,14.96
+1588,2024-10-14,39,F,174,106.2,Running,58,Medium,20.1,142,7.7,2,5056,1.8,19.3,68.5,140,71.4,None,Current,15.02
+1588,2024-10-15,39,F,174,106.4,Dancing,45,Low,7.3,115,7.1,1,8436,2.5,19.3,68.5,140,71.4,None,Current,15.07
+1588,2024-10-16,39,F,174,106.7,Dancing,92,Low,15.0,124,7.2,4,7158,2.6,19.3,68.5,140,71.4,None,Current,15.16
+1588,2024-10-19,39,F,174,106.9,Walking,120,Medium,16.2,152,6.5,10,7452,2.5,19.3,68.5,140,71.4,None,Current,15.31
+1588,2024-10-20,39,F,174,107.2,Dancing,60,Low,9.8,113,7.5,1,7684,2.6,19.3,68.5,140,71.4,None,Current,15.37
+1588,2024-10-21,39,F,174,107.5,Walking,23,Medium,3.1,137,6.7,8,8458,1.5,19.3,68.5,140,71.4,None,Current,15.39
+1588,2024-10-22,39,F,174,107.7,Dancing,55,Low,9.0,123,6.5,10,7583,3.1,19.3,68.5,140,71.4,None,Current,15.45
+1588,2024-10-24,39,F,174,108.0,Walking,29,Medium,4.0,133,6.7,7,4551,2.8,19.3,68.5,140,71.4,None,Current,15.48
+1588,2024-10-28,39,F,174,108.2,Walking,64,Medium,8.8,132,8.1,9,6460,2.2,19.3,68.5,140,71.4,None,Current,15.56
+1588,2024-10-30,39,F,174,108.5,Dancing,53,Medium,10.5,128,8.6,8,6986,2.7,19.3,68.5,140,71.4,None,Current,15.62
+1588,2024-10-31,39,F,174,108.8,Dancing,97,Medium,19.3,144,9.2,8,5382,2.7,19.3,68.5,140,71.4,None,Current,15.74

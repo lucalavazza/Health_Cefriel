@@ -1,0 +1,16 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+801,2024-12-01,26,Other,174.3,129.2,Swimming,88,Low,22.1,126,8.3,2,10285,3.0,23.8,69.8,104,84.2,None,Current,17.94
+801,2024-12-03,26,Other,174.3,129.5,Cycling,75,Medium,27.5,126,8.2,9,11048,3.5,23.8,69.8,104,84.2,None,Current,18.03
+801,2024-12-07,26,Other,174.3,129.7,HIIT,97,Medium,50.2,145,6.4,4,8308,2.9,23.8,69.8,104,84.2,None,Current,18.15
+801,2024-12-08,26,Other,174.3,130.0,Cycling,118,Low,36.1,121,8.2,8,9619,2.8,23.8,69.8,104,84.2,None,Current,18.27
+801,2024-12-09,26,Other,174.3,130.2,Cycling,73,Low,22.4,123,7.8,5,5870,1.9,23.8,69.8,104,84.2,None,Current,18.34
+801,2024-12-13,26,Other,174.3,130.5,HIIT,111,High,67.5,161,6.3,7,6978,3.2,23.8,69.8,104,84.2,None,Current,18.5
+801,2024-12-14,26,Other,174.3,130.7,Basketball,43,High,17.5,167,5.1,10,10058,2.8,23.8,69.8,104,84.2,None,Current,18.56
+801,2024-12-17,26,Other,174.3,131.0,Cycling,24,Low,7.4,115,6.9,1,9250,2.2,23.8,69.8,104,84.2,None,Current,18.58
+801,2024-12-18,26,Other,174.3,131.3,Cycling,38,High,16.5,172,7.7,10,10134,2.0,23.8,69.8,104,84.2,None,Current,18.63
+801,2024-12-19,26,Other,174.3,131.5,Basketball,31,Low,9.0,124,5.8,8,8845,1.7,23.8,69.8,104,84.2,None,Current,18.66
+801,2024-12-20,26,Other,174.3,131.8,Cycling,56,Medium,20.9,141,7.4,6,9731,2.0,23.8,69.8,104,84.2,None,Current,18.73
+801,2024-12-21,26,Other,174.3,132.0,Basketball,78,Low,22.8,118,5.4,5,10850,2.0,23.8,69.8,104,84.2,None,Current,18.81
+801,2024-12-22,26,Other,174.3,132.3,Cycling,48,Medium,18.0,143,8.2,10,8731,2.3,23.8,69.8,104,84.2,None,Current,18.87
+801,2024-12-23,26,Other,174.3,132.5,Basketball,115,High,47.3,163,7.6,9,8484,2.6,23.8,69.8,104,84.2,None,Current,19.03
+801,2024-12-25,26,Other,174.3,132.8,Basketball,68,Medium,24.0,139,8.8,1,7320,3.5,23.8,69.8,104,84.2,None,Current,19.11

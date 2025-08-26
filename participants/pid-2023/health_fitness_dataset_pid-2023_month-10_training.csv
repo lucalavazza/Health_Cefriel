@@ -1,0 +1,17 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+2023,2024-10-02,28,F,160.5,93.3,Running,21,Medium,6.4,141,6.3,8,5496,2.3,17.5,74.2,116.6,86.8,None,Current,15.23
+2023,2024-10-03,28,F,160.5,93.5,Dancing,87,Low,12.4,125,8.0,8,6586,3.2,17.5,74.2,116.6,86.8,None,Current,15.32
+2023,2024-10-07,28,F,160.5,93.8,Running,67,High,23.9,168,7.2,1,9085,2.8,17.5,74.2,116.6,86.8,None,Current,15.41
+2023,2024-10-08,28,F,160.5,94.0,Swimming,109,Low,19.9,126,7.4,2,2726,3.3,17.5,74.2,116.6,86.8,None,Current,15.52
+2023,2024-10-16,28,F,160.5,94.3,Running,68,Medium,20.9,142,7.0,5,6461,3.3,17.5,74.2,116.6,86.8,None,Current,15.6
+2023,2024-10-17,28,F,160.5,94.6,Swimming,84,Medium,18.5,149,6.4,4,7239,1.9,17.5,74.2,116.6,86.8,None,Current,15.7
+2023,2024-10-19,28,F,160.5,94.8,Running,71,High,25.6,162,7.0,1,7038,3.4,17.5,74.2,116.6,86.8,None,Current,15.8
+2023,2024-10-20,28,F,160.5,95.1,Running,76,Low,19.6,125,7.4,2,10009,3.0,17.5,74.2,116.6,86.8,None,Current,15.88
+2023,2024-10-22,28,F,160.5,95.3,Swimming,40,Low,7.4,124,8.2,9,5761,1.6,17.5,74.2,116.6,86.8,None,Current,15.92
+2023,2024-10-23,28,F,160.5,95.6,Running,29,High,10.5,168,6.6,1,7468,3.3,17.5,74.2,116.6,86.8,None,Current,15.96
+2023,2024-10-24,28,F,160.5,95.8,Swimming,120,High,31.2,152,6.9,2,4443,2.0,17.5,74.2,116.6,86.8,None,Current,16.13
+2023,2024-10-25,28,F,160.5,96.1,Walking,63,Medium,7.6,150,5.5,7,7206,1.6,17.5,74.2,116.6,86.8,None,Current,16.2
+2023,2024-10-26,28,F,160.5,96.4,Walking,49,Medium,6.0,144,7.6,8,4894,2.9,17.5,74.2,116.6,86.8,None,Current,16.26
+2023,2024-10-28,28,F,160.5,96.6,Weight Training,24,Medium,4.6,143,6.9,5,8835,2.8,17.5,74.2,116.6,86.8,None,Current,16.29
+2023,2024-10-30,28,F,160.5,96.9,Walking,39,High,5.6,170,7.9,10,6803,1.6,17.5,74.2,116.6,86.8,None,Current,16.34
+2023,2024-10-31,28,F,160.5,97.1,Swimming,44,Medium,9.9,137,8.6,5,7805,2.5,17.5,74.2,116.6,86.8,None,Current,16.4

@@ -1,0 +1,27 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+2356,2024-05-01,19,M,159.9,74.0,Swimming,58,Medium,10.0,158,6.7,8,9995,1.7,20.2,68.9,125.7,79.1,Diabetes,Current,7.3
+2356,2024-05-03,19,M,159.9,74.2,Swimming,69,High,13.9,179,6.1,5,10128,2.8,20.2,68.9,125.7,79.1,Diabetes,Current,7.4
+2356,2024-05-04,19,M,159.9,74.5,Cycling,56,Low,9.8,132,6.4,7,9284,3.0,20.2,68.9,125.7,79.1,Diabetes,Current,7.46
+2356,2024-05-05,19,M,159.9,74.7,Swimming,33,Low,4.8,132,6.5,5,10899,2.9,20.2,68.9,125.7,79.1,Diabetes,Current,7.49
+2356,2024-05-07,19,M,159.9,75.0,Swimming,89,High,18.1,159,8.8,3,8499,2.8,20.2,68.9,125.7,79.1,Diabetes,Current,7.61
+2356,2024-05-08,19,M,159.9,75.2,Cycling,120,High,29.7,159,7.6,1,11179,2.5,20.2,68.9,125.7,79.1,Diabetes,Current,7.78
+2356,2024-05-09,19,M,159.9,75.5,Cycling,84,Medium,17.9,152,7.1,9,10164,2.1,20.2,68.9,125.7,79.1,Diabetes,Current,7.88
+2356,2024-05-10,19,M,159.9,75.8,HIIT,80,Low,20.1,142,7.8,6,10256,1.9,20.2,68.9,125.7,79.1,Diabetes,Current,7.96
+2356,2024-05-11,19,M,159.9,76.0,Basketball,24,Low,4.0,135,7.3,5,10308,1.7,20.2,68.9,125.7,79.1,Diabetes,Current,7.99
+2356,2024-05-12,19,M,159.9,76.3,Cycling,99,Medium,21.3,152,8.3,3,10177,2.8,20.2,68.9,125.7,79.1,Diabetes,Current,8.11
+2356,2024-05-15,19,M,159.9,76.5,Weight Training,106,Medium,16.2,145,7.2,10,8863,3.1,20.2,68.9,125.7,79.1,Diabetes,Current,8.23
+2356,2024-05-16,19,M,159.9,76.8,Basketball,76,Medium,15.5,143,5.4,9,6963,1.7,20.2,68.9,125.7,79.1,Diabetes,Current,8.32
+2356,2024-05-17,19,M,159.9,77.0,Weight Training,107,Medium,16.4,160,5.7,9,8369,2.7,20.2,68.9,125.7,79.1,Diabetes,Current,8.45
+2356,2024-05-18,19,M,159.9,77.3,Weight Training,71,Low,9.1,137,7.1,8,9028,2.9,20.2,68.9,125.7,79.1,Diabetes,Current,8.52
+2356,2024-05-19,19,M,159.9,77.6,Weight Training,21,High,3.8,164,7.4,5,12826,2.3,20.2,68.9,125.7,79.1,Diabetes,Current,8.55
+2356,2024-05-20,19,M,159.9,77.8,Tennis,76,Medium,14.3,152,6.7,7,6436,2.4,20.2,68.9,125.7,79.1,Diabetes,Current,8.64
+2356,2024-05-21,19,M,159.9,78.1,Tennis,76,Medium,14.4,160,7.2,8,10261,2.0,20.2,68.9,125.7,79.1,Diabetes,Current,8.74
+2356,2024-05-22,19,M,159.9,78.3,Weight Training,27,High,4.9,179,5.8,4,8683,2.2,20.2,68.9,125.7,79.1,Diabetes,Current,8.77
+2356,2024-05-24,19,M,159.9,78.6,Weight Training,100,Low,13.1,128,6.5,10,9550,2.4,20.2,68.9,125.7,79.1,Diabetes,Current,8.87
+2356,2024-05-25,19,M,159.9,78.9,Weight Training,40,Medium,6.3,155,7.3,6,11149,3.2,20.2,68.9,125.7,79.1,Diabetes,Current,8.92
+2356,2024-05-26,19,M,159.9,79.1,Dancing,110,Medium,15.9,150,5.4,3,12695,3.4,20.2,68.9,125.7,79.1,Diabetes,Current,9.05
+2356,2024-05-27,19,M,159.9,79.4,Weight Training,61,Medium,9.7,143,6.0,7,7719,2.3,20.2,68.9,125.7,79.1,Diabetes,Current,9.13
+2356,2024-05-28,19,M,159.9,79.6,Weight Training,86,Medium,13.7,145,7.6,6,11203,3.4,20.2,68.9,125.7,79.1,Diabetes,Current,9.23
+2356,2024-05-29,19,M,159.9,79.9,Dancing,119,Low,14.5,123,7.1,9,9678,3.1,20.2,68.9,125.7,79.1,Diabetes,Current,9.35
+2356,2024-05-30,19,M,159.9,80.2,Yoga,54,Medium,4.3,151,6.0,2,8892,2.8,20.2,68.9,125.7,79.1,Diabetes,Current,9.41
+2356,2024-05-31,19,M,159.9,80.4,Yoga,25,Medium,2.0,140,4.7,1,7351,2.2,20.2,68.9,125.7,79.1,Diabetes,Current,9.44

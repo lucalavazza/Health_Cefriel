@@ -1,0 +1,17 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+1349,2024-11-03,51,M,180,118.5,Running,104,Medium,40.2,127,6.6,4,8012,3.4,21.2,71.1,118.4,82.4,None,Current,15.7
+1349,2024-11-04,51,M,180,118.7,Walking,117,Low,14.6,103,7.5,7,8369,2.5,21.2,71.1,118.4,82.4,None,Current,15.82
+1349,2024-11-05,51,M,180,119.0,Running,83,Medium,32.2,123,8.1,2,8918,3.5,21.2,71.1,118.4,82.4,None,Current,15.92
+1349,2024-11-06,51,M,180,119.3,Walking,63,Medium,9.5,131,7.4,10,7088,2.9,21.2,71.1,118.4,82.4,None,Current,15.99
+1349,2024-11-08,51,M,180,119.5,Cycling,35,High,13.8,140,5.7,1,5901,3.2,21.2,71.1,118.4,82.4,None,Current,16.04
+1349,2024-11-10,51,M,180,119.8,Cycling,80,Low,22.6,102,7.1,6,7057,1.8,21.2,71.1,118.4,82.4,None,Current,16.12
+1349,2024-11-12,51,M,180,120.0,Walking,26,Medium,3.9,131,5.3,4,8618,2.6,21.2,71.1,118.4,82.4,None,Current,16.15
+1349,2024-11-19,51,M,180,120.3,Cycling,89,Medium,30.3,127,5.8,3,6331,3.1,21.2,71.1,118.4,82.4,None,Current,16.26
+1349,2024-11-21,51,M,180,120.5,Walking,112,Low,14.2,112,7.7,7,7492,2.0,21.2,71.1,118.4,82.4,None,Current,16.37
+1349,2024-11-23,51,M,180,120.8,HIIT,86,Medium,41.5,136,7.1,7,9496,3.2,21.2,71.1,118.4,82.4,None,Current,16.47
+1349,2024-11-24,51,M,180,121.1,Weight Training,101,Low,20.3,112,6.4,7,8896,3.4,21.2,71.1,118.4,82.4,None,Current,16.57
+1349,2024-11-25,51,M,180,121.3,HIIT,89,Low,35.9,115,7.0,7,8793,3.3,21.2,71.1,118.4,82.4,None,Current,16.66
+1349,2024-11-26,51,M,180,121.6,Weight Training,22,Low,4.4,104,9.0,5,5075,2.3,21.2,71.1,118.4,82.4,None,Current,16.69
+1349,2024-11-27,51,M,180,121.8,HIIT,107,High,60.7,151,6.3,4,7790,2.1,21.2,71.1,118.4,82.4,None,Current,16.84
+1349,2024-11-29,51,M,180,122.1,Weight Training,113,Low,22.9,113,6.4,4,5371,2.6,21.2,71.1,118.4,82.4,None,Current,16.95
+1349,2024-11-30,51,M,180,122.3,HIIT,79,Low,32.1,114,7.1,10,9124,2.1,21.2,71.1,118.4,82.4,None,Current,17.03

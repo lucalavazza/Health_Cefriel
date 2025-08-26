@@ -1,0 +1,17 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+1600,2024-12-01,27,F,163.8,101.3,Yoga,111,High,13.1,164,8.0,7,8310,3.1,16.8,63.3,103.7,73.8,None,Former,18.67
+1600,2024-12-03,27,F,163.8,101.6,Yoga,65,Low,5.5,127,7.4,6,6558,2.1,16.8,63.3,103.7,73.8,None,Former,18.73
+1600,2024-12-04,27,F,163.8,101.8,Weight Training,66,High,15.6,161,6.5,2,7742,1.9,16.8,63.3,103.7,73.8,None,Former,18.83
+1600,2024-12-06,27,F,163.8,102.1,Weight Training,68,Low,11.5,122,5.5,4,6047,2.5,16.8,63.3,103.7,73.8,None,Former,18.89
+1600,2024-12-07,27,F,163.8,102.3,Yoga,29,High,3.5,185,5.6,5,9594,2.5,16.8,63.3,103.7,73.8,None,Former,18.93
+1600,2024-12-08,27,F,163.8,102.6,Weight Training,33,High,7.9,145,7.4,7,7935,3.2,16.8,63.3,103.7,73.8,None,Former,18.98
+1600,2024-12-09,27,F,163.8,102.9,Weight Training,119,High,28.5,177,8.0,6,3954,3.5,16.8,63.3,103.7,73.8,None,Former,19.15
+1600,2024-12-11,27,F,163.8,103.1,Weight Training,48,Medium,9.9,141,6.8,4,5141,2.3,16.8,63.3,103.7,73.8,None,Former,19.21
+1600,2024-12-12,27,F,163.8,103.4,Weight Training,100,Medium,20.6,144,8.0,4,7309,2.8,16.8,63.3,103.7,73.8,None,Former,19.33
+1600,2024-12-16,27,F,163.8,103.6,Swimming,112,High,31.5,168,6.2,8,9661,1.7,16.8,63.3,103.7,73.8,None,Former,19.48
+1600,2024-12-17,27,F,163.8,103.9,Weight Training,101,Medium,20.9,133,6.1,4,7286,2.1,16.8,63.3,103.7,73.8,None,Former,19.6
+1600,2024-12-18,27,F,163.8,104.1,Swimming,111,Medium,26.9,146,9.5,1,7768,3.0,16.8,63.3,103.7,73.8,None,Former,19.74
+1600,2024-12-19,27,F,163.8,104.4,Weight Training,75,High,18.2,162,6.1,5,4795,2.7,16.8,63.3,103.7,73.8,None,Former,19.84
+1600,2024-12-22,27,F,163.8,104.7,Weight Training,33,Medium,6.9,150,6.6,2,9661,3.0,16.8,63.3,103.7,73.8,None,Former,19.88
+1600,2024-12-23,27,F,163.8,104.9,Swimming,43,Medium,10.5,128,7.2,4,9721,1.5,16.8,63.3,103.7,73.8,None,Former,19.93
+1600,2024-12-24,27,F,163.8,105.2,Swimming,99,Medium,24.2,147,7.9,9,7063,2.9,16.8,63.3,103.7,73.8,None,Former,20.05

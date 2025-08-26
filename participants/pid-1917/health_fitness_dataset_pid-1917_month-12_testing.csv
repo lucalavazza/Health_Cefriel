@@ -1,0 +1,17 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+1917,2024-12-01,48,F,156.8,121.0,Yoga,112,Low,11.3,113,6.2,4,9107,2.7,26.2,68.4,114.5,68.3,None,Former,19.04
+1917,2024-12-03,48,F,156.8,121.3,Yoga,24,High,3.4,146,6.6,10,6508,3.5,26.2,68.4,114.5,68.3,None,Former,19.07
+1917,2024-12-04,48,F,156.8,121.5,Yoga,32,Medium,3.9,124,7.1,2,8275,2.4,26.2,68.4,114.5,68.3,None,Former,19.11
+1917,2024-12-05,48,F,156.8,121.8,Yoga,20,Low,2.0,106,7.7,5,7677,3.3,26.2,68.4,114.5,68.3,None,Former,19.13
+1917,2024-12-06,48,F,156.8,122.1,Yoga,76,Medium,9.3,109,7.4,6,6882,1.9,26.2,68.4,114.5,68.3,None,Former,19.22
+1917,2024-12-07,48,F,156.8,122.3,Yoga,95,Medium,11.6,126,9.5,7,11556,2.8,26.2,68.4,114.5,68.3,None,Former,19.33
+1917,2024-12-08,48,F,156.8,122.6,Weight Training,110,High,31.4,154,7.5,8,10994,2.3,26.2,68.4,114.5,68.3,None,Former,19.49
+1917,2024-12-09,48,F,156.8,122.8,Weight Training,55,Medium,13.5,136,6.2,5,9330,2.7,26.2,68.4,114.5,68.3,None,Former,19.55
+1917,2024-12-11,48,F,156.8,123.1,Weight Training,59,High,16.9,161,8.3,4,5334,2.5,26.2,68.4,114.5,68.3,None,Former,19.64
+1917,2024-12-12,48,F,156.8,123.3,Weight Training,39,Medium,9.6,125,7.9,4,6333,2.3,26.2,68.4,114.5,68.3,None,Former,19.68
+1917,2024-12-14,48,F,156.8,123.6,Weight Training,105,Low,21.6,113,7.0,7,8001,1.7,26.2,68.4,114.5,68.3,None,Former,19.79
+1917,2024-12-15,48,F,156.8,123.9,Weight Training,81,Medium,20.0,125,6.7,7,8970,1.6,26.2,68.4,114.5,68.3,None,Former,19.88
+1917,2024-12-19,48,F,156.8,124.1,Weight Training,92,High,26.6,149,9.3,2,7922,2.3,26.2,68.4,114.5,68.3,None,Former,20.01
+1917,2024-12-21,48,F,156.8,124.4,Dancing,40,Medium,9.1,129,6.6,1,9051,3.3,26.2,68.4,114.5,68.3,None,Former,20.06
+1917,2024-12-22,48,F,156.8,124.6,Dancing,63,Medium,14.4,129,6.5,4,10875,3.0,26.2,68.4,114.5,68.3,None,Former,20.14
+1917,2024-12-24,48,F,156.8,124.9,Weight Training,35,Medium,8.7,131,9.3,1,8367,2.6,26.2,68.4,114.5,68.3,None,Former,20.18

@@ -1,0 +1,14 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+108,2024-12-03,39,F,160.5,118.3,Cycling,117,Medium,39.1,134,6.5,1,6965,3.3,23.8,70.3,98.2,74.1,Asthma,Current,17.91
+108,2024-12-05,39,F,160.5,118.6,Walking,37,Medium,5.5,131,7.9,10,7433,3.3,23.8,70.3,98.2,74.1,Asthma,Current,17.95
+108,2024-12-07,39,F,160.5,118.8,Cycling,51,Low,14.3,123,7.6,5,9389,2.8,23.8,70.3,98.2,74.1,Asthma,Current,18.0
+108,2024-12-10,39,F,160.5,119.1,Cycling,54,Low,15.2,115,10.0,2,7931,2.0,23.8,70.3,98.2,74.1,Asthma,Current,18.06
+108,2024-12-11,39,F,160.5,119.4,Walking,30,High,5.3,169,8.6,6,7752,2.4,23.8,70.3,98.2,74.1,Asthma,Current,18.1
+108,2024-12-12,39,F,160.5,119.6,Walking,118,Medium,17.8,124,7.5,3,8284,3.4,23.8,70.3,98.2,74.1,Asthma,Current,18.24
+108,2024-12-15,39,F,160.5,119.9,Walking,82,Medium,12.4,139,5.1,7,7375,2.9,23.8,70.3,98.2,74.1,Asthma,Current,18.34
+108,2024-12-16,39,F,160.5,120.1,Walking,54,High,9.6,157,6.6,8,9093,2.5,23.8,70.3,98.2,74.1,Asthma,Current,18.42
+108,2024-12-17,39,F,160.5,120.4,Walking,80,Low,10.1,114,6.1,5,9730,2.0,23.8,70.3,98.2,74.1,Asthma,Current,18.5
+108,2024-12-20,39,F,160.5,120.6,Walking,35,Medium,5.3,150,7.4,7,4840,2.8,23.8,70.3,98.2,74.1,Asthma,Current,18.54
+108,2024-12-21,39,F,160.5,120.9,Walking,65,Medium,9.9,145,7.4,7,8432,3.4,23.8,70.3,98.2,74.1,Asthma,Current,18.62
+108,2024-12-23,39,F,160.5,121.2,Walking,53,Medium,8.1,125,7.1,6,7221,2.8,23.8,70.3,98.2,74.1,Asthma,Current,18.68
+108,2024-12-24,39,F,160.5,121.4,Walking,83,Low,10.6,122,6.5,6,5466,2.0,23.8,70.3,98.2,74.1,Asthma,Current,18.76

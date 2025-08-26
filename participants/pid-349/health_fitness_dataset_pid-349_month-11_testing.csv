@@ -1,0 +1,16 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+349,2024-11-01,55,F,152.1,100.0,Yoga,62,Medium,6.2,124,5.3,8,8735,2.9,19.5,73.7,122.5,81.9,Hypertension,Current,17.22
+349,2024-11-02,55,F,152.1,100.3,Running,74,High,28.2,140,6.8,3,7977,2.8,19.5,73.7,122.5,81.9,Hypertension,Current,17.32
+349,2024-11-04,55,F,152.1,100.5,Yoga,112,Low,9.4,108,5.6,2,5289,3.1,19.5,73.7,122.5,81.9,Hypertension,Current,17.43
+349,2024-11-06,55,F,152.1,100.8,Walking,120,Medium,15.3,121,6.9,6,7477,1.6,19.5,73.7,122.5,81.9,Hypertension,Current,17.58
+349,2024-11-08,55,F,152.1,101.0,Running,80,Medium,26.3,136,8.1,7,5161,2.6,19.5,73.7,122.5,81.9,Hypertension,Current,17.67
+349,2024-11-09,55,F,152.1,101.3,Tennis,69,High,19.8,135,7.2,4,7294,3.1,19.5,73.7,122.5,81.9,Hypertension,Current,17.77
+349,2024-11-11,55,F,152.1,101.6,Weight Training,20,Low,3.4,111,8.2,10,7961,3.1,19.5,73.7,122.5,81.9,Hypertension,Current,17.79
+349,2024-11-12,55,F,152.1,101.8,Weight Training,93,Medium,18.9,116,6.4,1,5214,2.0,19.5,73.7,122.5,81.9,Hypertension,Current,17.9
+349,2024-11-15,55,F,152.1,102.1,Weight Training,114,Low,19.3,107,8.5,4,7605,3.3,19.5,73.7,122.5,81.9,Hypertension,Current,18.01
+349,2024-11-17,55,F,152.1,102.3,Weight Training,103,Medium,21.0,130,6.7,1,7636,3.0,19.5,73.7,122.5,81.9,Hypertension,Current,18.14
+349,2024-11-18,55,F,152.1,102.6,Weight Training,104,High,24.8,141,5.8,5,9205,2.9,19.5,73.7,122.5,81.9,Hypertension,Current,18.28
+349,2024-11-23,55,F,152.1,102.8,Weight Training,115,Medium,23.6,123,6.7,4,5163,2.7,19.5,73.7,122.5,81.9,Hypertension,Current,18.42
+349,2024-11-25,55,F,152.1,103.1,Weight Training,101,Medium,20.8,126,8.2,7,6361,3.3,19.5,73.7,122.5,81.9,Hypertension,Current,18.54
+349,2024-11-28,55,F,152.1,103.3,Basketball,110,Medium,30.2,122,5.8,6,11373,3.3,19.5,73.7,122.5,81.9,Hypertension,Current,18.67
+349,2024-11-30,55,F,152.1,103.6,Basketball,79,Medium,21.8,105,7.3,7,8928,2.3,19.5,73.7,122.5,81.9,Hypertension,Current,18.77

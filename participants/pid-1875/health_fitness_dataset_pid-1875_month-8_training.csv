@@ -1,0 +1,17 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+1875,2024-08-01,22,F,160.5,91.8,Tennis,70,Medium,15.6,136,7.9,9,6521,3.2,21.2,70.4,108.4,83.8,None,Current,11.47
+1875,2024-08-02,22,F,160.5,92.0,Dancing,55,Low,7.7,129,7.0,2,8560,2.9,21.2,70.4,108.4,83.8,None,Current,11.52
+1875,2024-08-03,22,F,160.5,92.3,Weight Training,96,Low,14.7,129,6.2,1,5387,2.8,21.2,70.4,108.4,83.8,None,Current,11.62
+1875,2024-08-05,22,F,160.5,92.6,Dancing,24,High,4.7,161,6.1,10,6455,1.7,21.2,70.4,108.4,83.8,None,Current,11.65
+1875,2024-08-06,22,F,160.5,92.8,Dancing,40,Medium,6.8,148,6.5,7,6016,2.2,21.2,70.4,108.4,83.8,None,Current,11.7
+1875,2024-08-09,22,F,160.5,93.1,Weight Training,26,Low,4.0,124,8.0,2,7451,2.5,21.2,70.4,108.4,83.8,None,Current,11.72
+1875,2024-08-11,22,F,160.5,93.3,Running,73,Medium,22.2,137,7.5,5,9625,2.7,21.2,70.4,108.4,83.8,None,Current,11.81
+1875,2024-08-14,22,F,160.5,93.6,HIIT,48,High,20.9,174,7.9,7,8223,3.3,21.2,70.4,108.4,83.8,None,Current,11.88
+1875,2024-08-16,22,F,160.5,93.8,HIIT,63,Medium,23.6,157,5.6,10,5845,3.1,21.2,70.4,108.4,83.8,None,Current,11.95
+1875,2024-08-17,22,F,160.5,94.1,HIIT,50,High,21.9,163,8.0,8,6078,3.1,21.2,70.4,108.4,83.8,None,Current,12.02
+1875,2024-08-18,22,F,160.5,94.4,Running,40,Medium,12.3,150,7.2,5,6887,2.8,21.2,70.4,108.4,83.8,None,Current,12.07
+1875,2024-08-21,22,F,160.5,94.6,Weight Training,60,Medium,11.3,148,7.6,3,7944,2.5,21.2,70.4,108.4,83.8,None,Current,12.14
+1875,2024-08-22,22,F,160.5,94.9,HIIT,88,Low,27.8,117,8.0,4,8130,3.4,21.2,70.4,108.4,83.8,None,Current,12.23
+1875,2024-08-28,22,F,160.5,95.1,HIIT,47,Medium,17.8,139,5.9,2,5983,3.3,21.2,70.4,108.4,83.8,None,Current,12.29
+1875,2024-08-29,22,F,160.5,95.4,Weight Training,32,Low,5.1,134,5.4,7,8479,1.6,21.2,70.4,108.4,83.8,None,Current,12.32
+1875,2024-08-31,22,F,160.5,95.6,HIIT,78,Medium,29.8,150,7.8,1,8208,1.9,21.2,70.4,108.4,83.8,None,Current,12.41

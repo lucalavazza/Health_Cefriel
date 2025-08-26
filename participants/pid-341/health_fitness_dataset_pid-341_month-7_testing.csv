@@ -1,0 +1,20 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+341,2024-07-02,43,F,160.7,89.3,Running,86,Medium,25.0,120,6.9,2,8306,1.8,20.4,65.2,117.4,80.7,None,Never,12.12
+341,2024-07-04,43,F,160.7,89.6,Running,68,Medium,19.8,138,6.9,3,8823,3.5,20.4,65.2,117.4,80.7,None,Never,12.2
+341,2024-07-06,43,F,160.7,89.8,Running,81,High,27.7,150,6.7,4,9178,3.1,20.4,65.2,117.4,80.7,None,Never,12.31
+341,2024-07-07,43,F,160.7,90.1,Weight Training,71,High,14.9,161,7.0,10,8601,3.2,20.4,65.2,117.4,80.7,None,Never,12.41
+341,2024-07-09,43,F,160.7,90.4,Weight Training,111,Medium,20.0,130,7.7,1,5421,3.3,20.4,65.2,117.4,80.7,None,Never,12.55
+341,2024-07-10,43,F,160.7,90.6,Weight Training,98,Medium,17.7,127,9.1,6,5540,2.8,20.4,65.2,117.4,80.7,None,Never,12.66
+341,2024-07-11,43,F,160.7,90.9,Weight Training,91,Medium,16.5,134,9.1,8,8017,3.1,20.4,65.2,117.4,80.7,None,Never,12.77
+341,2024-07-14,43,F,160.7,91.1,Weight Training,57,Medium,10.4,118,7.3,10,11688,1.6,20.4,65.2,117.4,80.7,None,Never,12.84
+341,2024-07-16,43,F,160.7,91.4,Weight Training,69,Medium,12.6,134,7.1,6,8732,2.7,20.4,65.2,117.4,80.7,None,Never,12.92
+341,2024-07-17,43,F,160.7,91.7,Weight Training,66,High,14.1,147,7.2,9,6442,2.2,20.4,65.2,117.4,80.7,None,Never,13.02
+341,2024-07-18,43,F,160.7,91.9,Weight Training,70,Low,10.7,123,5.1,9,8006,2.2,20.4,65.2,117.4,80.7,None,Never,13.09
+341,2024-07-20,43,F,160.7,92.2,Weight Training,110,Medium,20.2,131,6.7,8,11000,1.9,20.4,65.2,117.4,80.7,None,Never,13.22
+341,2024-07-22,43,F,160.7,92.4,Weight Training,63,Low,9.7,121,6.6,2,8156,3.0,20.4,65.2,117.4,80.7,None,Never,13.28
+341,2024-07-24,43,F,160.7,92.7,Weight Training,53,Medium,9.8,134,6.5,3,7444,2.4,20.4,65.2,117.4,80.7,None,Never,13.35
+341,2024-07-25,43,F,160.7,92.9,Swimming,108,High,27.2,152,9.1,7,6866,1.9,20.4,65.2,117.4,80.7,None,Never,13.5
+341,2024-07-26,43,F,160.7,93.2,Weight Training,37,High,8.0,147,6.5,8,6619,3.1,20.4,65.2,117.4,80.7,None,Never,13.55
+341,2024-07-27,43,F,160.7,93.5,Swimming,36,Medium,7.8,130,7.7,9,9122,3.0,20.4,65.2,117.4,80.7,None,Never,13.59
+341,2024-07-28,43,F,160.7,93.7,Weight Training,80,Low,12.5,106,7.7,3,9687,1.7,20.4,65.2,117.4,80.7,None,Never,13.67
+341,2024-07-31,43,F,160.7,94.0,Swimming,104,High,26.5,160,6.5,9,7477,1.8,20.4,65.2,117.4,80.7,None,Never,13.82

@@ -1,0 +1,16 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+92,2024-09-01,34,F,169.7,90.9,Swimming,92,Medium,19.5,150,7.7,5,7958,2.6,17.1,65.5,120.8,83.2,Hypertension,Never,13.09
+92,2024-09-03,34,F,169.7,91.2,Swimming,93,Medium,19.7,134,8.2,4,7305,1.9,17.1,65.5,120.8,83.2,Hypertension,Never,13.2
+92,2024-09-04,34,F,169.7,91.4,Walking,51,Medium,5.9,142,7.0,7,6093,2.1,17.1,65.5,120.8,83.2,Hypertension,Never,13.26
+92,2024-09-05,34,F,169.7,91.7,Swimming,47,Low,8.4,110,7.0,6,3914,2.0,17.1,65.5,120.8,83.2,Hypertension,Never,13.31
+92,2024-09-08,34,F,169.7,92.0,Walking,49,High,6.6,171,6.2,3,7064,1.6,17.1,65.5,120.8,83.2,Hypertension,Never,13.38
+92,2024-09-09,34,F,169.7,92.2,Basketball,80,High,22.9,155,6.7,2,4099,3.3,17.1,65.5,120.8,83.2,Hypertension,Never,13.49
+92,2024-09-11,34,F,169.7,92.5,Basketball,96,Medium,23.6,138,7.8,7,3619,2.7,17.1,65.5,120.8,83.2,Hypertension,Never,13.6
+92,2024-09-14,34,F,169.7,92.7,Swimming,20,Low,3.6,125,4.9,4,8024,3.1,17.1,65.5,120.8,83.2,Hypertension,Never,13.62
+92,2024-09-16,34,F,169.7,93.0,Swimming,98,Low,17.7,117,6.3,5,5252,2.6,17.1,65.5,120.8,83.2,Hypertension,Never,13.72
+92,2024-09-18,34,F,169.7,93.3,Swimming,102,High,25.8,189,7.0,8,5192,3.5,17.1,65.5,120.8,83.2,Hypertension,Never,13.87
+92,2024-09-19,34,F,169.7,93.5,Swimming,119,High,30.2,163,8.5,1,8683,3.4,17.1,65.5,120.8,83.2,Hypertension,Never,14.03
+92,2024-09-20,34,F,169.7,93.8,Tennis,109,Medium,24.8,134,6.3,1,5398,2.8,17.1,65.5,120.8,83.2,Hypertension,Never,14.16
+92,2024-09-23,34,F,169.7,94.0,Swimming,44,Medium,9.6,129,7.5,5,4440,3.4,17.1,65.5,120.8,83.2,Hypertension,Never,14.22
+92,2024-09-24,34,F,169.7,94.3,Tennis,94,Medium,21.5,132,8.1,8,5708,3.2,17.1,65.5,120.8,83.2,Hypertension,Never,14.33
+92,2024-09-27,34,F,169.7,94.5,Tennis,60,Medium,13.8,131,5.2,5,6497,1.9,17.1,65.5,120.8,83.2,Hypertension,Never,14.4

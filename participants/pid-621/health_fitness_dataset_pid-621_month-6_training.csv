@@ -1,0 +1,19 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+621,2024-06-01,48,F,159.2,73.9,Tennis,101,Medium,18.1,138,5.8,8,13175,1.7,18.6,74.1,87.5,80.3,None,Never,8.79
+621,2024-06-02,48,F,159.2,74.1,Tennis,76,Low,11.4,107,8.7,7,11211,2.7,18.6,74.1,87.5,80.3,None,Never,8.87
+621,2024-06-03,48,F,159.2,74.4,Tennis,104,Medium,18.8,123,6.2,1,9410,2.2,18.6,74.1,87.5,80.3,None,Never,8.99
+621,2024-06-04,48,F,159.2,74.7,Weight Training,88,High,15.3,153,7.0,8,9154,2.3,18.6,74.1,87.5,80.3,None,Never,9.12
+621,2024-06-05,48,F,159.2,74.9,Weight Training,71,Medium,10.6,125,6.5,1,8768,2.5,18.6,74.1,87.5,80.3,None,Never,9.2
+621,2024-06-06,48,F,159.2,75.2,Yoga,56,Medium,4.2,134,6.8,7,8318,1.5,18.6,74.1,87.5,80.3,None,Never,9.27
+621,2024-06-08,48,F,159.2,75.4,Weight Training,58,High,10.2,144,6.0,2,9195,3.1,18.6,74.1,87.5,80.3,None,Never,9.35
+621,2024-06-10,48,F,159.2,75.7,Weight Training,91,Low,11.4,105,7.6,6,7900,2.3,18.6,74.1,87.5,80.3,None,Never,9.44
+621,2024-06-13,48,F,159.2,76.0,Swimming,30,Medium,5.3,142,6.3,8,8415,1.5,18.6,74.1,87.5,80.3,None,Never,9.48
+621,2024-06-14,48,F,159.2,76.2,Weight Training,49,Low,6.2,112,7.3,7,11169,1.9,18.6,74.1,87.5,80.3,None,Never,9.53
+621,2024-06-15,48,F,159.2,76.5,Weight Training,119,Medium,18.1,134,5.0,2,9424,2.2,18.6,74.1,87.5,80.3,None,Never,9.67
+621,2024-06-16,48,F,159.2,76.7,Walking,115,Low,9.3,113,7.6,8,10372,2.4,18.6,74.1,87.5,80.3,None,Never,9.78
+621,2024-06-17,48,F,159.2,77.0,Weight Training,89,High,15.9,147,6.1,6,8220,2.8,18.6,74.1,87.5,80.3,None,Never,9.91
+621,2024-06-18,48,F,159.2,77.2,Running,36,Medium,9.1,131,4.0,1,6284,1.8,18.6,74.1,87.5,80.3,None,Never,9.95
+621,2024-06-21,48,F,159.2,77.5,Weight Training,91,Low,11.7,121,6.5,7,11449,1.8,18.6,74.1,87.5,80.3,None,Never,10.04
+621,2024-06-23,48,F,159.2,77.8,Running,102,Medium,25.8,131,8.2,5,7194,1.8,18.6,74.1,87.5,80.3,None,Never,10.17
+621,2024-06-24,48,F,159.2,78.0,Running,31,Medium,7.9,137,6.0,4,7831,3.2,18.6,74.1,87.5,80.3,None,Never,10.2
+621,2024-06-29,48,F,159.2,78.3,Running,25,Medium,6.4,138,6.0,10,9554,1.5,18.6,74.1,87.5,80.3,None,Never,10.23

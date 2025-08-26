@@ -1,0 +1,18 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+1232,2024-05-01,29,F,155.2,68.2,Cycling,118,Medium,22.7,142,7.7,9,9782,2.9,19.3,72.6,115.3,70.4,Hypertension,Never,6.95
+1232,2024-05-02,29,F,155.2,68.4,Swimming,93,Low,12.3,120,9.1,2,10138,2.0,19.3,72.6,115.3,70.4,Hypertension,Never,7.04
+1232,2024-05-03,29,F,155.2,68.7,Swimming,76,Medium,12.1,139,7.9,7,11989,3.0,19.3,72.6,115.3,70.4,Hypertension,Never,7.14
+1232,2024-05-05,29,F,155.2,68.9,Swimming,105,High,19.6,168,9.1,8,12260,3.0,19.3,72.6,115.3,70.4,Hypertension,Never,7.28
+1232,2024-05-06,29,F,155.2,69.2,Swimming,35,Medium,5.6,150,5.6,10,10956,2.0,19.3,72.6,115.3,70.4,Hypertension,Never,7.32
+1232,2024-05-10,29,F,155.2,69.5,Swimming,117,High,22.0,161,6.6,5,10005,2.0,19.3,72.6,115.3,70.4,Hypertension,Never,7.49
+1232,2024-05-12,29,F,155.2,69.7,Swimming,26,Medium,4.2,142,6.0,4,13047,2.2,19.3,72.6,115.3,70.4,Hypertension,Never,7.52
+1232,2024-05-13,29,F,155.2,70.0,Basketball,37,Medium,6.9,140,7.2,10,7282,2.3,19.3,72.6,115.3,70.4,Hypertension,Never,7.56
+1232,2024-05-14,29,F,155.2,70.2,Swimming,35,High,6.7,157,6.3,7,5928,2.2,19.3,72.6,115.3,70.4,Hypertension,Never,7.61
+1232,2024-05-17,29,F,155.2,70.5,Swimming,100,Medium,16.4,134,6.6,1,7523,2.8,19.3,72.6,115.3,70.4,Hypertension,Never,7.73
+1232,2024-05-20,29,F,155.2,70.8,Swimming,95,Medium,15.6,148,6.0,3,7966,2.2,19.3,72.6,115.3,70.4,Hypertension,Never,7.85
+1232,2024-05-21,29,F,155.2,71.0,Walking,100,Medium,9.0,161,6.1,4,8958,1.9,19.3,72.6,115.3,70.4,Hypertension,Never,7.97
+1232,2024-05-22,29,F,155.2,71.3,Weight Training,83,Medium,11.8,157,6.1,5,8757,1.7,19.3,72.6,115.3,70.4,Hypertension,Never,8.07
+1232,2024-05-24,29,F,155.2,71.5,Swimming,67,Medium,11.1,145,6.8,8,11741,2.4,19.3,72.6,115.3,70.4,Hypertension,Never,8.15
+1232,2024-05-25,29,F,155.2,71.8,Walking,79,Medium,7.2,131,6.4,1,10540,2.3,19.3,72.6,115.3,70.4,Hypertension,Never,8.24
+1232,2024-05-26,29,F,155.2,72.0,Tennis,118,Medium,20.6,147,6.6,6,10527,1.9,19.3,72.6,115.3,70.4,Hypertension,Never,8.38
+1232,2024-05-27,29,F,155.2,72.3,Walking,82,Medium,7.5,131,6.6,4,12734,3.5,19.3,72.6,115.3,70.4,Hypertension,Never,8.48

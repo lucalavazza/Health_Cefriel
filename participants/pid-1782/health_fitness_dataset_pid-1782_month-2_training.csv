@@ -1,0 +1,17 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+1782,2024-02-02,33,F,169.1,80.8,Yoga,25,Low,1.7,112,8.1,8,8720,1.8,26.5,66.3,110.9,75.8,Hypertension,Former,1.32
+1782,2024-02-05,33,F,169.1,81.1,HIIT,30,Medium,9.7,143,7.2,10,6286,2.0,26.5,66.3,110.9,75.8,Hypertension,Former,1.36
+1782,2024-02-06,33,F,169.1,81.4,HIIT,68,Medium,22.1,138,8.3,6,6383,2.9,26.5,66.3,110.9,75.8,Hypertension,Former,1.44
+1782,2024-02-07,33,F,169.1,81.6,HIIT,101,Medium,32.9,137,8.6,5,7539,3.1,26.5,66.3,110.9,75.8,Hypertension,Former,1.56
+1782,2024-02-08,33,F,169.1,81.9,HIIT,95,Medium,31.0,145,6.5,6,9963,3.1,26.5,66.3,110.9,75.8,Hypertension,Former,1.68
+1782,2024-02-09,33,F,169.1,82.1,Basketball,22,Low,4.0,129,8.5,2,8239,3.2,26.5,66.3,110.9,75.8,Hypertension,Former,1.7
+1782,2024-02-11,33,F,169.1,82.4,HIIT,61,High,23.4,163,8.2,7,12108,2.6,26.5,66.3,110.9,75.8,Hypertension,Former,1.78
+1782,2024-02-14,33,F,169.1,82.6,Basketball,82,Medium,18.0,147,6.6,3,7385,3.0,26.5,66.3,110.9,75.8,Hypertension,Former,1.88
+1782,2024-02-15,33,F,169.1,82.9,HIIT,38,Medium,12.6,120,5.9,3,9131,2.6,26.5,66.3,110.9,75.8,Hypertension,Former,1.93
+1782,2024-02-19,33,F,169.1,83.2,Basketball,91,Medium,20.1,141,7.9,9,6709,1.9,26.5,66.3,110.9,75.8,Hypertension,Former,2.04
+1782,2024-02-20,33,F,169.1,83.4,HIIT,103,Low,28.6,117,8.1,4,11391,3.3,26.5,66.3,110.9,75.8,Hypertension,Former,2.14
+1782,2024-02-21,33,F,169.1,83.7,Basketball,27,Medium,6.0,142,7.6,2,8731,2.0,26.5,66.3,110.9,75.8,Hypertension,Former,2.17
+1782,2024-02-23,33,F,169.1,83.9,Basketball,21,Medium,4.7,123,6.8,7,8002,3.4,26.5,66.3,110.9,75.8,Hypertension,Former,2.2
+1782,2024-02-24,33,F,169.1,84.2,Cycling,21,Low,4.2,110,6.8,4,11073,1.8,26.5,66.3,110.9,75.8,Hypertension,Former,2.22
+1782,2024-02-26,33,F,169.1,84.5,Cycling,39,High,10.9,162,6.3,7,11050,3.4,26.5,66.3,110.9,75.8,Hypertension,Former,2.27
+1782,2024-02-29,33,F,169.1,84.7,Cycling,87,Medium,20.8,131,8.0,6,7819,2.7,26.5,66.3,110.9,75.8,Hypertension,Former,2.38

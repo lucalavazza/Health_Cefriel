@@ -1,0 +1,18 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+305,2024-11-01,59,M,178,121.3,Yoga,98,High,13.8,142,6.1,8,7045,3.5,21.7,69.1,120.1,66.7,Hypertension,Current,16.13
+305,2024-11-02,59,M,178,121.6,Tennis,86,High,29.6,140,6.9,9,5871,1.8,21.7,69.1,120.1,66.7,Hypertension,Current,16.25
+305,2024-11-04,59,M,178,121.8,Yoga,70,High,9.9,136,6.0,5,6042,3.2,21.7,69.1,120.1,66.7,Hypertension,Current,16.35
+305,2024-11-05,59,M,178,122.1,Yoga,113,Medium,13.8,118,7.1,2,5546,1.9,21.7,69.1,120.1,66.7,Hypertension,Current,16.48
+305,2024-11-06,59,M,178,122.3,Yoga,59,Medium,7.2,129,7.3,2,8183,3.3,21.7,69.1,120.1,66.7,Hypertension,Current,16.55
+305,2024-11-08,59,M,178,122.6,Yoga,75,Low,7.6,110,7.2,7,8191,2.4,21.7,69.1,120.1,66.7,Hypertension,Current,16.63
+305,2024-11-09,59,M,178,122.9,Yoga,95,Medium,11.6,117,5.8,4,6412,2.7,21.7,69.1,120.1,66.7,Hypertension,Current,16.74
+305,2024-11-10,59,M,178,123.1,Yoga,99,Low,10.1,111,5.4,8,12003,2.8,21.7,69.1,120.1,66.7,Hypertension,Current,16.84
+305,2024-11-11,59,M,178,123.4,Yoga,102,Medium,12.6,125,7.7,10,5670,1.6,21.7,69.1,120.1,66.7,Hypertension,Current,16.96
+305,2024-11-13,59,M,178,123.6,Yoga,49,Medium,6.0,124,6.7,3,6040,2.0,21.7,69.1,120.1,66.7,Hypertension,Current,17.02
+305,2024-11-14,59,M,178,123.9,HIIT,92,High,53.1,126,7.0,7,7841,2.6,21.7,69.1,120.1,66.7,Hypertension,Current,17.15
+305,2024-11-15,59,M,178,124.2,Yoga,110,Low,11.4,108,5.9,1,6461,2.6,21.7,69.1,120.1,66.7,Hypertension,Current,17.26
+305,2024-11-17,59,M,178,124.4,Yoga,21,High,3.0,148,6.7,9,9094,2.5,21.7,69.1,120.1,66.7,Hypertension,Current,17.29
+305,2024-11-20,59,M,178,124.7,Swimming,59,Medium,17.1,133,6.9,5,6867,3.5,21.7,69.1,120.1,66.7,Hypertension,Current,17.36
+305,2024-11-25,59,M,178,124.9,Dancing,81,Low,15.4,111,7.2,4,8021,3.2,21.7,69.1,120.1,66.7,Hypertension,Current,17.44
+305,2024-11-27,59,M,178,125.2,Weight Training,61,Medium,15.2,101,5.0,4,7155,1.9,21.7,69.1,120.1,66.7,Hypertension,Current,17.51
+305,2024-11-28,59,M,178,125.4,Dancing,104,Low,19.9,102,7.9,4,6843,2.0,21.7,69.1,120.1,66.7,Hypertension,Current,17.62

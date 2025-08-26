@@ -1,0 +1,18 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+911,2024-09-01,18,M,181.4,117.5,Yoga,41,Medium,4.8,165,7.9,6,8936,1.5,23,71.1,109.8,85.6,None,Never,13.67
+911,2024-09-06,18,M,181.4,117.7,Weight Training,23,Medium,5.4,157,8.8,10,5487,2.7,23,71.1,109.8,85.6,None,Never,13.7
+911,2024-09-07,18,M,181.4,118.0,Weight Training,61,High,16.8,185,6.3,8,9603,1.9,23,71.1,109.8,85.6,None,Never,13.78
+911,2024-09-12,18,M,181.4,118.3,Weight Training,84,Low,16.5,129,7.6,4,6813,2.0,23,71.1,109.8,85.6,None,Never,13.87
+911,2024-09-13,18,M,181.4,118.5,Weight Training,78,High,21.5,172,6.9,10,6787,3.4,23,71.1,109.8,85.6,None,Never,13.97
+911,2024-09-15,18,M,181.4,118.8,Weight Training,110,High,30.4,169,8.0,6,7640,2.9,23,71.1,109.8,85.6,None,Never,14.13
+911,2024-09-16,18,M,181.4,119.0,Weight Training,106,Medium,25.2,139,7.3,2,7633,2.9,23,71.1,109.8,85.6,None,Never,14.26
+911,2024-09-17,18,M,181.4,119.3,Weight Training,114,Medium,27.1,153,7.9,5,5659,2.4,23,71.1,109.8,85.6,None,Never,14.39
+911,2024-09-20,18,M,181.4,119.5,Weight Training,89,Medium,21.2,145,7.8,2,5679,2.8,23,71.1,109.8,85.6,None,Never,14.5
+911,2024-09-21,18,M,181.4,119.8,Weight Training,37,High,10.3,199,6.8,2,6631,2.0,23,71.1,109.8,85.6,None,Never,14.55
+911,2024-09-22,18,M,181.4,120.1,Weight Training,39,Medium,9.3,151,7.8,3,5059,3.4,23,71.1,109.8,85.6,None,Never,14.6
+911,2024-09-23,18,M,181.4,120.3,Running,44,Low,14.4,138,5.3,6,8113,2.8,23,71.1,109.8,85.6,None,Never,14.64
+911,2024-09-24,18,M,181.4,120.6,Weight Training,88,Low,17.6,131,5.9,5,8120,3.4,23,71.1,109.8,85.6,None,Never,14.73
+911,2024-09-26,18,M,181.4,120.8,Cycling,78,High,31.1,165,6.2,3,7419,3.1,23,71.1,109.8,85.6,None,Never,14.84
+911,2024-09-27,18,M,181.4,121.1,Tennis,120,Medium,35.3,153,6.2,7,4480,1.9,23,71.1,109.8,85.6,None,Never,14.98
+911,2024-09-29,18,M,181.4,121.3,Tennis,81,Medium,23.9,165,6.1,2,7280,1.9,23,71.1,109.8,85.6,None,Never,15.08
+911,2024-09-30,18,M,181.4,121.6,Basketball,46,Medium,14.9,155,9.2,1,3937,1.6,23,71.1,109.8,85.6,None,Never,15.14

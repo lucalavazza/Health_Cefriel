@@ -1,0 +1,16 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+1435,2024-09-02,39,M,169.7,107.7,HIIT,73,Medium,31.4,142,7.3,6,9060,2.9,21.4,64.3,144.7,76.3,Diabetes,Former,15.56
+1435,2024-09-03,39,M,169.7,108.0,HIIT,100,High,50.3,127,8.9,7,6902,1.9,21.4,64.3,144.7,76.3,Diabetes,Former,15.7
+1435,2024-09-04,39,M,169.7,108.2,HIIT,115,Medium,49.7,134,5.7,5,4251,3.0,21.4,64.3,144.7,76.3,Diabetes,Former,15.84
+1435,2024-09-05,39,M,169.7,108.5,HIIT,59,Medium,25.5,133,8.3,7,7279,2.8,21.4,64.3,144.7,76.3,Diabetes,Former,15.91
+1435,2024-09-10,39,M,169.7,108.7,HIIT,84,Medium,36.4,130,7.8,10,5849,3.4,21.4,64.3,144.7,76.3,Diabetes,Former,16.01
+1435,2024-09-11,39,M,169.7,109.0,HIIT,65,Low,23.6,123,7.7,7,8590,3.4,21.4,64.3,144.7,76.3,Diabetes,Former,16.08
+1435,2024-09-13,39,M,169.7,109.3,Tennis,35,Low,7.7,123,6.7,2,3569,2.8,21.4,64.3,144.7,76.3,Diabetes,Former,16.11
+1435,2024-09-16,39,M,169.7,109.5,HIIT,80,Medium,35.0,131,6.9,3,6870,3.2,21.4,64.3,144.7,76.3,Diabetes,Former,16.21
+1435,2024-09-17,39,M,169.7,109.8,Tennis,104,Low,23.1,124,7.1,5,6176,3.2,21.4,64.3,144.7,76.3,Diabetes,Former,16.31
+1435,2024-09-19,39,M,169.7,110.0,HIIT,103,Medium,45.2,139,7.4,4,3657,3.1,21.4,64.3,144.7,76.3,Diabetes,Former,16.43
+1435,2024-09-22,39,M,169.7,110.3,Tennis,74,Medium,19.8,132,7.4,7,9961,1.7,21.4,64.3,144.7,76.3,Diabetes,Former,16.52
+1435,2024-09-23,39,M,169.7,110.5,Tennis,38,Medium,10.2,139,8.0,8,6325,1.9,21.4,64.3,144.7,76.3,Diabetes,Former,16.57
+1435,2024-09-25,39,M,169.7,110.8,Tennis,94,Low,21.1,121,6.8,9,6207,2.2,21.4,64.3,144.7,76.3,Diabetes,Former,16.66
+1435,2024-09-26,39,M,169.7,111.0,Tennis,28,Low,6.3,111,8.4,6,7511,2.7,21.4,64.3,144.7,76.3,Diabetes,Former,16.69
+1435,2024-09-29,39,M,169.7,111.3,Tennis,93,Medium,25.1,138,6.4,10,7312,1.6,21.4,64.3,144.7,76.3,Diabetes,Former,16.8

@@ -1,0 +1,18 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+1693,2024-10-01,33,F,163.2,86.9,Cycling,47,Low,9.6,122,9.4,7,7143,1.6,16.9,72.6,120.5,82.4,Hypertension,Current,13.15
+1693,2024-10-02,33,F,163.2,87.1,Cycling,98,Low,20.1,120,8.2,2,7894,2.7,16.9,72.6,120.5,82.4,Hypertension,Current,13.25
+1693,2024-10-03,33,F,163.2,87.4,Cycling,69,Medium,17.0,142,7.3,6,6223,2.6,16.9,72.6,120.5,82.4,Hypertension,Current,13.33
+1693,2024-10-04,33,F,163.2,87.6,Cycling,76,Low,15.7,127,7.4,4,6350,2.6,16.9,72.6,120.5,82.4,Hypertension,Current,13.41
+1693,2024-10-05,33,F,163.2,87.9,Cycling,57,Low,11.8,128,5.6,6,6026,3.0,16.9,72.6,120.5,82.4,Hypertension,Current,13.46
+1693,2024-10-06,33,F,163.2,88.2,Cycling,75,Low,15.6,117,6.1,1,8866,2.6,16.9,72.6,120.5,82.4,Hypertension,Current,13.54
+1693,2024-10-10,33,F,163.2,88.4,Cycling,26,Medium,6.5,142,6.0,5,6826,1.9,16.9,72.6,120.5,82.4,Hypertension,Current,13.57
+1693,2024-10-13,33,F,163.2,88.7,Cycling,103,Low,21.5,119,7.0,5,7398,1.7,16.9,72.6,120.5,82.4,Hypertension,Current,13.67
+1693,2024-10-15,33,F,163.2,88.9,Cycling,54,Low,11.3,121,5.7,9,7042,2.5,16.9,72.6,120.5,82.4,Hypertension,Current,13.73
+1693,2024-10-16,33,F,163.2,89.2,Dancing,59,Medium,9.6,146,9.0,10,6081,2.7,16.9,72.6,120.5,82.4,Hypertension,Current,13.8
+1693,2024-10-19,33,F,163.2,89.4,Cycling,50,High,14.7,155,6.6,2,8257,3.2,16.9,72.6,120.5,82.4,Hypertension,Current,13.87
+1693,2024-10-20,33,F,163.2,89.7,Cycling,74,Medium,18.8,138,5.7,8,7114,2.3,16.9,72.6,120.5,82.4,Hypertension,Current,13.96
+1693,2024-10-22,33,F,163.2,90.0,Dancing,44,Low,6.0,120,6.2,5,6266,2.9,16.9,72.6,120.5,82.4,Hypertension,Current,14.0
+1693,2024-10-23,33,F,163.2,90.2,Tennis,92,High,23.5,164,7.3,3,6048,2.6,16.9,72.6,120.5,82.4,Hypertension,Current,14.13
+1693,2024-10-24,33,F,163.2,90.5,Swimming,48,Low,8.4,115,7.3,7,4947,1.6,16.9,72.6,120.5,82.4,Hypertension,Current,14.18
+1693,2024-10-27,33,F,163.2,90.7,Tennis,74,Medium,16.3,134,7.9,1,10458,2.2,16.9,72.6,120.5,82.4,Hypertension,Current,14.27
+1693,2024-10-29,33,F,163.2,91.0,Weight Training,49,Medium,8.9,127,8.4,6,5520,2.8,16.9,72.6,120.5,82.4,Hypertension,Current,14.33

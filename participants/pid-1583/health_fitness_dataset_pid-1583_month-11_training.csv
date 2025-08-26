@@ -1,0 +1,17 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+1583,2024-11-01,55,F,162.4,119.4,Tennis,59,Medium,17.1,124,6.3,1,8903,1.5,25.9,70,111,81.6,None,Former,15.62
+1583,2024-11-02,55,F,162.4,119.7,Dancing,109,High,27.8,134,7.4,6,7389,2.1,25.9,70,111,81.6,None,Former,15.77
+1583,2024-11-03,55,F,162.4,120.0,Dancing,119,Low,21.8,105,8.7,1,7007,2.1,25.9,70,111,81.6,None,Former,15.89
+1583,2024-11-05,55,F,162.4,120.2,Tennis,26,Medium,7.6,120,7.0,1,6393,1.9,25.9,70,111,81.6,None,Former,15.92
+1583,2024-11-09,55,F,162.4,120.5,Tennis,56,Medium,16.4,130,6.1,8,9799,2.3,25.9,70,111,81.6,None,Former,15.99
+1583,2024-11-10,55,F,162.4,120.7,Tennis,47,Medium,13.8,115,6.2,1,6947,2.1,25.9,70,111,81.6,None,Former,16.05
+1583,2024-11-14,55,F,162.4,121.0,Tennis,105,Low,25.7,113,6.3,8,9066,2.0,25.9,70,111,81.6,None,Former,16.15
+1583,2024-11-16,55,F,162.4,121.2,Tennis,49,High,16.8,150,7.8,9,5484,2.2,25.9,70,111,81.6,None,Former,16.22
+1583,2024-11-17,55,F,162.4,121.5,Tennis,87,Low,21.4,103,7.1,1,8087,2.4,25.9,70,111,81.6,None,Former,16.31
+1583,2024-11-19,55,F,162.4,121.8,Dancing,71,Low,13.2,110,7.2,2,7233,2.3,25.9,70,111,81.6,None,Former,16.38
+1583,2024-11-20,55,F,162.4,122.0,Weight Training,90,Low,18.3,110,8.1,5,9263,1.7,25.9,70,111,81.6,None,Former,16.47
+1583,2024-11-21,55,F,162.4,122.3,Weight Training,66,Medium,16.1,126,8.0,3,6582,3.2,25.9,70,111,81.6,None,Former,16.55
+1583,2024-11-22,55,F,162.4,122.5,Dancing,105,High,27.5,131,6.6,4,9876,2.9,25.9,70,111,81.6,None,Former,16.7
+1583,2024-11-27,55,F,162.4,122.8,Dancing,66,Medium,14.8,126,7.8,3,8789,2.0,25.9,70,111,81.6,None,Former,16.77
+1583,2024-11-29,55,F,162.4,123.1,Dancing,66,Low,12.4,100,7.5,8,5824,3.3,25.9,70,111,81.6,None,Former,16.84
+1583,2024-11-30,55,F,162.4,123.3,Swimming,45,Medium,12.9,119,6.7,7,6276,2.3,25.9,70,111,81.6,None,Former,16.89

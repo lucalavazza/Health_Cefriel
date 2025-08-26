@@ -1,0 +1,18 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+1302,2024-12-01,64,M,176.7,125.3,Weight Training,54,Medium,13.5,110,7.2,6,9075,2.5,21.9,72.7,132,80.1,Asthma,Current,17.64
+1302,2024-12-02,64,M,176.7,125.6,HIIT,64,High,37.4,145,7.2,4,7562,1.8,21.9,72.7,132,80.1,Asthma,Current,17.73
+1302,2024-12-03,64,M,176.7,125.9,HIIT,74,Low,31.0,104,7.5,3,6348,1.6,21.9,72.7,132,80.1,Asthma,Current,17.81
+1302,2024-12-05,64,M,176.7,126.1,HIIT,76,Medium,38.3,124,6.4,6,6985,2.9,21.9,72.7,132,80.1,Asthma,Current,17.9
+1302,2024-12-08,64,M,176.7,126.4,HIIT,57,Medium,28.8,125,7.7,3,9297,2.3,21.9,72.7,132,80.1,Asthma,Current,17.97
+1302,2024-12-09,64,M,176.7,126.6,Walking,76,Medium,12.2,114,7.5,5,8596,3.3,21.9,72.7,132,80.1,Asthma,Current,18.06
+1302,2024-12-11,64,M,176.7,126.9,HIIT,99,Medium,50.1,119,7.2,8,7634,3.1,21.9,72.7,132,80.1,Asthma,Current,18.18
+1302,2024-12-13,64,M,176.7,127.1,Walking,35,Low,4.7,104,7.3,2,7163,1.7,21.9,72.7,132,80.1,Asthma,Current,18.21
+1302,2024-12-14,64,M,176.7,127.4,Yoga,25,Medium,3.2,118,7.1,7,7166,3.2,21.9,72.7,132,80.1,Asthma,Current,18.24
+1302,2024-12-15,64,M,176.7,127.7,Weight Training,53,Low,11.3,104,6.9,9,8777,1.6,21.9,72.7,132,80.1,Asthma,Current,18.3
+1302,2024-12-17,64,M,176.7,127.9,Basketball,20,High,7.9,136,7.6,3,7083,2.9,21.9,72.7,132,80.1,Asthma,Current,18.32
+1302,2024-12-19,64,M,176.7,128.2,Basketball,42,Low,11.9,102,9.2,4,9020,2.1,21.9,72.7,132,80.1,Asthma,Current,18.37
+1302,2024-12-20,64,M,176.7,128.4,Basketball,87,Medium,29.7,110,6.9,8,6472,1.9,21.9,72.7,132,80.1,Asthma,Current,18.47
+1302,2024-12-21,64,M,176.7,128.7,Basketball,41,Medium,14.0,139,7.5,5,8861,2.9,21.9,72.7,132,80.1,Asthma,Current,18.52
+1302,2024-12-22,64,M,176.7,128.9,Basketball,26,Low,7.4,101,6.4,6,7154,2.1,21.9,72.7,132,80.1,Asthma,Current,18.55
+1302,2024-12-24,64,M,176.7,129.2,Basketball,114,Medium,39.2,119,8.4,6,5883,1.9,21.9,72.7,132,80.1,Asthma,Current,18.68
+1302,2024-12-25,64,M,176.7,129.5,Basketball,76,Medium,26.2,129,6.8,6,10271,3.4,21.9,72.7,132,80.1,Asthma,Current,18.77

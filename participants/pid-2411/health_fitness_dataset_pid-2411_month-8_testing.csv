@@ -1,0 +1,16 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+2411,2024-08-01,25,M,163.1,107.1,Tennis,113,Medium,29.4,139,9.8,3,8821,2.8,25.1,77.1,117.2,62.2,Hypertension,Never,13.19
+2411,2024-08-03,25,M,163.1,107.3,Tennis,41,Low,8.9,130,7.9,1,8480,1.7,25.1,77.1,117.2,62.2,Hypertension,Never,13.23
+2411,2024-08-05,25,M,163.1,107.6,Weight Training,47,Medium,10.1,148,6.8,9,5977,2.2,25.1,77.1,117.2,62.2,Hypertension,Never,13.29
+2411,2024-08-08,25,M,163.1,107.9,Weight Training,112,Low,20.1,126,6.4,8,8617,1.5,25.1,77.1,117.2,62.2,Hypertension,Never,13.4
+2411,2024-08-09,25,M,163.1,108.1,Walking,23,High,3.7,167,6.4,9,6728,2.5,25.1,77.1,117.2,62.2,Hypertension,Never,13.43
+2411,2024-08-14,25,M,163.1,108.4,Swimming,43,Low,9.0,124,6.4,5,6530,2.3,25.1,77.1,117.2,62.2,Hypertension,Never,13.48
+2411,2024-08-17,25,M,163.1,108.6,HIIT,40,High,20.2,176,8.5,8,6389,3.0,25.1,77.1,117.2,62.2,Hypertension,Never,13.53
+2411,2024-08-20,25,M,163.1,108.9,Swimming,37,Medium,9.4,146,7.1,8,4648,2.8,25.1,77.1,117.2,62.2,Hypertension,Never,13.58
+2411,2024-08-21,25,M,163.1,109.1,Swimming,57,High,16.9,157,6.0,1,5067,2.8,25.1,77.1,117.2,62.2,Hypertension,Never,13.66
+2411,2024-08-22,25,M,163.1,109.4,Swimming,62,High,18.4,164,7.4,2,6988,2.5,25.1,77.1,117.2,62.2,Hypertension,Never,13.74
+2411,2024-08-23,25,M,163.1,109.7,Cycling,58,Low,15.0,134,5.8,6,6222,1.7,25.1,77.1,117.2,62.2,Hypertension,Never,13.8
+2411,2024-08-25,25,M,163.1,109.9,Swimming,31,Low,6.6,132,7.9,6,8050,2.6,25.1,77.1,117.2,62.2,Hypertension,Never,13.83
+2411,2024-08-28,25,M,163.1,110.2,Cycling,25,Medium,7.8,147,6.4,7,5919,2.7,25.1,77.1,117.2,62.2,Hypertension,Never,13.86
+2411,2024-08-29,25,M,163.1,110.4,Dancing,82,Medium,16.6,146,7.0,10,7973,2.0,25.1,77.1,117.2,62.2,Hypertension,Never,13.96
+2411,2024-08-30,25,M,163.1,110.7,Swimming,49,Low,10.5,122,7.1,2,5344,2.0,25.1,77.1,117.2,62.2,Hypertension,Never,14.01

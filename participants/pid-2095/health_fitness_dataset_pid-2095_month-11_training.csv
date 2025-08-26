@@ -1,0 +1,17 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+2095,2024-11-02,57,M,183.3,128.2,Dancing,41,High,11.2,143,7.6,6,9512,2.2,22.2,71.1,118.7,79.8,None,Former,17.03
+2095,2024-11-07,57,M,183.3,128.4,HIIT,68,Medium,34.9,119,5.3,2,6812,2.4,22.2,71.1,118.7,79.8,None,Former,17.11
+2095,2024-11-08,57,M,183.3,128.7,Dancing,20,Medium,4.7,103,9.4,6,7791,2.0,22.2,71.1,118.7,79.8,None,Former,17.14
+2095,2024-11-09,57,M,183.3,129.0,Weight Training,37,Medium,9.5,119,7.6,3,8723,2.2,22.2,71.1,118.7,79.8,None,Former,17.18
+2095,2024-11-10,57,M,183.3,129.2,Dancing,107,Low,21.1,96,7.5,6,8578,1.5,22.2,71.1,118.7,79.8,None,Former,17.29
+2095,2024-11-12,57,M,183.3,129.5,Weight Training,114,Medium,29.5,111,8.7,7,8006,3.4,22.2,71.1,118.7,79.8,None,Former,17.43
+2095,2024-11-13,57,M,183.3,129.7,Dancing,88,Low,17.4,110,6.5,2,7858,1.7,22.2,71.1,118.7,79.8,None,Former,17.51
+2095,2024-11-14,57,M,183.3,130.0,Dancing,33,High,9.2,140,6.8,10,7894,1.7,22.2,71.1,118.7,79.8,None,Former,17.56
+2095,2024-11-15,57,M,183.3,130.2,Weight Training,110,High,33.4,142,6.7,10,8028,1.9,22.2,71.1,118.7,79.8,None,Former,17.71
+2095,2024-11-16,57,M,183.3,130.5,Dancing,60,Medium,14.3,122,7.4,3,6401,2.3,22.2,71.1,118.7,79.8,None,Former,17.79
+2095,2024-11-17,57,M,183.3,130.7,Dancing,104,High,29.0,130,7.9,4,7610,3.1,22.2,71.1,118.7,79.8,None,Former,17.93
+2095,2024-11-19,57,M,183.3,131.0,Weight Training,119,Low,25.9,106,6.4,6,6041,2.8,22.2,71.1,118.7,79.8,None,Former,18.05
+2095,2024-11-23,57,M,183.3,131.3,Weight Training,32,Medium,8.4,100,6.3,5,10323,1.8,22.2,71.1,118.7,79.8,None,Former,18.09
+2095,2024-11-26,57,M,183.3,131.5,Weight Training,81,Low,17.7,108,6.0,6,6051,2.5,22.2,71.1,118.7,79.8,None,Former,18.17
+2095,2024-11-27,57,M,183.3,131.8,HIIT,93,High,57.1,134,7.1,2,7040,3.0,22.2,71.1,118.7,79.8,None,Former,18.3
+2095,2024-11-28,57,M,183.3,132.0,HIIT,90,Medium,47.4,127,9.4,6,8704,3.1,22.2,71.1,118.7,79.8,None,Former,18.41

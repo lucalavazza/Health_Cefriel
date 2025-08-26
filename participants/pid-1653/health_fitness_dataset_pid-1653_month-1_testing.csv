@@ -1,0 +1,19 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+1653,2024-01-01,58,M,182.8,73.4,Yoga,26,Low,1.6,100,7.1,4,8161,2.6,21.9,72,114.3,69.8,Diabetes,Current,0.03
+1653,2024-01-02,58,M,182.8,73.6,Yoga,59,Medium,4.3,123,7.1,6,7515,2.0,21.9,72,114.3,69.8,Diabetes,Current,0.1
+1653,2024-01-03,58,M,182.8,73.9,Yoga,98,Medium,7.2,129,7.9,1,7497,2.8,21.9,72,114.3,69.8,Diabetes,Current,0.21
+1653,2024-01-08,58,M,182.8,74.2,Yoga,23,Medium,1.7,117,8.1,1,9927,3.1,21.9,72,114.3,69.8,Diabetes,Current,0.24
+1653,2024-01-09,58,M,182.8,74.4,Weight Training,74,Medium,11.0,122,7.1,5,7976,3.4,21.9,72,114.3,69.8,Diabetes,Current,0.33
+1653,2024-01-10,58,M,182.8,74.7,Weight Training,47,Medium,7.0,124,6.0,8,8851,2.4,21.9,72,114.3,69.8,Diabetes,Current,0.39
+1653,2024-01-11,58,M,182.8,74.9,Weight Training,61,Medium,9.1,128,6.6,9,10347,2.7,21.9,72,114.3,69.8,Diabetes,Current,0.46
+1653,2024-01-13,58,M,182.8,75.2,Weight Training,84,Medium,12.6,117,6.7,7,10728,3.0,21.9,72,114.3,69.8,Diabetes,Current,0.56
+1653,2024-01-14,58,M,182.8,75.5,Weight Training,99,Low,12.4,113,5.8,4,10596,3.2,21.9,72,114.3,69.8,Diabetes,Current,0.66
+1653,2024-01-17,58,M,182.8,75.7,Weight Training,118,Medium,17.8,119,5.3,3,10191,1.6,21.9,72,114.3,69.8,Diabetes,Current,0.8
+1653,2024-01-18,58,M,182.8,76.0,Weight Training,104,High,18.4,136,6.5,10,8816,2.4,21.9,72,114.3,69.8,Diabetes,Current,0.95
+1653,2024-01-19,58,M,182.8,76.2,Walking,107,Medium,10.3,120,9.1,5,9424,1.8,21.9,72,114.3,69.8,Diabetes,Current,1.08
+1653,2024-01-26,58,M,182.8,76.5,Walking,65,Medium,6.3,126,7.7,7,11362,2.0,21.9,72,114.3,69.8,Diabetes,Current,1.15
+1653,2024-01-27,58,M,182.8,76.7,Weight Training,28,Medium,4.3,121,8.2,8,11771,2.9,21.9,72,114.3,69.8,Diabetes,Current,1.19
+1653,2024-01-28,58,M,182.8,77.0,Swimming,22,Low,3.3,107,7.3,8,8542,2.4,21.9,72,114.3,69.8,Diabetes,Current,1.21
+1653,2024-01-29,58,M,182.8,77.3,Yoga,23,Medium,1.8,128,8.0,1,6792,1.5,21.9,72,114.3,69.8,Diabetes,Current,1.24
+1653,2024-01-30,58,M,182.8,77.5,Weight Training,89,Medium,13.8,137,6.9,3,8282,1.9,21.9,72,114.3,69.8,Diabetes,Current,1.34
+1653,2024-01-31,58,M,182.8,77.8,Weight Training,113,Low,14.6,104,7.7,1,9179,3.4,21.9,72,114.3,69.8,Diabetes,Current,1.46

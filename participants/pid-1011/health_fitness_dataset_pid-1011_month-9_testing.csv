@@ -1,0 +1,16 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+1011,2024-09-04,31,F,162.6,90.2,Swimming,105,Medium,22.0,139,7.3,5,4593,2.2,17.7,65,127.6,89.2,Hypertension,Never,14.3
+1011,2024-09-05,31,F,162.6,90.5,Cycling,27,Medium,6.9,135,7.6,4,7050,3.2,17.7,65,127.6,89.2,Hypertension,Never,14.34
+1011,2024-09-06,31,F,162.6,90.8,Swimming,65,High,16.0,158,6.4,3,6544,3.2,17.7,65,127.6,89.2,Hypertension,Never,14.43
+1011,2024-09-07,31,F,162.6,91.0,Yoga,99,Low,7.5,130,6.7,5,6826,2.9,17.7,65,127.6,89.2,Hypertension,Never,14.53
+1011,2024-09-09,31,F,162.6,91.3,Yoga,95,Medium,8.6,135,7.6,6,3764,2.4,17.7,65,127.6,89.2,Hypertension,Never,14.64
+1011,2024-09-10,31,F,162.6,91.5,Yoga,100,Medium,9.1,148,7.7,3,6459,2.1,17.7,65,127.6,89.2,Hypertension,Never,14.76
+1011,2024-09-12,31,F,162.6,91.8,Yoga,99,Medium,9.1,145,7.7,5,6652,2.5,17.7,65,127.6,89.2,Hypertension,Never,14.88
+1011,2024-09-15,31,F,162.6,92.0,Yoga,56,Medium,5.1,148,7.1,8,4224,3.5,17.7,65,127.6,89.2,Hypertension,Never,14.95
+1011,2024-09-17,31,F,162.6,92.3,Yoga,119,Medium,11.0,156,7.8,1,7970,3.2,17.7,65,127.6,89.2,Hypertension,Never,15.09
+1011,2024-09-19,31,F,162.6,92.6,Yoga,46,High,5.0,166,5.5,1,6595,1.9,17.7,65,127.6,89.2,Hypertension,Never,15.15
+1011,2024-09-21,31,F,162.6,92.8,Yoga,85,Medium,7.9,141,6.5,7,6148,3.3,17.7,65,127.6,89.2,Hypertension,Never,15.26
+1011,2024-09-22,31,F,162.6,93.1,Weight Training,99,Medium,18.4,143,6.6,2,7502,2.2,17.7,65,127.6,89.2,Hypertension,Never,15.38
+1011,2024-09-26,31,F,162.6,93.3,Yoga,92,Medium,8.6,139,6.7,10,5210,3.4,17.7,65,127.6,89.2,Hypertension,Never,15.49
+1011,2024-09-27,31,F,162.6,93.6,Yoga,76,Low,5.9,125,7.4,2,3288,2.2,17.7,65,127.6,89.2,Hypertension,Never,15.56
+1011,2024-09-29,31,F,162.6,93.9,Cycling,83,Medium,22.0,139,6.4,2,7719,3.4,17.7,65,127.6,89.2,Hypertension,Never,15.66

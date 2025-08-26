@@ -1,0 +1,19 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+2145,2024-08-04,63,M,181.7,112.1,Running,91,Low,27.7,97,5.1,5,6448,1.9,22.2,73,108,85.4,None,Former,12.55
+2145,2024-08-05,63,M,181.7,112.3,HIIT,114,Medium,51.1,117,6.6,2,9438,3.1,22.2,73,108,85.4,None,Former,12.69
+2145,2024-08-06,63,M,181.7,112.6,HIIT,94,Low,35.2,104,6.1,8,6244,2.0,22.2,73,108,85.4,None,Former,12.78
+2145,2024-08-07,63,M,181.7,112.8,Weight Training,98,Low,18.4,109,8.2,4,9389,3.0,22.2,73,108,85.4,None,Former,12.88
+2145,2024-08-12,63,M,181.7,113.1,Weight Training,64,Medium,14.4,131,8.5,2,8092,2.7,22.2,73,108,85.4,None,Former,12.96
+2145,2024-08-14,63,M,181.7,113.3,HIIT,90,Low,33.9,95,6.6,2,7276,2.1,22.2,73,108,85.4,None,Former,13.05
+2145,2024-08-15,63,M,181.7,113.6,Weight Training,119,Medium,27.0,125,7.3,7,5355,2.0,22.2,73,108,85.4,None,Former,13.19
+2145,2024-08-16,63,M,181.7,113.9,HIIT,39,Medium,17.7,115,6.0,8,4919,2.3,22.2,73,108,85.4,None,Former,13.24
+2145,2024-08-17,63,M,181.7,114.1,HIIT,68,Medium,31.0,113,7.3,7,10965,2.3,22.2,73,108,85.4,None,Former,13.32
+2145,2024-08-20,63,M,181.7,114.4,Weight Training,23,Low,4.4,102,6.0,1,3644,2.4,22.2,73,108,85.4,None,Former,13.34
+2145,2024-08-22,63,M,181.7,114.6,Weight Training,89,Medium,20.4,112,7.3,7,5028,1.5,22.2,73,108,85.4,None,Former,13.45
+2145,2024-08-23,63,M,181.7,114.9,Weight Training,70,Medium,16.0,116,8.4,8,6237,3.2,22.2,73,108,85.4,None,Former,13.53
+2145,2024-08-24,63,M,181.7,115.1,Swimming,55,Medium,14.7,121,5.4,9,8758,1.7,22.2,73,108,85.4,None,Former,13.6
+2145,2024-08-25,63,M,181.7,115.4,Swimming,62,Medium,16.7,142,9.0,3,7615,2.2,22.2,73,108,85.4,None,Former,13.67
+2145,2024-08-27,63,M,181.7,115.7,Running,30,High,13.2,149,5.5,7,8923,1.9,22.2,73,108,85.4,None,Former,13.72
+2145,2024-08-28,63,M,181.7,115.9,Weight Training,92,Medium,21.3,113,7.6,1,9514,2.8,22.2,73,108,85.4,None,Former,13.83
+2145,2024-08-29,63,M,181.7,116.2,Tennis,99,Medium,27.9,115,8.1,1,5567,3.3,22.2,73,108,85.4,None,Former,13.94
+2145,2024-08-30,63,M,181.7,116.4,Dancing,34,High,8.4,119,6.7,8,7298,3.3,22.2,73,108,85.4,None,Former,13.99

@@ -1,0 +1,17 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+1239,2024-11-01,33,F,169.8,103.0,Running,27,Medium,9.1,135,5.8,9,8278,3.2,18.4,65.4,118.5,71,None,Current,16.37
+1239,2024-11-02,33,F,169.8,103.3,Cycling,41,Medium,12.0,132,8.2,7,7273,3.3,18.4,65.4,118.5,71,None,Current,16.42
+1239,2024-11-03,33,F,169.8,103.5,Running,78,Low,21.9,121,6.0,2,9325,3.1,18.4,65.4,118.5,71,None,Current,16.5
+1239,2024-11-05,33,F,169.8,103.8,Cycling,28,Medium,8.2,144,7.5,7,7379,1.8,18.4,65.4,118.5,71,None,Current,16.53
+1239,2024-11-06,33,F,169.8,104.0,Running,80,Low,22.6,118,8.6,8,7481,1.6,18.4,65.4,118.5,71,None,Current,16.61
+1239,2024-11-07,33,F,169.8,104.3,Cycling,30,Medium,8.8,151,6.7,10,6532,2.6,18.4,65.4,118.5,71,None,Current,16.65
+1239,2024-11-09,33,F,169.8,104.6,Yoga,84,High,10.2,146,5.9,7,4585,2.5,18.4,65.4,118.5,71,None,Current,16.77
+1239,2024-11-13,33,F,169.8,104.8,Running,50,Medium,17.1,128,6.8,8,7274,1.7,18.4,65.4,118.5,71,None,Current,16.83
+1239,2024-11-15,33,F,169.8,105.1,Running,95,High,38.0,158,5.5,7,5175,2.5,18.4,65.4,118.5,71,None,Current,16.96
+1239,2024-11-19,33,F,169.8,105.3,Running,74,Low,21.2,121,6.7,9,7091,3.4,18.4,65.4,118.5,71,None,Current,17.03
+1239,2024-11-22,33,F,169.8,105.6,Running,81,Medium,27.9,134,6.7,8,7885,2.4,18.4,65.4,118.5,71,None,Current,17.13
+1239,2024-11-24,33,F,169.8,105.8,Walking,57,Medium,7.6,146,6.3,7,8324,2.8,18.4,65.4,118.5,71,None,Current,17.2
+1239,2024-11-27,33,F,169.8,106.1,Weight Training,34,Medium,7.2,128,7.4,4,8557,2.6,18.4,65.4,118.5,71,None,Current,17.24
+1239,2024-11-28,33,F,169.8,106.4,Walking,79,High,12.4,153,6.8,8,6150,2.5,18.4,65.4,118.5,71,None,Current,17.35
+1239,2024-11-29,33,F,169.8,106.6,Weight Training,79,Medium,16.8,133,6.9,10,6009,2.3,18.4,65.4,118.5,71,None,Current,17.45
+1239,2024-11-30,33,F,169.8,106.9,Yoga,75,High,9.3,159,8.3,8,7868,2.2,18.4,65.4,118.5,71,None,Current,17.55

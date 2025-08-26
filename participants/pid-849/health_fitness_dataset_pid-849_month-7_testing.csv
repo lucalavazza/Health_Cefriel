@@ -1,0 +1,19 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+849,2024-07-01,28,M,178.2,99.1,Tennis,89,Medium,21.4,149,8.1,4,8754,2.9,20.2,74.5,108.1,76,None,Current,11.04
+849,2024-07-03,28,M,178.2,99.4,Weight Training,60,Medium,11.9,151,6.1,10,8328,2.3,20.2,74.5,108.1,76,None,Current,11.11
+849,2024-07-04,28,M,178.2,99.7,Weight Training,117,High,27.1,178,7.2,5,8897,2.0,20.2,74.5,108.1,76,None,Current,11.27
+849,2024-07-05,28,M,178.2,99.9,Weight Training,34,High,7.9,155,6.1,1,9699,1.6,20.2,74.5,108.1,76,None,Current,11.32
+849,2024-07-08,28,M,178.2,100.2,Running,113,Low,30.7,121,6.7,3,5257,3.4,20.2,74.5,108.1,76,None,Current,11.43
+849,2024-07-09,28,M,178.2,100.4,Weight Training,110,Medium,22.0,131,6.6,6,6325,3.4,20.2,74.5,108.1,76,None,Current,11.56
+849,2024-07-10,28,M,178.2,100.7,Running,23,High,8.8,178,7.6,6,7745,2.6,20.2,74.5,108.1,76,None,Current,11.6
+849,2024-07-12,28,M,178.2,100.9,Running,84,Low,23.0,122,6.5,5,5819,1.8,20.2,74.5,108.1,76,None,Current,11.68
+849,2024-07-16,28,M,178.2,101.2,Running,49,Medium,16.2,156,7.1,8,5250,1.8,20.2,74.5,108.1,76,None,Current,11.74
+849,2024-07-18,28,M,178.2,101.5,Running,117,Medium,38.7,142,6.5,6,6813,2.1,20.2,74.5,108.1,76,None,Current,11.88
+849,2024-07-19,28,M,178.2,101.7,Running,21,High,8.1,142,7.1,7,8410,3.3,20.2,74.5,108.1,76,None,Current,11.91
+849,2024-07-21,28,M,178.2,102.0,Running,114,Medium,37.9,146,7.0,7,9086,2.8,20.2,74.5,108.1,76,None,Current,12.05
+849,2024-07-23,28,M,178.2,102.2,Basketball,118,High,37.4,162,7.7,5,7218,3.4,20.2,74.5,108.1,76,None,Current,12.21
+849,2024-07-24,28,M,178.2,102.5,Yoga,85,Medium,8.7,139,7.4,7,5875,2.9,20.2,74.5,108.1,76,None,Current,12.31
+849,2024-07-26,28,M,178.2,102.7,Running,84,Low,23.4,127,8.3,10,6912,1.8,20.2,74.5,108.1,76,None,Current,12.4
+849,2024-07-27,28,M,178.2,103.0,Yoga,38,Medium,3.9,149,7.1,5,6501,1.6,20.2,74.5,108.1,76,None,Current,12.44
+849,2024-07-28,28,M,178.2,103.3,Yoga,65,Medium,6.7,131,6.6,4,6205,2.5,20.2,74.5,108.1,76,None,Current,12.52
+849,2024-07-29,28,M,178.2,103.5,Running,63,Medium,21.3,147,7.5,9,4910,2.9,20.2,74.5,108.1,76,None,Current,12.6

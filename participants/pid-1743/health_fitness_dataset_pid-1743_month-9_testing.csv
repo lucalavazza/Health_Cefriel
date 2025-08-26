@@ -1,0 +1,17 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+1743,2024-09-02,54,M,176.9,123.2,HIIT,68,High,39.0,152,9.5,6,6705,1.8,27,78.6,107.9,82.2,None,Former,11.94
+1743,2024-09-05,54,M,176.9,123.5,Weight Training,119,Medium,29.3,117,5.8,2,8323,2.9,27,78.6,107.9,82.2,None,Former,12.08
+1743,2024-09-07,54,M,176.9,123.8,Walking,42,Low,5.5,112,8.9,7,6780,2.4,27,78.6,107.9,82.2,None,Former,12.12
+1743,2024-09-08,54,M,176.9,124.0,Weight Training,38,Low,7.8,107,6.2,1,6693,3.2,27,78.6,107.9,82.2,None,Former,12.16
+1743,2024-09-10,54,M,176.9,124.3,Walking,65,Low,8.5,105,8.0,8,5512,3.1,27,78.6,107.9,82.2,None,Former,12.23
+1743,2024-09-13,54,M,176.9,124.5,Weight Training,39,Low,8.1,111,7.1,4,7238,3.4,27,78.6,107.9,82.2,None,Former,12.27
+1743,2024-09-15,54,M,176.9,124.8,Walking,120,Medium,18.9,128,5.8,4,9356,3.2,27,78.6,107.9,82.2,None,Former,12.41
+1743,2024-09-17,54,M,176.9,125.1,Weight Training,73,Medium,18.2,126,8.3,5,5721,2.3,27,78.6,107.9,82.2,None,Former,12.5
+1743,2024-09-18,54,M,176.9,125.3,Walking,86,Medium,13.6,129,6.7,5,6133,2.7,27,78.6,107.9,82.2,None,Former,12.6
+1743,2024-09-20,54,M,176.9,125.6,Weight Training,73,Medium,18.3,133,7.5,9,6524,1.7,27,78.6,107.9,82.2,None,Former,12.69
+1743,2024-09-21,54,M,176.9,125.8,Walking,22,Medium,3.5,131,5.1,2,9589,2.1,27,78.6,107.9,82.2,None,Former,12.71
+1743,2024-09-22,54,M,176.9,126.1,Weight Training,36,Medium,9.1,126,6.1,9,10613,3.1,27,78.6,107.9,82.2,None,Former,12.76
+1743,2024-09-24,54,M,176.9,126.3,Walking,76,High,14.2,135,7.1,5,5584,2.1,27,78.6,107.9,82.2,None,Former,12.86
+1743,2024-09-25,54,M,176.9,126.6,Walking,55,Medium,8.8,137,6.9,6,5417,3.5,27,78.6,107.9,82.2,None,Former,12.93
+1743,2024-09-29,54,M,176.9,126.9,Weight Training,37,Low,7.8,97,8.0,2,6494,2.0,27,78.6,107.9,82.2,None,Former,12.97
+1743,2024-09-30,54,M,176.9,127.1,Walking,28,Medium,4.5,124,5.8,6,6290,3.2,27,78.6,107.9,82.2,None,Former,13.0

@@ -1,0 +1,26 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+769,2024-01-01,49,M,173,70.2,Weight Training,49,Medium,6.9,136,6.3,8,7671,2.4,23.4,70.7,108.4,90.1,None,Current,0.06
+769,2024-01-03,49,M,173,70.5,Weight Training,31,High,5.1,157,7.2,3,5742,1.8,23.4,70.7,108.4,90.1,None,Current,0.1
+769,2024-01-06,49,M,173,70.7,Weight Training,70,Medium,9.9,131,8.2,4,10710,2.1,23.4,70.7,108.4,90.1,None,Current,0.19
+769,2024-01-08,49,M,173,71.0,Weight Training,81,Low,9.5,113,5.2,7,5882,1.8,23.4,70.7,108.4,90.1,None,Current,0.27
+769,2024-01-09,49,M,173,71.2,Weight Training,120,Low,14.2,117,6.3,4,3612,3.5,23.4,70.7,108.4,90.1,None,Current,0.39
+769,2024-01-11,49,M,173,71.5,Weight Training,99,High,16.5,152,8.6,2,7693,3.3,23.4,70.7,108.4,90.1,None,Current,0.53
+769,2024-01-12,49,M,173,71.8,Weight Training,36,Medium,5.1,120,4.7,8,11730,1.8,23.4,70.7,108.4,90.1,None,Current,0.57
+769,2024-01-13,49,M,173,72.0,Running,39,High,10.7,158,7.9,5,7533,2.5,23.4,70.7,108.4,90.1,None,Current,0.62
+769,2024-01-15,49,M,173,72.3,Weight Training,103,Medium,14.8,104,6.4,4,8170,2.5,23.4,70.7,108.4,90.1,None,Current,0.75
+769,2024-01-16,49,M,173,72.5,Running,86,High,23.7,154,6.1,2,8940,2.7,23.4,70.7,108.4,90.1,None,Current,0.87
+769,2024-01-17,49,M,173,72.8,Running,96,Low,19.0,114,5.5,5,6920,1.7,23.4,70.7,108.4,90.1,None,Current,0.96
+769,2024-01-18,49,M,173,73.0,Weight Training,94,Low,11.4,112,7.4,3,7714,1.8,23.4,70.7,108.4,90.1,None,Current,1.06
+769,2024-01-19,49,M,173,73.3,Weight Training,64,Low,7.8,105,7.8,3,7196,1.7,23.4,70.7,108.4,90.1,None,Current,1.12
+769,2024-01-20,49,M,173,73.6,Running,80,Medium,19.2,129,7.7,1,9330,2.5,23.4,70.7,108.4,90.1,None,Current,1.22
+769,2024-01-21,49,M,173,73.8,Weight Training,113,Low,13.9,110,9.0,5,9914,3.4,23.4,70.7,108.4,90.1,None,Current,1.33
+769,2024-01-22,49,M,173,74.1,Tennis,58,Low,8.7,112,6.2,7,8575,3.4,23.4,70.7,108.4,90.1,None,Current,1.39
+769,2024-01-23,49,M,173,74.3,Tennis,97,Low,14.6,111,7.9,1,8938,3.4,23.4,70.7,108.4,90.1,None,Current,1.49
+769,2024-01-24,49,M,173,74.6,Weight Training,28,Low,3.5,112,5.1,8,7652,2.5,23.4,70.7,108.4,90.1,None,Current,1.51
+769,2024-01-25,49,M,173,74.9,Weight Training,29,Medium,4.3,133,5.6,3,7496,2.5,23.4,70.7,108.4,90.1,None,Current,1.55
+769,2024-01-26,49,M,173,75.1,Tennis,35,Medium,6.4,129,4.5,10,9633,1.6,23.4,70.7,108.4,90.1,None,Current,1.59
+769,2024-01-27,49,M,173,75.4,Tennis,26,Medium,4.8,119,6.3,4,11405,2.6,23.4,70.7,108.4,90.1,None,Current,1.62
+769,2024-01-28,49,M,173,75.6,Weight Training,44,High,7.7,143,8.9,1,10720,2.0,23.4,70.7,108.4,90.1,None,Current,1.68
+769,2024-01-29,49,M,173,75.9,Tennis,114,Medium,21.0,126,7.9,4,8865,3.2,23.4,70.7,108.4,90.1,None,Current,1.82
+769,2024-01-30,49,M,173,76.2,Tennis,75,High,16.2,143,6.9,2,9268,2.1,23.4,70.7,108.4,90.1,None,Current,1.92
+769,2024-01-31,49,M,173,76.4,Weight Training,74,High,13.1,138,6.1,10,9041,2.8,23.4,70.7,108.4,90.1,None,Current,2.03

@@ -1,0 +1,14 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+843,2024-11-01,36,M,184.5,122.0,Dancing,70,Medium,15.6,145,7.1,5,7635,1.8,20.5,70.5,129.2,86.6,Hypertension,Never,17.04
+843,2024-11-02,36,M,184.5,122.2,Tennis,45,Low,11.1,124,7.1,7,6292,3.0,20.5,70.5,129.2,86.6,Hypertension,Never,17.08
+843,2024-11-04,36,M,184.5,122.5,Tennis,111,Medium,33.0,134,8.1,8,7867,2.3,20.5,70.5,129.2,86.6,Hypertension,Never,17.22
+843,2024-11-05,36,M,184.5,122.7,Running,23,Low,7.7,118,8.4,2,8731,1.9,20.5,70.5,129.2,86.6,Hypertension,Never,17.24
+843,2024-11-08,36,M,184.5,123.0,Tennis,99,Medium,29.6,131,7.5,4,4545,2.4,20.5,70.5,129.2,86.6,Hypertension,Never,17.36
+843,2024-11-14,36,M,184.5,123.3,Tennis,26,Medium,7.8,146,7.0,8,3950,2.6,20.5,70.5,129.2,86.6,Hypertension,Never,17.39
+843,2024-11-16,36,M,184.5,123.5,Walking,57,Medium,8.9,138,10.0,10,6827,2.0,20.5,70.5,129.2,86.6,Hypertension,Never,17.46
+843,2024-11-17,36,M,184.5,123.8,Walking,66,Low,8.6,121,10.0,3,8102,2.8,20.5,70.5,129.2,86.6,Hypertension,Never,17.52
+843,2024-11-21,36,M,184.5,124.0,Cycling,85,Medium,29.8,136,7.4,7,7309,2.1,20.5,70.5,129.2,86.6,Hypertension,Never,17.63
+843,2024-11-24,36,M,184.5,124.3,Cycling,22,Medium,7.7,127,7.7,5,8875,2.3,20.5,70.5,129.2,86.6,Hypertension,Never,17.65
+843,2024-11-25,36,M,184.5,124.5,Tennis,114,Medium,34.5,151,8.2,10,5121,2.0,20.5,70.5,129.2,86.6,Hypertension,Never,17.79
+843,2024-11-28,36,M,184.5,124.8,Swimming,58,High,19.7,153,7.5,9,11741,2.4,20.5,70.5,129.2,86.6,Hypertension,Never,17.87
+843,2024-11-30,36,M,184.5,125.1,Basketball,106,Medium,35.3,137,7.1,7,7336,3.1,20.5,70.5,129.2,86.6,Hypertension,Never,18.0

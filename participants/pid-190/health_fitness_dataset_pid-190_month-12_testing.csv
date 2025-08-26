@@ -1,0 +1,17 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+190,2024-12-01,60,F,165.6,118.9,Walking,102,Low,12.8,107,7.3,3,8567,2.8,22.9,66.9,110.7,77.8,Asthma,Former,18.7
+190,2024-12-02,60,F,165.6,119.1,Running,40,Medium,15.5,125,7.6,1,6150,2.7,22.9,66.9,110.7,77.8,Asthma,Former,18.75
+190,2024-12-04,60,F,165.6,119.4,Walking,107,Medium,16.1,113,9.0,2,9202,3.1,22.9,66.9,110.7,77.8,Asthma,Former,18.88
+190,2024-12-05,60,F,165.6,119.6,Yoga,110,Medium,13.1,105,7.0,9,8441,2.6,22.9,66.9,110.7,77.8,Asthma,Former,19.01
+190,2024-12-08,60,F,165.6,119.9,Running,116,Medium,45.3,115,8.6,7,7359,1.7,22.9,66.9,110.7,77.8,Asthma,Former,19.15
+190,2024-12-09,60,F,165.6,120.1,Walking,95,Low,12.0,103,9.7,10,7205,2.3,22.9,66.9,110.7,77.8,Asthma,Former,19.24
+190,2024-12-10,60,F,165.6,120.4,Running,93,Low,30.4,95,6.9,4,5013,3.1,22.9,66.9,110.7,77.8,Asthma,Former,19.34
+190,2024-12-12,60,F,165.6,120.7,Weight Training,41,Medium,9.9,127,6.3,9,7213,1.7,22.9,66.9,110.7,77.8,Asthma,Former,19.39
+190,2024-12-13,60,F,165.6,120.9,Walking,86,Low,11.0,109,7.6,1,4642,1.6,22.9,66.9,110.7,77.8,Asthma,Former,19.47
+190,2024-12-14,60,F,165.6,121.2,Running,24,Low,7.9,109,7.0,1,10016,2.4,22.9,66.9,110.7,77.8,Asthma,Former,19.5
+190,2024-12-16,60,F,165.6,121.4,Basketball,84,Medium,27.1,119,8.6,1,6880,2.7,22.9,66.9,110.7,77.8,Asthma,Former,19.6
+190,2024-12-17,60,F,165.6,121.7,HIIT,104,Medium,50.5,111,8.4,1,7227,2.5,22.9,66.9,110.7,77.8,Asthma,Former,19.72
+190,2024-12-21,60,F,165.6,121.9,Weight Training,109,Low,22.1,100,5.7,9,7220,2.0,22.9,66.9,110.7,77.8,Asthma,Former,19.83
+190,2024-12-22,60,F,165.6,122.2,Basketball,71,Low,19.2,103,7.9,7,8298,1.9,22.9,66.9,110.7,77.8,Asthma,Former,19.9
+190,2024-12-23,60,F,165.6,122.5,HIIT,40,Medium,19.6,122,7.1,4,8087,3.4,22.9,66.9,110.7,77.8,Asthma,Former,19.95
+190,2024-12-24,60,F,165.6,122.7,HIIT,88,Low,35.9,98,6.1,5,6842,2.3,22.9,66.9,110.7,77.8,Asthma,Former,20.04

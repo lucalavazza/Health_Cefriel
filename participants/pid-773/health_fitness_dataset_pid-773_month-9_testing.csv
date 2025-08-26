@@ -1,0 +1,10 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+773,2024-09-04,43,F,156.8,100.2,HIIT,104,Low,34.7,108,7.3,10,7145,1.6,23,68.1,126.7,97.6,None,Never,14.03
+773,2024-09-06,43,F,156.8,100.5,HIIT,116,Medium,46.5,145,9.0,3,5981,2.9,23,68.1,126.7,97.6,None,Never,14.16
+773,2024-09-08,43,F,156.8,100.7,HIIT,117,Medium,47.0,120,8.0,8,9588,3.4,23,68.1,126.7,97.6,None,Never,14.3
+773,2024-09-11,43,F,156.8,101.0,HIIT,53,Low,17.8,122,6.4,3,8169,3.1,23,68.1,126.7,97.6,None,Never,14.36
+773,2024-09-15,43,F,156.8,101.2,HIIT,109,Medium,44.0,128,6.6,10,9259,3.1,23,68.1,126.7,97.6,None,Never,14.49
+773,2024-09-16,43,F,156.8,101.5,HIIT,102,Medium,41.3,136,4.7,4,7495,2.3,23,68.1,126.7,97.6,None,Never,14.61
+773,2024-09-24,43,F,156.8,101.7,HIIT,42,Low,14.2,111,8.1,7,7765,1.6,23,68.1,126.7,97.6,None,Never,14.65
+773,2024-09-25,43,F,156.8,102.0,HIIT,94,Medium,38.3,137,7.0,7,6893,2.1,23,68.1,126.7,97.6,None,Never,14.77
+773,2024-09-30,43,F,156.8,102.3,HIIT,100,Medium,40.8,124,6.4,7,6914,2.9,23,68.1,126.7,97.6,None,Never,14.89

@@ -1,0 +1,17 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+2749,2024-10-05,58,M,166.8,107.4,Cycling,89,Medium,27.0,121,6.8,7,7549,1.9,21.4,71.5,121.7,77.6,None,Never,15.08
+2749,2024-10-07,58,M,166.8,107.7,Weight Training,21,Low,3.8,103,7.4,1,8086,1.7,21.4,71.5,121.7,77.6,None,Never,15.1
+2749,2024-10-11,58,M,166.8,107.9,Weight Training,25,High,6.3,143,6.3,3,5622,2.3,21.4,71.5,121.7,77.6,None,Never,15.14
+2749,2024-10-12,58,M,166.8,108.2,Cycling,100,Low,25.5,108,7.1,4,9253,2.6,21.4,71.5,121.7,77.6,None,Never,15.24
+2749,2024-10-13,58,M,166.8,108.5,Weight Training,62,Medium,13.4,139,5.7,5,6662,3.3,21.4,71.5,121.7,77.6,None,Never,15.31
+2749,2024-10-14,58,M,166.8,108.7,Weight Training,37,Medium,8.0,106,7.4,10,1846,1.6,21.4,71.5,121.7,77.6,None,Never,15.36
+2749,2024-10-17,58,M,166.8,109.0,Weight Training,95,Medium,20.7,121,6.5,10,8821,1.6,21.4,71.5,121.7,77.6,None,Never,15.47
+2749,2024-10-18,58,M,166.8,109.2,Weight Training,104,High,26.4,116,9.4,7,6841,2.9,21.4,71.5,121.7,77.6,None,Never,15.62
+2749,2024-10-19,58,M,166.8,109.5,Tennis,45,Medium,12.0,105,5.7,8,8216,2.6,21.4,71.5,121.7,77.6,None,Never,15.67
+2749,2024-10-22,58,M,166.8,109.7,Tennis,70,Low,15.5,99,7.2,4,4333,2.7,21.4,71.5,121.7,77.6,None,Never,15.74
+2749,2024-10-23,58,M,166.8,110.0,Weight Training,57,Low,10.4,101,5.5,8,5849,2.2,21.4,71.5,121.7,77.6,None,Never,15.8
+2749,2024-10-25,58,M,166.8,110.3,Tennis,90,Low,20.1,107,7.1,8,8189,2.9,21.4,71.5,121.7,77.6,None,Never,15.89
+2749,2024-10-27,58,M,166.8,110.5,Weight Training,61,Low,11.2,100,8.3,8,7762,2.3,21.4,71.5,121.7,77.6,None,Never,15.95
+2749,2024-10-29,58,M,166.8,110.8,Weight Training,59,Medium,13.0,131,7.0,6,5753,1.8,21.4,71.5,121.7,77.6,None,Never,16.02
+2749,2024-10-30,58,M,166.8,111.0,Weight Training,69,Low,12.7,102,6.9,6,10124,2.5,21.4,71.5,121.7,77.6,None,Never,16.09
+2749,2024-10-31,58,M,166.8,111.3,Weight Training,33,Medium,7.3,113,7.1,9,8352,1.6,21.4,71.5,121.7,77.6,None,Never,16.13

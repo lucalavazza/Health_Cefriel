@@ -1,0 +1,18 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+1098,2024-01-01,22,F,180.9,88.8,Cycling,50,Medium,12.5,152,6.9,7,8739,3.2,27,69.5,120.9,80.6,Hypertension,Never,0.06
+1098,2024-01-02,22,F,180.9,89.0,Cycling,109,Medium,27.4,149,7.0,6,6636,2.3,27,69.5,120.9,80.6,Hypertension,Never,0.19
+1098,2024-01-03,22,F,180.9,89.3,Weight Training,41,Low,6.1,130,6.0,1,7073,2.4,27,69.5,120.9,80.6,Hypertension,Never,0.23
+1098,2024-01-04,22,F,180.9,89.5,Yoga,86,Low,6.4,129,7.2,8,6207,2.9,27,69.5,120.9,80.6,Hypertension,Never,0.32
+1098,2024-01-05,22,F,180.9,89.8,Yoga,66,Medium,5.9,137,7.9,1,7886,2.2,27,69.5,120.9,80.6,Hypertension,Never,0.4
+1098,2024-01-08,22,F,180.9,90.1,Yoga,36,High,3.8,179,7.4,6,9623,2.6,27,69.5,120.9,80.6,Hypertension,Never,0.45
+1098,2024-01-09,22,F,180.9,90.3,Yoga,43,Medium,3.9,156,6.2,5,7662,1.6,27,69.5,120.9,80.6,Hypertension,Never,0.5
+1098,2024-01-10,22,F,180.9,90.6,Yoga,101,Low,7.6,134,7.3,6,8462,2.1,27,69.5,120.9,80.6,Hypertension,Never,0.6
+1098,2024-01-11,22,F,180.9,90.8,Yoga,60,Medium,5.4,146,5.8,3,8225,2.0,27,69.5,120.9,80.6,Hypertension,Never,0.67
+1098,2024-01-12,22,F,180.9,91.1,Walking,113,Low,10.8,124,7.7,1,7213,2.0,27,69.5,120.9,80.6,Hypertension,Never,0.79
+1098,2024-01-14,22,F,180.9,91.4,Yoga,37,Low,2.8,127,7.0,10,11401,1.6,27,69.5,120.9,80.6,Hypertension,Never,0.82
+1098,2024-01-15,22,F,180.9,91.6,Walking,62,Low,6.0,131,6.5,9,8377,3.3,27,69.5,120.9,80.6,Hypertension,Never,0.88
+1098,2024-01-18,22,F,180.9,91.9,Yoga,73,High,7.8,155,7.9,9,11621,2.9,27,69.5,120.9,80.6,Hypertension,Never,0.99
+1098,2024-01-23,22,F,180.9,92.1,Cycling,58,Medium,15.1,164,4.1,4,8570,3.0,27,69.5,120.9,80.6,Hypertension,Never,1.06
+1098,2024-01-27,22,F,180.9,92.4,Tennis,30,High,7.8,161,5.6,3,11510,2.6,27,69.5,120.9,80.6,Hypertension,Never,1.1
+1098,2024-01-28,22,F,180.9,92.6,Running,98,Medium,29.6,156,8.0,2,9804,2.8,27,69.5,120.9,80.6,Hypertension,Never,1.22
+1098,2024-01-29,22,F,180.9,92.9,Running,78,Medium,23.6,149,7.1,8,8874,1.9,27,69.5,120.9,80.6,Hypertension,Never,1.31

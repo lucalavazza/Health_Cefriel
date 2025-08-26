@@ -1,0 +1,17 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+2188,2024-06-02,64,M,183.3,127.0,Running,73,Low,25.2,100,8.0,10,10764,1.5,29.8,66,109.2,78.7,None,Never,8.5
+2188,2024-06-03,64,M,183.3,127.3,Running,48,Medium,19.9,111,5.7,5,7223,3.2,29.8,66,109.2,78.7,None,Never,8.55
+2188,2024-06-04,64,M,183.3,127.5,Weight Training,59,Medium,15.0,115,6.9,4,9453,1.5,29.8,66,109.2,78.7,None,Never,8.62
+2188,2024-06-05,64,M,183.3,127.8,Cycling,61,Low,18.4,101,6.9,10,9117,3.0,29.8,66,109.2,78.7,None,Never,8.69
+2188,2024-06-08,64,M,183.3,128.1,Weight Training,54,Low,11.5,98,8.0,9,8587,1.7,29.8,66,109.2,78.7,None,Never,8.74
+2188,2024-06-11,64,M,183.3,128.3,Walking,27,Low,3.6,97,6.0,1,8773,3.2,29.8,66,109.2,78.7,None,Never,8.77
+2188,2024-06-12,64,M,183.3,128.6,Weight Training,111,Low,23.7,99,6.4,6,8730,3.2,29.8,66,109.2,78.7,None,Never,8.88
+2188,2024-06-13,64,M,183.3,128.8,Walking,102,Medium,16.6,113,7.4,6,9005,2.0,29.8,66,109.2,78.7,None,Never,9.0
+2188,2024-06-14,64,M,183.3,129.1,Walking,115,Medium,18.8,115,7.9,1,9780,1.9,29.8,66,109.2,78.7,None,Never,9.14
+2188,2024-06-15,64,M,183.3,129.3,Weight Training,58,Medium,15.0,128,7.5,6,7708,3.2,29.8,66,109.2,78.7,None,Never,9.21
+2188,2024-06-16,64,M,183.3,129.6,Weight Training,79,Low,17.0,106,7.3,2,7869,1.7,29.8,66,109.2,78.7,None,Never,9.29
+2188,2024-06-18,64,M,183.3,129.9,Weight Training,113,High,34.2,134,7.0,7,10940,3.1,29.8,66,109.2,78.7,None,Never,9.44
+2188,2024-06-21,64,M,183.3,130.1,Weight Training,33,Low,7.1,95,7.3,5,9434,3.2,29.8,66,109.2,78.7,None,Never,9.48
+2188,2024-06-23,64,M,183.3,130.4,Weight Training,101,Low,21.9,94,6.5,2,9384,1.7,29.8,66,109.2,78.7,None,Never,9.58
+2188,2024-06-27,64,M,183.3,130.6,Weight Training,84,Low,18.3,95,6.6,6,7375,3.4,29.8,66,109.2,78.7,None,Never,9.66
+2188,2024-06-28,64,M,183.3,130.9,Swimming,34,Medium,10.4,103,5.3,2,10495,2.0,29.8,66,109.2,78.7,None,Never,9.7

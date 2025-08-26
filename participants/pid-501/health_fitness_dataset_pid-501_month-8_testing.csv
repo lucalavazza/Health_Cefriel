@@ -1,0 +1,20 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+501,2024-08-05,51,F,165.3,97.9,Basketball,79,Low,17.1,114,7.3,2,5182,2.3,22,70.3,104.8,77.6,None,Current,12.02
+501,2024-08-06,51,F,165.3,98.1,HIIT,79,Low,25.8,107,7.1,1,5019,2.8,22,70.3,104.8,77.6,None,Current,12.1
+501,2024-08-07,51,F,165.3,98.4,Walking,31,Low,3.2,114,6.0,1,5655,2.1,22,70.3,104.8,77.6,None,Current,12.13
+501,2024-08-08,51,F,165.3,98.7,Tennis,40,Medium,9.6,133,6.3,4,6297,1.9,22,70.3,104.8,77.6,None,Current,12.18
+501,2024-08-10,51,F,165.3,98.9,Weight Training,63,Medium,12.4,127,6.6,1,7842,3.1,22,70.3,104.8,77.6,None,Current,12.26
+501,2024-08-11,51,F,165.3,99.2,Swimming,39,Low,7.5,114,7.6,5,8006,2.9,22,70.3,104.8,77.6,None,Current,12.3
+501,2024-08-12,51,F,165.3,99.4,Walking,42,Medium,5.3,120,7.6,2,6500,2.9,22,70.3,104.8,77.6,None,Current,12.35
+501,2024-08-15,51,F,165.3,99.7,Weight Training,86,High,20.0,145,7.5,4,6251,2.6,22,70.3,104.8,77.6,None,Current,12.47
+501,2024-08-20,51,F,165.3,99.9,Weight Training,45,Medium,9.0,127,6.2,7,6600,3.1,22,70.3,104.8,77.6,None,Current,12.52
+501,2024-08-21,51,F,165.3,100.2,Walking,72,High,10.6,148,8.4,8,6525,2.0,22,70.3,104.8,77.6,None,Current,12.62
+501,2024-08-22,51,F,165.3,100.5,Cycling,43,Low,10.2,113,7.6,4,5433,2.2,22,70.3,104.8,77.6,None,Current,12.66
+501,2024-08-23,51,F,165.3,100.7,Weight Training,78,Medium,15.7,121,5.9,7,6845,1.5,22,70.3,104.8,77.6,None,Current,12.76
+501,2024-08-24,51,F,165.3,101.0,Weight Training,25,Medium,5.0,121,8.5,5,6659,2.1,22,70.3,104.8,77.6,None,Current,12.79
+501,2024-08-26,51,F,165.3,101.2,Cycling,101,Medium,28.9,124,6.3,8,7784,1.6,22,70.3,104.8,77.6,None,Current,12.91
+501,2024-08-27,51,F,165.3,101.5,Basketball,63,Low,14.2,109,6.8,6,7407,3.3,22,70.3,104.8,77.6,None,Current,12.97
+501,2024-08-28,51,F,165.3,101.7,Swimming,62,Low,12.2,106,6.0,4,5553,3.1,22,70.3,104.8,77.6,None,Current,13.03
+501,2024-08-29,51,F,165.3,102.0,Swimming,58,Low,11.5,113,6.9,6,7484,2.7,22,70.3,104.8,77.6,None,Current,13.09
+501,2024-08-30,51,F,165.3,102.3,Cycling,47,Low,11.3,115,7.4,8,5636,3.2,22,70.3,104.8,77.6,None,Current,13.14
+501,2024-08-31,51,F,165.3,102.5,Swimming,118,Low,23.5,112,7.0,6,8614,2.7,22,70.3,104.8,77.6,None,Current,13.26

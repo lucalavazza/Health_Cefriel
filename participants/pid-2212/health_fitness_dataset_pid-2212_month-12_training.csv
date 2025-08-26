@@ -1,0 +1,16 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+2212,2024-12-02,32,M,180.2,108.0,Swimming,95,Medium,23.9,143,6.9,5,6018,1.9,15.8,65.8,111.9,82.6,Hypertension,Former,19.1
+2212,2024-12-03,32,M,180.2,108.2,Swimming,26,Medium,6.6,146,6.0,6,8527,2.4,15.8,65.8,111.9,82.6,Hypertension,Former,19.13
+2212,2024-12-06,32,M,180.2,108.5,Swimming,102,Medium,25.8,129,7.9,5,7657,3.1,15.8,65.8,111.9,82.6,Hypertension,Former,19.25
+2212,2024-12-07,32,M,180.2,108.8,Swimming,65,Medium,16.5,140,6.7,4,10768,2.3,15.8,65.8,111.9,82.6,Hypertension,Former,19.33
+2212,2024-12-08,32,M,180.2,109.0,Swimming,46,Medium,11.7,142,7.3,6,7559,1.6,15.8,65.8,111.9,82.6,Hypertension,Former,19.38
+2212,2024-12-13,32,M,180.2,109.3,Swimming,69,High,20.5,165,7.4,4,7853,2.9,15.8,65.8,111.9,82.6,Hypertension,Former,19.48
+2212,2024-12-15,32,M,180.2,109.5,Swimming,99,High,29.4,175,6.3,6,7880,3.1,15.8,65.8,111.9,82.6,Hypertension,Former,19.62
+2212,2024-12-16,32,M,180.2,109.8,Tennis,109,Medium,29.1,146,7.2,2,5783,3.4,15.8,65.8,111.9,82.6,Hypertension,Former,19.75
+2212,2024-12-17,32,M,180.2,110.0,Tennis,86,High,26.8,165,6.3,2,4171,2.0,15.8,65.8,111.9,82.6,Hypertension,Former,19.87
+2212,2024-12-18,32,M,180.2,110.3,Tennis,82,High,25.6,161,5.9,2,9947,2.0,15.8,65.8,111.9,82.6,Hypertension,Former,19.98
+2212,2024-12-19,32,M,180.2,110.6,Tennis,45,Medium,12.1,134,8.8,1,6393,2.0,15.8,65.8,111.9,82.6,Hypertension,Former,20.04
+2212,2024-12-21,32,M,180.2,110.8,Cycling,59,High,21.6,154,8.6,5,7839,2.1,15.8,65.8,111.9,82.6,Hypertension,Former,20.12
+2212,2024-12-22,32,M,180.2,111.1,Tennis,82,Low,18.4,128,8.3,8,7960,3.4,15.8,65.8,111.9,82.6,Hypertension,Former,20.2
+2212,2024-12-23,32,M,180.2,111.3,Tennis,59,Medium,15.9,126,6.4,7,6212,2.2,15.8,65.8,111.9,82.6,Hypertension,Former,20.27
+2212,2024-12-25,32,M,180.2,111.6,Basketball,93,Medium,27.6,133,4.8,7,6303,2.9,15.8,65.8,111.9,82.6,Hypertension,Former,20.38

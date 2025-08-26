@@ -1,0 +1,17 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+407,2024-12-01,51,F,164.9,111.9,Dancing,118,High,28.2,153,7.4,9,9614,1.9,19.8,66.6,104.5,74.1,Diabetes,Former,18.68
+407,2024-12-02,51,F,164.9,112.1,Tennis,70,Medium,19.1,114,7.1,5,8644,1.8,19.8,66.6,104.5,74.1,Diabetes,Former,18.76
+407,2024-12-03,51,F,164.9,112.4,Dancing,55,Low,9.4,107,6.8,7,6233,2.1,19.8,66.6,104.5,74.1,Diabetes,Former,18.82
+407,2024-12-04,51,F,164.9,112.7,Dancing,91,High,21.9,157,8.6,5,3966,3.3,19.8,66.6,104.5,74.1,Diabetes,Former,18.95
+407,2024-12-05,51,F,164.9,112.9,Tennis,70,High,22.4,157,7.9,2,7233,2.2,19.8,66.6,104.5,74.1,Diabetes,Former,19.04
+407,2024-12-07,51,F,164.9,113.2,Tennis,73,High,23.4,157,7.3,6,10083,1.5,19.8,66.6,104.5,74.1,Diabetes,Former,19.15
+407,2024-12-09,51,F,164.9,113.4,Tennis,57,Medium,15.7,126,7.2,3,11643,2.5,19.8,66.6,104.5,74.1,Diabetes,Former,19.22
+407,2024-12-10,51,F,164.9,113.7,Tennis,65,Low,15.0,117,8.4,7,7783,1.7,19.8,66.6,104.5,74.1,Diabetes,Former,19.28
+407,2024-12-12,51,F,164.9,114.0,Tennis,73,Low,16.8,101,7.0,4,8784,3.3,19.8,66.6,104.5,74.1,Diabetes,Former,19.35
+407,2024-12-13,51,F,164.9,114.2,Tennis,56,Medium,15.5,127,7.5,9,5909,2.9,19.8,66.6,104.5,74.1,Diabetes,Former,19.42
+407,2024-12-15,51,F,164.9,114.5,Tennis,42,High,13.6,145,8.2,2,12344,3.3,19.8,66.6,104.5,74.1,Diabetes,Former,19.48
+407,2024-12-17,51,F,164.9,114.7,Tennis,93,Low,21.6,108,8.4,8,9852,3.1,19.8,66.6,104.5,74.1,Diabetes,Former,19.57
+407,2024-12-18,51,F,164.9,115.0,Tennis,33,Medium,9.2,137,6.6,3,8922,2.4,19.8,66.6,104.5,74.1,Diabetes,Former,19.61
+407,2024-12-19,51,F,164.9,115.2,Cycling,109,Medium,35.5,134,8.0,8,7646,2.6,19.8,66.6,104.5,74.1,Diabetes,Former,19.74
+407,2024-12-20,51,F,164.9,115.5,Tennis,72,Medium,20.2,133,6.5,1,8505,2.7,19.8,66.6,104.5,74.1,Diabetes,Former,19.83
+407,2024-12-22,51,F,164.9,115.8,Tennis,81,Medium,22.8,134,6.6,7,8912,3.2,19.8,66.6,104.5,74.1,Diabetes,Former,19.93

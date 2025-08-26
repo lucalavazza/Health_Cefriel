@@ -1,0 +1,17 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+952,2024-11-01,38,F,164.6,113.9,Walking,84,High,14.1,162,5.4,2,6619,3.1,23.9,69.6,126,79.9,Hypertension,Former,15.48
+952,2024-11-04,38,F,164.6,114.2,Running,59,High,25.6,159,7.5,1,6813,1.8,23.9,69.6,126,79.9,Hypertension,Former,15.57
+952,2024-11-05,38,F,164.6,114.4,Running,21,Medium,7.8,139,6.0,4,5787,3.0,23.9,69.6,126,79.9,Hypertension,Former,15.59
+952,2024-11-06,38,F,164.6,114.7,Running,20,Low,6.2,118,7.9,2,6851,2.0,23.9,69.6,126,79.9,Hypertension,Former,15.61
+952,2024-11-11,38,F,164.6,114.9,Weight Training,66,High,17.7,137,6.3,2,8214,2.1,23.9,69.6,126,79.9,Hypertension,Former,15.7
+952,2024-11-12,38,F,164.6,115.2,Weight Training,107,Medium,24.6,141,6.1,9,8217,1.6,23.9,69.6,126,79.9,Hypertension,Former,15.83
+952,2024-11-13,38,F,164.6,115.4,Running,85,Medium,32.0,131,8.3,8,8357,2.9,23.9,69.6,126,79.9,Hypertension,Former,15.93
+952,2024-11-15,38,F,164.6,115.7,Weight Training,119,Medium,27.5,151,7.3,5,6109,1.5,23.9,69.6,126,79.9,Hypertension,Former,16.08
+952,2024-11-17,38,F,164.6,116.0,Weight Training,57,Medium,13.2,141,8.2,2,7857,2.4,23.9,69.6,126,79.9,Hypertension,Former,16.14
+952,2024-11-18,38,F,164.6,116.2,Weight Training,56,High,15.2,154,7.0,5,9841,2.8,23.9,69.6,126,79.9,Hypertension,Former,16.22
+952,2024-11-20,38,F,164.6,116.5,Weight Training,47,Medium,10.9,147,8.1,4,7212,3.3,23.9,69.6,126,79.9,Hypertension,Former,16.28
+952,2024-11-24,38,F,164.6,116.7,Weight Training,73,Medium,17.0,128,6.2,3,10980,2.7,23.9,69.6,126,79.9,Hypertension,Former,16.37
+952,2024-11-25,38,F,164.6,117.0,Weight Training,114,Medium,26.6,138,9.8,10,5880,2.0,23.9,69.6,126,79.9,Hypertension,Former,16.5
+952,2024-11-26,38,F,164.6,117.2,Yoga,45,Medium,5.3,150,7.3,2,8980,1.8,23.9,69.6,126,79.9,Hypertension,Former,16.56
+952,2024-11-28,38,F,164.6,117.5,Yoga,72,Medium,8.4,140,8.1,8,7100,2.3,23.9,69.6,126,79.9,Hypertension,Former,16.64
+952,2024-11-29,38,F,164.6,117.8,Running,65,High,29.1,164,5.8,3,5400,2.0,23.9,69.6,126,79.9,Hypertension,Former,16.74

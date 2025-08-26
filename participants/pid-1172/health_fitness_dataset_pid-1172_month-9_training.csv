@@ -1,0 +1,17 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+1172,2024-09-01,59,F,161.8,89.4,Running,110,Low,26.7,108,8.2,9,6536,3.2,17.2,66.3,110.6,89.5,None,Current,13.62
+1172,2024-09-03,59,F,161.8,89.7,Running,103,Low,25.1,105,8.2,6,5176,2.4,17.2,66.3,110.6,89.5,None,Current,13.72
+1172,2024-09-05,59,F,161.8,89.9,Running,117,Medium,34.3,137,8.4,2,6956,3.3,17.2,66.3,110.6,89.5,None,Current,13.86
+1172,2024-09-09,59,F,161.8,90.2,Running,51,Low,12.5,106,7.8,9,6250,3.4,17.2,66.3,110.6,89.5,None,Current,13.91
+1172,2024-09-11,59,F,161.8,90.5,Basketball,93,High,26.1,145,6.4,9,8021,2.7,17.2,66.3,110.6,89.5,None,Current,14.04
+1172,2024-09-16,59,F,161.8,90.7,Walking,117,Medium,13.4,119,6.9,7,5234,3.0,17.2,66.3,110.6,89.5,None,Current,14.18
+1172,2024-09-17,59,F,161.8,91.0,Basketball,101,Medium,24.4,123,6.9,3,5692,2.0,17.2,66.3,110.6,89.5,None,Current,14.3
+1172,2024-09-19,59,F,161.8,91.2,Walking,111,Medium,12.8,130,7.8,6,8122,2.4,17.2,66.3,110.6,89.5,None,Current,14.44
+1172,2024-09-20,59,F,161.8,91.5,Walking,111,Medium,12.8,139,7.3,7,9026,3.4,17.2,66.3,110.6,89.5,None,Current,14.57
+1172,2024-09-21,59,F,161.8,91.7,Basketball,61,Medium,14.9,122,6.7,7,7765,3.0,17.2,66.3,110.6,89.5,None,Current,14.64
+1172,2024-09-23,59,F,161.8,92.0,Walking,114,High,15.5,149,6.5,7,4287,2.9,17.2,66.3,110.6,89.5,None,Current,14.8
+1172,2024-09-24,59,F,161.8,92.3,Dancing,47,Low,6.6,108,7.0,4,8132,2.0,17.2,66.3,110.6,89.5,None,Current,14.85
+1172,2024-09-25,59,F,161.8,92.5,Running,110,Low,27.6,106,6.7,10,8765,2.0,17.2,66.3,110.6,89.5,None,Current,14.96
+1172,2024-09-27,59,F,161.8,92.8,Dancing,25,Medium,4.2,122,7.6,4,8414,3.1,17.2,66.3,110.6,89.5,None,Current,14.99
+1172,2024-09-28,59,F,161.8,93.0,Dancing,50,High,9.9,139,6.6,8,8837,2.8,17.2,66.3,110.6,89.5,None,Current,15.06
+1172,2024-09-30,59,F,161.8,93.3,Dancing,44,High,8.8,126,7.4,10,6261,2.8,17.2,66.3,110.6,89.5,None,Current,15.12

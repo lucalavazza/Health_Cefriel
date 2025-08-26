@@ -1,0 +1,17 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+1945,2024-12-02,40,F,155.4,114.5,Basketball,62,Low,15.7,126,7.7,5,6479,3.2,24,62.5,138.8,86.3,None,Former,17.93
+1945,2024-12-03,40,F,155.4,114.8,Walking,63,Low,7.6,112,6.4,2,8884,3.3,24,62.5,138.8,86.3,None,Former,17.99
+1945,2024-12-04,40,F,155.4,115.0,Basketball,104,Medium,31.8,132,6.7,7,6949,2.5,24,62.5,138.8,86.3,None,Former,18.12
+1945,2024-12-07,40,F,155.4,115.3,Walking,41,Low,5.0,117,5.6,10,7349,1.5,24,62.5,138.8,86.3,None,Former,18.16
+1945,2024-12-08,40,F,155.4,115.5,Basketball,84,Medium,25.8,138,7.2,5,9009,2.4,24,62.5,138.8,86.3,None,Former,18.26
+1945,2024-12-09,40,F,155.4,115.8,Walking,34,Medium,5.0,132,7.1,1,8563,2.4,24,62.5,138.8,86.3,None,Former,18.3
+1945,2024-12-10,40,F,155.4,116.1,Running,51,High,22.5,149,7.2,2,8158,2.3,24,62.5,138.8,86.3,None,Former,18.37
+1945,2024-12-12,40,F,155.4,116.3,Yoga,29,Low,2.8,110,6.8,2,11172,1.6,24,62.5,138.8,86.3,None,Former,18.4
+1945,2024-12-14,40,F,155.4,116.6,Weight Training,113,Medium,26.3,125,7.6,5,11695,3.0,24,62.5,138.8,86.3,None,Former,18.54
+1945,2024-12-15,40,F,155.4,116.8,Basketball,88,Medium,27.4,125,7.5,7,4290,1.6,24,62.5,138.8,86.3,None,Former,18.64
+1945,2024-12-17,40,F,155.4,117.1,Basketball,70,Medium,21.8,130,6.4,5,10398,2.4,24,62.5,138.8,86.3,None,Former,18.73
+1945,2024-12-19,40,F,155.4,117.3,Basketball,58,Medium,18.1,145,6.6,7,8013,1.7,24,62.5,138.8,86.3,None,Former,18.79
+1945,2024-12-20,40,F,155.4,117.6,Running,85,Medium,32.6,130,7.7,4,5654,2.8,24,62.5,138.8,86.3,None,Former,18.9
+1945,2024-12-21,40,F,155.4,117.9,Running,41,High,18.4,142,6.9,2,8975,1.5,24,62.5,138.8,86.3,None,Former,18.95
+1945,2024-12-22,40,F,155.4,118.1,Running,29,Low,9.3,110,6.3,6,6998,3.3,24,62.5,138.8,86.3,None,Former,18.98
+1945,2024-12-24,40,F,155.4,118.4,Running,113,High,50.9,157,7.5,3,7051,2.8,24,62.5,138.8,86.3,None,Former,19.14

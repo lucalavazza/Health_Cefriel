@@ -1,0 +1,17 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+129,2024-12-01,32,M,172.5,130.3,Weight Training,119,High,36.1,161,7.5,7,9657,2.5,23.9,69,114.9,85.8,None,Never,18.62
+129,2024-12-03,32,M,172.5,130.5,Weight Training,50,Medium,13.0,148,7.9,4,8400,2.6,23.9,69,114.9,85.8,None,Never,18.68
+129,2024-12-05,32,M,172.5,130.8,Weight Training,118,Medium,30.8,135,6.8,7,7810,1.9,23.9,69,114.9,85.8,None,Never,18.83
+129,2024-12-06,32,M,172.5,131.0,Weight Training,107,Low,23.3,128,5.3,4,8255,2.5,23.9,69,114.9,85.8,None,Never,18.93
+129,2024-12-07,32,M,172.5,131.3,Walking,72,Low,10.0,123,7.9,7,9913,2.8,23.9,69,114.9,85.8,None,Never,19.0
+129,2024-12-08,32,M,172.5,131.5,Walking,93,High,18.0,157,7.2,7,8456,2.1,23.9,69,114.9,85.8,None,Never,19.13
+129,2024-12-11,32,M,172.5,131.8,Weight Training,78,High,23.9,153,6.5,1,6999,3.1,23.9,69,114.9,85.8,None,Never,19.24
+129,2024-12-13,32,M,172.5,132.1,Walking,95,Medium,15.9,133,9.4,2,4886,3.5,23.9,69,114.9,85.8,None,Never,19.36
+129,2024-12-14,32,M,172.5,132.3,Dancing,108,Medium,26.1,133,8.5,9,9448,2.9,23.9,69,114.9,85.8,None,Never,19.49
+129,2024-12-16,32,M,172.5,132.6,Swimming,110,Medium,34.0,141,8.0,9,6803,1.7,23.9,69,114.9,85.8,None,Never,19.62
+129,2024-12-19,32,M,172.5,132.8,Walking,114,Medium,19.1,134,8.0,8,5219,3.2,23.9,69,114.9,85.8,None,Never,19.76
+129,2024-12-21,32,M,172.5,133.1,Walking,28,Low,3.9,113,7.3,6,9334,3.1,23.9,69,114.9,85.8,None,Never,19.78
+129,2024-12-22,32,M,172.5,133.3,Walking,73,Medium,12.3,127,6.0,10,9530,2.7,23.9,69,114.9,85.8,None,Never,19.87
+129,2024-12-23,32,M,172.5,133.6,HIIT,24,Medium,12.8,145,7.7,1,8534,1.6,23.9,69,114.9,85.8,None,Never,19.9
+129,2024-12-24,32,M,172.5,133.9,HIIT,31,Medium,16.6,153,6.5,1,6274,1.5,23.9,69,114.9,85.8,None,Never,19.94
+129,2024-12-25,32,M,172.5,134.1,Walking,106,Medium,18.0,129,7.3,4,7883,3.0,23.9,69,114.9,85.8,None,Never,20.07

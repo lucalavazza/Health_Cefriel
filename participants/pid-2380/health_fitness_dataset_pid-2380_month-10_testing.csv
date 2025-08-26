@@ -1,0 +1,17 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+2380,2024-10-01,36,F,156.7,89.9,Basketball,95,Low,18.9,113,6.8,5,8036,2.0,18.9,71.3,123,86.6,Hypertension,Never,14.23
+2380,2024-10-04,36,F,156.7,90.2,Basketball,77,High,21.5,168,6.0,3,3487,3.0,18.9,71.3,123,86.6,Hypertension,Never,14.34
+2380,2024-10-05,36,F,156.7,90.4,Basketball,81,Low,16.2,121,6.1,10,9079,2.5,18.9,71.3,123,86.6,Hypertension,Never,14.42
+2380,2024-10-06,36,F,156.7,90.7,Basketball,69,Low,13.9,123,5.7,4,9011,2.8,18.9,71.3,123,86.6,Hypertension,Never,14.49
+2380,2024-10-09,36,F,156.7,91.0,Basketball,105,High,29.6,163,8.1,8,8027,1.7,18.9,71.3,123,86.6,Hypertension,Never,14.63
+2380,2024-10-10,36,F,156.7,91.2,Basketball,110,Low,22.2,120,8.4,1,2017,2.4,18.9,71.3,123,86.6,Hypertension,Never,14.74
+2380,2024-10-11,36,F,156.7,91.5,Basketball,96,Low,19.5,119,5.4,6,6215,1.9,18.9,71.3,123,86.6,Hypertension,Never,14.84
+2380,2024-10-12,36,F,156.7,91.7,Tennis,92,Medium,20.5,141,6.3,5,6417,2.7,18.9,71.3,123,86.6,Hypertension,Never,14.95
+2380,2024-10-15,36,F,156.7,92.0,Walking,63,Low,6.1,121,6.9,6,9953,2.2,18.9,71.3,123,86.6,Hypertension,Never,15.01
+2380,2024-10-16,36,F,156.7,92.2,Walking,93,Low,9.0,117,6.8,2,3194,2.6,18.9,71.3,123,86.6,Hypertension,Never,15.1
+2380,2024-10-17,36,F,156.7,92.5,Tennis,92,Medium,20.7,142,7.2,4,5401,2.1,18.9,71.3,123,86.6,Hypertension,Never,15.22
+2380,2024-10-20,36,F,156.7,92.8,Yoga,83,High,9.0,151,8.1,9,7041,2.1,18.9,71.3,123,86.6,Hypertension,Never,15.33
+2380,2024-10-27,36,F,156.7,93.0,Tennis,27,Medium,6.1,130,7.8,5,7440,2.5,18.9,71.3,123,86.6,Hypertension,Never,15.36
+2380,2024-10-28,36,F,156.7,93.3,Swimming,81,Medium,17.6,142,8.0,6,6988,2.1,18.9,71.3,123,86.6,Hypertension,Never,15.46
+2380,2024-10-29,36,F,156.7,93.5,Tennis,80,Medium,18.2,144,7.2,9,4343,2.1,18.9,71.3,123,86.6,Hypertension,Never,15.56
+2380,2024-10-30,36,F,156.7,93.8,Tennis,44,Low,8.3,120,8.0,6,7823,2.9,18.9,71.3,123,86.6,Hypertension,Never,15.6

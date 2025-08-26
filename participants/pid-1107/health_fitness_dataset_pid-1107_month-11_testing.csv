@@ -1,0 +1,18 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+1107,2024-11-01,34,F,168.5,95.3,Walking,113,Low,11.3,117,6.6,10,8607,2.1,16.2,72.7,137.9,66.9,Hypertension,Former,15.74
+1107,2024-11-06,34,F,168.5,95.6,Walking,80,Medium,9.7,150,8.7,10,6029,1.7,16.2,72.7,137.9,66.9,Hypertension,Former,15.84
+1107,2024-11-07,34,F,168.5,95.8,Walking,101,Medium,12.2,119,7.6,9,7767,2.2,16.2,72.7,137.9,66.9,Hypertension,Former,15.96
+1107,2024-11-08,34,F,168.5,96.1,Walking,110,Medium,13.4,127,5.0,4,7488,2.2,16.2,72.7,137.9,66.9,Hypertension,Former,16.09
+1107,2024-11-11,34,F,168.5,96.3,Tennis,20,High,5.5,152,6.9,2,4648,1.8,16.2,72.7,137.9,66.9,Hypertension,Former,16.12
+1107,2024-11-14,34,F,168.5,96.6,Walking,29,Medium,3.5,155,6.7,6,7548,1.8,16.2,72.7,137.9,66.9,Hypertension,Former,16.15
+1107,2024-11-15,34,F,168.5,96.9,Tennis,29,High,8.0,156,6.0,3,7766,2.5,16.2,72.7,137.9,66.9,Hypertension,Former,16.19
+1107,2024-11-18,34,F,168.5,97.1,Weight Training,77,High,17.4,162,6.7,7,8203,2.1,16.2,72.7,137.9,66.9,Hypertension,Former,16.3
+1107,2024-11-20,34,F,168.5,97.4,Walking,37,Medium,4.6,144,7.6,8,7495,3.3,16.2,72.7,137.9,66.9,Hypertension,Former,16.34
+1107,2024-11-21,34,F,168.5,97.6,Weight Training,118,Medium,23.0,144,7.9,3,6622,3.0,16.2,72.7,137.9,66.9,Hypertension,Former,16.49
+1107,2024-11-22,34,F,168.5,97.9,Yoga,28,Low,2.3,114,7.6,2,5943,1.5,16.2,72.7,137.9,66.9,Hypertension,Former,16.51
+1107,2024-11-23,34,F,168.5,98.1,Weight Training,50,Medium,9.8,137,6.2,5,8543,2.3,16.2,72.7,137.9,66.9,Hypertension,Former,16.57
+1107,2024-11-24,34,F,168.5,98.4,Yoga,92,High,10.5,155,7.7,5,8572,1.6,16.2,72.7,137.9,66.9,Hypertension,Former,16.7
+1107,2024-11-25,34,F,168.5,98.7,Walking,100,Medium,12.5,137,6.4,6,7514,2.7,16.2,72.7,137.9,66.9,Hypertension,Former,16.82
+1107,2024-11-26,34,F,168.5,98.9,Weight Training,87,Medium,17.2,140,7.4,10,8657,3.1,16.2,72.7,137.9,66.9,Hypertension,Former,16.93
+1107,2024-11-27,34,F,168.5,99.2,Weight Training,79,Medium,15.6,135,6.7,3,7369,1.5,16.2,72.7,137.9,66.9,Hypertension,Former,17.02
+1107,2024-11-30,34,F,168.5,99.4,Walking,38,Low,4.0,121,7.9,3,11635,3.4,16.2,72.7,137.9,66.9,Hypertension,Former,17.06

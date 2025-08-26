@@ -1,0 +1,19 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+1590,2024-07-02,53,M,182,127.7,Swimming,76,High,26.4,137,7.4,5,8648,2.4,28,66.2,137.5,78.7,None,Former,10.87
+1590,2024-07-05,53,M,182,127.9,Tennis,57,Medium,17.7,114,5.5,2,8144,2.8,28,66.2,137.5,78.7,None,Former,10.94
+1590,2024-07-11,53,M,182,128.2,Tennis,63,Medium,19.6,124,7.3,5,6845,2.1,28,66.2,137.5,78.7,None,Former,11.02
+1590,2024-07-12,53,M,182,128.4,Swimming,40,Medium,12.0,139,7.9,2,8254,2.2,28,66.2,137.5,78.7,None,Former,11.06
+1590,2024-07-13,53,M,182,128.7,Swimming,66,Medium,19.8,121,6.5,4,8351,2.3,28,66.2,137.5,78.7,None,Former,11.14
+1590,2024-07-14,53,M,182,129.0,Weight Training,92,Low,19.7,101,9.6,6,9992,2.6,28,66.2,137.5,78.7,None,Former,11.24
+1590,2024-07-15,53,M,182,129.2,Weight Training,45,Medium,11.6,120,6.7,3,5845,2.8,28,66.2,137.5,78.7,None,Former,11.29
+1590,2024-07-17,53,M,182,129.5,Weight Training,108,Medium,27.9,119,6.3,4,8257,2.8,28,66.2,137.5,78.7,None,Former,11.42
+1590,2024-07-18,53,M,182,129.7,Weight Training,73,High,22.1,150,5.7,2,6673,2.2,28,66.2,137.5,78.7,None,Former,11.52
+1590,2024-07-21,53,M,182,130.0,Weight Training,118,Medium,30.6,130,8.2,2,10267,3.4,28,66.2,137.5,78.7,None,Former,11.66
+1590,2024-07-22,53,M,182,130.2,Weight Training,80,Low,17.3,107,9.4,5,11053,2.4,28,66.2,137.5,78.7,None,Former,11.74
+1590,2024-07-23,53,M,182,130.5,Weight Training,89,Low,19.3,101,8.0,10,10286,2.9,28,66.2,137.5,78.7,None,Former,11.83
+1590,2024-07-26,53,M,182,130.8,Weight Training,78,High,23.8,125,8.0,2,6365,3.5,28,66.2,137.5,78.7,None,Former,11.94
+1590,2024-07-27,53,M,182,131.0,Weight Training,70,Medium,18.3,121,7.0,6,8138,2.2,28,66.2,137.5,78.7,None,Former,12.02
+1590,2024-07-28,53,M,182,131.3,Tennis,110,Medium,35.1,133,8.1,10,7446,2.2,28,66.2,137.5,78.7,None,Former,12.16
+1590,2024-07-29,53,M,182,131.5,Yoga,47,Medium,6.2,131,8.3,8,9321,3.4,28,66.2,137.5,78.7,None,Former,12.21
+1590,2024-07-30,53,M,182,131.8,Swimming,66,High,23.6,131,6.4,9,6132,2.4,28,66.2,137.5,78.7,None,Former,12.31
+1590,2024-07-31,53,M,182,132.0,Yoga,106,Low,11.6,105,8.6,10,6501,3.1,28,66.2,137.5,78.7,None,Former,12.41

@@ -1,0 +1,19 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+996,2024-07-01,34,M,179.9,107.9,Dancing,35,Medium,6.9,143,6.1,2,10136,1.9,23.1,73.7,122.3,67.9,None,Former,11.42
+996,2024-07-02,34,M,179.9,108.2,Dancing,33,Low,5.4,112,4.8,6,7991,3.0,23.1,73.7,122.3,67.9,None,Former,11.45
+996,2024-07-03,34,M,179.9,108.5,Dancing,105,Low,17.4,124,6.2,7,9619,2.0,23.1,73.7,122.3,67.9,None,Former,11.55
+996,2024-07-06,34,M,179.9,108.7,Dancing,97,Low,16.1,121,8.0,8,9033,2.7,23.1,73.7,122.3,67.9,None,Former,11.65
+996,2024-07-07,34,M,179.9,109.0,Dancing,64,Medium,12.8,136,7.4,5,9417,3.1,23.1,73.7,122.3,67.9,None,Former,11.73
+996,2024-07-08,34,M,179.9,109.2,Weight Training,107,High,27.2,148,8.2,5,9227,3.0,23.1,73.7,122.3,67.9,None,Former,11.88
+996,2024-07-09,34,M,179.9,109.5,Weight Training,75,Medium,16.4,135,7.5,1,9019,3.2,23.1,73.7,122.3,67.9,None,Former,11.97
+996,2024-07-10,34,M,179.9,109.7,Weight Training,109,Medium,23.9,145,6.2,7,7369,2.3,23.1,73.7,122.3,67.9,None,Former,12.1
+996,2024-07-11,34,M,179.9,110.0,Weight Training,50,Low,9.1,119,6.4,1,8533,2.3,23.1,73.7,122.3,67.9,None,Former,12.15
+996,2024-07-14,34,M,179.9,110.3,Weight Training,83,Low,15.2,123,6.3,9,10835,2.5,23.1,73.7,122.3,67.9,None,Former,12.23
+996,2024-07-15,34,M,179.9,110.5,Weight Training,37,Low,6.8,114,5.2,7,9157,2.2,23.1,73.7,122.3,67.9,None,Former,12.27
+996,2024-07-19,34,M,179.9,110.8,Weight Training,35,Medium,7.7,142,6.3,8,6543,3.2,23.1,73.7,122.3,67.9,None,Former,12.31
+996,2024-07-20,34,M,179.9,111.0,Walking,106,Medium,14.9,146,7.2,3,10729,2.5,23.1,73.7,122.3,67.9,None,Former,12.44
+996,2024-07-21,34,M,179.9,111.3,Weight Training,72,Low,13.3,121,7.4,1,9725,2.2,23.1,73.7,122.3,67.9,None,Former,12.51
+996,2024-07-22,34,M,179.9,111.6,Walking,93,Medium,13.1,132,8.3,2,5283,2.6,23.1,73.7,122.3,67.9,None,Former,12.62
+996,2024-07-28,34,M,179.9,111.8,Walking,22,Medium,3.1,145,7.0,6,9865,2.2,23.1,73.7,122.3,67.9,None,Former,12.65
+996,2024-07-29,34,M,179.9,112.1,Swimming,58,Low,12.6,120,8.0,2,4549,2.6,23.1,73.7,122.3,67.9,None,Former,12.71
+996,2024-07-30,34,M,179.9,112.3,Swimming,29,Medium,7.6,155,6.5,2,7118,3.3,23.1,73.7,122.3,67.9,None,Former,12.74

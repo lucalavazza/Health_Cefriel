@@ -1,0 +1,18 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+2406,2024-11-01,23,M,176.5,149.4,Running,25,Medium,12.2,146,7.3,9,6678,1.6,31.9,69.6,122.3,76.9,None,Current,15.91
+2406,2024-11-04,23,M,176.5,149.7,Weight Training,40,Medium,12.0,142,6.4,8,8697,1.5,31.9,69.6,122.3,76.9,None,Current,15.96
+2406,2024-11-07,23,M,176.5,149.9,Weight Training,82,Medium,24.5,158,6.2,4,7687,1.7,31.9,69.6,122.3,76.9,None,Current,16.06
+2406,2024-11-08,23,M,176.5,150.2,Running,58,Medium,28.4,146,8.1,9,6364,2.0,31.9,69.6,122.3,76.9,None,Current,16.13
+2406,2024-11-09,23,M,176.5,150.4,Running,104,Medium,51.0,142,6.9,1,9850,2.9,31.9,69.6,122.3,76.9,None,Current,16.25
+2406,2024-11-10,23,M,176.5,150.7,Weight Training,33,High,11.6,156,8.4,4,10252,3.3,31.9,69.6,122.3,76.9,None,Current,16.3
+2406,2024-11-11,23,M,176.5,151.0,Weight Training,51,Low,12.8,131,5.5,1,6870,2.3,31.9,69.6,122.3,76.9,None,Current,16.35
+2406,2024-11-12,23,M,176.5,151.2,Running,100,High,57.5,171,5.3,5,6011,2.0,31.9,69.6,122.3,76.9,None,Current,16.49
+2406,2024-11-15,23,M,176.5,151.5,Weight Training,83,Medium,25.1,150,6.8,4,7254,3.1,31.9,69.6,122.3,76.9,None,Current,16.59
+2406,2024-11-16,23,M,176.5,151.7,Cycling,75,High,37.6,156,7.8,8,7070,2.3,31.9,69.6,122.3,76.9,None,Current,16.7
+2406,2024-11-17,23,M,176.5,152.0,Cycling,90,Medium,38.7,157,7.3,10,8554,1.5,31.9,69.6,122.3,76.9,None,Current,16.8
+2406,2024-11-22,23,M,176.5,152.2,Weight Training,64,Low,16.2,132,7.0,3,5144,1.9,31.9,69.6,122.3,76.9,None,Current,16.87
+2406,2024-11-23,23,M,176.5,152.5,Weight Training,76,Medium,23.1,133,9.0,2,7728,2.7,31.9,69.6,122.3,76.9,None,Current,16.96
+2406,2024-11-24,23,M,176.5,152.7,Walking,72,Medium,13.9,148,6.7,5,9477,2.2,31.9,69.6,122.3,76.9,None,Current,17.05
+2406,2024-11-26,23,M,176.5,153.0,Walking,64,Low,10.3,128,6.5,6,6836,3.3,31.9,69.6,122.3,76.9,None,Current,17.11
+2406,2024-11-28,23,M,176.5,153.3,Walking,97,Medium,18.8,146,8.0,8,9876,2.6,31.9,69.6,122.3,76.9,None,Current,17.23
+2406,2024-11-30,23,M,176.5,153.5,Walking,28,High,6.3,172,6.5,3,9474,3.3,31.9,69.6,122.3,76.9,None,Current,17.27

@@ -1,0 +1,16 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+313,2024-11-04,30,F,162,111.6,Weight Training,111,Medium,24.7,138,7.8,4,6697,3.2,22.5,73.2,115.9,86.2,Diabetes,Former,16.92
+313,2024-11-05,30,F,162,111.8,Running,112,Medium,40.8,136,8.3,6,6940,2.9,22.5,73.2,115.9,86.2,Diabetes,Former,17.06
+313,2024-11-07,30,F,162,112.1,Running,44,High,18.8,167,7.1,7,5351,3.2,22.5,73.2,115.9,86.2,Diabetes,Former,17.12
+313,2024-11-08,30,F,162,112.4,Weight Training,83,Low,15.5,131,7.4,6,7067,3.2,22.5,73.2,115.9,86.2,Diabetes,Former,17.2
+313,2024-11-09,30,F,162,112.6,HIIT,102,Low,38.2,124,8.6,4,10444,2.2,22.5,73.2,115.9,86.2,Diabetes,Former,17.31
+313,2024-11-10,30,F,162,112.9,HIIT,22,High,11.6,165,6.3,6,10272,3.1,22.5,73.2,115.9,86.2,Diabetes,Former,17.34
+313,2024-11-14,30,F,162,113.1,Weight Training,91,High,24.0,152,7.9,7,8657,2.5,22.5,73.2,115.9,86.2,Diabetes,Former,17.46
+313,2024-11-15,30,F,162,113.4,Weight Training,102,Low,19.2,121,7.0,4,9870,2.8,22.5,73.2,115.9,86.2,Diabetes,Former,17.57
+313,2024-11-17,30,F,162,113.6,HIIT,92,Medium,41.7,149,6.4,7,7185,2.6,22.5,73.2,115.9,86.2,Diabetes,Former,17.68
+313,2024-11-19,30,F,162,113.9,HIIT,67,Medium,30.5,141,8.3,8,8463,1.6,22.5,73.2,115.9,86.2,Diabetes,Former,17.76
+313,2024-11-21,30,F,162,114.2,Tennis,92,Low,21.2,126,6.6,9,8084,2.7,22.5,73.2,115.9,86.2,Diabetes,Former,17.85
+313,2024-11-26,30,F,162,114.4,HIIT,45,Medium,20.5,152,5.7,1,5440,3.0,22.5,73.2,115.9,86.2,Diabetes,Former,17.9
+313,2024-11-27,30,F,162,114.7,HIIT,72,Medium,33.0,140,7.0,7,7404,2.3,22.5,73.2,115.9,86.2,Diabetes,Former,17.99
+313,2024-11-28,30,F,162,114.9,Tennis,78,High,25.4,167,7.2,9,8356,3.1,22.5,73.2,115.9,86.2,Diabetes,Former,18.1
+313,2024-11-29,30,F,162,115.2,Basketball,29,Medium,8.9,130,6.4,3,8651,1.8,22.5,73.2,115.9,86.2,Diabetes,Former,18.13

@@ -14,7 +14,7 @@ from dowhy.utils.plotting import plot
 pd.options.mode.chained_assignment = None
 
 fit_data = pd.read_csv(
-    '/Users/luca_lavazza/Documents/GitHub/Health_Cefriel/datasets/labelled_regularised_averaged_health_fitness_dataset.csv')
+    '/Users/luca_lavazza/Documents/GitHub/Health_Cefriel/datasets/labelled_regularised_averaged_health_fitness_dataset_testing.csv')
 data_dict = {}
 pids = np.max(fit_data.participant_id.unique())
 

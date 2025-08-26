@@ -1,0 +1,17 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+2406,2024-07-02,23,M,176.5,132.7,Cycling,114,Medium,42.8,147,7.0,10,8964,3.1,31.9,69.6,122.3,76.9,None,Current,10.85
+2406,2024-07-04,23,M,176.5,133.0,Cycling,108,Low,33.9,127,8.9,3,10397,2.3,31.9,69.6,122.3,76.9,None,Current,10.96
+2406,2024-07-06,23,M,176.5,133.3,Basketball,111,Medium,39.4,142,7.6,6,13721,2.7,31.9,69.6,122.3,76.9,None,Current,11.09
+2406,2024-07-08,23,M,176.5,133.5,Cycling,25,Low,7.9,127,7.8,3,7898,3.4,31.9,69.6,122.3,76.9,None,Current,11.12
+2406,2024-07-12,23,M,176.5,133.8,Basketball,79,Low,23.4,130,6.4,7,7040,2.6,31.9,69.6,122.3,76.9,None,Current,11.2
+2406,2024-07-13,23,M,176.5,134.0,Basketball,117,Medium,41.7,142,7.0,3,7591,3.0,31.9,69.6,122.3,76.9,None,Current,11.34
+2406,2024-07-14,23,M,176.5,134.3,Basketball,77,High,32.1,155,6.7,7,9570,2.5,31.9,69.6,122.3,76.9,None,Current,11.45
+2406,2024-07-15,23,M,176.5,134.5,Basketball,76,Medium,27.2,147,9.5,1,7799,2.0,31.9,69.6,122.3,76.9,None,Current,11.54
+2406,2024-07-18,23,M,176.5,134.8,Basketball,50,Medium,17.9,156,7.2,1,9295,2.8,31.9,69.6,122.3,76.9,None,Current,11.6
+2406,2024-07-19,23,M,176.5,135.1,Basketball,30,High,12.6,148,6.1,1,7567,3.3,31.9,69.6,122.3,76.9,None,Current,11.64
+2406,2024-07-21,23,M,176.5,135.3,Basketball,38,Medium,13.7,137,7.1,10,9663,1.6,31.9,69.6,122.3,76.9,None,Current,11.68
+2406,2024-07-23,23,M,176.5,135.6,Dancing,41,High,11.9,164,5.6,7,6954,1.8,31.9,69.6,122.3,76.9,None,Current,11.74
+2406,2024-07-25,23,M,176.5,135.8,HIIT,40,Medium,21.7,142,7.0,5,5243,3.5,31.9,69.6,122.3,76.9,None,Current,11.79
+2406,2024-07-26,23,M,176.5,136.1,Dancing,119,Medium,29.6,147,5.7,6,9717,1.9,31.9,69.6,122.3,76.9,None,Current,11.93
+2406,2024-07-28,23,M,176.5,136.3,Swimming,28,Low,7.4,135,9.4,3,5624,1.7,31.9,69.6,122.3,76.9,None,Current,11.96
+2406,2024-07-29,23,M,176.5,136.6,HIIT,22,Low,10.0,125,8.5,8,6535,1.8,31.9,69.6,122.3,76.9,None,Current,11.98

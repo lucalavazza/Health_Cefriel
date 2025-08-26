@@ -1,0 +1,17 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+2249,2024-01-03,58,F,152.9,45.3,Swimming,106,Medium,11.1,123,6.7,7,7578,1.7,19.2,72,103.6,78,Diabetes,Never,0.13
+2249,2024-01-05,58,F,152.9,45.5,Swimming,54,Medium,5.7,130,6.9,1,8714,3.4,19.2,72,103.6,78,Diabetes,Never,0.19
+2249,2024-01-07,58,F,152.9,45.8,Swimming,90,Medium,9.6,131,8.3,10,7561,3.2,19.2,72,103.6,78,Diabetes,Never,0.3
+2249,2024-01-09,58,F,152.9,46.0,Weight Training,108,Low,8.2,100,7.0,7,7406,1.8,19.2,72,103.6,78,Diabetes,Never,0.41
+2249,2024-01-10,58,F,152.9,46.3,Swimming,28,Medium,3.0,124,8.0,7,6968,2.0,19.2,72,103.6,78,Diabetes,Never,0.44
+2249,2024-01-11,58,F,152.9,46.6,Swimming,36,Low,3.2,95,6.9,10,9903,2.1,19.2,72,103.6,78,Diabetes,Never,0.48
+2249,2024-01-13,58,F,152.9,46.8,HIIT,107,Medium,19.9,130,5.0,8,9301,2.0,19.2,72,103.6,78,Diabetes,Never,0.61
+2249,2024-01-15,58,F,152.9,47.1,Swimming,29,Medium,3.2,115,8.1,6,9024,2.6,19.2,72,103.6,78,Diabetes,Never,0.64
+2249,2024-01-16,58,F,152.9,47.3,Swimming,31,Medium,3.4,125,6.6,6,7642,1.9,19.2,72,103.6,78,Diabetes,Never,0.68
+2249,2024-01-18,58,F,152.9,47.6,Running,40,Medium,6.2,133,6.1,9,6900,3.3,19.2,72,103.6,78,Diabetes,Never,0.73
+2249,2024-01-21,58,F,152.9,47.8,HIIT,66,Low,10.5,109,7.1,8,9828,1.7,19.2,72,103.6,78,Diabetes,Never,0.79
+2249,2024-01-25,58,F,152.9,48.1,HIIT,82,Medium,15.7,125,5.9,6,8011,2.4,19.2,72,103.6,78,Diabetes,Never,0.89
+2249,2024-01-26,58,F,152.9,48.4,HIIT,83,Medium,16.0,108,6.7,5,9321,1.5,19.2,72,103.6,78,Diabetes,Never,0.99
+2249,2024-01-28,58,F,152.9,48.6,HIIT,102,Low,16.4,101,6.6,6,11540,1.7,19.2,72,103.6,78,Diabetes,Never,1.09
+2249,2024-01-30,58,F,152.9,48.9,Cycling,95,High,15.3,128,8.7,7,6617,2.9,19.2,72,103.6,78,Diabetes,Never,1.23
+2249,2024-01-31,58,F,152.9,49.1,HIIT,84,Low,13.7,106,8.0,1,6949,3.0,19.2,72,103.6,78,Diabetes,Never,1.31

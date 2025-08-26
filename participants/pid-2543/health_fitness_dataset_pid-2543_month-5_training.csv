@@ -1,0 +1,20 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+2543,2024-05-01,38,F,173.8,92.1,Yoga,43,High,4.6,136,5.6,4,9118,2.8,23.6,68.1,116,68.7,Hypertension,Never,6.27
+2543,2024-05-03,38,F,173.8,92.4,Walking,80,High,10.9,155,6.6,10,10121,2.9,23.6,68.1,116,68.7,Hypertension,Never,6.38
+2543,2024-05-04,38,F,173.8,92.6,Walking,25,Medium,2.9,143,7.7,8,10861,2.6,23.6,68.1,116,68.7,Hypertension,Never,6.41
+2543,2024-05-08,38,F,173.8,92.9,Yoga,100,Medium,9.3,140,8.6,4,9118,3.4,23.6,68.1,116,68.7,Hypertension,Never,6.53
+2543,2024-05-09,38,F,173.8,93.1,Walking,37,Medium,4.4,140,7.1,9,11479,2.6,23.6,68.1,116,68.7,Hypertension,Never,6.57
+2543,2024-05-10,38,F,173.8,93.4,Walking,54,Medium,6.4,139,7.2,4,8759,2.7,23.6,68.1,116,68.7,Hypertension,Never,6.64
+2543,2024-05-12,38,F,173.8,93.7,Yoga,108,Low,8.4,116,6.2,5,10167,2.7,23.6,68.1,116,68.7,Hypertension,Never,6.75
+2543,2024-05-13,38,F,173.8,93.9,Walking,70,Medium,8.3,145,5.4,2,11141,1.5,23.6,68.1,116,68.7,Hypertension,Never,6.83
+2543,2024-05-14,38,F,173.8,94.2,Walking,118,Low,11.7,115,8.9,7,8010,1.6,23.6,68.1,116,68.7,Hypertension,Never,6.95
+2543,2024-05-15,38,F,173.8,94.4,Walking,33,Medium,3.9,140,8.0,1,9349,1.7,23.6,68.1,116,68.7,Hypertension,Never,6.99
+2543,2024-05-16,38,F,173.8,94.7,Walking,69,Low,6.9,123,6.4,2,8206,2.6,23.6,68.1,116,68.7,Hypertension,Never,7.06
+2543,2024-05-19,38,F,173.8,95.0,Walking,91,Medium,10.9,135,7.0,3,12800,2.9,23.6,68.1,116,68.7,Hypertension,Never,7.17
+2543,2024-05-22,38,F,173.8,95.2,HIIT,106,Medium,40.3,151,6.6,1,9433,2.4,23.6,68.1,116,68.7,Hypertension,Never,7.29
+2543,2024-05-25,38,F,173.8,95.5,HIIT,61,Low,19.4,112,8.0,6,9096,2.7,23.6,68.1,116,68.7,Hypertension,Never,7.36
+2543,2024-05-27,38,F,173.8,95.7,HIIT,93,Medium,35.5,124,5.5,10,8842,2.1,23.6,68.1,116,68.7,Hypertension,Never,7.47
+2543,2024-05-28,38,F,173.8,96.0,HIIT,72,Medium,27.6,129,6.7,4,9190,2.5,23.6,68.1,116,68.7,Hypertension,Never,7.55
+2543,2024-05-29,38,F,173.8,96.2,HIIT,53,Medium,20.3,133,5.5,8,10442,1.8,23.6,68.1,116,68.7,Hypertension,Never,7.62
+2543,2024-05-30,38,F,173.8,96.5,Weight Training,72,High,16.2,154,6.7,2,8755,2.2,23.6,68.1,116,68.7,Hypertension,Never,7.72
+2543,2024-05-31,38,F,173.8,96.7,Basketball,111,High,33.3,128,7.4,10,6978,2.3,23.6,68.1,116,68.7,Hypertension,Never,7.87

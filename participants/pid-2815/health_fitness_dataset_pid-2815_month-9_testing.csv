@@ -1,0 +1,17 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+2815,2024-09-02,42,M,164.6,101.4,Yoga,92,Low,7.8,125,8.8,1,6923,3.3,21.1,76.3,127.8,67.5,None,Former,14.8
+2815,2024-09-05,42,M,164.6,101.7,Yoga,115,Medium,11.7,135,8.2,6,5090,1.8,21.1,76.3,127.8,67.5,None,Former,14.93
+2815,2024-09-06,42,M,164.6,101.9,Yoga,70,High,8.3,171,6.7,7,7933,2.2,21.1,76.3,127.8,67.5,None,Former,15.03
+2815,2024-09-08,42,M,164.6,102.2,Yoga,34,Medium,3.5,134,7.7,4,8810,3.1,21.1,76.3,127.8,67.5,None,Former,15.07
+2815,2024-09-09,42,M,164.6,102.5,Weight Training,69,Low,11.8,116,7.7,5,7040,3.4,21.1,76.3,127.8,67.5,None,Former,15.14
+2815,2024-09-10,42,M,164.6,102.7,Weight Training,78,Medium,16.0,143,9.4,4,5388,2.9,21.1,76.3,127.8,67.5,None,Former,15.24
+2815,2024-09-12,42,M,164.6,103.0,Weight Training,91,High,21.8,154,7.1,6,5895,3.2,21.1,76.3,127.8,67.5,None,Former,15.36
+2815,2024-09-14,42,M,164.6,103.2,Weight Training,42,Medium,8.6,128,7.5,2,6245,2.5,21.1,76.3,127.8,67.5,None,Former,15.41
+2815,2024-09-15,42,M,164.6,103.5,Weight Training,55,High,13.2,157,7.4,7,6527,2.2,21.1,76.3,127.8,67.5,None,Former,15.49
+2815,2024-09-18,42,M,164.6,103.8,Weight Training,59,Medium,12.2,122,6.1,1,6163,3.2,21.1,76.3,127.8,67.5,None,Former,15.56
+2815,2024-09-21,42,M,164.6,104.0,Dancing,86,High,19.1,152,4.8,8,9322,2.4,21.1,76.3,127.8,67.5,None,Former,15.68
+2815,2024-09-22,42,M,164.6,104.3,Dancing,98,Medium,18.7,135,7.3,2,4705,2.6,21.1,76.3,127.8,67.5,None,Former,15.8
+2815,2024-09-23,42,M,164.6,104.5,Running,53,High,21.1,152,6.7,7,5908,2.9,21.1,76.3,127.8,67.5,None,Former,15.87
+2815,2024-09-25,42,M,164.6,104.8,Dancing,75,Medium,14.4,130,8.1,9,7285,2.0,21.1,76.3,127.8,67.5,None,Former,15.96
+2815,2024-09-28,42,M,164.6,105.0,Dancing,92,Low,14.7,109,5.9,2,8111,1.7,21.1,76.3,127.8,67.5,None,Former,16.06
+2815,2024-09-30,42,M,164.6,105.3,Dancing,103,Medium,19.8,131,6.8,2,5916,2.4,21.1,76.3,127.8,67.5,None,Former,16.18

@@ -1,0 +1,17 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+2955,2024-08-02,44,M,185.1,140.2,Running,52,Medium,23.8,128,6.3,5,5835,3.5,30,60.5,114.4,64.2,Hypertension,Former,12.0
+2955,2024-08-04,44,M,185.1,140.5,Running,63,Low,24.0,117,9.4,3,10859,1.6,30,60.5,114.4,64.2,Hypertension,Former,12.06
+2955,2024-08-05,44,M,185.1,140.7,Walking,117,High,24.3,140,7.3,6,5181,1.6,30,60.5,114.4,64.2,Hypertension,Former,12.23
+2955,2024-08-06,44,M,185.1,141.0,Dancing,103,Medium,26.6,139,6.3,4,10505,2.5,30,60.5,114.4,64.2,Hypertension,Former,12.35
+2955,2024-08-07,44,M,185.1,141.2,Tennis,97,High,38.8,147,7.4,4,9712,2.0,30,60.5,114.4,64.2,Hypertension,Former,12.48
+2955,2024-08-08,44,M,185.1,141.5,Tennis,21,Medium,7.2,127,6.9,3,5408,3.4,30,60.5,114.4,64.2,Hypertension,Former,12.51
+2955,2024-08-09,44,M,185.1,141.8,Tennis,42,High,16.9,140,8.0,9,8072,2.9,30,60.5,114.4,64.2,Hypertension,Former,12.57
+2955,2024-08-10,44,M,185.1,142.0,Tennis,119,Low,34.2,119,6.4,6,10768,3.2,30,60.5,114.4,64.2,Hypertension,Former,12.69
+2955,2024-08-11,44,M,185.1,142.3,Tennis,28,Low,8.1,116,7.8,10,8590,2.8,30,60.5,114.4,64.2,Hypertension,Former,12.72
+2955,2024-08-14,44,M,185.1,142.5,Tennis,60,Low,17.3,114,6.4,8,7243,2.6,30,60.5,114.4,64.2,Hypertension,Former,12.78
+2955,2024-08-16,44,M,185.1,142.8,Tennis,81,Medium,28.1,126,6.9,7,6931,1.5,30,60.5,114.4,64.2,Hypertension,Former,12.87
+2955,2024-08-19,44,M,185.1,143.0,Tennis,109,Low,31.6,111,5.1,9,5909,3.2,30,60.5,114.4,64.2,Hypertension,Former,12.98
+2955,2024-08-20,44,M,185.1,143.3,Cycling,89,Medium,36.1,115,6.4,6,7446,3.3,30,60.5,114.4,64.2,Hypertension,Former,13.09
+2955,2024-08-22,44,M,185.1,143.6,Basketball,66,Medium,25.2,126,7.4,7,7923,2.3,30,60.5,114.4,64.2,Hypertension,Former,13.17
+2955,2024-08-29,44,M,185.1,143.8,Walking,104,Medium,18.9,135,5.7,4,6667,2.7,30,60.5,114.4,64.2,Hypertension,Former,13.29
+2955,2024-08-30,44,M,185.1,144.1,Walking,52,Low,7.9,110,6.2,8,10822,2.6,30,60.5,114.4,64.2,Hypertension,Former,13.34

@@ -1,0 +1,18 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+2117,2024-07-01,54,M,176.8,131.3,Cycling,24,Low,7.4,108,6.2,1,10979,2.8,31.1,62.5,130.9,109.9,Asthma,Former,10.73
+2117,2024-07-03,54,M,176.8,131.5,Running,52,Medium,22.3,122,8.4,4,6205,1.6,31.1,62.5,130.9,109.9,Asthma,Former,10.79
+2117,2024-07-04,54,M,176.8,131.8,Cycling,33,Medium,12.3,128,7.7,4,9147,1.6,31.1,62.5,130.9,109.9,Asthma,Former,10.83
+2117,2024-07-07,54,M,176.8,132.0,Cycling,60,Medium,22.4,118,6.6,2,7754,2.8,31.1,62.5,130.9,109.9,Asthma,Former,10.9
+2117,2024-07-08,54,M,176.8,132.3,Running,50,High,25.2,146,6.1,8,8561,1.9,31.1,62.5,130.9,109.9,Asthma,Former,10.97
+2117,2024-07-10,54,M,176.8,132.5,Cycling,92,Low,28.7,101,6.8,9,9439,3.4,31.1,62.5,130.9,109.9,Asthma,Former,11.07
+2117,2024-07-11,54,M,176.8,132.8,Cycling,59,Low,18.5,117,6.1,5,8238,2.9,31.1,62.5,130.9,109.9,Asthma,Former,11.13
+2117,2024-07-12,54,M,176.8,133.1,Cycling,68,Medium,25.6,125,8.9,8,7367,2.2,31.1,62.5,130.9,109.9,Asthma,Former,11.21
+2117,2024-07-13,54,M,176.8,133.3,Cycling,88,Medium,33.2,112,7.1,9,6489,1.7,31.1,62.5,130.9,109.9,Asthma,Former,11.31
+2117,2024-07-16,54,M,176.8,133.6,Weight Training,32,Medium,8.5,129,8.0,10,7873,1.7,31.1,62.5,130.9,109.9,Asthma,Former,11.35
+2117,2024-07-17,54,M,176.8,133.8,Cycling,65,Low,20.5,107,6.5,6,8792,1.9,31.1,62.5,130.9,109.9,Asthma,Former,11.42
+2117,2024-07-18,54,M,176.8,134.1,Weight Training,62,Medium,16.6,126,7.2,3,8068,2.2,31.1,62.5,130.9,109.9,Asthma,Former,11.49
+2117,2024-07-21,54,M,176.8,134.3,Walking,75,Low,10.6,106,5.8,8,9190,1.9,31.1,62.5,130.9,109.9,Asthma,Former,11.57
+2117,2024-07-26,54,M,176.8,134.6,Weight Training,100,Medium,26.9,122,7.1,4,12013,3.0,31.1,62.5,130.9,109.9,Asthma,Former,11.69
+2117,2024-07-29,54,M,176.8,134.9,Weight Training,78,Low,17.5,115,8.8,5,8550,3.1,31.1,62.5,130.9,109.9,Asthma,Former,11.76
+2117,2024-07-30,54,M,176.8,135.1,Walking,99,High,19.7,145,6.7,1,3451,3.0,31.1,62.5,130.9,109.9,Asthma,Former,11.9
+2117,2024-07-31,54,M,176.8,135.4,Weight Training,33,Medium,8.9,143,6.7,7,7339,2.5,31.1,62.5,130.9,109.9,Asthma,Former,11.94

@@ -1,0 +1,16 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+1635,2024-09-01,59,M,181.8,109.1,Swimming,64,Medium,16.3,137,7.8,2,8127,1.8,19.7,76.4,116.6,93.4,None,Current,14.16
+1635,2024-09-02,59,M,181.8,109.4,Tennis,40,Medium,10.6,108,6.1,2,8009,1.8,19.7,76.4,116.6,93.4,None,Current,14.21
+1635,2024-09-06,59,M,181.8,109.7,Swimming,103,High,30.7,155,8.6,3,8701,2.9,19.7,76.4,116.6,93.4,None,Current,14.35
+1635,2024-09-07,59,M,181.8,109.9,Tennis,26,Low,5.8,107,6.7,10,6759,2.7,19.7,76.4,116.6,93.4,None,Current,14.38
+1635,2024-09-08,59,M,181.8,110.2,Weight Training,20,Medium,4.4,126,7.8,2,10665,2.9,19.7,76.4,116.6,93.4,None,Current,14.4
+1635,2024-09-10,59,M,181.8,110.4,Tennis,95,Medium,25.5,121,6.9,3,4546,2.8,19.7,76.4,116.6,93.4,None,Current,14.51
+1635,2024-09-11,59,M,181.8,110.7,Weight Training,62,Medium,13.7,99,5.4,7,6402,2.9,19.7,76.4,116.6,93.4,None,Current,14.59
+1635,2024-09-13,59,M,181.8,110.9,Weight Training,81,Low,14.9,100,7.2,5,6829,3.4,19.7,76.4,116.6,93.4,None,Current,14.67
+1635,2024-09-15,59,M,181.8,111.2,Tennis,45,Low,10.1,99,6.1,6,5158,3.0,19.7,76.4,116.6,93.4,None,Current,14.71
+1635,2024-09-17,59,M,181.8,111.5,Weight Training,109,Medium,24.2,129,8.1,6,5690,3.5,19.7,76.4,116.6,93.4,None,Current,14.85
+1635,2024-09-20,59,M,181.8,111.7,Tennis,84,Medium,22.8,124,7.6,8,4008,3.4,19.7,76.4,116.6,93.4,None,Current,14.95
+1635,2024-09-21,59,M,181.8,112.0,Walking,74,High,12.2,138,7.9,9,6152,2.6,19.7,76.4,116.6,93.4,None,Current,15.05
+1635,2024-09-25,59,M,181.8,112.2,Weight Training,47,Medium,10.5,122,6.7,2,6977,3.3,19.7,76.4,116.6,93.4,None,Current,15.11
+1635,2024-09-27,59,M,181.8,112.5,Dancing,45,Low,7.7,108,8.5,3,6724,2.6,19.7,76.4,116.6,93.4,None,Current,15.15
+1635,2024-09-28,59,M,181.8,112.8,Weight Training,98,Medium,22.0,110,8.8,7,8404,2.1,19.7,76.4,116.6,93.4,None,Current,15.27

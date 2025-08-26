@@ -1,0 +1,22 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+123,2024-01-01,34,M,170.7,70.1,Weight Training,117,Medium,16.3,150,6.9,5,7227,2.0,24,63.5,132.7,68,None,Never,0.14
+123,2024-01-02,34,M,170.7,70.3,Weight Training,52,High,8.5,162,8.4,6,8906,2.8,24,63.5,132.7,68,None,Never,0.21
+123,2024-01-07,34,M,170.7,70.6,Cycling,103,Medium,20.5,146,8.3,1,8550,3.0,24,63.5,132.7,68,None,Never,0.34
+123,2024-01-08,34,M,170.7,70.9,Weight Training,68,Medium,9.6,136,7.0,2,9303,2.5,24,63.5,132.7,68,None,Never,0.42
+123,2024-01-09,34,M,170.7,71.1,Walking,37,Medium,3.3,124,8.1,1,8668,1.6,24,63.5,132.7,68,None,Never,0.46
+123,2024-01-10,34,M,170.7,71.4,Weight Training,51,High,8.5,170,7.1,5,8429,1.9,24,63.5,132.7,68,None,Never,0.53
+123,2024-01-11,34,M,170.7,71.6,Basketball,84,Medium,16.0,162,6.8,2,10327,3.1,24,63.5,132.7,68,None,Never,0.63
+123,2024-01-12,34,M,170.7,71.9,Basketball,87,Low,13.9,118,6.8,8,9083,1.7,24,63.5,132.7,68,None,Never,0.72
+123,2024-01-14,34,M,170.7,72.2,Weight Training,50,Low,6.0,111,6.5,2,12285,1.8,24,63.5,132.7,68,None,Never,0.77
+123,2024-01-15,34,M,170.7,72.4,Basketball,48,Low,7.7,120,7.0,2,8208,3.0,24,63.5,132.7,68,None,Never,0.82
+123,2024-01-17,34,M,170.7,72.7,Basketball,39,Low,6.3,129,6.5,7,7124,2.1,24,63.5,132.7,68,None,Never,0.86
+123,2024-01-18,34,M,170.7,72.9,Weight Training,111,Low,13.4,118,6.8,5,7908,2.8,24,63.5,132.7,68,None,Never,0.97
+123,2024-01-19,34,M,170.7,73.2,Running,84,Low,16.7,117,8.2,6,6196,2.0,24,63.5,132.7,68,None,Never,1.05
+123,2024-01-21,34,M,170.7,73.4,Weight Training,37,Medium,5.4,132,7.7,6,11686,3.1,24,63.5,132.7,68,None,Never,1.1
+123,2024-01-22,34,M,170.7,73.7,Weight Training,46,High,7.9,153,7.9,6,6751,1.5,24,63.5,132.7,68,None,Never,1.16
+123,2024-01-25,34,M,170.7,74.0,Weight Training,27,Low,3.3,120,7.6,2,7818,2.0,24,63.5,132.7,68,None,Never,1.19
+123,2024-01-26,34,M,170.7,74.2,Weight Training,112,Low,13.8,121,6.3,5,8209,2.3,24,63.5,132.7,68,None,Never,1.3
+123,2024-01-27,34,M,170.7,74.5,Yoga,29,Medium,2.2,147,8.6,10,11260,3.4,24,63.5,132.7,68,None,Never,1.34
+123,2024-01-29,34,M,170.7,74.7,Weight Training,47,Low,5.8,117,6.8,8,7889,2.4,24,63.5,132.7,68,None,Never,1.38
+123,2024-01-30,34,M,170.7,75.0,Yoga,96,Low,6.0,120,7.8,2,7921,3.4,24,63.5,132.7,68,None,Never,1.48
+123,2024-01-31,34,M,170.7,75.3,Weight Training,45,Medium,6.8,132,7.1,10,9060,1.8,24,63.5,132.7,68,None,Never,1.53

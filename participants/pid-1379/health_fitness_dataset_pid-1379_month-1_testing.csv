@@ -1,0 +1,23 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+1379,2024-01-01,50,F,171.2,84.8,Running,40,High,12.9,142,9.2,5,6511,3.3,28.9,74.2,115,87.5,Hypertension,Never,0.06
+1379,2024-01-02,50,F,171.2,85.1,Running,110,High,35.6,130,7.6,5,7910,1.9,28.9,74.2,115,87.5,Hypertension,Never,0.21
+1379,2024-01-03,50,F,171.2,85.4,Tennis,118,Medium,24.4,131,7.7,10,8552,3.3,28.9,74.2,115,87.5,Hypertension,Never,0.35
+1379,2024-01-04,50,F,171.2,85.6,Running,44,Medium,12.3,128,7.2,10,8111,2.9,28.9,74.2,115,87.5,Hypertension,Never,0.4
+1379,2024-01-07,50,F,171.2,85.9,Tennis,84,Low,14.6,98,7.4,9,9447,2.2,28.9,74.2,115,87.5,Hypertension,Never,0.49
+1379,2024-01-08,50,F,171.2,86.1,Running,31,Medium,8.7,132,5.9,3,9509,3.3,28.9,74.2,115,87.5,Hypertension,Never,0.53
+1379,2024-01-11,50,F,171.2,86.4,Running,35,High,11.5,140,4.8,7,8156,2.4,28.9,74.2,115,87.5,Hypertension,Never,0.57
+1379,2024-01-13,50,F,171.2,86.7,Walking,32,Medium,3.5,132,9.5,2,9701,3.0,28.9,74.2,115,87.5,Hypertension,Never,0.61
+1379,2024-01-15,50,F,171.2,86.9,Running,43,Medium,12.2,129,8.4,9,9284,2.6,28.9,74.2,115,87.5,Hypertension,Never,0.66
+1379,2024-01-16,50,F,171.2,87.2,Tennis,60,Medium,12.7,110,6.6,8,9394,2.6,28.9,74.2,115,87.5,Hypertension,Never,0.74
+1379,2024-01-17,50,F,171.2,87.4,Running,45,Medium,12.8,122,7.3,10,10288,2.8,28.9,74.2,115,87.5,Hypertension,Never,0.79
+1379,2024-01-19,50,F,171.2,87.7,Weight Training,43,Low,6.3,105,7.0,7,7856,2.1,28.9,74.2,115,87.5,Hypertension,Never,0.83
+1379,2024-01-20,50,F,171.2,87.9,Walking,54,High,7.0,144,7.0,6,10402,2.9,28.9,74.2,115,87.5,Hypertension,Never,0.91
+1379,2024-01-22,50,F,171.2,88.2,Walking,73,Low,6.8,117,6.5,7,7720,3.1,28.9,74.2,115,87.5,Hypertension,Never,0.98
+1379,2024-01-23,50,F,171.2,88.5,Tennis,25,High,6.3,131,6.9,1,9025,3.5,28.9,74.2,115,87.5,Hypertension,Never,1.02
+1379,2024-01-24,50,F,171.2,88.7,Walking,106,Medium,11.9,131,7.1,1,6587,2.7,28.9,74.2,115,87.5,Hypertension,Never,1.14
+1379,2024-01-26,50,F,171.2,89.0,Walking,120,High,15.7,143,7.9,10,7861,2.9,28.9,74.2,115,87.5,Hypertension,Never,1.31
+1379,2024-01-27,50,F,171.2,89.2,Walking,82,Medium,9.2,140,8.2,8,8295,2.5,28.9,74.2,115,87.5,Hypertension,Never,1.41
+1379,2024-01-28,50,F,171.2,89.5,Yoga,74,Low,5.5,118,7.3,10,11042,2.1,28.9,74.2,115,87.5,Hypertension,Never,1.48
+1379,2024-01-29,50,F,171.2,89.8,Dancing,30,Medium,4.9,129,6.3,10,7517,1.7,28.9,74.2,115,87.5,Hypertension,Never,1.52
+1379,2024-01-30,50,F,171.2,90.0,Dancing,54,Medium,8.9,123,8.0,5,5852,3.3,28.9,74.2,115,87.5,Hypertension,Never,1.59
+1379,2024-01-31,50,F,171.2,90.3,Running,26,Low,6.4,98,7.6,4,9842,2.6,28.9,74.2,115,87.5,Hypertension,Never,1.61

@@ -1,0 +1,14 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+1838,2024-09-02,39,M,159.1,99.1,Basketball,30,High,9.2,151,7.0,5,4577,2.0,22.6,70.7,111.9,78.3,Asthma,Never,13.3
+1838,2024-09-04,39,M,159.1,99.3,Basketball,27,Medium,7.1,131,7.7,4,6523,2.7,22.6,70.7,111.9,78.3,Asthma,Never,13.34
+1838,2024-09-05,39,M,159.1,99.6,Dancing,51,Low,7.7,122,6.5,1,6972,1.8,22.6,70.7,111.9,78.3,Asthma,Never,13.39
+1838,2024-09-08,39,M,159.1,99.8,Dancing,44,High,9.4,136,6.2,10,7172,2.7,22.6,70.7,111.9,78.3,Asthma,Never,13.45
+1838,2024-09-13,39,M,159.1,100.1,Dancing,101,High,21.6,156,6.6,6,4603,2.1,22.6,70.7,111.9,78.3,Asthma,Never,13.59
+1838,2024-09-14,39,M,159.1,100.4,Dancing,45,Medium,8.3,136,6.6,1,6654,2.0,22.6,70.7,111.9,78.3,Asthma,Never,13.64
+1838,2024-09-15,39,M,159.1,100.6,Dancing,74,Low,11.3,121,6.6,6,7095,2.6,22.6,70.7,111.9,78.3,Asthma,Never,13.72
+1838,2024-09-19,39,M,159.1,100.9,Dancing,100,Medium,18.4,127,5.8,7,7939,3.2,22.6,70.7,111.9,78.3,Asthma,Never,13.84
+1838,2024-09-20,39,M,159.1,101.1,Dancing,72,Low,11.1,117,6.3,6,7382,2.8,22.6,70.7,111.9,78.3,Asthma,Never,13.91
+1838,2024-09-21,39,M,159.1,101.4,Dancing,86,High,18.6,161,8.2,6,8522,2.6,22.6,70.7,111.9,78.3,Asthma,Never,14.03
+1838,2024-09-24,39,M,159.1,101.7,Tennis,42,Medium,10.4,133,7.1,10,6998,2.6,22.6,70.7,111.9,78.3,Asthma,Never,14.08
+1838,2024-09-25,39,M,159.1,101.9,Walking,66,Medium,8.5,146,6.5,9,10075,3.5,22.6,70.7,111.9,78.3,Asthma,Never,14.16
+1838,2024-09-29,39,M,159.1,102.2,Tennis,24,Medium,6.0,124,8.3,3,10050,2.1,22.6,70.7,111.9,78.3,Asthma,Never,14.19

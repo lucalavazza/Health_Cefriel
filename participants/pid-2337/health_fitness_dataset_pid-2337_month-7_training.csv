@@ -1,0 +1,17 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+2337,2024-07-02,37,F,165.8,101.4,HIIT,81,Medium,32.8,131,6.0,3,8289,2.1,24,66.6,123.2,76.8,None,Never,11.61
+2337,2024-07-03,37,F,165.8,101.6,Weight Training,51,Medium,10.3,138,6.2,3,8275,1.8,24,66.6,123.2,76.8,None,Never,11.67
+2337,2024-07-07,37,F,165.8,101.9,Weight Training,105,Medium,21.3,134,8.4,7,9420,3.1,24,66.6,123.2,76.8,None,Never,11.79
+2337,2024-07-10,37,F,165.8,102.2,Weight Training,42,Medium,8.6,149,6.7,7,8149,1.7,24,66.6,123.2,76.8,None,Never,11.84
+2337,2024-07-11,37,F,165.8,102.4,Weight Training,96,Low,16.3,115,6.7,6,6154,3.2,24,66.6,123.2,76.8,None,Never,11.94
+2337,2024-07-12,37,F,165.8,102.7,Weight Training,76,Medium,15.6,138,8.2,10,4602,2.4,24,66.6,123.2,76.8,None,Never,12.03
+2337,2024-07-14,37,F,165.8,102.9,Weight Training,30,High,7.2,172,8.7,3,12340,2.0,24,66.6,123.2,76.8,None,Never,12.07
+2337,2024-07-15,37,F,165.8,103.2,Tennis,105,Medium,26.3,142,7.4,7,6259,2.8,24,66.6,123.2,76.8,None,Never,12.2
+2337,2024-07-16,37,F,165.8,103.4,Weight Training,90,Medium,18.6,127,7.4,1,10188,3.2,24,66.6,123.2,76.8,None,Never,12.31
+2337,2024-07-18,37,F,165.8,103.7,Basketball,66,Medium,18.2,135,6.6,7,4819,2.2,24,66.6,123.2,76.8,None,Never,12.39
+2337,2024-07-21,37,F,165.8,104.0,Tennis,42,Low,8.8,118,5.4,3,8594,2.2,24,66.6,123.2,76.8,None,Never,12.43
+2337,2024-07-22,37,F,165.8,104.2,Weight Training,98,Low,17.0,118,7.1,2,6904,2.6,24,66.6,123.2,76.8,None,Never,12.53
+2337,2024-07-23,37,F,165.8,104.5,Basketball,88,High,28.5,147,8.0,4,7325,2.8,24,66.6,123.2,76.8,None,Never,12.65
+2337,2024-07-25,37,F,165.8,104.7,HIIT,88,Low,30.6,125,7.9,4,6915,2.4,24,66.6,123.2,76.8,None,Never,12.74
+2337,2024-07-27,37,F,165.8,105.0,Basketball,72,Low,16.8,121,7.3,9,5920,3.4,24,66.6,123.2,76.8,None,Never,12.81
+2337,2024-07-28,37,F,165.8,105.2,HIIT,36,High,17.6,160,4.5,3,8070,3.2,24,66.6,123.2,76.8,None,Never,12.86

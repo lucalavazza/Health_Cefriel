@@ -1,0 +1,19 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+1561,2024-02-02,50,M,172.5,78.1,Yoga,50,Low,3.2,100,8.9,8,6384,1.8,24.5,79.6,117.5,84.4,None,Current,1.5
+1561,2024-02-03,50,M,172.5,78.4,Yoga,71,Medium,5.5,130,8.7,1,10279,2.1,24.5,79.6,117.5,84.4,None,Current,1.59
+1561,2024-02-04,50,M,172.5,78.7,Weight Training,22,High,4.0,147,8.4,4,9722,3.0,24.5,79.6,117.5,84.4,None,Current,1.62
+1561,2024-02-05,50,M,172.5,78.9,Swimming,61,High,13.1,147,6.3,6,7120,3.2,24.5,79.6,117.5,84.4,None,Current,1.71
+1561,2024-02-06,50,M,172.5,79.2,Swimming,30,Medium,5.5,141,8.2,3,8867,2.2,24.5,79.6,117.5,84.4,None,Current,1.74
+1561,2024-02-08,50,M,172.5,79.4,Swimming,107,Low,16.5,109,6.7,7,9457,2.1,24.5,79.6,117.5,84.4,None,Current,1.85
+1561,2024-02-09,50,M,172.5,79.7,Swimming,49,Medium,9.1,123,7.2,1,9948,2.2,24.5,79.6,117.5,84.4,None,Current,1.91
+1561,2024-02-12,50,M,172.5,80.0,Swimming,31,Medium,5.8,123,6.0,4,6811,2.1,24.5,79.6,117.5,84.4,None,Current,1.94
+1561,2024-02-13,50,M,172.5,80.2,Swimming,64,Medium,11.9,126,7.5,6,6764,2.7,24.5,79.6,117.5,84.4,None,Current,2.02
+1561,2024-02-14,50,M,172.5,80.5,Swimming,59,Medium,11.0,115,8.9,8,10434,1.9,24.5,79.6,117.5,84.4,None,Current,2.09
+1561,2024-02-16,50,M,172.5,80.7,Swimming,79,Medium,14.8,124,7.0,5,9249,3.0,24.5,79.6,117.5,84.4,None,Current,2.19
+1561,2024-02-17,50,M,172.5,81.0,Swimming,34,Medium,6.4,123,5.6,4,10540,2.3,24.5,79.6,117.5,84.4,None,Current,2.23
+1561,2024-02-20,50,M,172.5,81.2,Weight Training,51,High,9.6,142,7.3,2,10273,2.6,24.5,79.6,117.5,84.4,None,Current,2.3
+1561,2024-02-22,50,M,172.5,81.5,Weight Training,112,Low,15.2,120,7.4,7,7922,2.7,24.5,79.6,117.5,84.4,None,Current,2.41
+1561,2024-02-23,50,M,172.5,81.8,Basketball,107,High,27.1,134,6.2,3,6821,2.7,24.5,79.6,117.5,84.4,None,Current,2.56
+1561,2024-02-25,50,M,172.5,82.0,Basketball,31,Medium,6.8,127,6.6,4,12038,3.1,24.5,79.6,117.5,84.4,None,Current,2.6
+1561,2024-02-28,50,M,172.5,82.3,Basketball,72,Low,13.1,103,7.0,10,9492,1.8,24.5,79.6,117.5,84.4,None,Current,2.67
+1561,2024-02-29,50,M,172.5,82.5,Walking,72,Low,6.3,119,7.2,3,11848,1.6,24.5,79.6,117.5,84.4,None,Current,2.74

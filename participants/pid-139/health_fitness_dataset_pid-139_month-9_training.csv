@@ -1,0 +1,17 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+139,2024-09-01,20,F,154.5,91.3,Cycling,97,Medium,25.0,151,6.6,10,11142,1.6,20.5,67,114.6,85,Hypertension,Never,13.28
+139,2024-09-06,20,F,154.5,91.6,Cycling,107,Medium,27.7,132,4.8,1,7546,1.8,20.5,67,114.6,85,Hypertension,Never,13.41
+139,2024-09-07,20,F,154.5,91.9,Cycling,33,Low,7.1,132,6.6,6,6728,2.7,20.5,67,114.6,85,Hypertension,Never,13.44
+139,2024-09-08,20,F,154.5,92.1,Cycling,68,Low,14.7,135,7.2,3,10522,2.7,20.5,67,114.6,85,Hypertension,Never,13.51
+139,2024-09-09,20,F,154.5,92.4,Cycling,105,High,32.0,184,8.8,4,8257,1.6,20.5,67,114.6,85,Hypertension,Never,13.65
+139,2024-09-15,20,F,154.5,92.6,Cycling,97,Medium,25.4,136,10.0,4,4704,2.0,20.5,67,114.6,85,Hypertension,Never,13.77
+139,2024-09-16,20,F,154.5,92.9,Walking,80,High,11.0,156,5.7,3,5337,1.6,20.5,67,114.6,85,Hypertension,Never,13.88
+139,2024-09-17,20,F,154.5,93.1,Walking,57,Medium,6.7,152,7.2,3,6392,3.0,20.5,67,114.6,85,Hypertension,Never,13.95
+139,2024-09-18,20,F,154.5,93.4,Cycling,29,Medium,7.7,131,7.9,5,5882,3.5,20.5,67,114.6,85,Hypertension,Never,13.99
+139,2024-09-19,20,F,154.5,93.7,Walking,49,Medium,5.8,150,5.9,9,7758,3.2,20.5,67,114.6,85,Hypertension,Never,14.04
+139,2024-09-21,20,F,154.5,93.9,Cycling,120,High,37.2,165,7.7,8,9517,1.6,20.5,67,114.6,85,Hypertension,Never,14.21
+139,2024-09-23,20,F,154.5,94.2,Yoga,119,Medium,11.2,148,6.7,5,3364,3.1,20.5,67,114.6,85,Hypertension,Never,14.35
+139,2024-09-25,20,F,154.5,94.4,Cycling,60,Medium,16.0,141,7.3,5,6909,2.5,20.5,67,114.6,85,Hypertension,Never,14.43
+139,2024-09-26,20,F,154.5,94.7,Yoga,31,Medium,2.9,143,7.3,9,7236,3.0,20.5,67,114.6,85,Hypertension,Never,14.46
+139,2024-09-27,20,F,154.5,94.9,Cycling,53,Low,11.8,133,8.7,6,9986,3.3,20.5,67,114.6,85,Hypertension,Never,14.52
+139,2024-09-28,20,F,154.5,95.2,Cycling,104,Medium,28.0,150,6.4,4,7418,2.9,20.5,67,114.6,85,Hypertension,Never,14.64

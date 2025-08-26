@@ -1,0 +1,17 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+362,2024-11-01,60,M,182.2,140.7,Weight Training,80,High,26.2,142,7.4,5,9189,1.6,26.9,64.9,117.7,81.8,None,Never,16.76
+362,2024-11-03,60,M,182.2,141.0,Weight Training,62,High,20.4,126,8.3,6,6454,1.7,26.9,64.9,117.7,81.8,None,Never,16.85
+362,2024-11-05,60,M,182.2,141.3,Weight Training,58,Medium,16.4,115,6.6,2,7163,1.8,26.9,64.9,117.7,81.8,None,Never,16.92
+362,2024-11-06,60,M,182.2,141.5,Weight Training,57,Medium,16.1,119,6.9,2,8372,3.4,26.9,64.9,117.7,81.8,None,Never,16.99
+362,2024-11-08,60,M,182.2,141.8,Weight Training,97,Medium,27.5,113,6.5,2,4661,3.5,26.9,64.9,117.7,81.8,None,Never,17.11
+362,2024-11-09,60,M,182.2,142.0,Weight Training,43,Low,10.2,103,6.7,4,5767,3.2,26.9,64.9,117.7,81.8,None,Never,17.15
+362,2024-11-11,60,M,182.2,142.3,Weight Training,96,Medium,27.3,98,7.8,1,4602,1.7,26.9,64.9,117.7,81.8,None,Never,17.26
+362,2024-11-13,60,M,182.2,142.5,Weight Training,80,Medium,22.8,104,7.6,6,6520,3.4,26.9,64.9,117.7,81.8,None,Never,17.36
+362,2024-11-14,60,M,182.2,142.8,Basketball,65,High,28.8,143,8.0,9,5000,2.4,26.9,64.9,117.7,81.8,None,Never,17.45
+362,2024-11-17,60,M,182.2,143.1,Basketball,50,Low,15.9,103,8.9,2,9409,3.2,26.9,64.9,117.7,81.8,None,Never,17.5
+362,2024-11-18,60,M,182.2,143.3,Weight Training,87,High,29.0,133,6.8,10,6871,2.2,26.9,64.9,117.7,81.8,None,Never,17.62
+362,2024-11-19,60,M,182.2,143.6,Weight Training,96,Medium,27.5,119,8.0,4,8209,2.9,26.9,64.9,117.7,81.8,None,Never,17.74
+362,2024-11-22,60,M,182.2,143.8,Running,20,Medium,9.4,126,7.6,9,6883,1.9,26.9,64.9,117.7,81.8,None,Never,17.76
+362,2024-11-23,60,M,182.2,144.1,Running,41,Low,16.1,102,6.0,3,8383,3.1,26.9,64.9,117.7,81.8,None,Never,17.8
+362,2024-11-26,60,M,182.2,144.3,Dancing,89,Medium,23.5,112,5.5,5,7723,3.4,26.9,64.9,117.7,81.8,None,Never,17.91
+362,2024-11-30,60,M,182.2,144.6,Dancing,42,High,13.0,129,6.8,5,9823,2.6,26.9,64.9,117.7,81.8,None,Never,17.97

@@ -1,0 +1,17 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+402,2024-08-01,24,M,165.5,105.7,HIIT,77,Medium,32.5,141,5.8,2,6547,2.2,24.7,68.6,108.3,71,None,Current,12.32
+402,2024-08-02,24,M,165.5,105.9,HIIT,35,High,17.3,173,7.5,1,5239,3.1,24.7,68.6,108.3,71,None,Current,12.37
+402,2024-08-03,24,M,165.5,106.2,Yoga,53,Medium,5.6,153,4.6,5,9997,2.6,24.7,68.6,108.3,71,None,Current,12.44
+402,2024-08-04,24,M,165.5,106.5,Weight Training,103,Medium,21.9,151,7.4,8,8021,3.2,24.7,68.6,108.3,71,None,Current,12.56
+402,2024-08-06,24,M,165.5,106.7,Weight Training,117,Medium,24.9,140,7.4,6,6081,3.0,24.7,68.6,108.3,71,None,Current,12.7
+402,2024-08-07,24,M,165.5,107.0,Yoga,53,Low,4.7,121,5.4,4,8348,2.6,24.7,68.6,108.3,71,None,Current,12.75
+402,2024-08-12,24,M,165.5,107.2,Weight Training,85,Low,15.2,126,7.5,2,6228,3.2,24.7,68.6,108.3,71,None,Current,12.84
+402,2024-08-13,24,M,165.5,107.5,Yoga,61,Medium,6.5,147,6.1,2,7494,2.5,24.7,68.6,108.3,71,None,Current,12.91
+402,2024-08-14,24,M,165.5,107.7,Yoga,20,Medium,2.1,139,6.5,4,5951,2.4,24.7,68.6,108.3,71,None,Current,12.94
+402,2024-08-15,24,M,165.5,108.0,Dancing,45,High,10.4,172,6.4,9,5229,3.4,24.7,68.6,108.3,71,None,Current,13.0
+402,2024-08-16,24,M,165.5,108.3,Yoga,93,Medium,10.0,133,7.1,7,4376,2.8,24.7,68.6,108.3,71,None,Current,13.11
+402,2024-08-18,24,M,165.5,108.5,Dancing,78,Medium,15.5,149,5.9,3,7452,3.5,24.7,68.6,108.3,71,None,Current,13.2
+402,2024-08-19,24,M,165.5,108.8,Weight Training,22,Medium,4.8,159,6.9,2,5845,2.8,24.7,68.6,108.3,71,None,Current,13.23
+402,2024-08-25,24,M,165.5,109.0,Yoga,60,High,7.6,172,7.2,5,5550,2.2,24.7,68.6,108.3,71,None,Current,13.31
+402,2024-08-27,24,M,165.5,109.3,Dancing,37,Low,6.2,130,5.5,7,7820,3.0,24.7,68.6,108.3,71,None,Current,13.35
+402,2024-08-30,24,M,165.5,109.6,Weight Training,97,High,24.7,154,6.9,3,6133,2.1,24.7,68.6,108.3,71,None,Current,13.49

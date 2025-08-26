@@ -1,0 +1,18 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+1473,2024-06-01,51,M,173,96.1,Dancing,29,Low,4.2,117,7.8,6,12129,3.1,22.1,66.1,133.1,94.7,None,Never,9.72
+1473,2024-06-02,51,M,173,96.3,Basketball,69,Low,14.7,110,4.2,2,9372,2.3,22.1,66.1,133.1,94.7,None,Never,9.79
+1473,2024-06-04,51,M,173,96.6,Basketball,94,Medium,24.1,133,8.5,8,9760,3.3,22.1,66.1,133.1,94.7,None,Never,9.91
+1473,2024-06-06,51,M,173,96.8,HIIT,47,High,21.2,133,6.0,5,7854,3.1,22.1,66.1,133.1,94.7,None,Never,9.97
+1473,2024-06-10,51,M,173,97.1,Basketball,100,Medium,25.8,122,10.0,3,9690,2.7,22.1,66.1,133.1,94.7,None,Never,10.09
+1473,2024-06-13,51,M,173,97.4,HIIT,115,High,52.1,145,7.4,1,11137,2.2,22.1,66.1,133.1,94.7,None,Never,10.25
+1473,2024-06-14,51,M,173,97.6,Swimming,119,Low,22.5,107,7.8,3,8017,2.5,22.1,66.1,133.1,94.7,None,Never,10.37
+1473,2024-06-16,51,M,173,97.9,Basketball,87,Medium,22.6,141,6.8,3,10912,1.7,22.1,66.1,133.1,94.7,None,Never,10.48
+1473,2024-06-17,51,M,173,98.1,Basketball,71,Low,15.4,109,5.7,5,8275,2.9,22.1,66.1,133.1,94.7,None,Never,10.55
+1473,2024-06-22,51,M,173,98.4,Weight Training,63,Medium,12.4,135,6.5,3,8090,2.0,22.1,66.1,133.1,94.7,None,Never,10.62
+1473,2024-06-23,51,M,173,98.6,Weight Training,39,High,9.0,142,6.3,3,8130,1.6,22.1,66.1,133.1,94.7,None,Never,10.68
+1473,2024-06-24,51,M,173,98.9,Weight Training,58,Low,9.5,113,6.0,9,7775,1.8,22.1,66.1,133.1,94.7,None,Never,10.73
+1473,2024-06-25,51,M,173,99.2,Weight Training,94,Low,15.5,114,8.2,1,7067,1.6,22.1,66.1,133.1,94.7,None,Never,10.83
+1473,2024-06-26,51,M,173,99.4,Weight Training,116,Medium,23.0,132,6.8,8,7457,3.4,22.1,66.1,133.1,94.7,None,Never,10.97
+1473,2024-06-27,51,M,173,99.7,Weight Training,88,Low,14.6,113,6.0,7,5335,1.9,22.1,66.1,133.1,94.7,None,Never,11.06
+1473,2024-06-28,51,M,173,99.9,Weight Training,71,Low,11.8,107,6.9,10,8911,1.6,22.1,66.1,133.1,94.7,None,Never,11.13
+1473,2024-06-30,51,M,173,100.2,Weight Training,92,High,21.5,139,6.4,6,7345,2.1,22.1,66.1,133.1,94.7,None,Never,11.26

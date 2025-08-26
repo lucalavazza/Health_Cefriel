@@ -1,0 +1,11 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+1328,2024-09-02,21,M,184.6,116.4,HIIT,64,Low,24.8,129,6.7,9,8210,2.4,21.9,79.8,135.6,75.3,None,Never,13.59
+1328,2024-09-03,21,M,184.6,116.6,HIIT,98,Low,38.0,120,7.3,5,8462,3.0,21.9,79.8,135.6,75.3,None,Never,13.69
+1328,2024-09-05,21,M,184.6,116.9,Yoga,92,Medium,10.7,140,5.3,2,5538,2.0,21.9,79.8,135.6,75.3,None,Never,13.8
+1328,2024-09-07,21,M,184.6,117.2,Dancing,99,Low,17.7,127,6.5,4,9119,2.8,21.9,79.8,135.6,75.3,None,Never,13.9
+1328,2024-09-10,21,M,184.6,117.4,HIIT,35,Medium,16.4,156,5.3,6,6016,2.9,21.9,79.8,135.6,75.3,None,Never,13.94
+1328,2024-09-14,21,M,184.6,117.7,Yoga,76,High,10.4,167,7.3,1,8796,2.5,21.9,79.8,135.6,75.3,None,Never,14.05
+1328,2024-09-18,21,M,184.6,117.9,HIIT,29,High,15.9,168,6.7,10,5845,3.0,21.9,79.8,135.6,75.3,None,Never,14.09
+1328,2024-09-21,21,M,184.6,118.2,HIIT,42,Low,16.5,136,6.9,5,5567,2.2,21.9,79.8,135.6,75.3,None,Never,14.13
+1328,2024-09-24,21,M,184.6,118.4,Weight Training,83,Medium,19.6,142,5.9,5,6834,1.6,21.9,79.8,135.6,75.3,None,Never,14.23
+1328,2024-09-27,21,M,184.6,118.7,HIIT,54,Medium,25.6,144,7.6,9,6068,3.0,21.9,79.8,135.6,75.3,None,Never,14.29

@@ -1,0 +1,17 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+993,2024-08-01,61,M,178.1,124.0,Cycling,69,High,28.2,136,6.4,7,9488,1.7,27.5,63.5,105.6,77.9,None,Never,10.97
+993,2024-08-02,61,M,178.1,124.3,Basketball,38,Low,10.5,104,7.3,5,6900,2.3,27.5,63.5,105.6,77.9,None,Never,11.01
+993,2024-08-04,61,M,178.1,124.5,Basketball,117,Medium,38.8,112,5.5,4,6247,2.4,27.5,63.5,105.6,77.9,None,Never,11.15
+993,2024-08-06,61,M,178.1,124.8,Weight Training,80,Low,16.6,106,8.6,8,6634,1.7,27.5,63.5,105.6,77.9,None,Never,11.23
+993,2024-08-09,61,M,178.1,125.1,Weight Training,26,Medium,6.5,124,6.4,10,8894,3.0,27.5,63.5,105.6,77.9,None,Never,11.26
+993,2024-08-11,61,M,178.1,125.3,Weight Training,40,Medium,10.0,137,5.6,2,7045,2.5,27.5,63.5,105.6,77.9,None,Never,11.31
+993,2024-08-12,61,M,178.1,125.6,Weight Training,25,Low,5.2,102,6.9,6,5654,3.1,27.5,63.5,105.6,77.9,None,Never,11.33
+993,2024-08-14,61,M,178.1,125.8,Weight Training,39,Low,8.2,98,6.2,2,6032,2.9,27.5,63.5,105.6,77.9,None,Never,11.37
+993,2024-08-17,61,M,178.1,126.1,Weight Training,117,High,34.4,127,5.6,3,9627,2.5,27.5,63.5,105.6,77.9,None,Never,11.53
+993,2024-08-20,61,M,178.1,126.3,Swimming,90,Medium,26.5,104,7.3,6,8749,2.0,27.5,63.5,105.6,77.9,None,Never,11.64
+993,2024-08-21,61,M,178.1,126.6,Weight Training,120,Medium,30.3,120,7.3,8,6627,2.8,27.5,63.5,105.6,77.9,None,Never,11.79
+993,2024-08-25,61,M,178.1,126.9,Weight Training,42,Medium,10.6,130,6.9,4,6141,1.6,27.5,63.5,105.6,77.9,None,Never,11.84
+993,2024-08-26,61,M,178.1,127.1,HIIT,84,Low,35.5,106,5.8,3,4694,2.5,27.5,63.5,105.6,77.9,None,Never,11.92
+993,2024-08-27,61,M,178.1,127.4,HIIT,80,Medium,40.7,122,6.9,8,7116,2.8,27.5,63.5,105.6,77.9,None,Never,12.02
+993,2024-08-29,61,M,178.1,127.6,Weight Training,91,High,27.0,142,6.1,2,7319,1.8,27.5,63.5,105.6,77.9,None,Never,12.14
+993,2024-08-30,61,M,178.1,127.9,HIIT,93,Medium,47.5,107,7.3,2,7646,2.6,27.5,63.5,105.6,77.9,None,Never,12.26

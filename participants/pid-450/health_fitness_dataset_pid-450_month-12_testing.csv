@@ -1,0 +1,17 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+450,2024-12-01,33,F,156.6,95.1,Weight Training,53,Low,8.4,117,4.6,2,9425,3.4,18.3,64,103.5,85.8,Hypertension,Never,16.03
+450,2024-12-02,33,F,156.6,95.4,Weight Training,53,Low,8.4,118,6.3,5,6859,1.9,18.3,64,103.5,85.8,Hypertension,Never,16.08
+450,2024-12-03,33,F,156.6,95.6,Weight Training,111,Medium,21.2,133,5.2,9,9859,3.2,18.3,64,103.5,85.8,Hypertension,Never,16.21
+450,2024-12-06,33,F,156.6,95.9,Weight Training,81,Medium,15.5,135,6.9,3,9412,3.4,18.3,64,103.5,85.8,Hypertension,Never,16.31
+450,2024-12-07,33,F,156.6,96.1,Weight Training,113,Low,18.1,128,7.6,2,7181,2.1,18.3,64,103.5,85.8,Hypertension,Never,16.42
+450,2024-12-09,33,F,156.6,96.4,Basketball,59,Low,12.6,108,7.1,8,10139,3.2,18.3,64,103.5,85.8,Hypertension,Never,16.48
+450,2024-12-11,33,F,156.6,96.7,Basketball,89,Low,19.1,127,7.4,4,7383,2.8,18.3,64,103.5,85.8,Hypertension,Never,16.57
+450,2024-12-12,33,F,156.6,96.9,Weight Training,76,High,17.1,175,7.8,7,6493,3.0,18.3,64,103.5,85.8,Hypertension,Never,16.68
+450,2024-12-14,33,F,156.6,97.2,Basketball,115,Low,24.8,116,6.7,8,7473,2.2,18.3,64,103.5,85.8,Hypertension,Never,16.79
+450,2024-12-16,33,F,156.6,97.4,Basketball,22,Medium,5.7,137,8.0,2,4619,3.4,18.3,64,103.5,85.8,Hypertension,Never,16.82
+450,2024-12-17,33,F,156.6,97.7,Basketball,114,Medium,29.6,127,6.5,5,5876,2.1,18.3,64,103.5,85.8,Hypertension,Never,16.96
+450,2024-12-18,33,F,156.6,97.9,Yoga,93,High,10.6,182,6.8,7,9598,2.0,18.3,64,103.5,85.8,Hypertension,Never,17.09
+450,2024-12-19,33,F,156.6,98.2,Yoga,28,Low,2.3,121,6.4,4,9753,3.3,18.3,64,103.5,85.8,Hypertension,Never,17.11
+450,2024-12-22,33,F,156.6,98.5,Weight Training,104,High,23.8,167,7.1,7,8642,3.2,18.3,64,103.5,85.8,Hypertension,Never,17.26
+450,2024-12-23,33,F,156.6,98.7,Yoga,31,Low,2.5,122,5.5,7,11739,1.8,18.3,64,103.5,85.8,Hypertension,Never,17.29
+450,2024-12-25,33,F,156.6,99.0,Yoga,67,Medium,6.6,138,6.9,4,9187,2.3,18.3,64,103.5,85.8,Hypertension,Never,17.37

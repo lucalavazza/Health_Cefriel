@@ -1,0 +1,17 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+235,2024-11-03,30,M,178.9,134.2,Basketball,114,Medium,40.7,156,6.9,2,8191,2.1,25.9,70.3,114.3,88.5,Diabetes,Never,16.59
+235,2024-11-05,30,M,178.9,134.5,Basketball,83,Medium,29.7,137,9.4,1,5702,2.7,25.9,70.3,114.3,88.5,Diabetes,Never,16.69
+235,2024-11-07,30,M,178.9,134.7,Cycling,39,Low,12.4,119,5.2,3,8259,2.7,25.9,70.3,114.3,88.5,Diabetes,Never,16.73
+235,2024-11-08,30,M,178.9,135.0,Cycling,42,Medium,16.0,145,7.8,4,6159,3.5,25.9,70.3,114.3,88.5,Diabetes,Never,16.78
+235,2024-11-10,30,M,178.9,135.3,Cycling,42,Low,13.4,127,4.8,5,7881,2.6,25.9,70.3,114.3,88.5,Diabetes,Never,16.82
+235,2024-11-13,30,M,178.9,135.5,Cycling,98,Low,31.3,118,5.8,7,6567,2.0,25.9,70.3,114.3,88.5,Diabetes,Never,16.92
+235,2024-11-14,30,M,178.9,135.8,Cycling,93,Medium,35.7,141,8.1,8,7237,2.1,25.9,70.3,114.3,88.5,Diabetes,Never,17.03
+235,2024-11-15,30,M,178.9,136.0,Dancing,24,Medium,6.0,134,7.9,2,7815,1.6,25.9,70.3,114.3,88.5,Diabetes,Never,17.06
+235,2024-11-16,30,M,178.9,136.3,Dancing,60,Medium,15.0,150,6.8,2,7076,2.8,25.9,70.3,114.3,88.5,Diabetes,Never,17.13
+235,2024-11-17,30,M,178.9,136.5,Cycling,39,Medium,15.1,156,6.9,2,10819,1.8,25.9,70.3,114.3,88.5,Diabetes,Never,17.18
+235,2024-11-21,30,M,178.9,136.8,Cycling,92,Medium,35.6,153,7.1,7,8059,1.7,25.9,70.3,114.3,88.5,Diabetes,Never,17.29
+235,2024-11-23,30,M,178.9,137.1,Walking,110,Medium,19.1,147,5.7,10,9268,2.6,25.9,70.3,114.3,88.5,Diabetes,Never,17.42
+235,2024-11-25,30,M,178.9,137.3,Walking,66,Medium,11.5,151,8.4,7,9356,2.3,25.9,70.3,114.3,88.5,Diabetes,Never,17.5
+235,2024-11-26,30,M,178.9,137.6,Walking,25,Medium,4.3,140,7.8,1,8961,3.0,25.9,70.3,114.3,88.5,Diabetes,Never,17.53
+235,2024-11-27,30,M,178.9,137.8,Walking,27,Medium,4.7,144,6.2,6,8069,1.6,25.9,70.3,114.3,88.5,Diabetes,Never,17.56
+235,2024-11-28,30,M,178.9,138.1,Walking,43,Medium,7.5,143,7.8,7,8611,3.0,25.9,70.3,114.3,88.5,Diabetes,Never,17.61

@@ -1,0 +1,19 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+1000,2024-07-02,24,M,157.1,91.7,Weight Training,99,High,21.1,148,7.0,7,7400,2.8,23.2,71.5,116.6,74.5,None,Former,10.77
+1000,2024-07-04,24,M,157.1,91.9,Weight Training,20,Medium,3.7,163,6.8,8,8748,2.9,23.2,71.5,116.6,74.5,None,Former,10.79
+1000,2024-07-06,24,M,157.1,92.2,Weight Training,53,Medium,9.7,155,6.3,5,10179,2.4,23.2,71.5,116.6,74.5,None,Former,10.85
+1000,2024-07-07,24,M,157.1,92.4,Weight Training,46,Medium,8.5,131,7.5,3,10903,2.0,23.2,71.5,116.6,74.5,None,Former,10.91
+1000,2024-07-08,24,M,157.1,92.7,Weight Training,79,High,17.0,182,8.5,3,5890,2.9,23.2,71.5,116.6,74.5,None,Former,11.02
+1000,2024-07-09,24,M,157.1,92.9,Weight Training,98,High,21.2,181,8.5,2,8691,2.7,23.2,71.5,116.6,74.5,None,Former,11.16
+1000,2024-07-13,24,M,157.1,93.2,Weight Training,53,Medium,9.9,156,6.9,8,7641,3.2,23.2,71.5,116.6,74.5,None,Former,11.22
+1000,2024-07-14,24,M,157.1,93.5,Weight Training,43,Low,6.7,127,7.5,5,8814,2.0,23.2,71.5,116.6,74.5,None,Former,11.26
+1000,2024-07-15,24,M,157.1,93.7,Weight Training,36,High,7.9,160,8.1,4,10339,2.4,23.2,71.5,116.6,74.5,None,Former,11.31
+1000,2024-07-17,24,M,157.1,94.0,Yoga,36,Medium,3.4,148,7.0,3,7543,2.1,23.2,71.5,116.6,74.5,None,Former,11.36
+1000,2024-07-19,24,M,157.1,94.2,Weight Training,24,Low,3.8,127,6.0,2,6729,1.9,23.2,71.5,116.6,74.5,None,Former,11.38
+1000,2024-07-20,24,M,157.1,94.5,Weight Training,114,Medium,21.5,146,6.6,2,7983,3.1,23.2,71.5,116.6,74.5,None,Former,11.52
+1000,2024-07-21,24,M,157.1,94.8,Weight Training,106,Medium,20.0,145,6.5,6,9283,3.3,23.2,71.5,116.6,74.5,None,Former,11.64
+1000,2024-07-22,24,M,157.1,95.0,Weight Training,113,Medium,21.4,162,8.2,7,11474,1.7,23.2,71.5,116.6,74.5,None,Former,11.78
+1000,2024-07-23,24,M,157.1,95.3,Weight Training,113,Medium,21.5,147,8.3,3,4789,1.9,23.2,71.5,116.6,74.5,None,Former,11.92
+1000,2024-07-26,24,M,157.1,95.5,Weight Training,113,Medium,21.5,155,7.5,1,8749,3.1,23.2,71.5,116.6,74.5,None,Former,12.05
+1000,2024-07-30,24,M,157.1,95.8,Weight Training,44,High,9.8,169,7.1,5,4655,2.4,23.2,71.5,116.6,74.5,None,Former,12.11
+1000,2024-07-31,24,M,157.1,96.0,Cycling,68,High,21.5,154,6.6,1,5322,3.2,23.2,71.5,116.6,74.5,None,Former,12.21

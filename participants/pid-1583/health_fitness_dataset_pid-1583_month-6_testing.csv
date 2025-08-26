@@ -1,0 +1,19 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+1583,2024-06-01,55,F,162.4,97.3,Weight Training,62,Low,10.0,113,8.2,7,9075,3.3,25.9,70,111,81.6,None,Former,8.43
+1583,2024-06-03,55,F,162.4,97.5,Basketball,25,Medium,6.5,133,6.1,6,9292,2.6,25.9,70,111,81.6,None,Former,8.46
+1583,2024-06-04,55,F,162.4,97.8,Weight Training,116,Medium,22.6,121,6.7,7,7609,3.5,25.9,70,111,81.6,None,Former,8.6
+1583,2024-06-05,55,F,162.4,98.1,Basketball,115,Medium,30.0,126,7.3,5,9723,3.2,25.9,70,111,81.6,None,Former,8.74
+1583,2024-06-06,55,F,162.4,98.3,Basketball,67,High,20.4,141,7.5,4,8544,2.2,25.9,70,111,81.6,None,Former,8.83
+1583,2024-06-07,55,F,162.4,98.6,Weight Training,56,High,12.8,148,9.0,2,10074,2.5,25.9,70,111,81.6,None,Former,8.91
+1583,2024-06-10,55,F,162.4,98.8,Basketball,63,Medium,16.6,120,5.5,4,7771,3.3,25.9,70,111,81.6,None,Former,8.98
+1583,2024-06-12,55,F,162.4,99.1,Weight Training,119,Low,19.6,102,7.7,3,10433,3.2,25.9,70,111,81.6,None,Former,9.1
+1583,2024-06-15,55,F,162.4,99.3,Walking,119,Medium,14.9,119,6.7,10,10867,1.9,25.9,70,111,81.6,None,Former,9.25
+1583,2024-06-16,55,F,162.4,99.6,Dancing,86,Medium,15.7,133,6.3,3,10114,1.7,25.9,70,111,81.6,None,Former,9.35
+1583,2024-06-17,55,F,162.4,99.9,Weight Training,58,Low,9.6,107,7.9,2,6180,3.1,25.9,70,111,81.6,None,Former,9.41
+1583,2024-06-18,55,F,162.4,100.1,Walking,53,Low,5.6,115,7.8,2,8642,2.7,25.9,70,111,81.6,None,Former,9.46
+1583,2024-06-19,55,F,162.4,100.4,Dancing,75,Medium,13.8,122,6.0,3,6991,2.8,25.9,70,111,81.6,None,Former,9.55
+1583,2024-06-21,55,F,162.4,100.6,Dancing,104,Medium,19.1,109,7.0,9,8932,3.0,25.9,70,111,81.6,None,Former,9.67
+1583,2024-06-23,55,F,162.4,100.9,Walking,115,Medium,14.7,121,8.0,3,10085,2.9,25.9,70,111,81.6,None,Former,9.81
+1583,2024-06-25,55,F,162.4,101.1,Dancing,105,Medium,19.4,123,7.0,7,6736,3.3,25.9,70,111,81.6,None,Former,9.94
+1583,2024-06-28,55,F,162.4,101.4,Walking,43,High,6.4,135,6.3,9,8041,1.9,25.9,70,111,81.6,None,Former,10.0
+1583,2024-06-29,55,F,162.4,101.7,Walking,25,Low,2.7,108,7.1,5,9610,2.3,25.9,70,111,81.6,None,Former,10.02

@@ -1,0 +1,19 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+1059,2024-07-01,21,F,153,79.6,Running,38,Medium,9.9,150,7.5,8,8056,1.7,19.2,69.3,127.8,76.8,Hypertension,Former,10.38
+1059,2024-07-03,21,F,153,79.9,Running,40,Low,8.7,130,6.4,10,10282,2.3,19.2,69.3,127.8,76.8,Hypertension,Former,10.42
+1059,2024-07-05,21,F,153,80.2,HIIT,74,Medium,23.7,149,6.9,4,6921,2.0,19.2,69.3,127.8,76.8,Hypertension,Former,10.51
+1059,2024-07-06,21,F,153,80.4,Running,41,Medium,10.7,149,7.2,5,10041,3.5,19.2,69.3,127.8,76.8,Hypertension,Former,10.56
+1059,2024-07-07,21,F,153,80.7,Running,32,Medium,8.4,158,6.1,1,10714,2.2,19.2,69.3,127.8,76.8,Hypertension,Former,10.6
+1059,2024-07-08,21,F,153,80.9,HIIT,41,High,15.4,176,8.7,10,7196,3.5,19.2,69.3,127.8,76.8,Hypertension,Former,10.65
+1059,2024-07-09,21,F,153,81.2,Cycling,102,Medium,23.4,140,8.6,7,4296,1.6,19.2,69.3,127.8,76.8,Hypertension,Former,10.78
+1059,2024-07-10,21,F,153,81.5,HIIT,56,Low,15.2,126,6.7,8,5669,2.8,19.2,69.3,127.8,76.8,Hypertension,Former,10.83
+1059,2024-07-12,21,F,153,81.7,Weight Training,29,Low,3.9,130,6.2,6,5548,2.1,19.2,69.3,127.8,76.8,Hypertension,Former,10.86
+1059,2024-07-14,21,F,153,82.0,Cycling,104,Low,20.1,129,6.3,7,11211,2.3,19.2,69.3,127.8,76.8,Hypertension,Former,10.96
+1059,2024-07-15,21,F,153,82.2,HIIT,33,Medium,10.8,157,5.7,4,8387,3.5,19.2,69.3,127.8,76.8,Hypertension,Former,11.0
+1059,2024-07-16,21,F,153,82.5,HIIT,66,Low,18.1,129,6.7,7,8929,2.2,19.2,69.3,127.8,76.8,Hypertension,Former,11.07
+1059,2024-07-17,21,F,153,82.7,Yoga,103,High,9.9,167,8.9,8,7988,2.9,19.2,69.3,127.8,76.8,Hypertension,Former,11.21
+1059,2024-07-18,21,F,153,83.0,Cycling,50,Low,9.8,131,6.6,10,8123,1.7,19.2,69.3,127.8,76.8,Hypertension,Former,11.26
+1059,2024-07-20,21,F,153,83.3,HIIT,81,Medium,26.9,142,8.7,3,7135,2.2,19.2,69.3,127.8,76.8,Hypertension,Former,11.36
+1059,2024-07-23,21,F,153,83.5,Tennis,80,Low,13.5,133,7.3,4,8568,3.3,19.2,69.3,127.8,76.8,Hypertension,Former,11.44
+1059,2024-07-27,21,F,153,83.8,HIIT,58,Medium,19.4,137,8.9,10,8880,1.5,19.2,69.3,127.8,76.8,Hypertension,Former,11.51
+1059,2024-07-28,21,F,153,84.0,Tennis,43,Low,7.3,134,8.0,8,7587,3.4,19.2,69.3,127.8,76.8,Hypertension,Former,11.55

@@ -1,0 +1,22 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+2547,2024-01-02,26,M,181.7,72.4,Swimming,117,High,23.0,151,7.9,2,9895,2.1,21.9,71.5,106.1,81.3,Diabetes,Never,0.16
+2547,2024-01-04,26,M,181.7,72.7,Swimming,34,Medium,5.7,153,6.1,1,10873,2.5,21.9,71.5,106.1,81.3,Diabetes,Never,0.2
+2547,2024-01-07,26,M,181.7,73.0,HIIT,94,Medium,27.3,150,5.9,3,12790,3.5,21.9,71.5,106.1,81.3,Diabetes,Never,0.32
+2547,2024-01-08,26,M,181.7,73.2,Weight Training,115,Low,14.0,122,7.7,2,11246,1.7,21.9,71.5,106.1,81.3,Diabetes,Never,0.43
+2547,2024-01-10,26,M,181.7,73.5,HIIT,68,High,23.2,164,8.3,4,8712,3.5,21.9,71.5,106.1,81.3,Diabetes,Never,0.53
+2547,2024-01-11,26,M,181.7,73.7,Weight Training,55,Medium,8.1,145,5.2,8,9022,2.9,21.9,71.5,106.1,81.3,Diabetes,Never,0.59
+2547,2024-01-12,26,M,181.7,74.0,Weight Training,73,Medium,10.8,149,6.6,1,8377,2.5,21.9,71.5,106.1,81.3,Diabetes,Never,0.68
+2547,2024-01-13,26,M,181.7,74.2,Basketball,49,Low,8.1,123,9.3,5,10184,3.4,21.9,71.5,106.1,81.3,Diabetes,Never,0.73
+2547,2024-01-14,26,M,181.7,74.5,Basketball,65,Medium,12.9,161,6.9,2,10548,2.9,21.9,71.5,106.1,81.3,Diabetes,Never,0.81
+2547,2024-01-15,26,M,181.7,74.8,Running,54,Low,11.0,125,8.5,10,8974,1.9,21.9,71.5,106.1,81.3,Diabetes,Never,0.86
+2547,2024-01-16,26,M,181.7,75.0,Basketball,36,High,8.4,149,8.1,1,8846,2.1,21.9,71.5,106.1,81.3,Diabetes,Never,0.91
+2547,2024-01-19,26,M,181.7,75.3,Basketball,64,High,14.9,170,7.2,3,8151,2.9,21.9,71.5,106.1,81.3,Diabetes,Never,1.0
+2547,2024-01-20,26,M,181.7,75.5,Running,39,Medium,9.6,147,7.9,10,11049,3.2,21.9,71.5,106.1,81.3,Diabetes,Never,1.05
+2547,2024-01-21,26,M,181.7,75.8,Running,116,High,33.4,164,8.4,6,11944,2.7,21.9,71.5,106.1,81.3,Diabetes,Never,1.21
+2547,2024-01-23,26,M,181.7,76.1,Basketball,99,Medium,20.0,153,6.9,4,8753,2.8,21.9,71.5,106.1,81.3,Diabetes,Never,1.33
+2547,2024-01-24,26,M,181.7,76.3,Running,23,Medium,5.7,136,5.9,3,9203,2.0,21.9,71.5,106.1,81.3,Diabetes,Never,1.36
+2547,2024-01-25,26,M,181.7,76.6,Running,38,Medium,9.5,129,7.6,2,6684,1.7,21.9,71.5,106.1,81.3,Diabetes,Never,1.4
+2547,2024-01-26,26,M,181.7,76.8,Running,66,High,19.3,176,7.0,5,11646,2.5,21.9,71.5,106.1,81.3,Diabetes,Never,1.5
+2547,2024-01-27,26,M,181.7,77.1,Running,42,Low,8.8,128,6.3,6,11019,3.1,21.9,71.5,106.1,81.3,Diabetes,Never,1.54
+2547,2024-01-28,26,M,181.7,77.3,Walking,84,Medium,8.2,148,7.0,9,9379,2.2,21.9,71.5,106.1,81.3,Diabetes,Never,1.64
+2547,2024-01-30,26,M,181.7,77.6,Walking,108,Low,8.8,128,7.3,2,8728,2.7,21.9,71.5,106.1,81.3,Diabetes,Never,1.75

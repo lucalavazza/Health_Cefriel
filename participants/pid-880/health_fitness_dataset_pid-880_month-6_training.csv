@@ -1,0 +1,17 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+880,2024-06-01,49,M,185.1,120.7,Basketball,30,High,11.2,146,6.6,2,7721,3.4,26.4,73.5,111.1,96.6,None,Former,10.49
+880,2024-06-02,49,M,185.1,120.9,Basketball,45,Medium,14.5,123,6.8,3,11591,2.5,26.4,73.5,111.1,96.6,None,Former,10.54
+880,2024-06-03,49,M,185.1,121.2,Dancing,69,High,17.8,147,7.9,5,7927,3.0,26.4,73.5,111.1,96.6,None,Former,10.64
+880,2024-06-05,49,M,185.1,121.4,Basketball,47,Medium,15.2,114,5.9,2,7121,1.9,26.4,73.5,111.1,96.6,None,Former,10.69
+880,2024-06-08,49,M,185.1,121.7,Basketball,105,Low,28.3,112,8.3,3,6689,3.1,26.4,73.5,111.1,96.6,None,Former,10.8
+880,2024-06-10,49,M,185.1,122.0,Dancing,27,Medium,6.0,145,6.2,1,8598,2.7,26.4,73.5,111.1,96.6,None,Former,10.83
+880,2024-06-11,49,M,185.1,122.2,Basketball,89,Medium,28.9,106,7.5,7,9033,2.1,26.4,73.5,111.1,96.6,None,Former,10.94
+880,2024-06-12,49,M,185.1,122.5,Tennis,62,Low,15.4,107,5.9,1,9126,2.7,26.4,73.5,111.1,96.6,None,Former,11.0
+880,2024-06-13,49,M,185.1,122.7,Basketball,79,Medium,25.8,134,6.1,6,8201,3.1,26.4,73.5,111.1,96.6,None,Former,11.09
+880,2024-06-18,49,M,185.1,123.0,Walking,65,Medium,10.1,131,5.5,2,8679,1.8,26.4,73.5,111.1,96.6,None,Former,11.17
+880,2024-06-19,49,M,185.1,123.2,Walking,74,Low,9.6,112,6.4,6,6548,2.9,26.4,73.5,111.1,96.6,None,Former,11.25
+880,2024-06-22,49,M,185.1,123.5,Basketball,47,Medium,15.4,126,7.0,5,10851,2.4,26.4,73.5,111.1,96.6,None,Former,11.3
+880,2024-06-24,49,M,185.1,123.8,Walking,51,Medium,8.0,127,6.4,2,8111,2.1,26.4,73.5,111.1,96.6,None,Former,11.36
+880,2024-06-27,49,M,185.1,124.0,Basketball,70,Low,19.3,112,7.6,4,9454,2.6,26.4,73.5,111.1,96.6,None,Former,11.43
+880,2024-06-28,49,M,185.1,124.3,HIIT,61,High,35.3,123,5.2,6,7831,3.0,26.4,73.5,111.1,96.6,None,Former,11.52
+880,2024-06-30,49,M,185.1,124.5,Walking,72,Low,9.4,104,7.3,6,9559,2.6,26.4,73.5,111.1,96.6,None,Former,11.59

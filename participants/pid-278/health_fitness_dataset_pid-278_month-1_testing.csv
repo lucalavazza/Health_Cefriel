@@ -1,0 +1,21 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+278,2024-01-01,39,M,182.2,86.0,Weight Training,56,Medium,9.6,130,7.0,6,8441,3.1,25.8,74.2,115.3,89.3,Diabetes,Former,0.07
+278,2024-01-02,39,M,182.2,86.3,Weight Training,49,High,9.8,141,7.9,10,6751,3.3,25.8,74.2,115.3,89.3,Diabetes,Former,0.14
+278,2024-01-03,39,M,182.2,86.5,Weight Training,49,Medium,8.5,140,8.6,1,8562,2.7,25.8,74.2,115.3,89.3,Diabetes,Former,0.19
+278,2024-01-05,39,M,182.2,86.8,Weight Training,66,Medium,11.4,135,7.7,9,9090,2.6,25.8,74.2,115.3,89.3,Diabetes,Former,0.27
+278,2024-01-07,39,M,182.2,87.0,Tennis,95,Medium,20.1,142,6.9,9,9599,2.5,25.8,74.2,115.3,89.3,Diabetes,Former,0.39
+278,2024-01-09,39,M,182.2,87.3,Tennis,96,Medium,20.3,139,7.9,10,7274,3.2,25.8,74.2,115.3,89.3,Diabetes,Former,0.5
+278,2024-01-10,39,M,182.2,87.6,Tennis,110,Medium,23.4,141,7.6,10,6320,1.6,25.8,74.2,115.3,89.3,Diabetes,Former,0.64
+278,2024-01-12,39,M,182.2,87.8,Basketball,81,Low,15.8,118,6.2,6,11667,2.7,25.8,74.2,115.3,89.3,Diabetes,Former,0.72
+278,2024-01-13,39,M,182.2,88.1,Tennis,88,Low,15.7,120,6.7,9,8788,2.4,25.8,74.2,115.3,89.3,Diabetes,Former,0.8
+278,2024-01-15,39,M,182.2,88.3,Tennis,42,Medium,9.0,128,6.3,8,8130,1.8,25.8,74.2,115.3,89.3,Diabetes,Former,0.85
+278,2024-01-19,39,M,182.2,88.6,Tennis,90,Medium,19.3,143,6.5,10,9194,2.5,25.8,74.2,115.3,89.3,Diabetes,Former,0.96
+278,2024-01-20,39,M,182.2,88.8,Tennis,28,Low,5.0,114,6.3,2,10894,2.5,25.8,74.2,115.3,89.3,Diabetes,Former,0.99
+278,2024-01-21,39,M,182.2,89.1,Tennis,91,Low,16.4,126,7.0,4,11346,1.5,25.8,74.2,115.3,89.3,Diabetes,Former,1.08
+278,2024-01-22,39,M,182.2,89.4,Tennis,99,Medium,21.5,126,5.8,5,6988,2.9,25.8,74.2,115.3,89.3,Diabetes,Former,1.2
+278,2024-01-23,39,M,182.2,89.6,Tennis,49,Low,8.9,119,7.4,7,8806,1.5,25.8,74.2,115.3,89.3,Diabetes,Former,1.25
+278,2024-01-25,39,M,182.2,89.9,Tennis,95,Medium,20.7,130,7.1,1,9295,1.6,25.8,74.2,115.3,89.3,Diabetes,Former,1.36
+278,2024-01-26,39,M,182.2,90.1,Tennis,111,Medium,24.3,146,7.6,10,6869,2.1,25.8,74.2,115.3,89.3,Diabetes,Former,1.5
+278,2024-01-28,39,M,182.2,90.4,Tennis,99,Medium,21.7,121,6.3,9,10730,2.6,25.8,74.2,115.3,89.3,Diabetes,Former,1.62
+278,2024-01-29,39,M,182.2,90.6,Basketball,115,Medium,27.7,137,7.6,4,7739,1.5,25.8,74.2,115.3,89.3,Diabetes,Former,1.75
+278,2024-01-30,39,M,182.2,90.9,Tennis,83,Medium,18.3,132,6.4,7,6839,3.2,25.8,74.2,115.3,89.3,Diabetes,Former,1.85

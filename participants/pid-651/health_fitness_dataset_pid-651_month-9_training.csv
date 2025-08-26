@@ -1,0 +1,17 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+651,2024-09-04,37,M,172.5,92.9,Basketball,24,Low,4.9,113,7.3,8,4996,2.8,16.8,62.7,115.5,87.9,Diabetes,Never,13.08
+651,2024-09-05,37,M,172.5,93.2,Swimming,114,Low,20.6,123,6.9,1,5872,2.7,16.8,62.7,115.5,87.9,Diabetes,Never,13.19
+651,2024-09-06,37,M,172.5,93.4,Running,79,Medium,24.0,133,6.9,5,8341,3.1,16.8,62.7,115.5,87.9,Diabetes,Never,13.29
+651,2024-09-07,37,M,172.5,93.7,Running,97,Medium,29.6,130,7.4,9,11387,1.7,16.8,62.7,115.5,87.9,Diabetes,Never,13.4
+651,2024-09-08,37,M,172.5,93.9,HIIT,103,High,45.0,160,6.5,4,5877,2.9,16.8,62.7,115.5,87.9,Diabetes,Never,13.55
+651,2024-09-09,37,M,172.5,94.2,HIIT,116,High,50.8,156,5.6,2,8353,2.5,16.8,62.7,115.5,87.9,Diabetes,Never,13.71
+651,2024-09-11,37,M,172.5,94.4,HIIT,35,Low,11.0,118,8.7,4,4909,2.1,16.8,62.7,115.5,87.9,Diabetes,Never,13.74
+651,2024-09-12,37,M,172.5,94.7,Dancing,38,High,7.7,168,7.9,7,6425,2.1,16.8,62.7,115.5,87.9,Diabetes,Never,13.8
+651,2024-09-14,37,M,172.5,94.9,Dancing,25,Medium,4.3,127,6.8,2,6959,2.5,16.8,62.7,115.5,87.9,Diabetes,Never,13.83
+651,2024-09-18,37,M,172.5,95.2,Dancing,88,Low,12.8,119,6.8,7,4570,2.7,16.8,62.7,115.5,87.9,Diabetes,Never,13.92
+651,2024-09-19,37,M,172.5,95.5,Dancing,108,Medium,18.9,131,6.9,1,3331,3.2,16.8,62.7,115.5,87.9,Diabetes,Never,14.05
+651,2024-09-20,37,M,172.5,95.7,Dancing,47,High,9.6,153,8.8,8,5968,3.1,16.8,62.7,115.5,87.9,Diabetes,Never,14.11
+651,2024-09-21,37,M,172.5,96.0,Dancing,83,High,17.0,148,5.8,1,11843,2.5,16.8,62.7,115.5,87.9,Diabetes,Never,14.23
+651,2024-09-22,37,M,172.5,96.2,Dancing,21,High,4.3,148,6.9,1,8302,2.3,16.8,62.7,115.5,87.9,Diabetes,Never,14.26
+651,2024-09-25,37,M,172.5,96.5,Yoga,98,Low,7.9,114,6.9,4,7664,2.6,16.8,62.7,115.5,87.9,Diabetes,Never,14.35
+651,2024-09-28,37,M,172.5,96.8,Yoga,101,High,11.4,142,8.5,4,8528,2.2,16.8,62.7,115.5,87.9,Diabetes,Never,14.5

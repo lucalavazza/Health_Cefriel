@@ -1,0 +1,20 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+1881,2024-10-03,26,F,151.3,92.5,Swimming,74,Low,13.3,129,6.2,9,2957,3.0,19.7,56.5,99,93.2,None,Never,14.98
+1881,2024-10-04,26,F,151.3,92.8,Swimming,28,Medium,6.0,144,7.5,7,3674,3.2,19.7,56.5,99,93.2,None,Never,15.02
+1881,2024-10-05,26,F,151.3,93.0,Basketball,52,Medium,12.9,142,7.8,3,9703,1.8,19.7,56.5,99,93.2,None,Never,15.08
+1881,2024-10-06,26,F,151.3,93.3,Weight Training,24,Medium,4.5,148,7.9,5,7956,2.8,19.7,56.5,99,93.2,None,Never,15.11
+1881,2024-10-07,26,F,151.3,93.6,Basketball,89,Medium,22.1,148,6.5,8,3944,2.1,19.7,56.5,99,93.2,None,Never,15.22
+1881,2024-10-08,26,F,151.3,93.8,Dancing,65,Medium,11.1,146,5.9,6,4432,3.4,19.7,56.5,99,93.2,None,Never,15.29
+1881,2024-10-09,26,F,151.3,94.1,Basketball,65,Medium,16.3,151,6.6,2,5519,1.5,19.7,56.5,99,93.2,None,Never,15.37
+1881,2024-10-10,26,F,151.3,94.3,Basketball,104,High,30.4,159,5.0,7,5800,2.5,19.7,56.5,99,93.2,None,Never,15.52
+1881,2024-10-11,26,F,151.3,94.6,Basketball,36,Medium,9.1,152,6.3,5,10589,2.0,19.7,56.5,99,93.2,None,Never,15.56
+1881,2024-10-17,26,F,151.3,94.8,Basketball,40,Medium,10.1,155,6.2,6,8176,3.3,19.7,56.5,99,93.2,None,Never,15.61
+1881,2024-10-18,26,F,151.3,95.1,Basketball,41,Low,8.6,122,6.7,5,7505,1.7,19.7,56.5,99,93.2,None,Never,15.65
+1881,2024-10-22,26,F,151.3,95.4,Basketball,38,Medium,9.6,148,6.6,6,6199,3.2,19.7,56.5,99,93.2,None,Never,15.69
+1881,2024-10-25,26,F,151.3,95.6,Basketball,107,Medium,27.2,141,5.2,2,6561,2.3,19.7,56.5,99,93.2,None,Never,15.82
+1881,2024-10-26,26,F,151.3,95.9,Basketball,39,Medium,9.9,136,8.7,5,9503,2.5,19.7,56.5,99,93.2,None,Never,15.87
+1881,2024-10-27,26,F,151.3,96.1,Weight Training,114,High,25.5,161,5.8,3,8870,3.3,19.7,56.5,99,93.2,None,Never,16.03
+1881,2024-10-28,26,F,151.3,96.4,Weight Training,99,Low,15.9,122,7.7,9,7238,1.8,19.7,56.5,99,93.2,None,Never,16.13
+1881,2024-10-29,26,F,151.3,96.6,Dancing,112,Medium,19.8,145,5.1,2,5493,2.9,19.7,56.5,99,93.2,None,Never,16.26
+1881,2024-10-30,26,F,151.3,96.9,Dancing,119,Medium,21.1,151,7.6,1,5291,1.9,19.7,56.5,99,93.2,None,Never,16.41
+1881,2024-10-31,26,F,151.3,97.2,Tennis,55,Medium,13.0,142,6.2,7,6564,1.9,19.7,56.5,99,93.2,None,Never,16.47

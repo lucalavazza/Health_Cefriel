@@ -1,0 +1,16 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+1149,2024-12-02,39,F,162.1,105.9,Running,62,Medium,21.4,136,6.7,10,6840,2.6,18.2,68.5,130.5,74.5,None,Former,18.11
+1149,2024-12-06,39,F,162.1,106.1,Cycling,38,Low,9.5,115,6.9,6,6880,1.8,18.2,68.5,130.5,74.5,None,Former,18.14
+1149,2024-12-07,39,F,162.1,106.4,Weight Training,33,Medium,7.0,127,4.8,6,10018,1.6,18.2,68.5,130.5,74.5,None,Former,18.18
+1149,2024-12-08,39,F,162.1,106.6,Weight Training,98,High,24.3,146,6.4,1,9018,3.3,18.2,68.5,130.5,74.5,None,Former,18.32
+1149,2024-12-09,39,F,162.1,106.9,Walking,66,Low,7.4,121,7.1,1,10475,3.1,18.2,68.5,130.5,74.5,None,Former,18.39
+1149,2024-12-11,39,F,162.1,107.1,Weight Training,112,Low,20.0,121,5.9,8,7556,3.3,18.2,68.5,130.5,74.5,None,Former,18.5
+1149,2024-12-12,39,F,162.1,107.4,Walking,113,Medium,15.3,137,7.4,4,7309,2.4,18.2,68.5,130.5,74.5,None,Former,18.63
+1149,2024-12-14,39,F,162.1,107.7,Weight Training,109,Medium,23.4,151,7.1,4,7965,2.3,18.2,68.5,130.5,74.5,None,Former,18.77
+1149,2024-12-16,39,F,162.1,107.9,Cycling,70,Medium,21.4,146,4.8,3,10279,1.8,18.2,68.5,130.5,74.5,None,Former,18.85
+1149,2024-12-17,39,F,162.1,108.2,Walking,120,Low,13.7,115,5.8,3,6137,2.1,18.2,68.5,130.5,74.5,None,Former,18.97
+1149,2024-12-20,39,F,162.1,108.4,Weight Training,54,Medium,11.7,135,7.9,5,7374,3.2,18.2,68.5,130.5,74.5,None,Former,19.03
+1149,2024-12-22,39,F,162.1,108.7,Walking,67,Medium,9.2,142,7.2,2,6800,1.7,18.2,68.5,130.5,74.5,None,Former,19.11
+1149,2024-12-23,39,F,162.1,108.9,Walking,56,High,9.0,151,5.8,8,6397,2.6,18.2,68.5,130.5,74.5,None,Former,19.19
+1149,2024-12-24,39,F,162.1,109.2,Walking,89,Low,10.2,122,6.9,6,5513,3.4,18.2,68.5,130.5,74.5,None,Former,19.28
+1149,2024-12-25,39,F,162.1,109.5,Walking,104,Low,12.0,112,6.1,5,6832,2.4,18.2,68.5,130.5,74.5,None,Former,19.39

@@ -1,0 +1,17 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+2345,2024-07-01,47,F,160.3,98.4,Tennis,46,Low,9.2,109,7.5,4,7999,3.1,24.6,80.4,124.8,78.6,None,Current,11.67
+2345,2024-07-03,47,F,160.3,98.6,Weight Training,88,Low,14.4,113,6.5,7,7061,2.0,24.6,80.4,124.8,78.6,None,Current,11.76
+2345,2024-07-04,47,F,160.3,98.9,HIIT,84,Medium,33.1,130,7.6,5,5902,3.4,24.6,80.4,124.8,78.6,None,Current,11.86
+2345,2024-07-05,47,F,160.3,99.1,Running,113,Medium,36.5,115,6.9,10,8865,2.6,24.6,80.4,124.8,78.6,None,Current,11.99
+2345,2024-07-06,47,F,160.3,99.4,HIIT,20,Low,6.6,123,7.1,4,9650,3.0,24.6,80.4,124.8,78.6,None,Current,12.01
+2345,2024-07-09,47,F,160.3,99.6,Weight Training,72,Medium,14.3,135,6.3,8,6800,2.8,24.6,80.4,124.8,78.6,None,Current,12.1
+2345,2024-07-11,47,F,160.3,99.9,Running,41,High,15.6,156,6.4,2,9953,2.6,24.6,80.4,124.8,78.6,None,Current,12.16
+2345,2024-07-12,47,F,160.3,100.2,HIIT,105,Medium,42.0,129,7.0,2,9388,1.6,24.6,80.4,124.8,78.6,None,Current,12.28
+2345,2024-07-14,47,F,160.3,100.4,Weight Training,114,Medium,22.8,133,7.3,7,10040,1.6,24.6,80.4,124.8,78.6,None,Current,12.42
+2345,2024-07-16,47,F,160.3,100.7,HIIT,64,Medium,25.7,135,8.8,8,6614,1.6,24.6,80.4,124.8,78.6,None,Current,12.5
+2345,2024-07-17,47,F,160.3,100.9,HIIT,49,Medium,19.7,122,7.3,5,6958,1.6,24.6,80.4,124.8,78.6,None,Current,12.55
+2345,2024-07-20,47,F,160.3,101.2,Basketball,50,Medium,13.5,114,7.7,3,11052,2.8,24.6,80.4,124.8,78.6,None,Current,12.61
+2345,2024-07-24,47,F,160.3,101.4,HIIT,23,Medium,9.3,133,6.7,8,8284,2.9,24.6,80.4,124.8,78.6,None,Current,12.64
+2345,2024-07-27,47,F,160.3,101.7,Cycling,35,Low,8.4,117,7.6,5,7381,3.1,24.6,80.4,124.8,78.6,None,Current,12.68
+2345,2024-07-29,47,F,160.3,102.0,Yoga,40,Medium,4.1,138,5.9,8,7870,2.2,24.6,80.4,124.8,78.6,None,Current,12.72
+2345,2024-07-31,47,F,160.3,102.2,Running,22,Medium,7.3,123,6.3,10,8043,2.5,24.6,80.4,124.8,78.6,None,Current,12.75

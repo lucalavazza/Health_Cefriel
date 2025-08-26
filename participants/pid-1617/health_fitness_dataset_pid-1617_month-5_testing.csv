@@ -1,0 +1,18 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+1617,2024-05-01,53,F,158.1,81.4,Weight Training,100,Low,13.5,111,7.7,1,9779,3.4,23,72.5,128.3,67.4,None,Never,8.0
+1617,2024-05-02,53,F,158.1,81.6,Weight Training,51,High,9.7,142,7.8,1,11284,2.1,23,72.5,128.3,67.4,None,Never,8.07
+1617,2024-05-04,53,F,158.1,81.9,Weight Training,63,Medium,10.3,122,6.9,2,14244,3.1,23,72.5,128.3,67.4,None,Never,8.14
+1617,2024-05-05,53,F,158.1,82.1,Weight Training,20,Medium,3.3,124,6.4,3,11544,2.2,23,72.5,128.3,67.4,None,Never,8.17
+1617,2024-05-06,53,F,158.1,82.4,Weight Training,45,High,8.6,144,6.8,6,7772,3.4,23,72.5,128.3,67.4,None,Never,8.23
+1617,2024-05-08,53,F,158.1,82.7,Weight Training,107,High,20.6,133,7.3,10,9150,2.8,23,72.5,128.3,67.4,None,Never,8.38
+1617,2024-05-09,53,F,158.1,82.9,Weight Training,101,High,19.5,152,8.2,4,10557,1.8,23,72.5,128.3,67.4,None,Never,8.52
+1617,2024-05-11,53,F,158.1,83.2,Weight Training,37,Medium,6.1,117,6.6,3,9854,2.0,23,72.5,128.3,67.4,None,Never,8.57
+1617,2024-05-13,53,F,158.1,83.4,Weight Training,44,Medium,7.3,149,5.8,8,6887,3.3,23,72.5,128.3,67.4,None,Never,8.62
+1617,2024-05-15,53,F,158.1,83.7,Swimming,95,Medium,18.5,130,7.4,5,10753,3.1,23,72.5,128.3,67.4,None,Never,8.73
+1617,2024-05-16,53,F,158.1,84.0,HIIT,83,Low,23.2,114,7.8,8,5872,2.5,23,72.5,128.3,67.4,None,Never,8.82
+1617,2024-05-18,53,F,158.1,84.2,Swimming,39,Medium,7.6,130,7.8,10,14264,3.0,23,72.5,128.3,67.4,None,Never,8.86
+1617,2024-05-23,53,F,158.1,84.5,Swimming,45,Medium,8.8,128,7.6,6,10339,2.4,23,72.5,128.3,67.4,None,Never,8.92
+1617,2024-05-24,53,F,158.1,84.7,HIIT,36,High,14.2,146,8.7,4,8640,2.7,23,72.5,128.3,67.4,None,Never,8.97
+1617,2024-05-25,53,F,158.1,85.0,HIIT,71,Medium,24.1,136,7.1,7,10688,3.4,23,72.5,128.3,67.4,None,Never,9.05
+1617,2024-05-27,53,F,158.1,85.2,HIIT,102,Low,28.9,105,8.3,4,9989,2.3,23,72.5,128.3,67.4,None,Never,9.16
+1617,2024-05-29,53,F,158.1,85.5,HIIT,65,Low,18.5,106,8.0,6,7400,3.3,23,72.5,128.3,67.4,None,Never,9.22

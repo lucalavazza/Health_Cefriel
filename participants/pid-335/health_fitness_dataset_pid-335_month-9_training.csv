@@ -1,0 +1,17 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+335,2024-09-05,39,F,165.4,119.5,Yoga,105,Low,10.4,116,7.8,2,7673,2.8,26.9,68,135.2,80.5,None,Current,15.69
+335,2024-09-07,39,F,165.4,119.7,Running,90,Medium,35.1,138,7.1,9,3969,3.5,26.9,68,135.2,80.5,None,Current,15.79
+335,2024-09-09,39,F,165.4,120.0,Yoga,101,Low,10.1,112,6.2,8,9515,1.5,26.9,68,135.2,80.5,None,Current,15.9
+335,2024-09-10,39,F,165.4,120.2,Running,32,Low,10.5,116,6.9,1,6330,2.4,26.9,68,135.2,80.5,None,Current,15.93
+335,2024-09-11,39,F,165.4,120.5,Weight Training,70,Low,14.0,119,7.9,7,8508,2.7,26.9,68,135.2,80.5,None,Current,16.0
+335,2024-09-14,39,F,165.4,120.7,Basketball,105,High,39.4,166,7.2,8,9056,2.8,26.9,68,135.2,80.5,None,Current,16.14
+335,2024-09-15,39,F,165.4,121.0,Weight Training,46,Medium,11.1,130,7.0,9,7292,1.5,26.9,68,135.2,80.5,None,Current,16.2
+335,2024-09-16,39,F,165.4,121.3,Weight Training,85,Low,17.1,122,7.5,7,4361,2.8,26.9,68,135.2,80.5,None,Current,16.28
+335,2024-09-17,39,F,165.4,121.5,Weight Training,108,Medium,26.2,133,7.9,5,5055,3.2,26.9,68,135.2,80.5,None,Current,16.41
+335,2024-09-18,39,F,165.4,121.8,Dancing,48,Medium,10.7,135,8.1,4,5329,3.1,26.9,68,135.2,80.5,None,Current,16.47
+335,2024-09-19,39,F,165.4,122.0,Weight Training,86,Low,17.5,120,8.7,3,4594,2.6,26.9,68,135.2,80.5,None,Current,16.56
+335,2024-09-20,39,F,165.4,122.3,Weight Training,35,Medium,8.5,137,7.5,7,8650,2.5,26.9,68,135.2,80.5,None,Current,16.6
+335,2024-09-22,39,F,165.4,122.5,Weight Training,114,Medium,27.9,139,8.6,3,8980,1.7,26.9,68,135.2,80.5,None,Current,16.74
+335,2024-09-23,39,F,165.4,122.8,Weight Training,24,High,6.9,168,8.6,6,7546,2.5,26.9,68,135.2,80.5,None,Current,16.77
+335,2024-09-26,39,F,165.4,123.1,Weight Training,34,Low,7.0,122,8.2,3,4796,2.3,26.9,68,135.2,80.5,None,Current,16.8
+335,2024-09-27,39,F,165.4,123.3,Weight Training,117,Medium,28.8,147,6.9,1,7274,2.0,26.9,68,135.2,80.5,None,Current,16.94

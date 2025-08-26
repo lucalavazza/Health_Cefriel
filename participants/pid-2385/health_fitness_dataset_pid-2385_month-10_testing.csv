@@ -1,0 +1,16 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+2385,2024-10-01,21,F,170.2,107.9,Dancing,118,Medium,23.3,156,7.8,2,7518,2.2,21.6,74.6,112.6,81.7,Hypertension,Current,14.14
+2385,2024-10-02,21,F,170.2,108.2,Dancing,62,Medium,12.3,154,7.9,1,5779,1.5,21.6,74.6,112.6,81.7,Hypertension,Current,14.21
+2385,2024-10-05,21,F,170.2,108.4,Dancing,50,Medium,9.9,151,8.0,5,7312,2.4,21.6,74.6,112.6,81.7,Hypertension,Current,14.27
+2385,2024-10-06,21,F,170.2,108.7,Dancing,36,High,8.3,147,7.8,3,8292,2.6,21.6,74.6,112.6,81.7,Hypertension,Current,14.32
+2385,2024-10-07,21,F,170.2,108.9,HIIT,82,Low,29.7,129,6.9,6,6513,2.4,21.6,74.6,112.6,81.7,Hypertension,Current,14.4
+2385,2024-10-10,21,F,170.2,109.2,HIIT,57,Medium,24.8,152,7.2,3,6992,2.1,21.6,74.6,112.6,81.7,Hypertension,Current,14.47
+2385,2024-10-11,21,F,170.2,109.5,HIIT,49,Low,17.8,130,6.0,7,5912,2.7,21.6,74.6,112.6,81.7,Hypertension,Current,14.52
+2385,2024-10-12,21,F,170.2,109.7,HIIT,68,Medium,29.8,151,7.3,4,7434,1.7,21.6,74.6,112.6,81.7,Hypertension,Current,14.6
+2385,2024-10-13,21,F,170.2,110.0,HIIT,100,Medium,43.9,157,6.4,8,5596,3.1,21.6,74.6,112.6,81.7,Hypertension,Current,14.72
+2385,2024-10-16,21,F,170.2,110.2,HIIT,53,Medium,23.3,145,5.6,7,5605,2.6,21.6,74.6,112.6,81.7,Hypertension,Current,14.79
+2385,2024-10-17,21,F,170.2,110.5,HIIT,58,Low,21.3,131,7.6,2,6612,3.3,21.6,74.6,112.6,81.7,Hypertension,Current,14.84
+2385,2024-10-18,21,F,170.2,110.7,Cycling,65,Low,17.0,133,5.8,1,9831,2.8,21.6,74.6,112.6,81.7,Hypertension,Current,14.91
+2385,2024-10-20,21,F,170.2,111.0,Basketball,109,High,37.6,172,6.9,9,6891,1.9,21.6,74.6,112.6,81.7,Hypertension,Current,15.06
+2385,2024-10-27,21,F,170.2,111.2,Basketball,46,Medium,13.6,150,8.0,1,7316,3.2,21.6,74.6,112.6,81.7,Hypertension,Current,15.12
+2385,2024-10-29,21,F,170.2,111.5,Cycling,110,Medium,34.7,143,7.9,6,6785,2.3,21.6,74.6,112.6,81.7,Hypertension,Current,15.25

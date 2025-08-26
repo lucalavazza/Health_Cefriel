@@ -1,0 +1,16 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+366,2024-10-01,52,M,164.5,101.3,Weight Training,108,Medium,21.8,126,7.4,9,3116,2.9,20.5,66.7,128.9,86.4,None,Former,15.52
+366,2024-10-02,52,M,164.5,101.6,Swimming,70,Low,13.8,116,7.5,7,2737,2.0,20.5,66.7,128.9,86.4,None,Former,15.59
+366,2024-10-05,52,M,164.5,101.8,Yoga,56,Medium,5.7,128,5.9,6,7796,3.3,20.5,66.7,128.9,86.4,None,Former,15.66
+366,2024-10-08,52,M,164.5,102.1,Weight Training,82,Medium,16.7,132,6.5,3,4951,3.2,20.5,66.7,128.9,86.4,None,Former,15.76
+366,2024-10-09,52,M,164.5,102.4,Weight Training,117,Medium,23.9,131,6.3,7,6385,2.9,20.5,66.7,128.9,86.4,None,Former,15.9
+366,2024-10-11,52,M,164.5,102.6,Weight Training,34,High,8.1,142,5.1,7,5194,2.4,20.5,66.7,128.9,86.4,None,Former,15.95
+366,2024-10-13,52,M,164.5,102.9,Weight Training,39,High,9.3,144,7.6,5,8726,3.0,20.5,66.7,128.9,86.4,None,Former,16.0
+366,2024-10-16,52,M,164.5,103.1,Weight Training,42,Low,7.2,110,6.2,4,7455,2.6,20.5,66.7,128.9,86.4,None,Former,16.04
+366,2024-10-18,52,M,164.5,103.4,Weight Training,39,Low,6.7,109,6.8,4,8148,3.3,20.5,66.7,128.9,86.4,None,Former,16.08
+366,2024-10-20,52,M,164.5,103.7,Weight Training,89,Medium,18.4,127,7.6,5,9476,3.3,20.5,66.7,128.9,86.4,None,Former,16.19
+366,2024-10-21,52,M,164.5,103.9,Weight Training,75,Medium,15.5,119,5.5,5,4490,1.6,20.5,66.7,128.9,86.4,None,Former,16.28
+366,2024-10-23,52,M,164.5,104.2,HIIT,109,Low,37.8,107,7.5,6,5952,2.0,20.5,66.7,128.9,86.4,None,Former,16.39
+366,2024-10-27,52,M,164.5,104.4,HIIT,94,Low,32.6,111,7.4,1,9208,1.6,20.5,66.7,128.9,86.4,None,Former,16.48
+366,2024-10-28,52,M,164.5,104.7,HIIT,120,Low,41.8,116,6.8,6,5373,2.3,20.5,66.7,128.9,86.4,None,Former,16.6
+366,2024-10-30,52,M,164.5,104.9,HIIT,23,Medium,9.6,127,7.2,8,6950,3.0,20.5,66.7,128.9,86.4,None,Former,16.63

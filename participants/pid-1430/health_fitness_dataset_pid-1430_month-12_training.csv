@@ -1,0 +1,16 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+1430,2024-12-05,40,F,166.3,112.1,HIIT,22,Low,8.2,112,6.8,8,6975,2.0,19.8,72.6,132.7,88.5,Hypertension,Never,18.33
+1430,2024-12-06,40,F,166.3,112.3,HIIT,53,Medium,23.8,120,7.9,7,6069,2.7,19.8,72.6,132.7,88.5,Hypertension,Never,18.39
+1430,2024-12-08,40,F,166.3,112.6,Weight Training,68,High,17.8,174,7.0,8,7955,1.6,19.8,72.6,132.7,88.5,Hypertension,Never,18.49
+1430,2024-12-09,40,F,166.3,112.9,Weight Training,120,Medium,27.0,136,7.5,4,8963,1.5,19.8,72.6,132.7,88.5,Hypertension,Never,18.63
+1430,2024-12-10,40,F,166.3,113.1,HIIT,60,Medium,27.1,117,7.2,1,5522,3.2,19.8,72.6,132.7,88.5,Hypertension,Never,18.7
+1430,2024-12-11,40,F,166.3,113.4,Walking,67,Medium,9.6,136,7.1,8,7595,2.0,19.8,72.6,132.7,88.5,Hypertension,Never,18.78
+1430,2024-12-14,40,F,166.3,113.6,Cycling,107,Medium,34.4,130,8.5,10,9288,1.6,19.8,72.6,132.7,88.5,Hypertension,Never,18.91
+1430,2024-12-16,40,F,166.3,113.9,Cycling,119,Low,31.9,128,7.3,5,6281,3.2,19.8,72.6,132.7,88.5,Hypertension,Never,19.03
+1430,2024-12-17,40,F,166.3,114.1,Walking,69,High,11.6,132,8.6,1,6054,2.3,19.8,72.6,132.7,88.5,Hypertension,Never,19.13
+1430,2024-12-18,40,F,166.3,114.4,Walking,94,Low,11.3,118,8.1,7,6234,3.2,19.8,72.6,132.7,88.5,Hypertension,Never,19.22
+1430,2024-12-19,40,F,166.3,114.7,Cycling,24,Medium,7.8,148,6.4,10,6207,1.7,19.8,72.6,132.7,88.5,Hypertension,Never,19.25
+1430,2024-12-20,40,F,166.3,114.9,Cycling,99,Medium,32.2,131,6.1,1,5921,3.4,19.8,72.6,132.7,88.5,Hypertension,Never,19.37
+1430,2024-12-21,40,F,166.3,115.2,Cycling,54,Medium,17.6,146,7.2,8,7842,1.6,19.8,72.6,132.7,88.5,Hypertension,Never,19.44
+1430,2024-12-24,40,F,166.3,115.4,Cycling,55,High,20.9,163,6.3,6,6317,2.4,19.8,72.6,132.7,88.5,Hypertension,Never,19.51
+1430,2024-12-25,40,F,166.3,115.7,Weight Training,40,Low,7.7,121,6.7,10,8903,2.9,19.8,72.6,132.7,88.5,Hypertension,Never,19.55

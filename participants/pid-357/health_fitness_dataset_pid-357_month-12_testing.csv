@@ -1,0 +1,13 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+357,2024-12-01,61,M,168.9,130.2,Dancing,41,Low,8.1,99,7.5,1,10236,2.9,26.1,60.5,112.4,89,None,Former,17.74
+357,2024-12-02,61,M,168.9,130.4,Cycling,82,Medium,30.2,118,8.6,2,6468,2.6,26.1,60.5,112.4,89,None,Former,17.84
+357,2024-12-03,61,M,168.9,130.7,Cycling,30,High,12.9,131,5.3,3,8270,1.6,26.1,60.5,112.4,89,None,Former,17.88
+357,2024-12-09,61,M,168.9,130.9,Dancing,99,Medium,23.7,120,5.2,5,9090,2.0,26.1,60.5,112.4,89,None,Former,18.0
+357,2024-12-10,61,M,168.9,131.2,Dancing,67,Medium,16.1,132,6.0,2,8260,1.6,26.1,60.5,112.4,89,None,Former,18.08
+357,2024-12-11,61,M,168.9,131.4,Cycling,63,Medium,23.4,133,6.4,1,5760,2.3,26.1,60.5,112.4,89,None,Former,18.16
+357,2024-12-12,61,M,168.9,131.7,Dancing,80,Medium,19.3,112,4.9,2,4696,3.4,26.1,60.5,112.4,89,None,Former,18.25
+357,2024-12-14,61,M,168.9,132.0,Dancing,60,High,16.9,128,6.5,6,9847,2.1,26.1,60.5,112.4,89,None,Former,18.34
+357,2024-12-18,61,M,168.9,132.2,Cycling,30,Low,9.3,100,6.1,10,8849,3.5,26.1,60.5,112.4,89,None,Former,18.37
+357,2024-12-19,61,M,168.9,132.5,Cycling,83,Low,25.9,109,7.2,4,8196,1.8,26.1,60.5,112.4,89,None,Former,18.45
+357,2024-12-20,61,M,168.9,132.7,Cycling,70,Medium,26.3,118,7.8,6,6936,1.9,26.1,60.5,112.4,89,None,Former,18.54
+357,2024-12-24,61,M,168.9,133.0,Cycling,41,High,18.0,128,7.3,2,8474,2.5,26.1,60.5,112.4,89,None,Former,18.59

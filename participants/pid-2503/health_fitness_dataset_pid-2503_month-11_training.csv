@@ -1,0 +1,17 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+2503,2024-11-01,22,F,150.5,98.2,Basketball,29,High,8.8,159,8.4,4,6917,1.6,19.9,75.2,116.8,84.6,None,Never,17.52
+2503,2024-11-02,22,F,150.5,98.4,Weight Training,109,High,25.0,161,6.5,7,8087,2.9,19.9,75.2,116.8,84.6,None,Never,17.68
+2503,2024-11-05,22,F,150.5,98.7,Basketball,63,High,19.3,169,6.2,2,7238,2.3,19.9,75.2,116.8,84.6,None,Never,17.77
+2503,2024-11-10,22,F,150.5,98.9,Weight Training,112,High,25.8,185,5.8,5,8161,2.2,19.9,75.2,116.8,84.6,None,Never,17.92
+2503,2024-11-12,22,F,150.5,99.2,Basketball,98,Low,21.5,129,5.1,8,8740,2.4,19.9,75.2,116.8,84.6,None,Never,18.02
+2503,2024-11-16,22,F,150.5,99.5,Basketball,29,Medium,7.7,164,7.1,5,10030,2.6,19.9,75.2,116.8,84.6,None,Never,18.05
+2503,2024-11-17,22,F,150.5,99.7,Weight Training,50,Medium,9.9,153,5.0,2,8270,2.4,19.9,75.2,116.8,84.6,None,Never,18.11
+2503,2024-11-18,22,F,150.5,100.0,Weight Training,50,Medium,10.0,162,7.7,1,7707,2.2,19.9,75.2,116.8,84.6,None,Never,18.17
+2503,2024-11-20,22,F,150.5,100.2,Basketball,102,Low,22.7,132,6.6,1,2920,3.3,19.9,75.2,116.8,84.6,None,Never,18.28
+2503,2024-11-21,22,F,150.5,100.5,Basketball,44,Medium,11.8,161,6.4,6,6154,3.2,19.9,75.2,116.8,84.6,None,Never,18.33
+2503,2024-11-22,22,F,150.5,100.7,Basketball,33,Medium,8.8,160,4.8,3,9013,2.4,19.9,75.2,116.8,84.6,None,Never,18.37
+2503,2024-11-26,22,F,150.5,101.0,Basketball,90,Medium,24.2,145,7.2,4,7094,2.3,19.9,75.2,116.8,84.6,None,Never,18.48
+2503,2024-11-27,22,F,150.5,101.3,Running,117,Medium,38.6,142,6.2,2,7865,2.9,19.9,75.2,116.8,84.6,None,Never,18.62
+2503,2024-11-28,22,F,150.5,101.5,Basketball,31,Low,7.0,126,8.1,9,7821,3.1,19.9,75.2,116.8,84.6,None,Never,18.65
+2503,2024-11-29,22,F,150.5,101.8,Tennis,100,Low,20.6,130,6.0,6,7668,3.1,19.9,75.2,116.8,84.6,None,Never,18.75
+2503,2024-11-30,22,F,150.5,102.0,Running,58,High,22.5,169,6.9,7,7821,1.8,19.9,75.2,116.8,84.6,None,Never,18.83

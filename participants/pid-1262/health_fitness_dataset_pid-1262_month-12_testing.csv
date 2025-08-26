@@ -1,0 +1,16 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+1262,2024-12-01,42,F,171,110.4,HIIT,88,High,45.2,162,6.8,6,9214,2.8,18.9,73.7,101.5,77.2,None,Former,18.2
+1262,2024-12-02,42,F,171,110.7,Weight Training,32,Medium,7.1,140,7.1,9,8762,3.3,18.9,73.7,101.5,77.2,None,Former,18.24
+1262,2024-12-04,42,F,171,110.9,Weight Training,27,Medium,6.0,136,5.8,4,9998,2.2,18.9,73.7,101.5,77.2,None,Former,18.27
+1262,2024-12-05,42,F,171,111.2,Walking,74,Medium,10.4,129,7.6,6,6687,2.6,18.9,73.7,101.5,77.2,None,Former,18.36
+1262,2024-12-06,42,F,171,111.4,Walking,43,Medium,6.1,139,7.3,2,7826,1.7,18.9,73.7,101.5,77.2,None,Former,18.41
+1262,2024-12-07,42,F,171,111.7,Weight Training,53,Medium,11.8,124,8.0,2,11124,2.6,18.9,73.7,101.5,77.2,None,Former,18.47
+1262,2024-12-09,42,F,171,112.0,Weight Training,30,High,7.8,140,6.1,5,7064,2.5,18.9,73.7,101.5,77.2,None,Former,18.51
+1262,2024-12-11,42,F,171,112.2,Weight Training,100,Low,18.7,113,7.5,8,8454,2.9,18.9,73.7,101.5,77.2,None,Former,18.61
+1262,2024-12-14,42,F,171,112.5,Weight Training,59,Medium,13.2,134,8.1,7,9465,3.5,18.9,73.7,101.5,77.2,None,Former,18.68
+1262,2024-12-15,42,F,171,112.7,Weight Training,51,Low,9.6,104,6.3,2,10653,2.3,18.9,73.7,101.5,77.2,None,Former,18.74
+1262,2024-12-16,42,F,171,113.0,Weight Training,99,Medium,22.3,142,6.5,4,9809,2.4,18.9,73.7,101.5,77.2,None,Former,18.85
+1262,2024-12-18,42,F,171,113.2,Weight Training,109,Medium,24.6,132,7.7,6,8178,2.9,18.9,73.7,101.5,77.2,None,Former,18.98
+1262,2024-12-19,42,F,171,113.5,Weight Training,96,Medium,21.7,141,7.5,6,7679,2.8,18.9,73.7,101.5,77.2,None,Former,19.1
+1262,2024-12-21,42,F,171,113.8,Weight Training,97,Medium,22.0,109,7.6,2,7743,1.9,18.9,73.7,101.5,77.2,None,Former,19.22
+1262,2024-12-25,42,F,171,114.0,Tennis,112,Medium,31.0,135,5.7,1,6242,2.9,18.9,73.7,101.5,77.2,None,Former,19.35

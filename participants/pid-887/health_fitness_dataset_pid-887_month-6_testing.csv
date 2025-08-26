@@ -1,0 +1,25 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+887,2024-06-02,45,M,166.2,80.0,Yoga,47,High,4.4,159,7.6,8,11958,3.5,18.1,72.4,128.9,78,None,Current,9.73
+887,2024-06-03,45,M,166.2,80.2,Yoga,69,High,6.4,130,8.0,10,7893,2.9,18.1,72.4,128.9,78,None,Current,9.82
+887,2024-06-04,45,M,166.2,80.5,Yoga,60,High,5.6,149,7.5,4,12594,3.1,18.1,72.4,128.9,78,None,Current,9.91
+887,2024-06-05,45,M,166.2,80.7,Swimming,53,Medium,10.0,143,7.8,1,10231,2.7,18.1,72.4,128.9,78,None,Current,9.97
+887,2024-06-06,45,M,166.2,81.0,Weight Training,50,Medium,8.1,116,8.3,1,10189,1.7,18.1,72.4,128.9,78,None,Current,10.03
+887,2024-06-07,45,M,166.2,81.3,Swimming,54,Medium,10.2,129,5.4,7,9183,2.5,18.1,72.4,128.9,78,None,Current,10.1
+887,2024-06-09,45,M,166.2,81.5,Weight Training,88,Medium,14.3,136,6.3,8,8558,1.6,18.1,72.4,128.9,78,None,Current,10.2
+887,2024-06-10,45,M,166.2,81.8,Swimming,95,High,21.1,125,7.5,2,8363,3.1,18.1,72.4,128.9,78,None,Current,10.33
+887,2024-06-12,45,M,166.2,82.0,Weight Training,87,Medium,14.2,136,6.7,5,7268,1.8,18.1,72.4,128.9,78,None,Current,10.44
+887,2024-06-13,45,M,166.2,82.3,Weight Training,36,Medium,5.9,121,6.6,10,9154,2.7,18.1,72.4,128.9,78,None,Current,10.48
+887,2024-06-14,45,M,166.2,82.6,Cycling,74,Low,14.4,110,7.3,2,7302,2.9,18.1,72.4,128.9,78,None,Current,10.56
+887,2024-06-16,45,M,166.2,82.8,Weight Training,67,Medium,11.1,129,7.0,1,7558,1.5,18.1,72.4,128.9,78,None,Current,10.64
+887,2024-06-17,45,M,166.2,83.1,Cycling,98,Medium,23.0,135,7.5,1,8579,2.2,18.1,72.4,128.9,78,None,Current,10.75
+887,2024-06-18,45,M,166.2,83.3,Weight Training,93,Low,12.9,117,6.7,5,7459,2.6,18.1,72.4,128.9,78,None,Current,10.85
+887,2024-06-19,45,M,166.2,83.6,Tennis,114,High,27.0,136,8.4,5,11561,3.3,18.1,72.4,128.9,78,None,Current,11.01
+887,2024-06-20,45,M,166.2,83.8,Weight Training,55,Medium,9.2,132,7.0,7,6930,2.4,18.1,72.4,128.9,78,None,Current,11.07
+887,2024-06-21,45,M,166.2,84.1,Weight Training,83,Low,11.6,119,6.6,6,7309,1.7,18.1,72.4,128.9,78,None,Current,11.16
+887,2024-06-22,45,M,166.2,84.4,Weight Training,67,Medium,11.3,126,6.2,4,7805,3.5,18.1,72.4,128.9,78,None,Current,11.24
+887,2024-06-23,45,M,166.2,84.6,Weight Training,95,High,18.7,127,8.1,1,8410,3.2,18.1,72.4,128.9,78,None,Current,11.37
+887,2024-06-24,45,M,166.2,84.9,Weight Training,58,High,11.5,153,7.9,2,8155,1.8,18.1,72.4,128.9,78,None,Current,11.45
+887,2024-06-26,45,M,166.2,85.1,Weight Training,30,Medium,5.1,132,6.3,7,6749,3.4,18.1,72.4,128.9,78,None,Current,11.49
+887,2024-06-27,45,M,166.2,85.4,Weight Training,89,Medium,15.2,130,5.5,4,7903,3.2,18.1,72.4,128.9,78,None,Current,11.59
+887,2024-06-28,45,M,166.2,85.6,Weight Training,108,Low,15.4,108,7.8,5,7022,2.1,18.1,72.4,128.9,78,None,Current,11.7
+887,2024-06-30,45,M,166.2,85.9,Weight Training,91,Medium,15.6,118,8.7,8,9401,1.5,18.1,72.4,128.9,78,None,Current,11.81

@@ -1,0 +1,17 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+1107,2024-09-02,34,F,168.5,88.3,Cycling,26,Low,5.4,114,8.3,1,5492,3.2,16.2,72.7,137.9,66.9,Hypertension,Former,13.45
+1107,2024-09-03,34,F,168.5,88.6,Cycling,65,Low,13.6,117,8.1,1,6047,2.1,16.2,72.7,137.9,66.9,Hypertension,Former,13.51
+1107,2024-09-05,34,F,168.5,88.9,Swimming,86,Low,14.8,131,6.8,5,4281,2.2,16.2,72.7,137.9,66.9,Hypertension,Former,13.6
+1107,2024-09-07,34,F,168.5,89.1,Cycling,73,Low,15.3,120,7.8,1,6996,2.6,16.2,72.7,137.9,66.9,Hypertension,Former,13.67
+1107,2024-09-08,34,F,168.5,89.4,Swimming,119,Medium,24.7,142,8.2,7,8074,3.2,16.2,72.7,137.9,66.9,Hypertension,Former,13.81
+1107,2024-09-09,34,F,168.5,89.6,Swimming,46,Medium,9.6,138,4.7,3,3871,2.6,16.2,72.7,137.9,66.9,Hypertension,Former,13.87
+1107,2024-09-10,34,F,168.5,89.9,Swimming,48,Low,8.4,118,6.8,7,7338,3.3,16.2,72.7,137.9,66.9,Hypertension,Former,13.92
+1107,2024-09-14,34,F,168.5,90.1,Swimming,83,High,20.3,171,8.3,8,9016,2.0,16.2,72.7,137.9,66.9,Hypertension,Former,14.03
+1107,2024-09-15,34,F,168.5,90.4,Swimming,112,Medium,23.6,148,5.1,8,7515,2.1,16.2,72.7,137.9,66.9,Hypertension,Former,14.17
+1107,2024-09-17,34,F,168.5,90.7,Swimming,68,Medium,14.3,125,7.0,5,4424,1.7,16.2,72.7,137.9,66.9,Hypertension,Former,14.25
+1107,2024-09-18,34,F,168.5,90.9,Swimming,40,Low,7.1,119,6.7,10,4135,1.7,16.2,72.7,137.9,66.9,Hypertension,Former,14.29
+1107,2024-09-22,34,F,168.5,91.2,Walking,56,Low,5.4,124,6.5,2,8858,3.1,16.2,72.7,137.9,66.9,Hypertension,Former,14.35
+1107,2024-09-25,34,F,168.5,91.4,Walking,75,Medium,8.7,137,5.5,4,8488,1.8,16.2,72.7,137.9,66.9,Hypertension,Former,14.44
+1107,2024-09-27,34,F,168.5,91.7,HIIT,119,Medium,43.5,122,8.0,4,8056,1.7,16.2,72.7,137.9,66.9,Hypertension,Former,14.58
+1107,2024-09-29,34,F,168.5,91.9,Walking,96,Medium,11.1,137,5.7,1,9467,2.2,16.2,72.7,137.9,66.9,Hypertension,Former,14.69
+1107,2024-09-30,34,F,168.5,92.2,Swimming,56,Medium,12.0,142,5.9,1,8978,1.6,16.2,72.7,137.9,66.9,Hypertension,Former,14.76

@@ -1,0 +1,17 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+1517,2024-08-02,33,M,173.3,96.4,Walking,104,Medium,12.7,140,7.8,8,5389,2.0,18.7,69.4,125.6,80.8,None,Former,12.56
+1517,2024-08-03,33,M,173.3,96.6,Weight Training,93,Low,14.9,125,7.8,1,7055,1.9,18.7,69.4,125.6,80.8,None,Former,12.66
+1517,2024-08-04,33,M,173.3,96.9,Running,58,High,21.4,148,7.1,8,6904,2.1,18.7,69.4,125.6,80.8,None,Former,12.74
+1517,2024-08-05,33,M,173.3,97.1,Weight Training,112,Low,18.1,126,7.0,8,7370,2.1,18.7,69.4,125.6,80.8,None,Former,12.85
+1517,2024-08-07,33,M,173.3,97.4,Running,70,Medium,22.2,139,9.3,3,7147,3.0,18.7,69.4,125.6,80.8,None,Former,12.93
+1517,2024-08-09,33,M,173.3,97.6,Weight Training,104,Medium,20.3,144,6.9,5,5157,3.2,18.7,69.4,125.6,80.8,None,Former,13.06
+1517,2024-08-11,33,M,173.3,97.9,Running,108,Low,28.7,127,8.2,10,7616,2.8,18.7,69.4,125.6,80.8,None,Former,13.17
+1517,2024-08-13,33,M,173.3,98.2,Weight Training,115,Medium,22.5,139,6.0,4,5869,1.8,18.7,69.4,125.6,80.8,None,Former,13.31
+1517,2024-08-15,33,M,173.3,98.4,Weight Training,58,High,13.3,164,7.4,5,5653,1.8,18.7,69.4,125.6,80.8,None,Former,13.39
+1517,2024-08-16,33,M,173.3,98.7,Weight Training,50,Medium,9.8,135,6.2,5,3042,2.1,18.7,69.4,125.6,80.8,None,Former,13.45
+1517,2024-08-18,33,M,173.3,98.9,Weight Training,111,Medium,21.9,126,7.8,3,7641,2.1,18.7,69.4,125.6,80.8,None,Former,13.58
+1517,2024-08-20,33,M,173.3,99.2,HIIT,40,Medium,15.8,138,7.4,2,7509,2.9,18.7,69.4,125.6,80.8,None,Former,13.63
+1517,2024-08-23,33,M,173.3,99.4,HIIT,36,Low,11.9,120,7.1,8,6778,1.7,18.7,69.4,125.6,80.8,None,Former,13.66
+1517,2024-08-24,33,M,173.3,99.7,Running,73,Medium,23.7,148,5.8,6,8593,3.4,18.7,69.4,125.6,80.8,None,Former,13.75
+1517,2024-08-29,33,M,173.3,100.0,Running,49,Low,13.3,113,6.7,3,5750,2.5,18.7,69.4,125.6,80.8,None,Former,13.8
+1517,2024-08-31,33,M,173.3,100.2,Walking,118,Medium,14.9,138,7.6,1,7459,3.1,18.7,69.4,125.6,80.8,None,Former,13.94

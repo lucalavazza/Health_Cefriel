@@ -1,0 +1,17 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+2309,2024-09-02,50,F,155.2,89.2,HIIT,96,High,39.8,157,7.7,3,5274,3.0,18.7,72,127.6,81.6,Hypertension,Current,14.65
+2309,2024-09-03,50,F,155.2,89.4,Weight Training,40,Medium,7.1,127,4.3,9,6754,2.8,18.7,72,127.6,81.6,Hypertension,Current,14.7
+2309,2024-09-04,50,F,155.2,89.7,HIIT,92,Low,27.4,108,6.3,5,8619,3.2,18.7,72,127.6,81.6,Hypertension,Current,14.79
+2309,2024-09-06,50,F,155.2,90.0,Weight Training,48,Low,7.2,118,9.3,5,4153,1.9,18.7,72,127.6,81.6,Hypertension,Current,14.84
+2309,2024-09-07,50,F,155.2,90.2,Running,27,Low,6.6,112,7.1,1,7817,2.9,18.7,72,127.6,81.6,Hypertension,Current,14.86
+2309,2024-09-08,50,F,155.2,90.5,Weight Training,31,High,6.5,151,4.8,9,7198,1.6,18.7,72,127.6,81.6,Hypertension,Current,14.91
+2309,2024-09-10,50,F,155.2,90.7,HIIT,70,Low,21.1,112,8.1,5,5793,2.6,18.7,72,127.6,81.6,Hypertension,Current,14.98
+2309,2024-09-13,50,F,155.2,91.0,Running,32,High,11.1,139,6.2,2,5367,3.1,18.7,72,127.6,81.6,Hypertension,Current,15.02
+2309,2024-09-15,50,F,155.2,91.2,HIIT,100,Medium,36.4,110,7.5,2,7293,1.6,18.7,72,127.6,81.6,Hypertension,Current,15.14
+2309,2024-09-17,50,F,155.2,91.5,Cycling,104,Medium,26.9,127,4.8,5,5665,3.2,18.7,72,127.6,81.6,Hypertension,Current,15.27
+2309,2024-09-18,50,F,155.2,91.8,HIIT,54,Medium,19.8,128,6.5,6,6901,1.9,18.7,72,127.6,81.6,Hypertension,Current,15.33
+2309,2024-09-19,50,F,155.2,92.0,HIIT,84,Medium,30.8,124,6.6,3,6124,3.0,18.7,72,127.6,81.6,Hypertension,Current,15.43
+2309,2024-09-23,50,F,155.2,92.3,Dancing,114,Medium,19.2,128,7.8,8,6318,2.7,18.7,72,127.6,81.6,Hypertension,Current,15.57
+2309,2024-09-26,50,F,155.2,92.5,Dancing,75,Medium,12.7,129,6.8,10,6041,2.5,18.7,72,127.6,81.6,Hypertension,Current,15.66
+2309,2024-09-28,50,F,155.2,92.8,Dancing,106,Low,15.0,101,6.6,1,7565,2.4,18.7,72,127.6,81.6,Hypertension,Current,15.77
+2309,2024-09-30,50,F,155.2,93.0,Dancing,96,Low,13.6,116,6.7,1,7429,1.5,18.7,72,127.6,81.6,Hypertension,Current,15.86

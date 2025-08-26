@@ -1,0 +1,14 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+1261,2024-07-02,48,M,189,127.4,Weight Training,29,Medium,7.4,116,8.8,4,7813,2.5,26.2,81.2,120.9,93.6,Asthma,Current,10.88
+1261,2024-07-05,48,M,189,127.7,Weight Training,77,High,22.9,146,6.9,7,8045,3.3,26.2,81.2,120.9,93.6,Asthma,Current,10.99
+1261,2024-07-06,48,M,189,127.9,Weight Training,22,Medium,5.6,134,9.4,10,7947,2.5,26.2,81.2,120.9,93.6,Asthma,Current,11.02
+1261,2024-07-07,48,M,189,128.2,Weight Training,51,Low,10.9,113,4.0,1,7754,1.9,26.2,81.2,120.9,93.6,Asthma,Current,11.07
+1261,2024-07-11,48,M,189,128.5,Weight Training,32,Medium,8.2,132,6.9,2,7626,1.7,26.2,81.2,120.9,93.6,Asthma,Current,11.11
+1261,2024-07-14,48,M,189,128.7,Weight Training,105,Medium,27.0,124,7.3,6,8726,1.9,26.2,81.2,120.9,93.6,Asthma,Current,11.23
+1261,2024-07-18,48,M,189,129.0,Weight Training,51,Medium,13.1,134,7.6,6,10704,1.9,26.2,81.2,120.9,93.6,Asthma,Current,11.3
+1261,2024-07-19,48,M,189,129.2,Weight Training,103,Medium,26.6,123,6.7,6,8210,2.0,26.2,81.2,120.9,93.6,Asthma,Current,11.42
+1261,2024-07-20,48,M,189,129.5,Weight Training,40,High,12.1,149,6.4,5,9733,2.0,26.2,81.2,120.9,93.6,Asthma,Current,11.47
+1261,2024-07-24,48,M,189,129.7,Basketball,51,Low,14.7,101,6.7,3,8149,2.5,26.2,81.2,120.9,93.6,Asthma,Current,11.53
+1261,2024-07-26,48,M,189,130.0,Basketball,37,High,14.9,144,6.1,9,6949,2.6,26.2,81.2,120.9,93.6,Asthma,Current,11.58
+1261,2024-07-28,48,M,189,130.3,Basketball,88,Low,25.4,106,6.6,1,9807,2.4,26.2,81.2,120.9,93.6,Asthma,Current,11.67
+1261,2024-07-29,48,M,189,130.5,Cycling,85,Medium,31.4,128,7.2,10,9322,2.3,26.2,81.2,120.9,93.6,Asthma,Current,11.77

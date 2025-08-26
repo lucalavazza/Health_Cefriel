@@ -1,0 +1,19 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+1939,2024-01-01,64,F,167.1,75.2,Basketball,115,Low,19.1,103,6.3,7,6222,3.0,26.8,81.6,106.4,81.4,Asthma,Former,0.12
+1939,2024-01-05,64,F,167.1,75.4,Basketball,114,Medium,22.8,122,6.5,10,10940,2.9,26.8,81.6,106.4,81.4,Asthma,Former,0.25
+1939,2024-01-07,64,F,167.1,75.7,Running,23,Medium,5.7,122,7.3,2,11189,3.2,26.8,81.6,106.4,81.4,Asthma,Former,0.28
+1939,2024-01-09,64,F,167.1,75.9,Running,41,Medium,10.1,128,8.1,7,8215,3.0,26.8,81.6,106.4,81.4,Asthma,Former,0.33
+1939,2024-01-10,64,F,167.1,76.2,Running,91,Low,18.8,95,6.3,1,10593,2.1,26.8,81.6,106.4,81.4,Asthma,Former,0.42
+1939,2024-01-11,64,F,167.1,76.4,Weight Training,103,Medium,15.7,103,6.9,2,6469,2.7,26.8,81.6,106.4,81.4,Asthma,Former,0.54
+1939,2024-01-12,64,F,167.1,76.7,Weight Training,29,High,5.2,141,7.1,7,9359,2.4,26.8,81.6,106.4,81.4,Asthma,Former,0.58
+1939,2024-01-14,64,F,167.1,77.0,Weight Training,113,Low,14.4,99,7.6,2,7514,2.0,26.8,81.6,106.4,81.4,Asthma,Former,0.7
+1939,2024-01-16,64,F,167.1,77.2,Weight Training,39,Medium,6.0,119,6.4,5,5657,2.0,26.8,81.6,106.4,81.4,Asthma,Former,0.74
+1939,2024-01-17,64,F,167.1,77.5,Weight Training,32,Low,4.1,108,8.1,7,6956,1.8,26.8,81.6,106.4,81.4,Asthma,Former,0.78
+1939,2024-01-19,64,F,167.1,77.7,Weight Training,49,Medium,7.6,106,7.8,1,10836,2.2,26.8,81.6,106.4,81.4,Asthma,Former,0.83
+1939,2024-01-20,64,F,167.1,78.0,Weight Training,99,Medium,15.4,134,6.5,6,10396,1.6,26.8,81.6,106.4,81.4,Asthma,Former,0.95
+1939,2024-01-21,64,F,167.1,78.3,Weight Training,22,Medium,3.4,121,5.8,7,11694,2.4,26.8,81.6,106.4,81.4,Asthma,Former,0.98
+1939,2024-01-22,64,F,167.1,78.5,Weight Training,30,Low,3.9,97,8.4,1,11758,2.3,26.8,81.6,106.4,81.4,Asthma,Former,1.01
+1939,2024-01-24,64,F,167.1,78.8,Running,118,Medium,30.3,125,6.0,7,7239,1.8,26.8,81.6,106.4,81.4,Asthma,Former,1.15
+1939,2024-01-29,64,F,167.1,79.0,Dancing,45,Medium,6.5,128,7.2,5,5978,2.3,26.8,81.6,106.4,81.4,Asthma,Former,1.21
+1939,2024-01-30,64,F,167.1,79.3,Dancing,37,High,6.3,144,6.6,1,8429,3.2,26.8,81.6,106.4,81.4,Asthma,Former,1.26
+1939,2024-01-31,64,F,167.1,79.5,Dancing,77,Medium,11.2,132,6.8,6,8142,2.0,26.8,81.6,106.4,81.4,Asthma,Former,1.35

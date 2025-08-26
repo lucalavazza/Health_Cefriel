@@ -1,0 +1,17 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+721,2024-07-02,50,M,172.8,98.0,Swimming,68,High,18.1,156,7.7,6,8606,2.0,21.5,66.8,122.1,68.2,Hypertension,Never,11.08
+721,2024-07-03,50,M,172.8,98.2,Swimming,74,Low,14.1,123,7.1,7,5484,1.6,21.5,66.8,122.1,68.2,Hypertension,Never,11.16
+721,2024-07-05,50,M,172.8,98.5,Swimming,76,High,20.3,135,7.7,3,9432,3.2,21.5,66.8,122.1,68.2,Hypertension,Never,11.26
+721,2024-07-06,50,M,172.8,98.8,Swimming,52,High,13.9,144,7.2,10,8339,3.4,21.5,66.8,122.1,68.2,Hypertension,Never,11.33
+721,2024-07-08,50,M,172.8,99.0,Swimming,119,Medium,27.4,132,6.5,7,8802,2.9,21.5,66.8,122.1,68.2,Hypertension,Never,11.48
+721,2024-07-11,50,M,172.8,99.3,Yoga,118,Medium,11.7,126,5.1,5,9169,1.6,21.5,66.8,122.1,68.2,Hypertension,Never,11.62
+721,2024-07-14,50,M,172.8,99.5,Swimming,120,High,32.4,144,6.6,8,8821,2.8,21.5,66.8,122.1,68.2,Hypertension,Never,11.79
+721,2024-07-16,50,M,172.8,99.8,Yoga,68,Low,5.6,117,7.9,6,6160,1.6,21.5,66.8,122.1,68.2,Hypertension,Never,11.86
+721,2024-07-19,50,M,172.8,100.0,Running,112,Low,30.4,101,6.7,4,10792,2.5,21.5,66.8,122.1,68.2,Hypertension,Never,11.97
+721,2024-07-21,50,M,172.8,100.3,Basketball,73,Low,16.2,113,7.7,1,9622,2.4,21.5,66.8,122.1,68.2,Hypertension,Never,12.04
+721,2024-07-22,50,M,172.8,100.6,Running,79,Low,21.6,106,7.0,6,7797,2.4,21.5,66.8,122.1,68.2,Hypertension,Never,12.12
+721,2024-07-23,50,M,172.8,100.8,Basketball,28,Medium,7.5,119,8.0,3,5868,1.7,21.5,66.8,122.1,68.2,Hypertension,Never,12.15
+721,2024-07-27,50,M,172.8,101.1,Yoga,95,Medium,9.6,122,7.5,5,10519,3.4,21.5,66.8,122.1,68.2,Hypertension,Never,12.27
+721,2024-07-28,50,M,172.8,101.3,Walking,57,Low,6.1,108,7.0,10,11273,1.5,21.5,66.8,122.1,68.2,Hypertension,Never,12.32
+721,2024-07-30,50,M,172.8,101.6,Yoga,114,Medium,11.6,131,6.8,4,5494,3.5,21.5,66.8,122.1,68.2,Hypertension,Never,12.46
+721,2024-07-31,50,M,172.8,101.9,Tennis,101,Low,20.8,120,7.0,6,8265,2.3,21.5,66.8,122.1,68.2,Hypertension,Never,12.56

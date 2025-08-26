@@ -1,0 +1,13 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+517,2024-09-01,59,M,177,117.3,Walking,58,Low,7.2,98,7.3,1,10047,1.6,23.2,69.9,121.5,83.9,Diabetes,Former,14.44
+517,2024-09-05,59,M,177,117.6,HIIT,38,Medium,17.8,126,6.4,1,6154,2.5,23.2,69.9,121.5,83.9,Diabetes,Former,14.49
+517,2024-09-08,59,M,177,117.8,Dancing,103,Medium,22.2,119,7.8,3,9477,2.6,23.2,69.9,121.5,83.9,Diabetes,Former,14.61
+517,2024-09-09,59,M,177,118.1,Running,104,Medium,40.0,121,6.1,2,5905,2.9,23.2,69.9,121.5,83.9,Diabetes,Former,14.74
+517,2024-09-10,59,M,177,118.4,Dancing,105,High,26.5,140,8.2,1,2391,2.2,23.2,69.9,121.5,83.9,Diabetes,Former,14.88
+517,2024-09-11,59,M,177,118.6,Running,63,Low,20.3,96,6.3,1,3423,2.7,23.2,69.9,121.5,83.9,Diabetes,Former,14.95
+517,2024-09-12,59,M,177,118.9,Dancing,52,Medium,11.3,118,6.3,5,3141,1.7,23.2,69.9,121.5,83.9,Diabetes,Former,15.01
+517,2024-09-13,59,M,177,119.1,Dancing,20,Medium,4.4,115,8.4,1,5597,3.2,23.2,69.9,121.5,83.9,Diabetes,Former,15.03
+517,2024-09-15,59,M,177,119.4,HIIT,112,Low,44.5,107,7.2,1,7824,2.6,23.2,69.9,121.5,83.9,Diabetes,Former,15.15
+517,2024-09-20,59,M,177,119.6,Running,90,Medium,35.1,135,5.8,1,8068,1.9,23.2,69.9,121.5,83.9,Diabetes,Former,15.25
+517,2024-09-24,59,M,177,119.9,Dancing,115,Medium,25.2,118,8.3,1,7777,2.7,23.2,69.9,121.5,83.9,Diabetes,Former,15.39
+517,2024-09-30,59,M,177,120.1,Cycling,92,Medium,31.3,121,8.1,7,7277,2.1,23.2,69.9,121.5,83.9,Diabetes,Former,15.5

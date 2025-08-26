@@ -1,0 +1,18 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+841,2024-11-01,48,M,183.3,126.3,Walking,26,Medium,4.2,121,6.7,4,7282,3.4,22.8,77.3,124.2,75.1,None,Current,16.19
+841,2024-11-02,48,M,183.3,126.5,Weight Training,90,Medium,22.7,130,8.6,2,8529,3.4,22.8,77.3,124.2,75.1,None,Current,16.3
+841,2024-11-05,48,M,183.3,126.8,Tennis,37,Low,9.5,109,8.7,7,5373,2.8,22.8,77.3,124.2,75.1,None,Current,16.34
+841,2024-11-07,48,M,183.3,127.1,Walking,81,Medium,13.0,130,7.1,1,5984,3.3,22.8,77.3,124.2,75.1,None,Current,16.43
+841,2024-11-09,48,M,183.3,127.3,Tennis,78,Medium,24.1,104,6.0,7,8495,2.8,22.8,77.3,124.2,75.1,None,Current,16.53
+841,2024-11-10,48,M,183.3,127.6,Walking,48,High,9.0,145,6.3,4,9775,3.2,22.8,77.3,124.2,75.1,None,Current,16.59
+841,2024-11-11,48,M,183.3,127.8,Walking,38,Medium,6.1,127,8.4,9,5069,3.2,22.8,77.3,124.2,75.1,None,Current,16.64
+841,2024-11-12,48,M,183.3,128.1,Tennis,65,Medium,20.2,127,7.2,1,8295,1.9,22.8,77.3,124.2,75.1,None,Current,16.72
+841,2024-11-13,48,M,183.3,128.4,Walking,66,Low,8.9,119,6.0,10,7249,2.5,22.8,77.3,124.2,75.1,None,Current,16.78
+841,2024-11-17,48,M,183.3,128.6,Walking,95,Medium,15.4,124,6.8,5,7434,2.3,22.8,77.3,124.2,75.1,None,Current,16.9
+841,2024-11-20,48,M,183.3,128.9,Tennis,38,Medium,11.9,134,6.8,8,6276,3.2,22.8,77.3,124.2,75.1,None,Current,16.94
+841,2024-11-22,48,M,183.3,129.1,Weight Training,111,Medium,28.6,135,5.1,10,7528,2.7,22.8,77.3,124.2,75.1,None,Current,17.08
+841,2024-11-23,48,M,183.3,129.4,Weight Training,50,Medium,12.9,114,6.8,9,6809,3.4,22.8,77.3,124.2,75.1,None,Current,17.14
+841,2024-11-25,48,M,183.3,129.6,Weight Training,107,High,32.3,146,7.5,4,7253,3.0,22.8,77.3,124.2,75.1,None,Current,17.29
+841,2024-11-27,48,M,183.3,129.9,Weight Training,41,High,12.4,154,5.6,7,3478,2.8,22.8,77.3,124.2,75.1,None,Current,17.34
+841,2024-11-28,48,M,183.3,130.2,Weight Training,67,High,20.3,165,5.7,1,9073,1.7,22.8,77.3,124.2,75.1,None,Current,17.44
+841,2024-11-30,48,M,183.3,130.4,Swimming,117,Medium,35.5,131,7.1,5,8669,3.1,22.8,77.3,124.2,75.1,None,Current,17.58

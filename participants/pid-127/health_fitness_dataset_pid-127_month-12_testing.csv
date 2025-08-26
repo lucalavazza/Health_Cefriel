@@ -1,0 +1,17 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+127,2024-12-01,30,M,171,119.8,Dancing,32,Medium,7.0,139,8.5,6,6872,1.7,20.2,70.6,116,87.7,Hypertension,Never,19.5
+127,2024-12-02,30,M,171,120.0,Dancing,115,Medium,25.2,151,6.8,6,6576,2.7,20.2,70.6,116,87.7,Hypertension,Never,19.64
+127,2024-12-03,30,M,171,120.3,Dancing,96,High,24.6,144,6.6,6,7643,2.6,20.2,70.6,116,87.7,Hypertension,Never,19.77
+127,2024-12-04,30,M,171,120.5,Basketball,102,High,38.2,157,8.3,6,4795,3.1,20.2,70.6,116,87.7,Hypertension,Never,19.91
+127,2024-12-05,30,M,171,120.8,Running,103,Medium,40.6,140,6.0,6,6862,2.9,20.2,70.6,116,87.7,Hypertension,Never,20.04
+127,2024-12-06,30,M,171,121.0,Running,113,Medium,44.6,138,6.4,3,8334,3.1,20.2,70.6,116,87.7,Hypertension,Never,20.17
+127,2024-12-09,30,M,171,121.3,Running,94,Medium,37.2,149,5.9,2,9424,1.7,20.2,70.6,116,87.7,Hypertension,Never,20.28
+127,2024-12-11,30,M,171,121.5,Running,68,Medium,26.9,133,6.7,7,6004,2.1,20.2,70.6,116,87.7,Hypertension,Never,20.37
+127,2024-12-12,30,M,171,121.8,Running,43,Medium,17.1,142,7.5,9,7816,1.8,20.2,70.6,116,87.7,Hypertension,Never,20.42
+127,2024-12-16,30,M,171,122.1,Running,54,Medium,21.5,140,9.0,6,10447,2.2,20.2,70.6,116,87.7,Hypertension,Never,20.48
+127,2024-12-18,30,M,171,122.3,Basketball,64,High,24.3,188,7.1,1,10521,2.2,20.2,70.6,116,87.7,Hypertension,Never,20.57
+127,2024-12-19,30,M,171,122.6,Running,27,Medium,10.8,150,6.5,8,9318,2.9,20.2,70.6,116,87.7,Hypertension,Never,20.6
+127,2024-12-20,30,M,171,122.8,Running,77,High,36.0,150,5.3,1,7770,3.3,20.2,70.6,116,87.7,Hypertension,Never,20.71
+127,2024-12-21,30,M,171,123.1,Basketball,115,Low,31.4,131,7.2,2,9140,1.8,20.2,70.6,116,87.7,Hypertension,Never,20.83
+127,2024-12-22,30,M,171,123.3,Running,30,Low,10.1,122,6.6,2,9049,2.5,20.2,70.6,116,87.7,Hypertension,Never,20.86
+127,2024-12-25,30,M,171,123.6,Running,28,Low,9.4,130,6.5,9,5960,1.7,20.2,70.6,116,87.7,Hypertension,Never,20.89

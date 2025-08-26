@@ -1,0 +1,18 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+2845,2024-07-01,18,F,163.8,80.2,Running,56,Medium,14.6,145,7.3,3,9491,2.6,17.3,70.1,108.5,91.5,Diabetes,Never,10.64
+2845,2024-07-03,18,F,163.8,80.5,HIIT,102,Medium,32.7,154,6.9,6,9753,3.3,17.3,70.1,108.5,91.5,Diabetes,Never,10.76
+2845,2024-07-04,18,F,163.8,80.8,HIIT,35,Medium,11.3,143,7.0,4,7790,3.2,17.3,70.1,108.5,91.5,Diabetes,Never,10.8
+2845,2024-07-07,18,F,163.8,81.0,HIIT,36,Medium,11.6,158,6.3,5,7902,2.2,17.3,70.1,108.5,91.5,Diabetes,Never,10.85
+2845,2024-07-11,18,F,163.8,81.3,HIIT,47,Medium,15.2,148,6.3,4,9036,3.0,17.3,70.1,108.5,91.5,Diabetes,Never,10.9
+2845,2024-07-12,18,F,163.8,81.5,HIIT,27,Medium,8.8,164,6.7,3,8680,1.9,17.3,70.1,108.5,91.5,Diabetes,Never,10.94
+2845,2024-07-13,18,F,163.8,81.8,HIIT,77,High,29.3,176,7.8,9,8717,2.0,17.3,70.1,108.5,91.5,Diabetes,Never,11.04
+2845,2024-07-14,18,F,163.8,82.0,Swimming,91,Medium,17.4,146,9.6,1,8517,1.5,17.3,70.1,108.5,91.5,Diabetes,Never,11.15
+2845,2024-07-17,18,F,163.8,82.3,Swimming,36,Medium,6.9,161,7.0,4,7724,2.9,17.3,70.1,108.5,91.5,Diabetes,Never,11.2
+2845,2024-07-18,18,F,163.8,82.6,HIIT,32,High,12.3,171,6.3,2,7506,2.4,17.3,70.1,108.5,91.5,Diabetes,Never,11.24
+2845,2024-07-19,18,F,163.8,82.8,Cycling,40,High,10.9,168,8.4,3,4279,3.4,17.3,70.1,108.5,91.5,Diabetes,Never,11.3
+2845,2024-07-22,18,F,163.8,83.1,Weight Training,48,Medium,8.0,149,7.3,5,6815,2.8,17.3,70.1,108.5,91.5,Diabetes,Never,11.35
+2845,2024-07-24,18,F,163.8,83.3,HIIT,50,Low,13.8,130,8.1,10,8464,3.1,17.3,70.1,108.5,91.5,Diabetes,Never,11.4
+2845,2024-07-25,18,F,163.8,83.6,Weight Training,57,Low,7.9,141,5.6,9,7737,2.5,17.3,70.1,108.5,91.5,Diabetes,Never,11.46
+2845,2024-07-27,18,F,163.8,83.8,Yoga,80,High,7.8,165,7.7,9,8945,2.5,17.3,70.1,108.5,91.5,Diabetes,Never,11.57
+2845,2024-07-29,18,F,163.8,84.1,Yoga,63,Low,4.4,139,7.1,7,7800,2.8,17.3,70.1,108.5,91.5,Diabetes,Never,11.64
+2845,2024-07-31,18,F,163.8,84.4,Weight Training,40,Low,5.6,123,7.3,10,8040,2.2,17.3,70.1,108.5,91.5,Diabetes,Never,11.68

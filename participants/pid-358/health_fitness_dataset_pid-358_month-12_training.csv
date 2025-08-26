@@ -1,0 +1,17 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+358,2024-12-01,37,F,161,107.3,Dancing,20,Low,3.3,116,7.1,7,9504,1.8,21.3,79.8,118.6,67,None,Never,16.33
+358,2024-12-02,37,F,161,107.6,HIIT,118,High,59.1,166,7.2,9,7492,2.7,21.3,79.8,118.6,67,None,Never,16.5
+358,2024-12-05,37,F,161,107.9,Running,54,Low,15.8,115,6.9,4,6928,3.4,21.3,79.8,118.6,67,None,Never,16.55
+358,2024-12-07,37,F,161,108.1,Dancing,87,Medium,17.2,136,7.3,5,8772,2.4,21.3,79.8,118.6,67,None,Never,16.66
+358,2024-12-08,37,F,161,108.4,Running,107,Low,31.5,123,5.7,4,8164,3.5,21.3,79.8,118.6,67,None,Never,16.77
+358,2024-12-10,37,F,161,108.6,Weight Training,38,Low,6.9,115,7.6,6,9727,2.6,21.3,79.8,118.6,67,None,Never,16.8
+358,2024-12-12,37,F,161,108.9,Dancing,22,Medium,4.4,140,6.8,4,7756,1.9,21.3,79.8,118.6,67,None,Never,16.83
+358,2024-12-14,37,F,161,109.2,Yoga,24,Medium,2.6,144,6.5,8,9092,2.6,21.3,79.8,118.6,67,None,Never,16.86
+358,2024-12-16,37,F,161,109.4,Basketball,61,Low,14.8,117,6.9,6,8545,1.7,21.3,79.8,118.6,67,None,Never,16.92
+358,2024-12-17,37,F,161,109.7,Dancing,72,Medium,14.4,139,8.6,9,8080,2.3,21.3,79.8,118.6,67,None,Never,17.01
+358,2024-12-18,37,F,161,109.9,Dancing,112,High,26.3,138,8.6,6,5259,2.2,21.3,79.8,118.6,67,None,Never,17.16
+358,2024-12-19,37,F,161,110.2,Basketball,62,Medium,18.2,138,8.3,4,7560,3.5,21.3,79.8,118.6,67,None,Never,17.24
+358,2024-12-21,37,F,161,110.4,Basketball,99,Medium,29.1,122,8.4,3,10037,1.6,21.3,79.8,118.6,67,None,Never,17.36
+358,2024-12-23,37,F,161,110.7,Weight Training,113,Medium,25.0,147,6.5,7,6802,3.3,21.3,79.8,118.6,67,None,Never,17.49
+358,2024-12-24,37,F,161,110.9,Basketball,107,High,36.8,163,7.2,5,8167,2.6,21.3,79.8,118.6,67,None,Never,17.64
+358,2024-12-25,37,F,161,111.2,Tennis,91,Medium,24.6,143,8.3,7,8290,2.6,21.3,79.8,118.6,67,None,Never,17.75

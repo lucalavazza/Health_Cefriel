@@ -1,0 +1,14 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+821,2024-09-04,23,M,173.2,125.7,HIIT,61,Medium,30.6,143,6.6,7,6919,1.8,27.9,69.1,121.4,84.7,None,Current,12.64
+821,2024-09-07,23,M,173.2,126.0,HIIT,103,High,60.4,168,7.4,7,8931,2.1,27.9,69.1,121.4,84.7,None,Current,12.78
+821,2024-09-08,23,M,173.2,126.2,HIIT,117,Medium,59.0,143,7.2,8,5586,2.7,27.9,69.1,121.4,84.7,None,Current,12.92
+821,2024-09-11,23,M,173.2,126.5,HIIT,40,Medium,20.2,150,6.0,5,8069,2.5,27.9,69.1,121.4,84.7,None,Current,12.97
+821,2024-09-13,23,M,173.2,126.8,HIIT,43,Low,18.1,128,8.0,7,7885,1.7,27.9,69.1,121.4,84.7,None,Current,13.02
+821,2024-09-14,23,M,173.2,127.0,HIIT,68,Medium,34.5,151,7.8,6,6718,3.2,27.9,69.1,121.4,84.7,None,Current,13.1
+821,2024-09-16,23,M,173.2,127.3,HIIT,98,Medium,49.8,141,7.3,9,5312,2.2,27.9,69.1,121.4,84.7,None,Current,13.21
+821,2024-09-18,23,M,173.2,127.5,Yoga,113,Medium,14.4,150,7.0,2,4695,3.3,27.9,69.1,121.4,84.7,None,Current,13.35
+821,2024-09-23,23,M,173.2,127.8,Walking,57,Medium,9.2,147,7.2,8,6689,1.6,27.9,69.1,121.4,84.7,None,Current,13.42
+821,2024-09-24,23,M,173.2,128.0,Yoga,22,Medium,2.8,141,7.2,3,6316,2.1,27.9,69.1,121.4,84.7,None,Current,13.44
+821,2024-09-26,23,M,173.2,128.3,Walking,115,Low,15.5,126,6.1,6,5707,2.2,27.9,69.1,121.4,84.7,None,Current,13.56
+821,2024-09-28,23,M,173.2,128.6,Yoga,62,Medium,8.0,153,6.2,3,6582,1.8,27.9,69.1,121.4,84.7,None,Current,13.63
+821,2024-09-29,23,M,173.2,128.8,Cycling,109,Medium,39.7,139,7.5,8,6566,2.9,27.9,69.1,121.4,84.7,None,Current,13.77

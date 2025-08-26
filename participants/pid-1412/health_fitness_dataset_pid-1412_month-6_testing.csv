@@ -1,0 +1,17 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+1412,2024-06-01,23,F,168,106.7,Tennis,59,Medium,15.3,147,6.9,2,11511,1.9,27.2,77.9,107.1,78,None,Current,9.19
+1412,2024-06-02,23,F,168,107.0,Swimming,46,High,13.4,177,6.9,10,12041,2.0,27.2,77.9,107.1,78,None,Current,9.25
+1412,2024-06-03,23,F,168,107.3,Tennis,68,Medium,17.7,153,7.2,5,6461,1.7,27.2,77.9,107.1,78,None,Current,9.34
+1412,2024-06-06,23,F,168,107.5,Cycling,59,Medium,17.9,158,6.6,3,11423,2.0,27.2,77.9,107.1,78,None,Current,9.41
+1412,2024-06-09,23,F,168,107.8,HIIT,67,Low,24.0,129,8.0,5,11521,2.6,27.2,77.9,107.1,78,None,Current,9.47
+1412,2024-06-12,23,F,168,108.0,HIIT,51,Medium,22.0,151,7.7,3,7263,1.8,27.2,77.9,107.1,78,None,Current,9.54
+1412,2024-06-15,23,F,168,108.3,HIIT,84,Medium,36.3,134,7.1,8,8859,1.9,27.2,77.9,107.1,78,None,Current,9.64
+1412,2024-06-16,23,F,168,108.5,Dancing,105,Low,17.4,137,6.5,10,9186,2.9,27.2,77.9,107.1,78,None,Current,9.74
+1412,2024-06-19,23,F,168,108.8,HIIT,74,High,37.5,165,8.0,1,8124,2.6,27.2,77.9,107.1,78,None,Current,9.84
+1412,2024-06-23,23,F,168,109.1,Yoga,38,Medium,4.1,149,6.4,3,11085,2.3,27.2,77.9,107.1,78,None,Current,9.89
+1412,2024-06-24,23,F,168,109.3,Yoga,43,High,5.5,175,8.0,10,8110,2.7,27.2,77.9,107.1,78,None,Current,9.95
+1412,2024-06-25,23,F,168,109.6,Cycling,40,High,14.5,178,4.8,1,7347,2.9,27.2,77.9,107.1,78,None,Current,10.01
+1412,2024-06-26,23,F,168,109.8,Cycling,77,Low,19.9,124,8.5,1,6728,1.8,27.2,77.9,107.1,78,None,Current,10.08
+1412,2024-06-27,23,F,168,110.1,Walking,38,Medium,5.3,150,8.1,10,8810,1.7,27.2,77.9,107.1,78,None,Current,10.13
+1412,2024-06-28,23,F,168,110.3,Weight Training,55,Medium,12.1,129,6.3,3,7285,2.4,27.2,77.9,107.1,78,None,Current,10.2
+1412,2024-06-30,23,F,168,110.6,Cycling,62,Medium,19.4,154,5.6,7,8082,1.7,27.2,77.9,107.1,78,None,Current,10.27

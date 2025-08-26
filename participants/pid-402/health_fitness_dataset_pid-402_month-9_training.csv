@@ -1,0 +1,19 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+402,2024-09-01,24,M,165.5,109.8,Dancing,32,Medium,6.4,150,7.7,1,5466,1.7,24.7,68.6,108.3,71,None,Current,13.53
+402,2024-09-03,24,M,165.5,110.1,Dancing,115,Medium,23.2,129,6.0,7,7100,1.7,24.7,68.6,108.3,71,None,Current,13.66
+402,2024-09-04,24,M,165.5,110.3,Dancing,23,Medium,4.6,147,5.8,5,7658,2.6,24.7,68.6,108.3,71,None,Current,13.69
+402,2024-09-09,24,M,165.5,110.6,Dancing,51,Medium,10.3,137,6.7,4,6784,1.6,24.7,68.6,108.3,71,None,Current,13.75
+402,2024-09-10,24,M,165.5,110.8,Dancing,86,High,20.3,157,6.4,2,5468,2.1,24.7,68.6,108.3,71,None,Current,13.87
+402,2024-09-12,24,M,165.5,111.1,Dancing,113,Low,19.1,127,7.9,4,5796,3.4,24.7,68.6,108.3,71,None,Current,13.99
+402,2024-09-14,24,M,165.5,111.4,Dancing,83,High,19.7,172,7.1,1,3867,2.9,24.7,68.6,108.3,71,None,Current,14.1
+402,2024-09-15,24,M,165.5,111.6,Dancing,53,Medium,10.8,141,6.1,2,8981,2.8,24.7,68.6,108.3,71,None,Current,14.17
+402,2024-09-16,24,M,165.5,111.9,Dancing,107,Medium,21.9,142,6.9,5,5343,3.2,24.7,68.6,108.3,71,None,Current,14.29
+402,2024-09-17,24,M,165.5,112.1,Dancing,61,Medium,12.5,136,7.0,6,8665,2.7,24.7,68.6,108.3,71,None,Current,14.37
+402,2024-09-18,24,M,165.5,112.4,Weight Training,106,Medium,23.8,151,9.9,8,4343,2.1,24.7,68.6,108.3,71,None,Current,14.49
+402,2024-09-19,24,M,165.5,112.6,Walking,93,High,15.4,165,6.1,4,7834,2.7,24.7,68.6,108.3,71,None,Current,14.62
+402,2024-09-20,24,M,165.5,112.9,Weight Training,115,Low,21.6,124,5.3,3,7499,2.5,24.7,68.6,108.3,71,None,Current,14.74
+402,2024-09-22,24,M,165.5,113.2,Weight Training,30,Low,5.6,125,7.4,6,8308,2.0,24.7,68.6,108.3,71,None,Current,14.77
+402,2024-09-23,24,M,165.5,113.4,Cycling,47,High,17.6,170,7.9,1,6122,2.4,24.7,68.6,108.3,71,None,Current,14.84
+402,2024-09-24,24,M,165.5,113.7,Tennis,44,High,14.2,151,6.7,6,5766,3.4,24.7,68.6,108.3,71,None,Current,14.9
+402,2024-09-25,24,M,165.5,113.9,Walking,98,Medium,14.1,152,5.1,5,5106,2.6,24.7,68.6,108.3,71,None,Current,15.01
+402,2024-09-29,24,M,165.5,114.2,Running,34,High,14.8,157,6.7,8,4238,2.9,24.7,68.6,108.3,71,None,Current,15.06

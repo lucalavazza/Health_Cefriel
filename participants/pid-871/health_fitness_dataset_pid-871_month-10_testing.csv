@@ -1,0 +1,17 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+871,2024-10-01,47,F,163.1,95.9,Cycling,61,Medium,16.5,127,6.9,8,5128,1.7,18.3,77.8,116.2,73.6,None,Current,15.38
+871,2024-10-03,47,F,163.1,96.1,Walking,34,Low,3.4,112,8.2,2,7548,2.7,18.3,77.8,116.2,73.6,None,Current,15.41
+871,2024-10-04,47,F,163.1,96.4,Walking,67,High,9.5,159,6.8,10,7414,1.9,18.3,77.8,116.2,73.6,None,Current,15.5
+871,2024-10-05,47,F,163.1,96.7,Walking,115,Medium,14.0,128,8.0,2,5335,3.3,18.3,77.8,116.2,73.6,None,Current,15.64
+871,2024-10-06,47,F,163.1,96.9,Weight Training,88,Low,14.2,108,7.3,3,7991,2.4,18.3,77.8,116.2,73.6,None,Current,15.73
+871,2024-10-12,47,F,163.1,97.2,Walking,55,Medium,6.8,126,8.2,2,9572,2.0,18.3,77.8,116.2,73.6,None,Current,15.8
+871,2024-10-13,47,F,163.1,97.4,Weight Training,52,Low,8.4,122,6.0,3,8816,2.6,18.3,77.8,116.2,73.6,None,Current,15.85
+871,2024-10-15,47,F,163.1,97.7,Weight Training,32,Low,5.2,113,7.4,6,6910,2.3,18.3,77.8,116.2,73.6,None,Current,15.88
+871,2024-10-16,47,F,163.1,98.0,Walking,74,Medium,9.2,123,7.8,6,4832,1.8,18.3,77.8,116.2,73.6,None,Current,15.97
+871,2024-10-17,47,F,163.1,98.2,Weight Training,22,Low,3.6,115,7.7,5,7387,1.9,18.3,77.8,116.2,73.6,None,Current,15.99
+871,2024-10-18,47,F,163.1,98.5,Walking,58,Medium,7.2,137,7.9,9,3491,3.2,18.3,77.8,116.2,73.6,None,Current,16.06
+871,2024-10-20,47,F,163.1,98.7,Dancing,27,Medium,4.9,133,6.8,1,8858,2.8,18.3,77.8,116.2,73.6,None,Current,16.09
+871,2024-10-21,47,F,163.1,99.0,Dancing,104,Medium,18.8,123,8.1,6,7214,2.8,18.3,77.8,116.2,73.6,None,Current,16.22
+871,2024-10-26,47,F,163.1,99.2,Dancing,84,Low,12.7,107,7.1,3,8077,2.7,18.3,77.8,116.2,73.6,None,Current,16.3
+871,2024-10-29,47,F,163.1,99.5,Dancing,68,Medium,12.4,114,5.1,3,7960,1.8,18.3,77.8,116.2,73.6,None,Current,16.38
+871,2024-10-31,47,F,163.1,99.8,Dancing,101,Low,15.4,107,5.9,8,4651,3.3,18.3,77.8,116.2,73.6,None,Current,16.48

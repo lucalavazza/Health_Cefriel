@@ -1,0 +1,18 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+511,2024-01-05,50,M,165.8,65.7,Walking,38,Low,2.6,111,6.9,4,7835,2.4,23.8,75.8,109,75.9,Hypertension,Never,0.04
+511,2024-01-08,50,M,165.8,66.0,Walking,116,Low,8.0,109,7.7,5,7196,3.2,23.8,75.8,109,75.9,Hypertension,Never,0.15
+511,2024-01-09,50,M,165.8,66.2,Cycling,50,Medium,9.3,131,7.8,3,7333,3.3,23.8,75.8,109,75.9,Hypertension,Never,0.21
+511,2024-01-10,50,M,165.8,66.5,Walking,29,Low,2.0,115,6.0,2,6286,1.8,23.8,75.8,109,75.9,Hypertension,Never,0.24
+511,2024-01-14,50,M,165.8,66.8,Cycling,67,Low,10.5,111,7.3,9,7629,2.0,23.8,75.8,109,75.9,Hypertension,Never,0.31
+511,2024-01-15,50,M,165.8,67.0,Walking,61,Medium,5.2,132,6.6,2,10586,2.1,23.8,75.8,109,75.9,Hypertension,Never,0.38
+511,2024-01-16,50,M,165.8,67.3,Yoga,53,Medium,3.6,133,6.8,9,8374,2.1,23.8,75.8,109,75.9,Hypertension,Never,0.45
+511,2024-01-17,50,M,165.8,67.5,Yoga,35,Low,2.0,116,7.7,10,7566,2.0,23.8,75.8,109,75.9,Hypertension,Never,0.48
+511,2024-01-19,50,M,165.8,67.8,Basketball,53,Medium,9.5,128,8.7,10,8940,3.5,23.8,75.8,109,75.9,Hypertension,Never,0.55
+511,2024-01-20,50,M,165.8,68.1,Basketball,87,Low,13.1,113,7.0,5,10861,2.9,23.8,75.8,109,75.9,Hypertension,Never,0.63
+511,2024-01-22,50,M,165.8,68.3,Basketball,101,High,21.4,144,8.3,3,6210,3.4,23.8,75.8,109,75.9,Hypertension,Never,0.77
+511,2024-01-23,50,M,165.8,68.6,Weight Training,119,Medium,16.3,122,6.9,9,6579,1.8,23.8,75.8,109,75.9,Hypertension,Never,0.92
+511,2024-01-26,50,M,165.8,68.8,Weight Training,107,Low,12.2,109,7.5,6,7341,2.3,23.8,75.8,109,75.9,Hypertension,Never,1.02
+511,2024-01-27,50,M,165.8,69.1,Basketball,86,Medium,15.8,133,7.8,1,10546,2.1,23.8,75.8,109,75.9,Hypertension,Never,1.13
+511,2024-01-28,50,M,165.8,69.3,Weight Training,43,Medium,5.9,120,6.4,1,10772,2.3,23.8,75.8,109,75.9,Hypertension,Never,1.18
+511,2024-01-29,50,M,165.8,69.6,Basketball,80,Medium,14.8,129,7.8,8,8972,2.8,23.8,75.8,109,75.9,Hypertension,Never,1.27
+511,2024-01-31,50,M,165.8,69.9,Weight Training,72,Low,8.4,115,6.0,2,11586,1.8,23.8,75.8,109,75.9,Hypertension,Never,1.35

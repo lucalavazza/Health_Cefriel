@@ -1,0 +1,16 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+1541,2024-09-01,63,F,175.4,129.3,Yoga,113,Low,12.2,103,6.4,10,9614,3.2,29,66.4,137.5,78.7,Hypertension,Never,13.34
+1541,2024-09-03,63,F,175.4,129.6,Yoga,71,Low,7.7,97,7.5,1,7635,2.4,29,66.4,137.5,78.7,Hypertension,Never,13.41
+1541,2024-09-06,63,F,175.4,129.9,Yoga,24,Low,2.6,96,6.5,4,5490,2.4,29,66.4,137.5,78.7,Hypertension,Never,13.43
+1541,2024-09-12,63,F,175.4,130.1,Yoga,51,Low,5.5,103,7.6,2,5014,3.2,29,66.4,137.5,78.7,Hypertension,Never,13.48
+1541,2024-09-13,63,F,175.4,130.4,Swimming,99,Medium,30.1,113,7.2,9,8734,2.0,29,66.4,137.5,78.7,Hypertension,Never,13.6
+1541,2024-09-15,63,F,175.4,130.6,Swimming,47,High,16.7,118,8.1,1,9306,1.8,29,66.4,137.5,78.7,Hypertension,Never,13.67
+1541,2024-09-17,63,F,175.4,130.9,Yoga,78,Medium,10.2,116,5.3,7,6931,2.6,29,66.4,137.5,78.7,Hypertension,Never,13.76
+1541,2024-09-19,63,F,175.4,131.2,Swimming,80,Low,20.4,100,6.2,8,6121,2.7,29,66.4,137.5,78.7,Hypertension,Never,13.84
+1541,2024-09-21,63,F,175.4,131.4,Tennis,110,Medium,35.1,93,7.7,2,9217,2.0,29,66.4,137.5,78.7,Hypertension,Never,13.97
+1541,2024-09-22,63,F,175.4,131.7,Swimming,27,Medium,8.3,130,7.3,3,9544,1.5,29,66.4,137.5,78.7,Hypertension,Never,14.0
+1541,2024-09-23,63,F,175.4,131.9,Tennis,50,Low,13.3,102,6.7,9,6357,2.1,29,66.4,137.5,78.7,Hypertension,Never,14.05
+1541,2024-09-24,63,F,175.4,132.2,Tennis,97,Medium,31.1,114,6.3,9,6526,2.7,29,66.4,137.5,78.7,Hypertension,Never,14.17
+1541,2024-09-26,63,F,175.4,132.4,Running,44,High,22.2,132,5.7,3,7691,3.4,29,66.4,137.5,78.7,Hypertension,Never,14.23
+1541,2024-09-28,63,F,175.4,132.7,Tennis,107,Low,28.7,104,9.3,7,10380,2.3,29,66.4,137.5,78.7,Hypertension,Never,14.34
+1541,2024-09-29,63,F,175.4,132.9,Running,23,Medium,10.0,126,7.9,5,8572,1.9,29,66.4,137.5,78.7,Hypertension,Never,14.37

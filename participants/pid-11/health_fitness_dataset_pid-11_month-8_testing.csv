@@ -1,0 +1,17 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+11,2024-08-01,43,F,169.1,105.3,Weight Training,79,Medium,16.6,138,6.7,10,5332,2.3,22.2,69.3,120,67.4,None,Former,14.17
+11,2024-08-03,43,F,169.1,105.6,Weight Training,78,Low,13.7,104,6.6,9,8317,2.4,22.2,69.3,120,67.4,None,Former,14.24
+11,2024-08-07,43,F,169.1,105.8,Weight Training,42,High,10.3,151,7.1,8,7155,2.0,22.2,69.3,120,67.4,None,Former,14.3
+11,2024-08-08,43,F,169.1,106.1,Weight Training,30,Medium,6.3,139,6.2,8,5932,1.9,22.2,69.3,120,67.4,None,Former,14.34
+11,2024-08-09,43,F,169.1,106.3,Weight Training,89,Low,15.7,119,8.2,1,6129,3.0,22.2,69.3,120,67.4,None,Former,14.43
+11,2024-08-11,43,F,169.1,106.6,Weight Training,78,Medium,16.6,121,5.2,10,9275,2.3,22.2,69.3,120,67.4,None,Former,14.52
+11,2024-08-12,43,F,169.1,106.9,Weight Training,48,Low,8.5,120,8.3,5,7400,2.2,22.2,69.3,120,67.4,None,Former,14.57
+11,2024-08-16,43,F,169.1,107.1,Weight Training,32,Medium,6.8,130,7.5,3,7011,2.9,22.2,69.3,120,67.4,None,Former,14.61
+11,2024-08-17,43,F,169.1,107.4,Swimming,45,Low,9.4,111,8.2,9,7356,2.4,22.2,69.3,120,67.4,None,Former,14.65
+11,2024-08-18,43,F,169.1,107.6,Weight Training,112,Low,20.0,107,7.5,1,8382,3.0,22.2,69.3,120,67.4,None,Former,14.76
+11,2024-08-20,43,F,169.1,107.9,Swimming,120,Medium,30.1,127,8.9,5,4476,2.9,22.2,69.3,120,67.4,None,Former,14.91
+11,2024-08-23,43,F,169.1,108.2,Swimming,92,Medium,23.2,133,8.8,10,7140,3.1,22.2,69.3,120,67.4,None,Former,15.02
+11,2024-08-26,43,F,169.1,108.4,Weight Training,53,High,13.4,155,7.3,3,4612,3.2,22.2,69.3,120,67.4,None,Former,15.09
+11,2024-08-27,43,F,169.1,108.7,Swimming,42,High,12.4,163,6.6,4,6641,2.3,22.2,69.3,120,67.4,None,Former,15.15
+11,2024-08-30,43,F,169.1,108.9,Swimming,93,Medium,23.6,158,8.7,8,7609,3.2,22.2,69.3,120,67.4,None,Former,15.26
+11,2024-08-31,43,F,169.1,109.2,Swimming,21,Medium,5.3,126,6.6,1,8399,3.0,22.2,69.3,120,67.4,None,Former,15.29

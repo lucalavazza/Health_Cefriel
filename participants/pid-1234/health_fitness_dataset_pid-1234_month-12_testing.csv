@@ -1,0 +1,20 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+1234,2024-12-01,57,F,169,116.0,Dancing,50,Medium,10.6,125,5.2,5,6682,3.0,21,70.2,120.7,77.1,None,Current,18.35
+1234,2024-12-03,57,F,169,116.3,Dancing,63,Medium,13.4,122,6.7,1,5370,3.1,21,70.2,120.7,77.1,None,Current,18.43
+1234,2024-12-04,57,F,169,116.5,Dancing,109,Medium,23.2,128,7.5,4,9625,3.3,21,70.2,120.7,77.1,None,Current,18.56
+1234,2024-12-05,57,F,169,116.8,Dancing,120,High,29.9,131,6.5,1,7430,2.6,21,70.2,120.7,77.1,None,Current,18.73
+1234,2024-12-06,57,F,169,117.0,Dancing,118,High,29.5,142,6.9,4,10015,2.6,21,70.2,120.7,77.1,None,Current,18.89
+1234,2024-12-07,57,F,169,117.3,Weight Training,34,Medium,8.0,128,9.3,3,7689,3.4,21,70.2,120.7,77.1,None,Current,18.93
+1234,2024-12-08,57,F,169,117.5,Weight Training,104,Low,20.3,112,6.5,5,10632,1.9,21,70.2,120.7,77.1,None,Current,19.04
+1234,2024-12-09,57,F,169,117.8,Weight Training,77,High,21.1,134,7.9,5,7024,2.8,21,70.2,120.7,77.1,None,Current,19.14
+1234,2024-12-12,57,F,169,118.1,Weight Training,77,Medium,18.1,120,6.5,9,8029,2.7,21,70.2,120.7,77.1,None,Current,19.24
+1234,2024-12-14,57,F,169,118.3,Running,49,Medium,18.9,110,5.5,1,9453,3.1,21,70.2,120.7,77.1,None,Current,19.3
+1234,2024-12-15,57,F,169,118.6,Yoga,31,Low,3.1,100,6.7,4,10408,1.8,21,70.2,120.7,77.1,None,Current,19.33
+1234,2024-12-16,57,F,169,118.8,Swimming,72,Low,16.6,106,7.4,8,7345,3.1,21,70.2,120.7,77.1,None,Current,19.4
+1234,2024-12-17,57,F,169,119.1,Swimming,93,Low,21.5,104,8.6,9,7569,1.5,21,70.2,120.7,77.1,None,Current,19.49
+1234,2024-12-20,57,F,169,119.3,Swimming,67,Medium,18.6,124,8.0,4,9057,3.2,21,70.2,120.7,77.1,None,Current,19.57
+1234,2024-12-21,57,F,169,119.6,Swimming,106,Medium,29.5,109,5.6,8,10527,1.6,21,70.2,120.7,77.1,None,Current,19.7
+1234,2024-12-22,57,F,169,119.9,Swimming,64,Low,14.9,109,6.0,8,11069,2.3,21,70.2,120.7,77.1,None,Current,19.76
+1234,2024-12-23,57,F,169,120.1,Swimming,33,Medium,9.2,116,7.2,1,8977,2.9,21,70.2,120.7,77.1,None,Current,19.8
+1234,2024-12-24,57,F,169,120.4,Basketball,63,Medium,20.2,121,7.9,8,11522,2.0,21,70.2,120.7,77.1,None,Current,19.88
+1234,2024-12-25,57,F,169,120.6,Walking,120,Medium,18.3,112,6.4,3,6215,1.7,21,70.2,120.7,77.1,None,Current,20.02

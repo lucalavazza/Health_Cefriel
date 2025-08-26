@@ -1,0 +1,20 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+310,2024-01-01,22,M,171.9,88.9,Cycling,57,Medium,14.3,158,6.0,9,7086,3.2,30,70.6,110.8,87,None,Former,0.07
+310,2024-01-05,22,M,171.9,89.1,Cycling,47,Low,9.9,129,7.2,5,9481,2.0,30,70.6,110.8,87,None,Former,0.12
+310,2024-01-06,22,M,171.9,89.4,Cycling,92,Medium,23.2,130,6.3,5,9619,1.9,30,70.6,110.8,87,None,Former,0.23
+310,2024-01-07,22,M,171.9,89.6,Cycling,98,Low,20.7,130,6.4,1,10236,1.6,30,70.6,110.8,87,None,Former,0.32
+310,2024-01-10,22,M,171.9,89.9,Cycling,91,Medium,23.1,145,7.8,4,8895,3.2,30,70.6,110.8,87,None,Former,0.43
+310,2024-01-11,22,M,171.9,90.2,Cycling,57,Medium,14.5,156,8.7,9,9660,3.2,30,70.6,110.8,87,None,Former,0.5
+310,2024-01-16,22,M,171.9,90.4,Walking,45,Medium,5.1,138,9.8,6,7492,2.5,30,70.6,110.8,87,None,Former,0.56
+310,2024-01-17,22,M,171.9,90.7,Cycling,111,Medium,28.4,122,6.6,7,12021,1.9,30,70.6,110.8,87,None,Former,0.69
+310,2024-01-19,22,M,171.9,90.9,Cycling,40,Medium,10.3,147,6.5,8,8024,2.9,30,70.6,110.8,87,None,Former,0.74
+310,2024-01-20,22,M,171.9,91.2,Basketball,115,High,32.5,170,8.3,6,9596,2.4,30,70.6,110.8,87,None,Former,0.9
+310,2024-01-21,22,M,171.9,91.4,Basketball,39,Medium,9.5,159,8.9,4,11077,2.9,30,70.6,110.8,87,None,Former,0.94
+310,2024-01-22,22,M,171.9,91.7,Basketball,56,Medium,13.7,146,6.9,6,8485,2.6,30,70.6,110.8,87,None,Former,1.01
+310,2024-01-23,22,M,171.9,92.0,Basketball,36,High,10.3,163,7.1,10,9577,3.2,30,70.6,110.8,87,None,Former,1.06
+310,2024-01-24,22,M,171.9,92.2,Cycling,36,Low,7.8,137,6.2,6,7248,1.9,30,70.6,110.8,87,None,Former,1.1
+310,2024-01-25,22,M,171.9,92.5,Basketball,37,Medium,9.1,139,4.8,7,8358,2.0,30,70.6,110.8,87,None,Former,1.14
+310,2024-01-27,22,M,171.9,92.7,Weight Training,90,Low,13.9,128,8.8,10,8916,2.6,30,70.6,110.8,87,None,Former,1.23
+310,2024-01-29,22,M,171.9,93.0,Tennis,31,High,8.2,182,7.5,3,9786,1.6,30,70.6,110.8,87,None,Former,1.28
+310,2024-01-30,22,M,171.9,93.3,Tennis,77,High,20.3,151,8.6,7,9705,3.0,30,70.6,110.8,87,None,Former,1.38
+310,2024-01-31,22,M,171.9,93.5,HIIT,96,Medium,35.8,143,7.0,5,10996,1.7,30,70.6,110.8,87,None,Former,1.5

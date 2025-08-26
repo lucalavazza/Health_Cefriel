@@ -1,0 +1,25 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+1800,2024-06-01,20,F,170.4,99.8,Dancing,75,Medium,13.7,149,8.1,4,11652,2.4,24.8,66.2,124.6,95.3,Hypertension,Never,9.22
+1800,2024-06-02,20,F,170.4,100.0,Weight Training,38,Medium,7.6,162,6.6,6,10000,2.7,24.8,66.2,124.6,95.3,Hypertension,Never,9.27
+1800,2024-06-03,20,F,170.4,100.3,Weight Training,100,Low,16.7,133,8.2,8,7721,2.2,24.8,66.2,124.6,95.3,Hypertension,Never,9.37
+1800,2024-06-04,20,F,170.4,100.5,Dancing,24,High,5.1,171,6.8,9,6254,2.2,24.8,66.2,124.6,95.3,Hypertension,Never,9.4
+1800,2024-06-05,20,F,170.4,100.8,Dancing,60,Medium,11.1,158,8.9,6,9598,2.7,24.8,66.2,124.6,95.3,Hypertension,Never,9.47
+1800,2024-06-06,20,F,170.4,101.1,Dancing,115,Low,17.7,135,7.5,7,8817,3.2,24.8,66.2,124.6,95.3,Hypertension,Never,9.59
+1800,2024-06-07,20,F,170.4,101.3,Dancing,115,Medium,21.3,144,5.8,4,10340,3.3,24.8,66.2,124.6,95.3,Hypertension,Never,9.73
+1800,2024-06-09,20,F,170.4,101.6,Dancing,65,High,14.1,171,8.0,1,9582,3.5,24.8,66.2,124.6,95.3,Hypertension,Never,9.82
+1800,2024-06-10,20,F,170.4,101.8,Dancing,39,Medium,7.3,147,8.9,8,9231,2.7,24.8,66.2,124.6,95.3,Hypertension,Never,9.87
+1800,2024-06-11,20,F,170.4,102.1,Dancing,80,Medium,14.9,151,7.0,7,8394,3.0,24.8,66.2,124.6,95.3,Hypertension,Never,9.96
+1800,2024-06-12,20,F,170.4,102.3,Walking,22,Medium,2.8,151,6.6,8,9308,2.2,24.8,66.2,124.6,95.3,Hypertension,Never,9.99
+1800,2024-06-14,20,F,170.4,102.6,Dancing,43,High,9.4,174,8.0,2,5292,2.7,24.8,66.2,124.6,95.3,Hypertension,Never,10.05
+1800,2024-06-15,20,F,170.4,102.9,Running,86,Medium,28.8,155,7.6,7,10556,2.1,24.8,66.2,124.6,95.3,Hypertension,Never,10.15
+1800,2024-06-16,20,F,170.4,103.1,Swimming,75,High,21.0,184,7.1,3,13079,2.4,24.8,66.2,124.6,95.3,Hypertension,Never,10.26
+1800,2024-06-17,20,F,170.4,103.4,Swimming,81,Low,16.2,131,8.1,8,8928,3.0,24.8,66.2,124.6,95.3,Hypertension,Never,10.34
+1800,2024-06-18,20,F,170.4,103.6,Swimming,85,Low,17.1,132,7.2,6,7743,3.2,24.8,66.2,124.6,95.3,Hypertension,Never,10.42
+1800,2024-06-20,20,F,170.4,103.9,Dancing,101,Medium,19.2,139,7.8,6,9833,3.5,24.8,66.2,124.6,95.3,Hypertension,Never,10.54
+1800,2024-06-21,20,F,170.4,104.1,Swimming,73,Low,14.7,122,6.4,3,10698,2.3,24.8,66.2,124.6,95.3,Hypertension,Never,10.62
+1800,2024-06-22,20,F,170.4,104.4,Walking,59,Low,6.5,128,8.7,3,7918,2.8,24.8,66.2,124.6,95.3,Hypertension,Never,10.68
+1800,2024-06-23,20,F,170.4,104.7,Swimming,108,High,30.7,164,7.4,3,7802,2.0,24.8,66.2,124.6,95.3,Hypertension,Never,10.83
+1800,2024-06-24,20,F,170.4,104.9,Tennis,29,Medium,7.4,146,7.0,6,8774,3.1,24.8,66.2,124.6,95.3,Hypertension,Never,10.86
+1800,2024-06-25,20,F,170.4,105.2,Tennis,60,Medium,15.3,160,8.2,6,8594,3.1,24.8,66.2,124.6,95.3,Hypertension,Never,10.93
+1800,2024-06-26,20,F,170.4,105.4,Swimming,35,Low,7.2,121,8.8,5,7710,2.2,24.8,66.2,124.6,95.3,Hypertension,Never,10.97
+1800,2024-06-30,20,F,170.4,105.7,Basketball,36,Medium,10.1,143,7.3,8,9225,3.5,24.8,66.2,124.6,95.3,Hypertension,Never,11.01

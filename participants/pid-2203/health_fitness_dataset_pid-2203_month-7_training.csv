@@ -1,0 +1,20 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+2203,2024-07-01,55,F,152.5,95.7,Tennis,54,Low,10.5,111,8.4,2,6764,2.7,26.6,79.1,112.5,94,None,Never,11.54
+2203,2024-07-04,55,F,152.5,96.0,Tennis,80,Medium,18.6,132,9.6,3,8329,3.5,26.6,79.1,112.5,94,None,Never,11.64
+2203,2024-07-05,55,F,152.5,96.2,Tennis,73,High,19.9,136,7.5,10,7680,1.7,26.6,79.1,112.5,94,None,Never,11.74
+2203,2024-07-06,55,F,152.5,96.5,Dancing,59,Low,8.7,115,8.0,8,8525,1.5,26.6,79.1,112.5,94,None,Never,11.8
+2203,2024-07-07,55,F,152.5,96.7,Dancing,40,Low,5.9,106,7.3,3,9953,1.7,26.6,79.1,112.5,94,None,Never,11.84
+2203,2024-07-08,55,F,152.5,97.0,Weight Training,85,Medium,16.4,119,8.4,5,7875,2.4,26.6,79.1,112.5,94,None,Never,11.94
+2203,2024-07-09,55,F,152.5,97.2,Weight Training,37,High,8.4,145,7.0,2,6234,2.6,26.6,79.1,112.5,94,None,Never,11.99
+2203,2024-07-12,55,F,152.5,97.5,Weight Training,70,Medium,13.6,128,6.2,5,8233,2.8,26.6,79.1,112.5,94,None,Never,12.08
+2203,2024-07-13,55,F,152.5,97.8,Weight Training,62,Low,10.1,108,7.9,3,12183,2.2,26.6,79.1,112.5,94,None,Never,12.14
+2203,2024-07-14,55,F,152.5,98.0,Weight Training,58,Medium,11.3,133,8.2,1,7837,2.2,26.6,79.1,112.5,94,None,Never,12.21
+2203,2024-07-15,55,F,152.5,98.3,Weight Training,48,High,11.0,152,7.3,9,8087,2.2,26.6,79.1,112.5,94,None,Never,12.28
+2203,2024-07-20,55,F,152.5,98.5,Weight Training,21,Low,3.4,105,5.8,1,8796,2.4,26.6,79.1,112.5,94,None,Never,12.3
+2203,2024-07-21,55,F,152.5,98.8,Weight Training,43,Medium,8.5,114,6.7,6,9440,1.7,26.6,79.1,112.5,94,None,Never,12.35
+2203,2024-07-23,55,F,152.5,99.1,Weight Training,116,High,26.7,152,7.1,2,6495,2.3,26.6,79.1,112.5,94,None,Never,12.51
+2203,2024-07-24,55,F,152.5,99.3,Weight Training,85,Medium,16.8,132,7.6,2,7893,1.6,26.6,79.1,112.5,94,None,Never,12.61
+2203,2024-07-25,55,F,152.5,99.6,Swimming,62,Medium,14.4,123,6.7,5,4468,2.8,26.6,79.1,112.5,94,None,Never,12.69
+2203,2024-07-26,55,F,152.5,99.8,Weight Training,73,High,17.0,150,6.5,8,6683,2.6,26.6,79.1,112.5,94,None,Never,12.79
+2203,2024-07-27,55,F,152.5,100.1,Basketball,77,Low,17.1,110,5.8,4,8239,2.8,26.6,79.1,112.5,94,None,Never,12.87
+2203,2024-07-31,55,F,152.5,100.3,Cycling,57,Low,13.5,107,6.7,3,6998,1.8,26.6,79.1,112.5,94,None,Never,12.92

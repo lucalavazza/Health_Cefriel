@@ -1,0 +1,17 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+1415,2024-07-01,55,M,172.8,130.0,Yoga,44,High,6.7,138,6.5,7,9990,3.0,32.4,71.7,128.4,95.9,Diabetes,Never,10.39
+1415,2024-07-02,55,M,172.8,130.2,Yoga,96,Medium,12.5,123,8.4,4,10212,1.9,32.4,71.7,128.4,95.9,Diabetes,Never,10.51
+1415,2024-07-04,55,M,172.8,130.5,Yoga,71,Low,7.7,110,7.2,2,5810,1.5,32.4,71.7,128.4,95.9,Diabetes,Never,10.58
+1415,2024-07-05,55,M,172.8,130.7,HIIT,111,Medium,57.9,126,5.5,2,9017,1.9,32.4,71.7,128.4,95.9,Diabetes,Never,10.71
+1415,2024-07-06,55,M,172.8,131.0,HIIT,89,High,54.3,136,4.9,8,12279,2.6,32.4,71.7,128.4,95.9,Diabetes,Never,10.84
+1415,2024-07-14,55,M,172.8,131.2,Yoga,98,Low,10.7,111,7.0,5,8249,1.8,32.4,71.7,128.4,95.9,Diabetes,Never,10.94
+1415,2024-07-15,55,M,172.8,131.5,Dancing,32,Low,6.4,105,8.3,1,8215,1.8,32.4,71.7,128.4,95.9,Diabetes,Never,10.97
+1415,2024-07-16,55,M,172.8,131.8,HIIT,109,High,66.9,131,5.3,8,7537,3.1,32.4,71.7,128.4,95.9,Diabetes,Never,11.12
+1415,2024-07-17,55,M,172.8,132.0,Cycling,102,Medium,38.1,133,6.5,3,5813,3.5,32.4,71.7,128.4,95.9,Diabetes,Never,11.24
+1415,2024-07-18,55,M,172.8,132.3,HIIT,116,Low,51.0,109,7.0,6,7450,2.4,32.4,71.7,128.4,95.9,Diabetes,Never,11.36
+1415,2024-07-21,55,M,172.8,132.5,Weight Training,37,Medium,9.8,127,8.2,2,8383,1.8,32.4,71.7,128.4,95.9,Diabetes,Never,11.4
+1415,2024-07-22,55,M,172.8,132.8,HIIT,25,Medium,13.3,129,8.9,5,8468,2.0,32.4,71.7,128.4,95.9,Diabetes,Never,11.43
+1415,2024-07-25,55,M,172.8,133.0,Weight Training,120,Low,26.6,110,5.4,1,6132,2.8,32.4,71.7,128.4,95.9,Diabetes,Never,11.55
+1415,2024-07-26,55,M,172.8,133.3,Swimming,95,Medium,29.5,123,6.7,1,7729,1.9,32.4,71.7,128.4,95.9,Diabetes,Never,11.67
+1415,2024-07-29,55,M,172.8,133.5,Weight Training,27,Low,6.0,104,6.3,4,6818,3.3,32.4,71.7,128.4,95.9,Diabetes,Never,11.69
+1415,2024-07-30,55,M,172.8,133.8,Weight Training,77,Medium,20.6,114,6.5,8,5655,2.3,32.4,71.7,128.4,95.9,Diabetes,Never,11.79

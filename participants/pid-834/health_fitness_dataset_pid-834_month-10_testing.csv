@@ -1,0 +1,20 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+834,2024-10-03,58,M,172.7,106.7,Walking,31,Medium,4.2,111,5.9,7,6303,2.1,20,74.6,96.3,72,None,Never,15.56
+834,2024-10-04,58,M,172.7,107.0,Running,87,High,35.4,136,7.9,8,8892,2.0,20,74.6,96.3,72,None,Never,15.69
+834,2024-10-05,58,M,172.7,107.3,Weight Training,117,Medium,25.0,125,7.6,8,5586,2.5,20,74.6,96.3,72,None,Never,15.83
+834,2024-10-07,58,M,172.7,107.5,Weight Training,69,Low,12.3,101,7.7,7,5611,2.7,20,74.6,96.3,72,None,Never,15.9
+834,2024-10-08,58,M,172.7,107.8,Weight Training,118,Medium,25.4,130,8.7,5,6075,3.3,20,74.6,96.3,72,None,Never,16.04
+834,2024-10-11,58,M,172.7,108.0,Weight Training,68,Medium,14.7,128,6.5,6,7126,1.6,20,74.6,96.3,72,None,Never,16.12
+834,2024-10-13,58,M,172.7,108.3,Weight Training,70,Medium,15.1,124,6.9,3,7765,3.0,20,74.6,96.3,72,None,Never,16.2
+834,2024-10-14,58,M,172.7,108.5,Weight Training,83,High,21.0,144,7.1,3,8062,2.8,20,74.6,96.3,72,None,Never,16.32
+834,2024-10-15,58,M,172.7,108.8,Weight Training,81,High,20.5,119,6.9,3,9634,1.8,20,74.6,96.3,72,None,Never,16.43
+834,2024-10-16,58,M,172.7,109.1,Weight Training,78,Medium,17.0,121,8.5,9,4612,1.9,20,74.6,96.3,72,None,Never,16.53
+834,2024-10-17,58,M,172.7,109.3,Walking,91,Medium,12.6,117,6.4,6,5845,1.6,20,74.6,96.3,72,None,Never,16.64
+834,2024-10-20,58,M,172.7,109.6,Walking,22,Low,2.5,104,6.4,4,5688,3.2,20,74.6,96.3,72,None,Never,16.66
+834,2024-10-21,58,M,172.7,109.8,Swimming,82,High,24.5,143,6.5,2,4412,3.2,20,74.6,96.3,72,None,Never,16.77
+834,2024-10-22,58,M,172.7,110.1,Walking,82,High,13.3,133,8.7,4,6545,1.8,20,74.6,96.3,72,None,Never,16.89
+834,2024-10-24,58,M,172.7,110.3,Walking,67,Low,7.8,111,8.1,8,5034,2.6,20,74.6,96.3,72,None,Never,16.95
+834,2024-10-26,58,M,172.7,110.6,HIIT,54,Low,19.9,105,7.4,1,6535,2.2,20,74.6,96.3,72,None,Never,17.01
+834,2024-10-27,58,M,172.7,110.9,Walking,26,Low,3.0,101,6.3,8,4451,2.0,20,74.6,96.3,72,None,Never,17.03
+834,2024-10-28,58,M,172.7,111.1,HIIT,62,Medium,27.5,131,8.4,10,6605,2.2,20,74.6,96.3,72,None,Never,17.11
+834,2024-10-29,58,M,172.7,111.4,Running,71,Low,21.5,110,7.1,4,6092,1.7,20,74.6,96.3,72,None,Never,17.18

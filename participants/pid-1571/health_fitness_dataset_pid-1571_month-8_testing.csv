@@ -1,0 +1,16 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+1571,2024-08-02,41,M,175.7,114.9,HIIT,116,Medium,53.2,150,8.7,3,4811,2.9,24.1,78.4,120.7,76.7,Hypertension,Former,12.83
+1571,2024-08-06,41,M,175.7,115.1,Cycling,120,Medium,39.1,124,7.0,3,6917,2.4,24.1,78.4,120.7,76.7,Hypertension,Former,12.97
+1571,2024-08-07,41,M,175.7,115.4,Cycling,48,Medium,15.7,138,7.4,7,4029,2.3,24.1,78.4,120.7,76.7,Hypertension,Former,13.03
+1571,2024-08-08,41,M,175.7,115.6,HIIT,47,High,25.3,154,7.3,3,6684,1.6,24.1,78.4,120.7,76.7,Hypertension,Former,13.1
+1571,2024-08-09,41,M,175.7,115.9,Cycling,37,Medium,12.1,136,6.1,1,3207,2.2,24.1,78.4,120.7,76.7,Hypertension,Former,13.14
+1571,2024-08-11,41,M,175.7,116.2,Cycling,61,Low,16.7,108,7.9,1,9110,2.4,24.1,78.4,120.7,76.7,Hypertension,Former,13.2
+1571,2024-08-12,41,M,175.7,116.4,HIIT,83,Medium,38.6,139,8.0,5,7343,3.1,24.1,78.4,120.7,76.7,Hypertension,Former,13.3
+1571,2024-08-13,41,M,175.7,116.7,Cycling,112,Low,30.8,117,6.6,5,9575,1.6,24.1,78.4,120.7,76.7,Hypertension,Former,13.41
+1571,2024-08-15,41,M,175.7,116.9,HIIT,67,Medium,31.3,132,5.8,7,6071,2.4,24.1,78.4,120.7,76.7,Hypertension,Former,13.5
+1571,2024-08-18,41,M,175.7,117.2,Walking,36,Medium,5.3,138,6.4,6,9295,1.6,24.1,78.4,120.7,76.7,Hypertension,Former,13.54
+1571,2024-08-21,41,M,175.7,117.4,HIIT,45,Low,17.6,114,7.7,5,7107,1.8,24.1,78.4,120.7,76.7,Hypertension,Former,13.58
+1571,2024-08-23,41,M,175.7,117.7,Walking,103,Medium,15.3,149,7.0,8,7732,2.8,24.1,78.4,120.7,76.7,Hypertension,Former,13.71
+1571,2024-08-24,41,M,175.7,118.0,Walking,83,Medium,12.4,127,7.9,4,7331,2.2,24.1,78.4,120.7,76.7,Hypertension,Former,13.81
+1571,2024-08-26,41,M,175.7,118.2,Walking,119,High,20.7,156,7.8,2,5847,2.3,24.1,78.4,120.7,76.7,Hypertension,Former,13.97
+1571,2024-08-30,41,M,175.7,118.5,Walking,95,Medium,14.2,141,7.0,6,5703,2.9,24.1,78.4,120.7,76.7,Hypertension,Former,14.09

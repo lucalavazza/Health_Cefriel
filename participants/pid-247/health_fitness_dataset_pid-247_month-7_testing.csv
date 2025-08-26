@@ -1,0 +1,18 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+247,2024-07-01,36,M,176.9,115.5,Cycling,58,High,22.1,152,8.5,2,8012,2.5,25.3,63.2,125.9,84.1,Hypertension,Former,10.88
+247,2024-07-03,36,M,176.9,115.7,HIIT,30,Medium,13.9,140,6.6,5,9153,3.4,25.3,63.2,125.9,84.1,Hypertension,Former,10.92
+247,2024-07-04,36,M,176.9,116.0,Cycling,29,Medium,9.5,136,8.1,10,8961,1.8,25.3,63.2,125.9,84.1,Hypertension,Former,10.95
+247,2024-07-05,36,M,176.9,116.2,Cycling,57,Low,15.6,117,8.7,10,8463,2.1,25.3,63.2,125.9,84.1,Hypertension,Former,11.01
+247,2024-07-07,36,M,176.9,116.5,Basketball,112,Medium,34.7,144,6.6,9,7877,1.7,25.3,63.2,125.9,84.1,Hypertension,Former,11.14
+247,2024-07-12,36,M,176.9,116.7,Weight Training,49,Medium,11.4,137,5.4,7,8105,2.7,25.3,63.2,125.9,84.1,Hypertension,Former,11.2
+247,2024-07-14,36,M,176.9,117.0,Cycling,20,Medium,6.6,131,7.2,4,9229,2.7,25.3,63.2,125.9,84.1,Hypertension,Former,11.22
+247,2024-07-15,36,M,176.9,117.3,Basketball,30,Low,7.8,121,7.6,1,7751,2.3,25.3,63.2,125.9,84.1,Hypertension,Former,11.25
+247,2024-07-16,36,M,176.9,117.5,Cycling,104,High,40.3,160,5.9,6,9708,1.8,25.3,63.2,125.9,84.1,Hypertension,Former,11.4
+247,2024-07-17,36,M,176.9,117.8,Walking,115,Medium,17.1,134,8.7,1,6524,1.6,25.3,63.2,125.9,84.1,Hypertension,Former,11.54
+247,2024-07-19,36,M,176.9,118.0,Tennis,80,Medium,22.9,137,8.2,10,12206,2.8,25.3,63.2,125.9,84.1,Hypertension,Former,11.63
+247,2024-07-21,36,M,176.9,118.3,Tennis,107,Medium,30.7,141,6.9,8,8116,1.9,25.3,63.2,125.9,84.1,Hypertension,Former,11.76
+247,2024-07-23,36,M,176.9,118.5,Basketball,68,Medium,21.4,130,8.7,8,7059,1.9,25.3,63.2,125.9,84.1,Hypertension,Former,11.84
+247,2024-07-24,36,M,176.9,118.8,Swimming,74,High,23.9,150,5.2,6,6900,3.4,25.3,63.2,125.9,84.1,Hypertension,Former,11.95
+247,2024-07-25,36,M,176.9,119.1,Tennis,73,Low,17.6,123,7.8,1,6176,1.5,25.3,63.2,125.9,84.1,Hypertension,Former,12.02
+247,2024-07-27,36,M,176.9,119.3,Basketball,81,Medium,25.7,135,7.9,5,8158,3.3,25.3,63.2,125.9,84.1,Hypertension,Former,12.12
+247,2024-07-29,36,M,176.9,119.6,Tennis,49,Medium,14.2,145,7.1,5,9319,2.3,25.3,63.2,125.9,84.1,Hypertension,Former,12.18

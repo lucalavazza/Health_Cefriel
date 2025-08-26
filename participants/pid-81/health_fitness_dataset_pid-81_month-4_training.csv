@@ -1,0 +1,18 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+81,2024-04-02,30,F,162.9,62.6,Cycling,37,Medium,6.5,153,5.5,3,10254,1.9,17,73.1,121.7,69.5,None,Former,5.94
+81,2024-04-05,30,F,162.9,62.8,Cycling,94,Medium,16.7,141,5.5,2,10207,3.5,17,73.1,121.7,69.5,None,Former,6.05
+81,2024-04-09,30,F,162.9,63.1,Cycling,100,Low,14.8,131,8.6,6,7986,3.5,17,73.1,121.7,69.5,None,Former,6.15
+81,2024-04-10,30,F,162.9,63.4,Cycling,51,Medium,9.1,144,6.1,3,10836,1.7,17,73.1,121.7,69.5,None,Former,6.21
+81,2024-04-11,30,F,162.9,63.6,Cycling,79,Medium,14.2,138,6.8,4,10984,1.6,17,73.1,121.7,69.5,None,Former,6.31
+81,2024-04-13,30,F,162.9,63.9,Cycling,40,Low,6.0,128,7.4,10,12631,3.5,17,73.1,121.7,69.5,None,Former,6.35
+81,2024-04-17,30,F,162.9,64.1,Weight Training,101,Medium,12.9,131,6.6,2,9687,2.4,17,73.1,121.7,69.5,None,Former,6.47
+81,2024-04-18,30,F,162.9,64.4,Weight Training,78,High,11.7,154,6.7,5,10800,3.5,17,73.1,121.7,69.5,None,Former,6.58
+81,2024-04-19,30,F,162.9,64.6,Walking,89,Medium,7.3,137,7.4,1,10807,2.7,17,73.1,121.7,69.5,None,Former,6.68
+81,2024-04-21,30,F,162.9,64.9,Running,62,Medium,13.1,145,6.1,8,13337,2.0,17,73.1,121.7,69.5,None,Former,6.76
+81,2024-04-22,30,F,162.9,65.2,Walking,60,Low,4.1,112,7.5,2,9995,3.4,17,73.1,121.7,69.5,None,Former,6.82
+81,2024-04-23,30,F,162.9,65.4,Running,69,Medium,14.7,148,7.5,5,10447,2.4,17,73.1,121.7,69.5,None,Former,6.9
+81,2024-04-24,30,F,162.9,65.7,Weight Training,66,Medium,8.6,146,6.8,1,10265,3.4,17,73.1,121.7,69.5,None,Former,6.98
+81,2024-04-26,30,F,162.9,65.9,Walking,25,Medium,2.1,158,5.6,1,11210,2.9,17,73.1,121.7,69.5,None,Former,7.01
+81,2024-04-28,30,F,162.9,66.2,Cycling,73,Medium,13.6,149,8.2,7,9908,3.2,17,73.1,121.7,69.5,None,Former,7.1
+81,2024-04-29,30,F,162.9,66.5,Weight Training,113,Low,12.5,116,7.0,8,6942,1.8,17,73.1,121.7,69.5,None,Former,7.21
+81,2024-04-30,30,F,162.9,66.7,Walking,52,Medium,4.4,143,6.8,2,10548,3.0,17,73.1,121.7,69.5,None,Former,7.27

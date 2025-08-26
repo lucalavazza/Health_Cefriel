@@ -1,0 +1,18 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+351,2024-01-04,34,F,163,55.9,Weight Training,35,High,4.5,136,8.0,2,7157,2.5,20.9,66.1,130,91.1,None,Never,0.05
+351,2024-01-05,34,F,163,56.1,Weight Training,81,Medium,9.1,143,7.4,5,9273,2.4,20.9,66.1,130,91.1,None,Never,0.15
+351,2024-01-07,34,F,163,56.4,Weight Training,117,Medium,13.1,148,7.2,9,9797,2.3,20.9,66.1,130,91.1,None,Never,0.29
+351,2024-01-08,34,F,163,56.7,Weight Training,67,High,8.8,148,7.0,3,8762,1.9,20.9,66.1,130,91.1,None,Never,0.38
+351,2024-01-10,34,F,163,56.9,Weight Training,115,Low,10.9,120,6.5,4,7729,2.5,20.9,66.1,130,91.1,None,Never,0.5
+351,2024-01-12,34,F,163,57.2,Weight Training,115,Medium,13.1,130,6.3,7,8162,2.3,20.9,66.1,130,91.1,None,Never,0.63
+351,2024-01-13,34,F,163,57.4,Weight Training,55,Low,5.2,119,8.8,3,8579,2.8,20.9,66.1,130,91.1,None,Never,0.69
+351,2024-01-14,34,F,163,57.7,Weight Training,32,Medium,3.7,139,7.2,8,11632,2.4,20.9,66.1,130,91.1,None,Never,0.73
+351,2024-01-15,34,F,163,58.0,Basketball,30,Medium,4.6,144,7.1,7,10153,3.2,20.9,66.1,130,91.1,None,Never,0.76
+351,2024-01-17,34,F,163,58.2,Weight Training,26,High,3.5,162,7.3,4,8618,3.4,20.9,66.1,130,91.1,None,Never,0.8
+351,2024-01-18,34,F,163,58.5,Dancing,58,Medium,6.2,156,6.4,1,10967,1.5,20.9,66.1,130,91.1,None,Never,0.87
+351,2024-01-19,34,F,163,58.7,Weight Training,117,High,16.0,162,6.3,4,10068,3.5,20.9,66.1,130,91.1,None,Never,1.03
+351,2024-01-20,34,F,163,59.0,Dancing,70,Medium,7.5,135,6.2,3,9572,3.2,20.9,66.1,130,91.1,None,Never,1.12
+351,2024-01-21,34,F,163,59.2,Weight Training,82,High,11.3,180,5.2,2,10025,3.1,20.9,66.1,130,91.1,None,Never,1.23
+351,2024-01-22,34,F,163,59.5,Dancing,52,High,6.6,159,7.3,10,7551,3.2,20.9,66.1,130,91.1,None,Never,1.3
+351,2024-01-25,34,F,163,59.8,Dancing,23,High,2.9,152,7.0,2,9341,3.0,20.9,66.1,130,91.1,None,Never,1.34
+351,2024-01-30,34,F,163,60.0,HIIT,24,Low,4.8,112,5.2,3,10349,3.3,20.9,66.1,130,91.1,None,Never,1.36

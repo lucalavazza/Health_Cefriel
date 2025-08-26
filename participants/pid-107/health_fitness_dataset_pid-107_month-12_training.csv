@@ -1,0 +1,17 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+107,2024-12-01,63,M,168.6,115.9,Tennis,57,Medium,16.0,111,6.2,2,8769,2.0,20.9,67.4,117.1,89.8,None,Current,18.63
+107,2024-12-03,63,M,168.6,116.1,Swimming,113,Medium,30.6,106,7.0,9,6765,2.0,20.9,67.4,117.1,89.8,None,Current,18.77
+107,2024-12-06,63,M,168.6,116.4,Swimming,61,Low,13.8,109,6.2,1,9445,2.1,20.9,67.4,117.1,89.8,None,Current,18.83
+107,2024-12-07,63,M,168.6,116.7,Tennis,37,Medium,10.5,103,4.9,2,7105,2.1,20.9,67.4,117.1,89.8,None,Current,18.87
+107,2024-12-08,63,M,168.6,116.9,Swimming,27,Low,6.1,111,8.3,9,6714,3.1,20.9,67.4,117.1,89.8,None,Current,18.9
+107,2024-12-09,63,M,168.6,117.2,Tennis,50,Medium,14.2,121,7.7,2,6162,2.4,20.9,67.4,117.1,89.8,None,Current,18.96
+107,2024-12-10,63,M,168.6,117.4,Swimming,52,Medium,14.2,118,6.9,3,7840,2.0,20.9,67.4,117.1,89.8,None,Current,19.02
+107,2024-12-13,63,M,168.6,117.7,Tennis,66,Medium,18.9,129,7.5,7,6580,3.2,20.9,67.4,117.1,89.8,None,Current,19.1
+107,2024-12-17,63,M,168.6,117.9,Swimming,57,Medium,15.7,112,6.9,1,7342,1.9,20.9,67.4,117.1,89.8,None,Current,19.17
+107,2024-12-18,63,M,168.6,118.2,Swimming,98,Medium,27.0,114,5.5,8,4538,2.8,20.9,67.4,117.1,89.8,None,Current,19.29
+107,2024-12-19,63,M,168.6,118.5,Tennis,46,Low,11.0,99,6.8,5,8663,2.0,20.9,67.4,117.1,89.8,None,Current,19.33
+107,2024-12-20,63,M,168.6,118.7,Swimming,74,Low,17.0,95,7.4,3,5294,3.1,20.9,67.4,117.1,89.8,None,Current,19.41
+107,2024-12-22,63,M,168.6,119.0,Tennis,79,Medium,22.8,110,5.5,1,10413,1.5,20.9,67.4,117.1,89.8,None,Current,19.5
+107,2024-12-23,63,M,168.6,119.2,Tennis,23,High,7.8,128,7.6,10,7060,2.5,20.9,67.4,117.1,89.8,None,Current,19.53
+107,2024-12-24,63,M,168.6,119.5,Swimming,96,Medium,26.7,114,7.8,2,7613,2.3,20.9,67.4,117.1,89.8,None,Current,19.65
+107,2024-12-25,63,M,168.6,119.7,Tennis,102,High,34.6,147,7.1,8,6429,2.4,20.9,67.4,117.1,89.8,None,Current,19.79

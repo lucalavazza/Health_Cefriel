@@ -1,0 +1,18 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+979,2024-12-02,28,M,186.5,165.7,Swimming,47,High,21.2,168,7.3,3,7285,1.8,31,65.3,124.7,84.6,Asthma,Former,18.93
+979,2024-12-03,28,M,186.5,166.0,Swimming,51,High,23.0,178,7.7,6,5447,2.3,31,65.3,124.7,84.6,Asthma,Former,19.0
+979,2024-12-05,28,M,186.5,166.2,Swimming,49,Low,15.8,127,7.8,2,6923,2.8,31,65.3,124.7,84.6,Asthma,Former,19.05
+979,2024-12-06,28,M,186.5,166.5,Swimming,79,Low,25.5,134,6.0,6,8730,2.6,31,65.3,124.7,84.6,Asthma,Former,19.13
+979,2024-12-07,28,M,186.5,166.8,Weight Training,51,Medium,17.0,144,7.9,8,8170,3.4,31,65.3,124.7,84.6,Asthma,Former,19.19
+979,2024-12-08,28,M,186.5,167.0,HIIT,28,Low,15.6,127,7.8,7,8281,2.4,31,65.3,124.7,84.6,Asthma,Former,19.22
+979,2024-12-12,28,M,186.5,167.3,Weight Training,114,Medium,38.1,151,7.3,7,6209,2.6,31,65.3,124.7,84.6,Asthma,Former,19.36
+979,2024-12-13,28,M,186.5,167.5,Weight Training,111,Medium,37.1,151,6.8,3,8920,2.9,31,65.3,124.7,84.6,Asthma,Former,19.49
+979,2024-12-15,28,M,186.5,167.8,HIIT,56,Medium,37.5,147,6.8,10,10527,2.5,31,65.3,124.7,84.6,Asthma,Former,19.56
+979,2024-12-16,28,M,186.5,168.0,HIIT,52,Medium,34.9,144,7.9,3,6864,3.4,31,65.3,124.7,84.6,Asthma,Former,19.62
+979,2024-12-17,28,M,186.5,168.3,HIIT,40,Low,22.4,119,5.0,3,7765,3.1,31,65.3,124.7,84.6,Asthma,Former,19.66
+979,2024-12-18,28,M,186.5,168.6,HIIT,40,Medium,26.9,142,8.4,2,7110,1.5,31,65.3,124.7,84.6,Asthma,Former,19.71
+979,2024-12-19,28,M,186.5,168.8,HIIT,77,Low,43.3,122,7.1,1,4563,2.4,31,65.3,124.7,84.6,Asthma,Former,19.78
+979,2024-12-20,28,M,186.5,169.1,HIIT,89,Medium,60.1,158,6.9,1,7464,3.0,31,65.3,124.7,84.6,Asthma,Former,19.89
+979,2024-12-22,28,M,186.5,169.3,HIIT,116,Low,65.4,128,6.0,5,9818,1.9,31,65.3,124.7,84.6,Asthma,Former,20.01
+979,2024-12-23,28,M,186.5,169.6,Basketball,66,Medium,29.8,150,7.8,3,10856,2.4,31,65.3,124.7,84.6,Asthma,Former,20.09
+979,2024-12-25,28,M,186.5,169.8,HIIT,48,Medium,32.6,131,7.4,9,9382,3.5,31,65.3,124.7,84.6,Asthma,Former,20.14

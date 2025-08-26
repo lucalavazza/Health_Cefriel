@@ -1,0 +1,16 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+1387,2024-02-02,63,M,176.6,80.6,Walking,51,High,6.1,135,7.5,4,8725,2.1,23.9,63.3,124.4,87.5,Hypertension,Never,1.86
+1387,2024-02-03,63,M,176.6,80.8,HIIT,65,Medium,20.9,123,7.5,6,10126,2.3,23.9,63.3,124.4,87.5,Hypertension,Never,1.93
+1387,2024-02-05,63,M,176.6,81.1,Walking,113,High,13.5,146,4.2,10,6167,2.9,23.9,63.3,124.4,87.5,Hypertension,Never,2.09
+1387,2024-02-07,63,M,176.6,81.3,Walking,92,Medium,9.4,123,6.7,3,9949,2.9,23.9,63.3,124.4,87.5,Hypertension,Never,2.2
+1387,2024-02-09,63,M,176.6,81.6,HIIT,89,Medium,29.0,113,7.1,10,8824,1.9,23.9,63.3,124.4,87.5,Hypertension,Never,2.31
+1387,2024-02-13,63,M,176.6,81.9,HIIT,67,Low,18.2,105,7.3,1,9806,2.7,23.9,63.3,124.4,87.5,Hypertension,Never,2.38
+1387,2024-02-14,63,M,176.6,82.1,HIIT,32,High,12.2,135,5.7,1,10933,2.4,23.9,63.3,124.4,87.5,Hypertension,Never,2.42
+1387,2024-02-15,63,M,176.6,82.4,Yoga,91,Low,6.2,102,8.5,2,8675,1.6,23.9,63.3,124.4,87.5,Hypertension,Never,2.51
+1387,2024-02-17,63,M,176.6,82.6,HIIT,74,Medium,24.4,129,6.8,1,9729,2.6,23.9,63.3,124.4,87.5,Hypertension,Never,2.6
+1387,2024-02-19,63,M,176.6,82.9,Yoga,61,Medium,5.0,122,5.6,8,9938,2.5,23.9,63.3,124.4,87.5,Hypertension,Never,2.67
+1387,2024-02-20,63,M,176.6,83.1,Yoga,42,High,4.1,130,6.7,10,13258,3.2,23.9,63.3,124.4,87.5,Hypertension,Never,2.73
+1387,2024-02-21,63,M,176.6,83.4,HIIT,84,Medium,27.9,123,8.6,7,8405,2.6,23.9,63.3,124.4,87.5,Hypertension,Never,2.83
+1387,2024-02-23,63,M,176.6,83.7,Yoga,35,Medium,2.9,124,7.0,1,11917,1.6,23.9,63.3,124.4,87.5,Hypertension,Never,2.88
+1387,2024-02-25,63,M,176.6,83.9,Yoga,43,Medium,3.6,115,8.7,6,9343,1.9,23.9,63.3,124.4,87.5,Hypertension,Never,2.93
+1387,2024-02-29,63,M,176.6,84.2,Yoga,77,High,7.5,128,7.9,6,9396,1.8,23.9,63.3,124.4,87.5,Hypertension,Never,3.04

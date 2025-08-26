@@ -1,0 +1,19 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+2340,2024-04-01,36,M,180,89.2,Weight Training,25,Medium,4.4,144,7.9,6,8705,3.0,22,64.7,125.1,75.9,None,Never,5.4
+2340,2024-04-05,36,M,180,89.5,Basketball,50,High,13.9,168,5.7,7,10109,1.7,22,64.7,125.1,75.9,None,Never,5.47
+2340,2024-04-07,36,M,180,89.7,Basketball,106,Low,21.1,125,7.5,9,12437,2.8,22,64.7,125.1,75.9,None,Never,5.57
+2340,2024-04-08,36,M,180,90.0,Basketball,51,Medium,12.2,148,5.4,7,9491,1.9,22,64.7,125.1,75.9,None,Never,5.63
+2340,2024-04-09,36,M,180,90.3,Basketball,69,Medium,16.6,133,6.4,7,9450,2.1,22,64.7,125.1,75.9,None,Never,5.72
+2340,2024-04-11,36,M,180,90.5,Basketball,74,Medium,17.8,144,7.5,6,11094,2.1,22,64.7,125.1,75.9,None,Never,5.81
+2340,2024-04-12,36,M,180,90.8,Basketball,50,High,14.1,154,7.1,3,10979,2.9,22,64.7,125.1,75.9,None,Never,5.88
+2340,2024-04-13,36,M,180,91.0,Basketball,51,Low,10.3,117,6.0,6,11276,2.4,22,64.7,125.1,75.9,None,Never,5.93
+2340,2024-04-16,36,M,180,91.3,Basketball,114,Medium,27.7,143,7.5,4,10033,2.3,22,64.7,125.1,75.9,None,Never,6.06
+2340,2024-04-17,36,M,180,91.5,Tennis,92,Medium,20.4,144,8.6,8,8428,2.3,22,64.7,125.1,75.9,None,Never,6.17
+2340,2024-04-19,36,M,180,91.8,Basketball,59,High,16.8,155,7.1,1,9322,2.1,22,64.7,125.1,75.9,None,Never,6.26
+2340,2024-04-20,36,M,180,92.1,Tennis,62,Medium,13.8,140,4.6,1,11102,2.5,22,64.7,125.1,75.9,None,Never,6.33
+2340,2024-04-21,36,M,180,92.3,Basketball,28,Medium,6.9,133,6.6,7,11895,3.4,22,64.7,125.1,75.9,None,Never,6.36
+2340,2024-04-24,36,M,180,92.6,Tennis,31,Medium,7.0,142,7.6,8,11413,2.6,22,64.7,125.1,75.9,None,Never,6.4
+2340,2024-04-25,36,M,180,92.8,Basketball,43,Medium,10.6,133,6.3,1,11726,2.5,22,64.7,125.1,75.9,None,Never,6.45
+2340,2024-04-26,36,M,180,93.1,HIIT,97,Medium,36.0,130,8.2,8,10860,2.8,22,64.7,125.1,75.9,None,Never,6.57
+2340,2024-04-27,36,M,180,93.3,Basketball,82,Medium,20.4,146,5.7,9,9955,3.2,22,64.7,125.1,75.9,None,Never,6.67
+2340,2024-04-30,36,M,180,93.6,Cycling,99,Medium,26.2,140,6.4,3,7905,2.0,22,64.7,125.1,75.9,None,Never,6.79

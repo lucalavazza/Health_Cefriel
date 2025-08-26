@@ -1,0 +1,17 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+1908,2024-12-01,64,F,159.4,102.0,Walking,115,Medium,14.8,122,5.7,9,9228,1.9,18.9,73.5,131,92.3,None,Former,17.69
+1908,2024-12-02,64,F,159.4,102.3,Walking,105,Low,11.3,98,7.4,6,6901,1.6,18.9,73.5,131,92.3,None,Former,17.79
+1908,2024-12-04,64,F,159.4,102.6,Walking,89,Low,9.6,99,6.1,5,8634,1.6,18.9,73.5,131,92.3,None,Former,17.88
+1908,2024-12-05,64,F,159.4,102.8,Walking,41,Low,4.4,100,6.9,9,6113,1.7,18.9,73.5,131,92.3,None,Former,17.92
+1908,2024-12-07,64,F,159.4,103.1,Walking,93,Low,10.1,104,8.3,5,8655,2.5,18.9,73.5,131,92.3,None,Former,18.01
+1908,2024-12-08,64,F,159.4,103.3,Walking,107,Medium,14.0,118,8.0,7,7984,2.7,18.9,73.5,131,92.3,None,Former,18.14
+1908,2024-12-09,64,F,159.4,103.6,Walking,84,High,12.8,122,7.6,6,7116,2.1,18.9,73.5,131,92.3,None,Former,18.26
+1908,2024-12-12,64,F,159.4,103.9,Walking,57,Low,6.2,109,6.9,7,7324,2.7,18.9,73.5,131,92.3,None,Former,18.32
+1908,2024-12-14,64,F,159.4,104.1,Walking,22,Medium,2.9,115,7.0,7,10112,3.4,18.9,73.5,131,92.3,None,Former,18.34
+1908,2024-12-15,64,F,159.4,104.4,Weight Training,44,Medium,9.2,107,5.4,4,9888,2.1,18.9,73.5,131,92.3,None,Former,18.4
+1908,2024-12-18,64,F,159.4,104.6,Walking,54,Medium,7.1,107,7.3,3,9140,2.1,18.9,73.5,131,92.3,None,Former,18.46
+1908,2024-12-19,64,F,159.4,104.9,Weight Training,116,High,28.3,132,7.3,6,6337,3.2,18.9,73.5,131,92.3,None,Former,18.62
+1908,2024-12-20,64,F,159.4,105.1,Basketball,47,Medium,13.1,128,7.6,10,8937,1.9,18.9,73.5,131,92.3,None,Former,18.68
+1908,2024-12-21,64,F,159.4,105.4,Tennis,99,Medium,25.3,103,4.9,4,9224,3.4,18.9,73.5,131,92.3,None,Former,18.8
+1908,2024-12-22,64,F,159.4,105.7,Basketball,44,Medium,12.4,116,8.0,1,10176,1.6,18.9,73.5,131,92.3,None,Former,18.85
+1908,2024-12-24,64,F,159.4,105.9,Tennis,108,High,32.4,134,8.1,4,5825,3.1,18.9,73.5,131,92.3,None,Former,19.0

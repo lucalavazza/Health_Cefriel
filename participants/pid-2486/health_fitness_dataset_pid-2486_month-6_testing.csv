@@ -1,0 +1,17 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+2486,2024-06-02,50,F,156.6,71.6,Swimming,116,Low,16.1,95,7.5,3,11092,2.9,18.3,71.7,117.8,76.7,Diabetes,Never,9.23
+2486,2024-06-03,50,F,156.6,71.9,Dancing,43,Medium,5.6,115,8.5,7,8692,3.3,18.3,71.7,117.8,76.7,Diabetes,Never,9.29
+2486,2024-06-04,50,F,156.6,72.1,Dancing,110,Low,12.1,109,7.5,8,8735,2.1,18.3,71.7,117.8,76.7,Diabetes,Never,9.4
+2486,2024-06-05,50,F,156.6,72.4,Swimming,62,Medium,10.4,123,8.1,8,9834,2.4,18.3,71.7,117.8,76.7,Diabetes,Never,9.47
+2486,2024-06-06,50,F,156.6,72.7,Dancing,63,Medium,8.4,129,7.3,3,7714,2.3,18.3,71.7,117.8,76.7,Diabetes,Never,9.55
+2486,2024-06-07,50,F,156.6,72.9,Dancing,99,Medium,13.2,124,5.9,6,8634,2.8,18.3,71.7,117.8,76.7,Diabetes,Never,9.67
+2486,2024-06-10,50,F,156.6,73.2,Walking,65,Low,5.0,103,6.8,10,8351,2.5,18.3,71.7,117.8,76.7,Diabetes,Never,9.73
+2486,2024-06-13,50,F,156.6,73.4,Walking,56,Low,4.3,108,7.8,3,6772,2.4,18.3,71.7,117.8,76.7,Diabetes,Never,9.79
+2486,2024-06-14,50,F,156.6,73.7,Walking,80,Medium,7.4,137,4.9,4,9050,2.4,18.3,71.7,117.8,76.7,Diabetes,Never,9.88
+2486,2024-06-16,50,F,156.6,73.9,Running,95,Low,19.1,114,5.8,2,10849,3.0,18.3,71.7,117.8,76.7,Diabetes,Never,9.98
+2486,2024-06-17,50,F,156.6,74.2,Running,56,Low,11.3,115,6.4,3,7502,3.3,18.3,71.7,117.8,76.7,Diabetes,Never,10.03
+2486,2024-06-19,50,F,156.6,74.5,Running,43,Medium,10.4,131,6.3,5,8478,2.5,18.3,71.7,117.8,76.7,Diabetes,Never,10.08
+2486,2024-06-21,50,F,156.6,74.7,Running,33,Medium,8.0,119,6.4,7,10297,3.4,18.3,71.7,117.8,76.7,Diabetes,Never,10.12
+2486,2024-06-22,50,F,156.6,75.0,Dancing,35,Medium,4.8,120,7.7,8,10611,1.7,18.3,71.7,117.8,76.7,Diabetes,Never,10.17
+2486,2024-06-28,50,F,156.6,75.2,Dancing,112,Medium,15.4,133,6.9,7,6469,3.3,18.3,71.7,117.8,76.7,Diabetes,Never,10.3
+2486,2024-06-30,50,F,156.6,75.5,Walking,109,Medium,10.4,119,6.0,1,9832,1.7,18.3,71.7,117.8,76.7,Diabetes,Never,10.43

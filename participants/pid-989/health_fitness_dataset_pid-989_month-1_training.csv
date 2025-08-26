@@ -1,0 +1,17 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+989,2024-01-01,63,F,150.4,45.3,Running,30,High,5.1,145,5.3,1,8484,3.4,19.9,71.6,125.9,82.1,None,Former,0.04
+989,2024-01-03,63,F,150.4,45.5,Running,45,Medium,6.7,99,5.0,8,7066,3.0,19.9,71.6,125.9,82.1,None,Former,0.1
+989,2024-01-05,63,F,150.4,45.8,Running,99,Medium,14.7,121,6.2,7,6751,1.8,19.9,71.6,125.9,82.1,None,Former,0.21
+989,2024-01-09,63,F,150.4,46.0,Cycling,36,Low,3.9,104,6.0,2,4636,2.1,19.9,71.6,125.9,82.1,None,Former,0.25
+989,2024-01-12,63,F,150.4,46.3,Running,111,Medium,16.7,123,6.8,3,10098,3.4,19.9,71.6,125.9,82.1,None,Former,0.38
+989,2024-01-14,63,F,150.4,46.6,Cycling,21,Medium,2.8,112,7.1,8,11210,3.0,19.9,71.6,125.9,82.1,None,Former,0.41
+989,2024-01-15,63,F,150.4,46.8,Running,51,Medium,7.8,117,7.0,1,8513,2.7,19.9,71.6,125.9,82.1,None,Former,0.47
+989,2024-01-17,63,F,150.4,47.1,Cycling,90,Medium,11.9,125,7.2,1,8994,2.4,19.9,71.6,125.9,82.1,None,Former,0.58
+989,2024-01-18,63,F,150.4,47.3,Cycling,85,Low,9.4,90,6.8,4,3921,3.0,19.9,71.6,125.9,82.1,None,Former,0.66
+989,2024-01-19,63,F,150.4,47.6,Running,105,Medium,16.2,123,5.9,8,8699,3.3,19.9,71.6,125.9,82.1,None,Former,0.79
+989,2024-01-21,63,F,150.4,47.8,Cycling,35,Medium,4.7,120,6.7,3,8320,1.6,19.9,71.6,125.9,82.1,None,Former,0.83
+989,2024-01-23,63,F,150.4,48.1,Cycling,106,High,16.8,125,7.1,2,9120,3.1,19.9,71.6,125.9,82.1,None,Former,0.98
+989,2024-01-24,63,F,150.4,48.4,Cycling,87,Medium,11.9,119,6.2,6,11225,2.6,19.9,71.6,125.9,82.1,None,Former,1.08
+989,2024-01-26,63,F,150.4,48.6,Cycling,93,Low,10.6,105,6.7,1,9211,2.1,19.9,71.6,125.9,82.1,None,Former,1.18
+989,2024-01-28,63,F,150.4,48.9,Swimming,68,Medium,7.7,111,6.9,6,11578,1.6,19.9,71.6,125.9,82.1,None,Former,1.26
+989,2024-01-31,63,F,150.4,49.1,Cycling,57,Medium,7.9,117,6.4,5,8692,2.3,19.9,71.6,125.9,82.1,None,Former,1.33

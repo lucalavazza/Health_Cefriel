@@ -1,0 +1,17 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+447,2024-08-01,32,M,160.3,88.2,Basketball,111,Medium,26.0,135,6.5,9,8244,1.8,19.5,75,139.6,71.9,None,Never,12.01
+447,2024-08-04,32,M,160.3,88.5,Basketball,75,Low,14.7,119,6.1,8,8105,2.7,19.5,75,139.6,71.9,None,Never,12.09
+447,2024-08-05,32,M,160.3,88.7,Running,33,Medium,9.5,128,7.8,6,5037,2.6,19.5,75,139.6,71.9,None,Never,12.13
+447,2024-08-09,32,M,160.3,89.0,Basketball,107,Low,21.1,115,7.5,7,9392,2.6,19.5,75,139.6,71.9,None,Never,12.24
+447,2024-08-11,32,M,160.3,89.2,Walking,32,Low,3.0,129,7.8,10,8652,1.7,19.5,75,139.6,71.9,None,Never,12.27
+447,2024-08-14,32,M,160.3,89.5,Weight Training,103,Medium,18.4,151,6.9,6,9889,1.6,19.5,75,139.6,71.9,None,Never,12.39
+447,2024-08-15,32,M,160.3,89.8,Basketball,85,Low,16.9,122,6.7,5,6244,3.1,19.5,75,139.6,71.9,None,Never,12.48
+447,2024-08-16,32,M,160.3,90.0,Walking,51,Medium,5.8,150,5.2,2,7811,1.7,19.5,75,139.6,71.9,None,Never,12.54
+447,2024-08-18,32,M,160.3,90.3,Weight Training,120,Medium,21.6,131,9.3,2,6540,2.4,19.5,75,139.6,71.9,None,Never,12.68
+447,2024-08-19,32,M,160.3,90.5,Walking,56,Low,5.3,119,8.6,6,9729,3.5,19.5,75,139.6,71.9,None,Never,12.74
+447,2024-08-20,32,M,160.3,90.8,Walking,29,Low,2.8,120,6.1,9,8941,2.7,19.5,75,139.6,71.9,None,Never,12.77
+447,2024-08-23,32,M,160.3,91.1,Basketball,83,Low,16.7,122,5.9,6,7191,2.2,19.5,75,139.6,71.9,None,Never,12.85
+447,2024-08-24,32,M,160.3,91.3,Basketball,74,Low,15.0,121,7.4,1,5060,2.0,19.5,75,139.6,71.9,None,Never,12.92
+447,2024-08-26,32,M,160.3,91.6,Walking,76,Low,7.3,113,5.7,2,6643,3.0,19.5,75,139.6,71.9,None,Never,13.0
+447,2024-08-27,32,M,160.3,91.8,Swimming,76,Medium,16.2,143,8.4,10,7024,2.2,19.5,75,139.6,71.9,None,Never,13.09
+447,2024-08-29,32,M,160.3,92.1,Walking,88,Low,8.5,112,5.4,7,6732,3.4,19.5,75,139.6,71.9,None,Never,13.18

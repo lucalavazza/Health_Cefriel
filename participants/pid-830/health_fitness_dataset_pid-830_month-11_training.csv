@@ -1,0 +1,17 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+830,2024-11-01,42,M,194.3,155.8,Running,38,Medium,19.3,124,7.6,9,6042,2.4,27.9,67.8,116.6,73.1,None,Never,16.71
+830,2024-11-02,42,M,194.3,156.0,Running,46,Medium,23.4,131,7.1,1,9997,2.4,27.9,67.8,116.6,73.1,None,Never,16.77
+830,2024-11-04,42,M,194.3,156.3,Running,30,Low,12.7,122,7.3,5,4823,2.6,27.9,67.8,116.6,73.1,None,Never,16.8
+830,2024-11-06,42,M,194.3,156.6,Yoga,22,Medium,3.4,134,7.5,4,7956,2.7,27.9,67.8,116.6,73.1,None,Never,16.82
+830,2024-11-09,42,M,194.3,156.8,Running,94,Low,40.1,113,6.4,10,8149,2.5,27.9,67.8,116.6,73.1,None,Never,16.92
+830,2024-11-10,42,M,194.3,157.1,Running,26,Medium,13.3,140,7.5,9,6621,2.6,27.9,67.8,116.6,73.1,None,Never,16.95
+830,2024-11-12,42,M,194.3,157.3,Cycling,22,Low,8.2,114,7.9,8,5469,1.5,27.9,67.8,116.6,73.1,None,Never,16.97
+830,2024-11-14,42,M,194.3,157.6,Running,119,Medium,61.2,120,7.4,8,7646,2.0,27.9,67.8,116.6,73.1,None,Never,17.11
+830,2024-11-16,42,M,194.3,157.8,Running,116,High,69.7,135,6.2,4,9081,2.2,27.9,67.8,116.6,73.1,None,Never,17.27
+830,2024-11-18,42,M,194.3,158.1,Cycling,48,Medium,21.5,135,8.6,3,8804,3.4,27.9,67.8,116.6,73.1,None,Never,17.33
+830,2024-11-20,42,M,194.3,158.4,Weight Training,45,High,16.6,146,7.8,3,5858,1.9,27.9,67.8,116.6,73.1,None,Never,17.4
+830,2024-11-23,42,M,194.3,158.6,Weight Training,71,Low,18.7,113,7.0,8,7635,3.2,27.9,67.8,116.6,73.1,None,Never,17.47
+830,2024-11-25,42,M,194.3,158.9,Weight Training,24,High,8.9,147,8.1,2,7834,2.1,27.9,67.8,116.6,73.1,None,Never,17.5
+830,2024-11-26,42,M,194.3,159.1,Weight Training,63,Medium,20.0,129,7.4,6,5585,3.5,27.9,67.8,116.6,73.1,None,Never,17.58
+830,2024-11-29,42,M,194.3,159.4,Basketball,43,Medium,18.2,137,7.2,3,6675,1.5,27.9,67.8,116.6,73.1,None,Never,17.63
+830,2024-11-30,42,M,194.3,159.6,Weight Training,60,Medium,19.1,118,8.0,5,7025,1.9,27.9,67.8,116.6,73.1,None,Never,17.7

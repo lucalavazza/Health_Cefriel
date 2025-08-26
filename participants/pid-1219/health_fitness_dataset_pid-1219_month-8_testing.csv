@@ -1,0 +1,16 @@
+participant_id,date,age,gender,height_cm,weight_kg,activity_type,duration_minutes,intensity,calories_burned,avg_heart_rate,hours_sleep,stress_level,daily_steps,hydration_level,bmi,resting_heart_rate,blood_pressure_systolic,blood_pressure_diastolic,health_condition,smoking_status,fitness_level
+1219,2024-08-01,59,M,173.4,110.6,Weight Training,76,Medium,16.8,127,7.1,9,7975,1.8,24.1,76.1,138.4,86.8,Diabetes,Former,12.43
+1219,2024-08-02,59,M,173.4,110.8,Weight Training,43,Medium,9.5,128,7.5,1,7616,3.3,24.1,76.1,138.4,86.8,Diabetes,Former,12.48
+1219,2024-08-07,59,M,173.4,111.1,Weight Training,61,Low,11.3,105,7.7,3,7313,1.6,24.1,76.1,138.4,86.8,Diabetes,Former,12.54
+1219,2024-08-14,59,M,173.4,111.4,Weight Training,58,Low,10.7,103,6.8,4,7317,1.6,24.1,76.1,138.4,86.8,Diabetes,Former,12.6
+1219,2024-08-16,59,M,173.4,111.6,Weight Training,23,Low,4.3,107,7.2,4,7215,2.9,24.1,76.1,138.4,86.8,Diabetes,Former,12.62
+1219,2024-08-17,59,M,173.4,111.9,Weight Training,53,Medium,11.8,115,6.7,4,9190,3.1,24.1,76.1,138.4,86.8,Diabetes,Former,12.68
+1219,2024-08-19,59,M,173.4,112.1,Weight Training,99,Low,18.5,99,7.6,4,5391,3.2,24.1,76.1,138.4,86.8,Diabetes,Former,12.78
+1219,2024-08-20,59,M,173.4,112.4,Cycling,26,Low,6.9,108,8.5,5,8229,2.9,24.1,76.1,138.4,86.8,Diabetes,Former,12.81
+1219,2024-08-21,59,M,173.4,112.6,Basketball,84,Medium,25.2,120,5.6,3,6685,2.9,24.1,76.1,138.4,86.8,Diabetes,Former,12.91
+1219,2024-08-22,59,M,173.4,112.9,Cycling,114,Medium,36.4,119,6.9,6,8011,3.0,24.1,76.1,138.4,86.8,Diabetes,Former,13.05
+1219,2024-08-23,59,M,173.4,113.2,Walking,23,Medium,3.3,131,6.6,8,6552,2.0,24.1,76.1,138.4,86.8,Diabetes,Former,13.07
+1219,2024-08-25,59,M,173.4,113.4,Walking,20,Medium,2.9,131,5.6,2,7254,3.1,24.1,76.1,138.4,86.8,Diabetes,Former,13.1
+1219,2024-08-27,59,M,173.4,113.7,Cycling,86,Low,23.0,98,6.3,6,5057,1.6,24.1,76.1,138.4,86.8,Diabetes,Former,13.18
+1219,2024-08-29,59,M,173.4,113.9,Walking,69,Medium,9.9,118,6.9,3,4884,3.0,24.1,76.1,138.4,86.8,Diabetes,Former,13.27
+1219,2024-08-30,59,M,173.4,114.2,Walking,81,Low,9.7,114,7.2,1,6623,3.1,24.1,76.1,138.4,86.8,Diabetes,Former,13.35
