@@ -48,8 +48,9 @@ for pid in pids_personas:
              fitness_data_pid['bmi'], counterfactual_data1['bmi']])
         months = ['january', 'february', 'march', 'april', 'may', 'june', 'july', 'august', 'september', 'october',
                   'november', 'december']
-        df_plot = pd.DataFrame(array_plot, columns=months, index=['calories before', 'fit level before', 'bmi before',
-                                                                  'calories after', 'fit level after', 'bmi after'])
+        df_plot = pd.DataFrame(array_plot, columns=months, index=['calories before', 'calories after',
+                                                                  'fit level before', 'fit level after',
+                                                                  'bmi before', 'bmi after'])
         bar_plot = df_plot.plot.bar(title="Counterfactual outputs: PID=2, reduce daily_steps", figsize=(20, 20))
         fig = bar_plot.get_figure()
         fig.savefig('/Users/luca_lavazza/Documents/GitHub/Health_Cefriel/graphs/Counterfactual-duration_minutes->calories_burned-pid=' + str(2))
@@ -106,8 +107,8 @@ for pid in pids_personas:
         months = ['january', 'february', 'march', 'april', 'may', 'june', 'july', 'august', 'september', 'october',
                   'november', 'december']
         df_plot = pd.DataFrame(array_plot, columns=months,
-                               index=['calories before', 'fit level before', 'heart before', 'bmi before',
-                                      'calories after', 'fit level after', 'heart after', 'bmi after'])
+                               index=['calories before', 'calories after', 'fit level before', 'fit level after',
+                                      'heart before', 'heart after', 'bmi before', 'bmi after'])
         bar_plot = df_plot.plot.bar(title="Counterfactual outputs: PID=8, increase duration_minutes", figsize=(20, 20))
         fig = bar_plot.get_figure()
         fig.savefig('/Users/luca_lavazza/Documents/GitHub/Health_Cefriel/graphs/Counterfactual-duration_minutes->calories_burned-pid=' + str(8))
@@ -201,7 +202,7 @@ for pid in pids_personas:
         months = ['january', 'february', 'march', 'april', 'may', 'june', 'july', 'august', 'september', 'october',
                   'november', 'december']
         df_plot = pd.DataFrame(array_plot, columns=months,
-                               index=['fitness_level before', 'bmi_before', 'fitness_level after', 'bmi_after'])
+                               index=['fitness_level before', 'fitness_level after', 'bmi_before', 'bmi_after'])
         bar_plot = df_plot.plot.bar(title="Counterfactual outputs: PID=165, duration_minutes ==> fitness_level/bmi", figsize=(20, 20))
         fig = bar_plot.get_figure()
         fig.savefig('/Users/luca_lavazza/Documents/GitHub/Health_Cefriel/graphs/Counterfactual-duration_minutes->calories_burned-pid=' + str(165))
