@@ -12,7 +12,9 @@ warnings.filterwarnings(action='ignore', category=UserWarning)
 
 set_random_seed(7)
 
-fitness_data = pd.read_csv(
+fitness_data_training = pd.read_csv(
+    '/Users/luca_lavazza/Documents/GitHub/Health_Cefriel/datasets/labelled_regularised_averaged_health_fitness_dataset_training.csv')
+fitness_data_testing = pd.read_csv(
     '/Users/luca_lavazza/Documents/GitHub/Health_Cefriel/datasets/labelled_regularised_averaged_health_fitness_dataset_testing.csv')
 edges = np.load(
     '/Users/luca_lavazza/Documents/GitHub/Health_Cefriel/graphs/causallearn/edges/npy/labelling_causal_graph_causal-learn_pc_fisherz.npy')
@@ -28,17 +30,16 @@ G.add_nodes_from(nodes)
 G.add_edges_from(edges)
 
 causal_model_for_counterfactual_analysis = InvertibleStructuralCausalModel(G)
-gcm.auto.assign_causal_mechanisms(causal_model=causal_model_for_counterfactual_analysis, based_on=fitness_data,
+gcm.auto.assign_causal_mechanisms(causal_model=causal_model_for_counterfactual_analysis, based_on=fitness_data_training,
                                   quality=AssignmentQuality.GOOD)
-fitting = gcm.fit(causal_model=causal_model_for_counterfactual_analysis, data=fitness_data,
+fitting = gcm.fit(causal_model=causal_model_for_counterfactual_analysis, data=fitness_data_training,
                   return_evaluation_summary=True)
-
 pids_personas = [2, 5, 6, 8, 11, 26, 30, 41, 108, 165, 202, 262]
 
 for pid in pids_personas:
     if pid == 2:
         # PID=2: reduce daily_steps
-        fitness_data_pid = fitness_data[fitness_data['participant_id'] == 2]
+        fitness_data_pid = fitness_data_testing[fitness_data_testing['participant_id'] == 2]
         counterfactual_data1 = gcm.counterfactual_samples(causal_model_for_counterfactual_analysis,
                                                           {'daily_steps': lambda x: x - 2},
                                                           observed_data=fitness_data_pid)
@@ -56,7 +57,7 @@ for pid in pids_personas:
         fig.savefig('/Users/luca_lavazza/Documents/GitHub/Health_Cefriel/graphs/Counterfactual-duration_minutes->calories_burned-pid=' + str(2))
     elif pid == 5:
         # PID=5: smoking_status => resting_heart_rate
-        fitness_data_pid = fitness_data[fitness_data['participant_id'] == 5]
+        fitness_data_pid = fitness_data_testing[fitness_data_testing['participant_id'] == 5]
         counterfactual_data1 = gcm.counterfactual_samples(causal_model_for_counterfactual_analysis,
                                                           {'smoking_status': lambda x: x + 1},  # from current to former
                                                           observed_data=fitness_data_pid)
@@ -77,7 +78,7 @@ for pid in pids_personas:
         fig.savefig('/Users/luca_lavazza/Documents/GitHub/Health_Cefriel/graphs/Counterfactual-duration_minutes->calories_burned-pid=' + str(5))
     elif pid == 6:
         # PID=6: duration_minutes => calories_burned
-        fitness_data_pid = fitness_data[fitness_data['participant_id'] == 6]
+        fitness_data_pid = fitness_data_testing[fitness_data_testing['participant_id'] == 6]
         counterfactual_data1 = gcm.counterfactual_samples(causal_model_for_counterfactual_analysis,
                                                           {'duration_minutes': lambda x: -3},
                                                           observed_data=fitness_data_pid)
@@ -95,7 +96,7 @@ for pid in pids_personas:
         fig.savefig('/Users/luca_lavazza/Documents/GitHub/Health_Cefriel/graphs/Counterfactual-duration_minutes->calories_burned-pid=' + str(6))
     elif pid == 8:
         # PID=8: increase duration_minutes
-        fitness_data_pid = fitness_data[fitness_data['participant_id'] == 8]
+        fitness_data_pid = fitness_data_testing[fitness_data_testing['participant_id'] == 8]
         counterfactual_data1 = gcm.counterfactual_samples(causal_model_for_counterfactual_analysis,
                                                           {'duration_minutes': lambda x: x + 4},
                                                           observed_data=fitness_data_pid)
@@ -114,7 +115,7 @@ for pid in pids_personas:
         fig.savefig('/Users/luca_lavazza/Documents/GitHub/Health_Cefriel/graphs/Counterfactual-duration_minutes->calories_burned-pid=' + str(8))
     elif pid == 11:
         # PID=11: daily_steps => bmi
-        fitness_data_pid = fitness_data[fitness_data['participant_id'] == 11]
+        fitness_data_pid = fitness_data_testing[fitness_data_testing['participant_id'] == 11]
         counterfactual_data1 = gcm.counterfactual_samples(causal_model_for_counterfactual_analysis,
                                                           {'daily_steps': lambda x: x + 2},
                                                           observed_data=fitness_data_pid)
@@ -127,7 +128,7 @@ for pid in pids_personas:
         fig.savefig('/Users/luca_lavazza/Documents/GitHub/Health_Cefriel/graphs/Counterfactual-duration_minutes->calories_burned-pid=' + str(11))
     elif pid == 26:
         # PID=26: intensity ==> avg_heart_rate
-        fitness_data_pid = fitness_data[fitness_data['participant_id'] == 26]
+        fitness_data_pid = fitness_data_testing[fitness_data_testing['participant_id'] == 26]
         counterfactual_data1 = gcm.counterfactual_samples(causal_model_for_counterfactual_analysis,
                                                           {'intensity': lambda x: 0},  # low intensity
                                                           observed_data=fitness_data_pid)
@@ -147,7 +148,7 @@ for pid in pids_personas:
         fig.savefig('/Users/luca_lavazza/Documents/GitHub/Health_Cefriel/graphs/Counterfactual-duration_minutes->calories_burned-pid=' + str(26))
     elif pid == 30:
         # PID=30: smoking_status ==> calories_burned
-        fitness_data_pid = fitness_data[fitness_data['participant_id'] == 30]
+        fitness_data_pid = fitness_data_testing[fitness_data_testing['participant_id'] == 30]
         counterfactual_data1 = gcm.counterfactual_samples(causal_model_for_counterfactual_analysis,
                                                           {'smoking_status': lambda x: x + 1},  # from current to former
                                                           observed_data=fitness_data_pid)
@@ -167,7 +168,7 @@ for pid in pids_personas:
         fig.savefig('/Users/luca_lavazza/Documents/GitHub/Health_Cefriel/graphs/Counterfactual-duration_minutes->calories_burned-pid=' + str(30))
     elif pid == 41:
         # PID=41: daily_steps ==> calories_burned
-        fitness_data_pid = fitness_data[fitness_data['participant_id'] == 41]
+        fitness_data_pid = fitness_data_testing[fitness_data_testing['participant_id'] == 41]
         counterfactual_data1 = gcm.counterfactual_samples(causal_model_for_counterfactual_analysis,
                                                           {'daily_steps': lambda x: x + 2},
                                                           observed_data=fitness_data_pid)
@@ -180,7 +181,7 @@ for pid in pids_personas:
         fig.savefig('/Users/luca_lavazza/Documents/GitHub/Health_Cefriel/graphs/Counterfactual-duration_minutes->calories_burned-pid=' + str(41))
     elif pid == 108:
         # PID=108: daily_steps ==> fitness_level
-        fitness_data_pid = fitness_data[fitness_data['participant_id'] == 108]
+        fitness_data_pid = fitness_data_testing[fitness_data_testing['participant_id'] == 108]
         counterfactual_data1 = gcm.counterfactual_samples(causal_model_for_counterfactual_analysis,
                                                           {'daily_steps': lambda x: x + 2},
                                                           observed_data=fitness_data_pid)
@@ -193,7 +194,7 @@ for pid in pids_personas:
         fig.savefig('/Users/luca_lavazza/Documents/GitHub/Health_Cefriel/graphs/Counterfactual-duration_minutes->calories_burned-pid=' + str(108))
     elif pid == 165:
         # PID=165: duration_minutes ==> fitness_level/bmi
-        fitness_data_pid = fitness_data[fitness_data['participant_id'] == 165]
+        fitness_data_pid = fitness_data_testing[fitness_data_testing['participant_id'] == 165]
         counterfactual_data1 = gcm.counterfactual_samples(causal_model_for_counterfactual_analysis,
                                                           {'duration_minutes': lambda x: x + 3},
                                                           observed_data=fitness_data_pid)
@@ -208,7 +209,7 @@ for pid in pids_personas:
         fig.savefig('/Users/luca_lavazza/Documents/GitHub/Health_Cefriel/graphs/Counterfactual-duration_minutes->calories_burned-pid=' + str(165))
     elif pid == 202:
         # PID=202: duration_minutes ==> resting_heart_rate
-        fitness_data_pid = fitness_data[fitness_data['participant_id'] == 202]
+        fitness_data_pid = fitness_data_testing[fitness_data_testing['participant_id'] == 202]
         counterfactual_data1 = gcm.counterfactual_samples(causal_model_for_counterfactual_analysis,
                                                           {'duration_minutes': lambda x: x + 3},
                                                           observed_data=fitness_data_pid)
@@ -222,7 +223,7 @@ for pid in pids_personas:
         fig.savefig('/Users/luca_lavazza/Documents/GitHub/Health_Cefriel/graphs/Counterfactual-duration_minutes->calories_burned-pid=' + str(202))
     elif pid == 262:
         # PID=262: daily_steps ==> fitness_level + duration_minutes ==> fitness_level
-        fitness_data_pid = fitness_data[fitness_data['participant_id'] == 262]
+        fitness_data_pid = fitness_data_testing[fitness_data_testing['participant_id'] == 262]
         counterfactual_data1 = gcm.counterfactual_samples(causal_model_for_counterfactual_analysis,
                                                           {'duration_minutes': lambda x: x + 3,
                                                            'daily_steps': lambda x: x + 2},
