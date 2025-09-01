@@ -10,7 +10,7 @@ from sklearn.preprocessing import StandardScaler
 # remove annoying warning
 warnings.simplefilter(action='ignore', category=FutureWarning)
 
-pids_personas = [2, 5, 6, 8, 11, 26, 30, 41, 108, 165, 202, 262]
+pids_personas = [2, 5, 6, 8, 11, 26, 30, 41, 108, 165, 172, 262]
 
 # import the dataset
 fit_data = pd.read_csv('/Users/luca_lavazza/Documents/GitHub/Health_Cefriel/datasets/health_fitness_dataset.csv').convert_dtypes()

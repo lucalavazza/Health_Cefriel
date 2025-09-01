@@ -34,7 +34,8 @@ gcm.auto.assign_causal_mechanisms(causal_model=causal_model_for_counterfactual_a
                                   quality=AssignmentQuality.GOOD)
 fitting = gcm.fit(causal_model=causal_model_for_counterfactual_analysis, data=fitness_data_training,
                   return_evaluation_summary=True)
-pids_personas = [2, 5, 6, 8, 11, 26, 30, 41, 108, 165, 202, 262]
+
+pids_personas = [2, 5, 6, 8, 11, 26, 30, 41, 108, 165, 172, 262]
 
 for pid in pids_personas:
     if pid == 2:
@@ -54,30 +55,30 @@ for pid in pids_personas:
                                                                   'bmi before', 'bmi after'])
         bar_plot = df_plot.plot.bar(title="Counterfactual outputs: PID=2, reduce daily_steps", figsize=(20, 20))
         fig = bar_plot.get_figure()
-        fig.savefig('/Users/luca_lavazza/Documents/GitHub/Health_Cefriel/graphs/Counterfactual-duration_minutes->calories_burned-pid=' + str(2))
+        fig.savefig('/Users/luca_lavazza/Documents/GitHub/Health_Cefriel/graphs/Counterfactual-pid=' + str(2))
     elif pid == 5:
-        # PID=5: smoking_status => resting_heart_rate
+        # PID=5: hours_sleep ==> duration_minutes
         fitness_data_pid = fitness_data_testing[fitness_data_testing['participant_id'] == 5]
         counterfactual_data1 = gcm.counterfactual_samples(causal_model_for_counterfactual_analysis,
-                                                          {'smoking_status': lambda x: x + 1},  # from current to former
+                                                          {'hours_sleep': lambda x: x + 3},
                                                           observed_data=fitness_data_pid)
         counterfactual_data2 = gcm.counterfactual_samples(causal_model_for_counterfactual_analysis,
-                                                          {'smoking_status': lambda x: x - 1},  # from current to never
+                                                          {'hours_sleep': lambda x: x - 3},
                                                           observed_data=fitness_data_pid)
         array_plot = np.array(
-            [fitness_data_pid['resting_heart_rate'],
-             counterfactual_data1['resting_heart_rate'],
-             counterfactual_data2['resting_heart_rate']])
+            [fitness_data_pid['duration_minutes'],
+             counterfactual_data1['duration_minutes'],
+             counterfactual_data2['duration_minutes']])
         months = ['january', 'february', 'march', 'april', 'may', 'june', 'july', 'august', 'september', 'october',
                   'november', 'december']
         df_plot = pd.DataFrame(array_plot, columns=months,
-                               index=['resting_heart_rate when smoking', 'resting_heart_rate when quitting',
-                                      'resting_heart_rate if never smoked'])
-        bar_plot = df_plot.plot.bar(title="Counterfactual outputs: PID=5, smoking_status => resting_heart_rate", figsize=(20, 20))
+                               index=['duration_minutes with usual sleep', 'duration_minutes with more sleep',
+                                      'duration_minutes with less sleep'])
+        bar_plot = df_plot.plot.bar(title="Counterfactual outputs: PID=5, hours_sleep ==> duration_minutes", figsize=(20, 20))
         fig = bar_plot.get_figure()
-        fig.savefig('/Users/luca_lavazza/Documents/GitHub/Health_Cefriel/graphs/Counterfactual-duration_minutes->calories_burned-pid=' + str(5))
+        fig.savefig('/Users/luca_lavazza/Documents/GitHub/Health_Cefriel/graphs/Counterfactual-pid=' + str(5))
     elif pid == 6:
-        # PID=6: duration_minutes => calories_burned
+        # PID=6: duration_minutes ==> calories_burned
         fitness_data_pid = fitness_data_testing[fitness_data_testing['participant_id'] == 6]
         counterfactual_data1 = gcm.counterfactual_samples(causal_model_for_counterfactual_analysis,
                                                           {'duration_minutes': lambda x: -3},
@@ -91,9 +92,9 @@ for pid in pids_personas:
         months = ['january', 'february', 'march', 'april', 'may', 'june', 'july', 'august', 'september', 'october',
                   'november', 'december']
         df_plot = pd.DataFrame(array_plot, columns=months, index=['regular', 'lack_of', 'too_much'])
-        bar_plot = df_plot.plot.bar(title="Counterfactual outputs: PID=6, duration_minutes => calories_burned", figsize=(20, 20))
+        bar_plot = df_plot.plot.bar(title="Counterfactual outputs: PID=6, duration_minutes ==> calories_burned", figsize=(20, 20))
         fig = bar_plot.get_figure()
-        fig.savefig('/Users/luca_lavazza/Documents/GitHub/Health_Cefriel/graphs/Counterfactual-duration_minutes->calories_burned-pid=' + str(6))
+        fig.savefig('/Users/luca_lavazza/Documents/GitHub/Health_Cefriel/graphs/Counterfactual-pid=' + str(6))
     elif pid == 8:
         # PID=8: increase duration_minutes
         fitness_data_pid = fitness_data_testing[fitness_data_testing['participant_id'] == 8]
@@ -112,48 +113,46 @@ for pid in pids_personas:
                                       'heart before', 'heart after', 'bmi before', 'bmi after'])
         bar_plot = df_plot.plot.bar(title="Counterfactual outputs: PID=8, increase duration_minutes", figsize=(20, 20))
         fig = bar_plot.get_figure()
-        fig.savefig('/Users/luca_lavazza/Documents/GitHub/Health_Cefriel/graphs/Counterfactual-duration_minutes->calories_burned-pid=' + str(8))
+        fig.savefig('/Users/luca_lavazza/Documents/GitHub/Health_Cefriel/graphs/Counterfactual-pid=' + str(8))
     elif pid == 11:
-        # PID=11: daily_steps => bmi
+        # PID=11: duration_minutes/daily_steps ==> calories_burned
         fitness_data_pid = fitness_data_testing[fitness_data_testing['participant_id'] == 11]
         counterfactual_data1 = gcm.counterfactual_samples(causal_model_for_counterfactual_analysis,
-                                                          {'daily_steps': lambda x: x + 2},
+                                                          {'duration_minutes': lambda x: x + 3,
+                                                           'daily_steps': lambda x: x + 2},
                                                           observed_data=fitness_data_pid)
-        array_plot = np.array([fitness_data_pid['bmi'], counterfactual_data1['bmi']])
+        array_plot = np.array([fitness_data_pid['calories_burned'], counterfactual_data1['calories_burned']])
         months = ['january', 'february', 'march', 'april', 'may', 'june', 'july', 'august', 'september', 'october',
                   'november', 'december']
-        df_plot = pd.DataFrame(array_plot, columns=months, index=['bmi before', 'bmi after'])
-        bar_plot = df_plot.plot.bar(title="Counterfactual outputs: PID=11, daily_steps => bmi", figsize=(20, 20))
+        df_plot = pd.DataFrame(array_plot, columns=months, index=['calories_burned before', 'calories_burned after'])
+        bar_plot = df_plot.plot.bar(
+            title="Counterfactual outputs: PID=262, daily_steps/duration_minutes ==> calories_burned", figsize=(20, 20))
         fig = bar_plot.get_figure()
-        fig.savefig('/Users/luca_lavazza/Documents/GitHub/Health_Cefriel/graphs/Counterfactual-duration_minutes->calories_burned-pid=' + str(11))
+        fig.savefig('/Users/luca_lavazza/Documents/GitHub/Health_Cefriel/graphs/Counterfactual-pid=' + str(11))
     elif pid == 26:
-        # PID=26: intensity ==> avg_heart_rate
+        # PID=26: fitness_level => calories burned
         fitness_data_pid = fitness_data_testing[fitness_data_testing['participant_id'] == 26]
         counterfactual_data1 = gcm.counterfactual_samples(causal_model_for_counterfactual_analysis,
-                                                          {'intensity': lambda x: 0},  # low intensity
+                                                          {'fitness_level': lambda x: x + 2},
                                                           observed_data=fitness_data_pid)
-        counterfactual_data2 = gcm.counterfactual_samples(causal_model_for_counterfactual_analysis,
-                                                          {'intensity': lambda x: 1},  # average intensity
-                                                          observed_data=fitness_data_pid)
-        counterfactual_data3 = gcm.counterfactual_samples(causal_model_for_counterfactual_analysis,
-                                                          {'intensity': lambda x: 2},  # high intensity
-                                                          observed_data=fitness_data_pid)
-        array_plot = np.array([fitness_data_pid['avg_heart_rate'], counterfactual_data1['avg_heart_rate'],
-                               counterfactual_data2['avg_heart_rate'], counterfactual_data3['avg_heart_rate']])
+        array_plot = np.array([fitness_data_pid['calories_burned'],
+                               counterfactual_data1['calories_burned']])
         months = ['january', 'february', 'march', 'april', 'may', 'june', 'july', 'august', 'september', 'october',
                   'november', 'december']
-        df_plot = pd.DataFrame(array_plot, columns=months, index=['regular', 'low', 'average', 'high'])
-        bar_plot = df_plot.plot.bar(title="Counterfactual outputs: PID=26, intensity ==> avg_heart_rate", figsize=(20, 20))
+        df_plot = pd.DataFrame(array_plot, columns=months,
+                               index=['calories_burned regularly', 'calories_burned when more fit'])
+        bar_plot = df_plot.plot.bar(title="Counterfactual outputs: PID=26, fitness_level ==> calories_burned",
+                                    figsize=(20, 20))
         fig = bar_plot.get_figure()
-        fig.savefig('/Users/luca_lavazza/Documents/GitHub/Health_Cefriel/graphs/Counterfactual-duration_minutes->calories_burned-pid=' + str(26))
+        fig.savefig('/Users/luca_lavazza/Documents/GitHub/Health_Cefriel/graphs/Counterfactual-pid=' + str(26))
     elif pid == 30:
-        # PID=30: smoking_status ==> calories_burned
+        # PID=30: activity_type ==> calories_burned
         fitness_data_pid = fitness_data_testing[fitness_data_testing['participant_id'] == 30]
         counterfactual_data1 = gcm.counterfactual_samples(causal_model_for_counterfactual_analysis,
-                                                          {'smoking_status': lambda x: x + 1},  # from current to former
+                                                          {'activity_type': lambda x: 6},  # tennis
                                                           observed_data=fitness_data_pid)
         counterfactual_data2 = gcm.counterfactual_samples(causal_model_for_counterfactual_analysis,
-                                                          {'smoking_status': lambda x: x - 1},  # from current to never
+                                                          {'activity_type': lambda x: 9},  # yoga
                                                           observed_data=fitness_data_pid)
         array_plot = np.array([fitness_data_pid['calories_burned'],
                                counterfactual_data1['calories_burned'],
@@ -161,37 +160,43 @@ for pid in pids_personas:
         months = ['january', 'february', 'march', 'april', 'may', 'june', 'july', 'august', 'september', 'october',
                   'november', 'december']
         df_plot = pd.DataFrame(array_plot, columns=months,
-                               index=['calories_burned when smoking', 'calories_burned when quitting',
-                                      'calories_burned if never smoked'])
-        bar_plot = df_plot.plot.bar(title="Counterfactual outputs: PID=30, smoking_status ==> calories_burned", figsize=(20, 20))
+                               index=['calories_burned when doing preferred sport', 'calories_burned if playing tennis',
+                                      'calories_burned if doing yoga'])
+        bar_plot = df_plot.plot.bar(title="Counterfactual outputs: PID=30, activity_type ==> calories_burned", figsize=(20, 20))
         fig = bar_plot.get_figure()
-        fig.savefig('/Users/luca_lavazza/Documents/GitHub/Health_Cefriel/graphs/Counterfactual-duration_minutes->calories_burned-pid=' + str(30))
+        fig.savefig('/Users/luca_lavazza/Documents/GitHub/Health_Cefriel/graphs/Counterfactual-pid=' + str(30))
     elif pid == 41:
-        # PID=41: daily_steps ==> calories_burned
+        # PID=41: calories_burned ==> bmi
         fitness_data_pid = fitness_data_testing[fitness_data_testing['participant_id'] == 41]
         counterfactual_data1 = gcm.counterfactual_samples(causal_model_for_counterfactual_analysis,
-                                                          {'daily_steps': lambda x: x + 2},
+                                                          {'calories_burned': lambda x: x - 2},
                                                           observed_data=fitness_data_pid)
-        array_plot = np.array([fitness_data_pid['calories_burned'], counterfactual_data1['calories_burned']])
+        array_plot = np.array([fitness_data_pid['bmi'], counterfactual_data1['bmi']])
         months = ['january', 'february', 'march', 'april', 'may', 'june', 'july', 'august', 'september', 'october',
                   'november', 'december']
-        df_plot = pd.DataFrame(array_plot, columns=months, index=['calories_burned before', 'calories_burned after'])
-        bar_plot = df_plot.plot.bar(title="Counterfactual outputs: PID=41, daily_steps ==> calories_burned", figsize=(20, 20))
+        df_plot = pd.DataFrame(array_plot, columns=months, index=['bmi before', 'bmi after'])
+        bar_plot = df_plot.plot.bar(title="Counterfactual outputs: PID=41, calories_burned ==> bmi", figsize=(20, 20))
         fig = bar_plot.get_figure()
-        fig.savefig('/Users/luca_lavazza/Documents/GitHub/Health_Cefriel/graphs/Counterfactual-duration_minutes->calories_burned-pid=' + str(41))
+        fig.savefig('/Users/luca_lavazza/Documents/GitHub/Health_Cefriel/graphs/Counterfactual-pid=' + str(41))
     elif pid == 108:
-        # PID=108: daily_steps ==> fitness_level
-        fitness_data_pid = fitness_data_testing[fitness_data_testing['participant_id'] == 108]
+        # PID=108: duration_minutes => blood_pressure/heart_rate
+        fitness_data_pid = fitness_data_testing[fitness_data_testing['participant_id'] == 165]
         counterfactual_data1 = gcm.counterfactual_samples(causal_model_for_counterfactual_analysis,
-                                                          {'daily_steps': lambda x: x + 2},
+                                                          {'duration_minutes': lambda x: x + 3},
                                                           observed_data=fitness_data_pid)
-        array_plot = np.array([fitness_data_pid['fitness_level'], counterfactual_data1['fitness_level']])
+        array_plot = np.array([fitness_data_pid['blood_pressure_systolic'], counterfactual_data1['blood_pressure_systolic'],
+                               fitness_data_pid['blood_pressure_diastolic'], counterfactual_data1['blood_pressure_diastolic'],
+                               fitness_data_pid['resting_heart_rate'], counterfactual_data1['resting_heart_rate']])
         months = ['january', 'february', 'march', 'april', 'may', 'june', 'july', 'august', 'september', 'october',
                   'november', 'december']
-        df_plot = pd.DataFrame(array_plot, columns=months, index=['fitness_level before', 'fitness_level after'])
-        bar_plot = df_plot.plot.bar(title="Counterfactual outputs: PID=108, daily_steps ==> fitness_level", figsize=(20, 20))
+        df_plot = pd.DataFrame(array_plot, columns=months,
+                               index=['blood_pressure_systolic before', 'blood_pressure_systolic after',
+                                      'blood_pressure_diastolic before', 'blood_pressure_diastolic after',
+                                      'resting_heart_rate before', 'resting_heart_rate after'])
+        bar_plot = df_plot.plot.bar(title="Counterfactual outputs: PID=108, duration_minutes => blood_pressure/heart_rate",
+                                    figsize=(20, 20))
         fig = bar_plot.get_figure()
-        fig.savefig('/Users/luca_lavazza/Documents/GitHub/Health_Cefriel/graphs/Counterfactual-duration_minutes->calories_burned-pid=' + str(108))
+        fig.savefig('/Users/luca_lavazza/Documents/GitHub/Health_Cefriel/graphs/Counterfactual-pid=' + str(108))
     elif pid == 165:
         # PID=165: duration_minutes ==> fitness_level/bmi
         fitness_data_pid = fitness_data_testing[fitness_data_testing['participant_id'] == 165]
@@ -206,9 +211,9 @@ for pid in pids_personas:
                                index=['fitness_level before', 'fitness_level after', 'bmi_before', 'bmi_after'])
         bar_plot = df_plot.plot.bar(title="Counterfactual outputs: PID=165, duration_minutes ==> fitness_level/bmi", figsize=(20, 20))
         fig = bar_plot.get_figure()
-        fig.savefig('/Users/luca_lavazza/Documents/GitHub/Health_Cefriel/graphs/Counterfactual-duration_minutes->calories_burned-pid=' + str(165))
-    elif pid == 202:
-        # PID=202: duration_minutes ==> resting_heart_rate
+        fig.savefig('/Users/luca_lavazza/Documents/GitHub/Health_Cefriel/graphs/Counterfactual-pid=' + str(165))
+    elif pid == 172:
+        # PID=172: duration_minutes ==> resting_heart_rate
         fitness_data_pid = fitness_data_testing[fitness_data_testing['participant_id'] == 202]
         counterfactual_data1 = gcm.counterfactual_samples(causal_model_for_counterfactual_analysis,
                                                           {'duration_minutes': lambda x: x + 3},
@@ -218,9 +223,9 @@ for pid in pids_personas:
                   'november', 'december']
         df_plot = pd.DataFrame(array_plot, columns=months,
                                index=['resting_heart_rate before', 'resting_heart_rate after'])
-        bar_plot = df_plot.plot.bar(title="Counterfactual outputs: PID=202, duration_minutes ==> resting_heart_rate", figsize=(20, 20))
+        bar_plot = df_plot.plot.bar(title="Counterfactual outputs: PID=172, duration_minutes ==> resting_heart_rate", figsize=(20, 20))
         fig = bar_plot.get_figure()
-        fig.savefig('/Users/luca_lavazza/Documents/GitHub/Health_Cefriel/graphs/Counterfactual-duration_minutes->calories_burned-pid=' + str(202))
+        fig.savefig('/Users/luca_lavazza/Documents/GitHub/Health_Cefriel/graphs/Counterfactual-pid=' + str(172))
     elif pid == 262:
         # PID=262: daily_steps ==> fitness_level + duration_minutes ==> fitness_level
         fitness_data_pid = fitness_data_testing[fitness_data_testing['participant_id'] == 262]
@@ -234,7 +239,7 @@ for pid in pids_personas:
         df_plot = pd.DataFrame(array_plot, columns=months, index=['fitness_level before', 'fitness_level after'])
         bar_plot = df_plot.plot.bar(title="Counterfactual outputs: PID=262, daily_steps/duration_minutes ==> fitness_level", figsize=(20, 20))
         fig = bar_plot.get_figure()
-        fig.savefig('/Users/luca_lavazza/Documents/GitHub/Health_Cefriel/graphs/Counterfactual-duration_minutes->calories_burned-pid=' + str(262))
+        fig.savefig('/Users/luca_lavazza/Documents/GitHub/Health_Cefriel/graphs/Counterfactual-pid=' + str(262))
     else:
         print('PID ' + str(pid) + ' not found.')
 
