@@ -36,6 +36,7 @@ fitting = gcm.fit(causal_model=causal_model_for_counterfactual_analysis, data=fi
                   return_evaluation_summary=True)
 
 pids_personas = [2, 5, 6, 8, 11, 26, 30, 41, 108, 165, 172, 262]
+# alternative_personas = [180, 191, 609, 614, 918, 1323, 2022, 2047, 2207, 2457, 2476, 2720]
 
 for pid in pids_personas:
     if pid == 2:
