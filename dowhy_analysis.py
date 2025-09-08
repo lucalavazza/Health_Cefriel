@@ -3,6 +3,7 @@ import networkx as nx
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
+from IPython.core.pylabtools import figsize
 from dowhy import CausalModel
 from dowhy import gcm
 from dowhy.gcm import InvertibleStructuralCausalModel
@@ -148,5 +149,44 @@ bar_plot2 = df_ns_plot.plot.bar(title="Counterfactual outputs - non scaled", fig
 plt.ylabel('Calories Burned')
 fig = bar_plot.get_figure()
 fig2 = bar_plot2.get_figure()
-fig.savefig('/Users/luca_lavazza/Documents/GitHub/Health_Cefriel/graphs/Counterfactual-duration_minutes->calories_burned-pid=42')
-fig2.savefig('/Users/luca_lavazza/Documents/GitHub/Health_Cefriel/graphs/Counterfactual-duration_minutes->calories_burned-pid=42_non-scaled')
+fig.savefig('/Users/luca_lavazza/Documents/GitHub/Health_Cefriel/graphs/test-counterfactual-pid=42')
+fig2.savefig('/Users/luca_lavazza/Documents/GitHub/Health_Cefriel/graphs/test-counterfactual-pid=42-non_scaled')
+
+diff1 = np.subtract(np.array(counterfactual_data1['calories_burned']), np.array(fitness_data_42['calories_burned']))
+diff2 = np.subtract(np.array(counterfactual_data2['calories_burned']), np.array(fitness_data_42['calories_burned']))
+
+perc1 = []
+perc2 = []
+
+for i in range(len(fitness_data_42['calories_burned'])):
+    diff_1 = diff1[i] * 100
+    diff_2 = diff2[i] * 100
+    max_v = np.array(fitness_data_42['calories_burned'])[i]
+    perc_1 = diff_1 / abs(max_v)
+    perc_2 = diff_2 / abs(max_v)
+    perc1.append(int(perc_1))
+    perc2.append(int(perc_2))
+
+differences = {
+    'less': perc1,
+    'more': perc2,
+}
+x = np.arange(len(months))  # the label locations
+width = 0.25  # the width of the bars
+multiplier = 0
+
+fig, ax = plt.subplots(figsize=(20, 10))
+
+for value, diffs in differences.items():
+    offset = width * multiplier
+    rects = ax.bar(x + offset, diffs, width, label=value)
+    ax.bar_label(rects, padding=3)
+    multiplier += 1
+
+# Add some text for labels, title and custom x-axis tick labels, etc.
+ax.set_ylabel('%')
+ax.set_title('Percentual difference in calories_burned depending on duration_minutes')
+ax.set_xticks(x + width, months)
+ax.legend(loc='upper left', ncols=2)
+
+plt.savefig('/Users/luca_lavazza/Documents/GitHub/Health_Cefriel/graphs/test-counterfactual-pid=42-percentual_difference')
