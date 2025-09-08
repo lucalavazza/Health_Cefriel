@@ -13,6 +13,7 @@ from dowhy.gcm.independence_test.generalised_cov_measure import generalised_cov_
 from dowhy.gcm.util.general import set_random_seed
 from dowhy.gcm.ml import SklearnRegressionModel
 from dowhy.gcm.auto import AssignmentQuality
+from sklearn.preprocessing import StandardScaler
 import warnings
 
 warnings.filterwarnings(action='ignore', category=FutureWarning)
@@ -55,8 +56,8 @@ def gcm_fal(X, Y, Z=None):
 #                        plot_histogram=False,
 #                        suggestions=True)
 # print(result)
-
-
+#
+#
 # # STEP 1: Causal Effects Estimation: If we change X, how much will it cause Y to change?
 #
 # # STEP 1.1: Model a causal inference problem using assumptions (i.e., provide data + cg + select Treatment and Outcome)
@@ -86,14 +87,14 @@ def gcm_fal(X, Y, Z=None):
 #                                         show_progress_bar=True, subset_fraction=0.8)
 # print("\nREFUTATION #3: random common causa (effect should be the same)\n")
 # print(refute3_results)
-
-
-# STEP 2: What-if questions: What if X had been changed to a different value than its observed value? What would have been the values of other variables?
-# STEP 2.1: Simulating the Impact of Interventions: What will happen to the variable Z if I intervene on Y?
+#
+#
+# # STEP 2: What-if questions: What if X had been changed to a different value than its observed value? What would have been the values of other variables?
+# # STEP 2.1: Simulating the Impact of Interventions: What will happen to the variable Z if I intervene on Y?
 # causal_model = gcm.ProbabilisticCausalModel(G)
 # gcm.auto.assign_causal_mechanisms(causal_model, fitness_data)
 # gcm.fit(causal_model, fitness_data)
-
+#
 # median_mean_latencies, uncertainty_mean_latencies = gcm.confidence_intervals(
 #     lambda: gcm.fit_and_compute(gcm.interventional_samples,
 #                                 causal_model,
@@ -120,13 +121,13 @@ def gcm_fal(X, Y, Z=None):
 # What would have happened to the value of Z, had I intervened on X to assign it a different value x'?
 # As an example, I want to check what happens to the calories_burned of participant_id=42 if they do not train enough or too much.
 causal_model_for_counterfactual_analysis = InvertibleStructuralCausalModel(G)
-model_perf = gcm.auto.assign_causal_mechanisms(causal_model=causal_model_for_counterfactual_analysis, based_on=fitness_data,
-                                  quality=AssignmentQuality.GOOD)
-print("Model Performance -- from gcm.auto.assign_causal_mechanisms\n", model_perf)
+model_perf = gcm.auto.assign_causal_mechanisms(causal_model=causal_model_for_counterfactual_analysis,
+                                               based_on=fitness_data,
+                                               quality=AssignmentQuality.GOOD)
+# print("Model Performance -- from gcm.auto.assign_causal_mechanisms\n", model_perf)
 fitting = gcm.fit(causal_model=causal_model_for_counterfactual_analysis, data=fitness_data,
                   return_evaluation_summary=True)
-print("\n\n\n\n\nEvaluation Summary -- from gcm.fit\n", fitting)
-
+# print("\n\n\n\n\nEvaluation Summary -- from gcm.fit\n", fitting)
 fitness_data_42 = fitness_data[fitness_data['participant_id'] == 42]
 counterfactual_data1 = gcm.counterfactual_samples(causal_model_for_counterfactual_analysis,
                                                   {'duration_minutes': lambda x: -3},
@@ -134,15 +135,18 @@ counterfactual_data1 = gcm.counterfactual_samples(causal_model_for_counterfactua
 counterfactual_data2 = gcm.counterfactual_samples(causal_model_for_counterfactual_analysis,
                                                   {'duration_minutes': lambda x: 3},
                                                   observed_data=fitness_data_42)
-
 array_plot = np.array([fitness_data_42['calories_burned'], counterfactual_data1['calories_burned'],
                        counterfactual_data2['calories_burned']])
 months = ['january', 'february', 'march', 'april', 'may', 'june', 'july', 'august', 'september', 'october', 'november',
           'december']
 df_plot = pd.DataFrame(array_plot, columns=months, index=['regular', 'lack_of', 'too_much'])
-
+scaler = StandardScaler().fit(df_plot)  # this
+non_scaled_data = scaler.inverse_transform(df_plot)  # this
+df_ns_plot = pd.DataFrame(non_scaled_data, columns=months, index=['regular', 'lack_of', 'too_much'])  # this
 bar_plot = df_plot.plot.bar(title="Counterfactual outputs", figsize=(17, 17))
+bar_plot2 = df_ns_plot.plot.bar(title="Counterfactual outputs - non scaled", figsize=(17, 17))
 plt.ylabel('Calories Burned')
 fig = bar_plot.get_figure()
-fig.savefig(
-    '/Users/luca_lavazza/Documents/GitHub/Health_Cefriel/graphs/Counterfactual-duration_minutes->calories_burned-pid=42')
+fig2 = bar_plot2.get_figure()
+fig.savefig('/Users/luca_lavazza/Documents/GitHub/Health_Cefriel/graphs/Counterfactual-duration_minutes->calories_burned-pid=42')
+fig2.savefig('/Users/luca_lavazza/Documents/GitHub/Health_Cefriel/graphs/Counterfactual-duration_minutes->calories_burned-pid=42_non-scaled')

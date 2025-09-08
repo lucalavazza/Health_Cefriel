@@ -6,6 +6,7 @@ from dowhy.gcm import InvertibleStructuralCausalModel
 from dowhy.gcm.util.general import set_random_seed
 from dowhy.gcm.auto import AssignmentQuality
 import warnings
+from sklearn.preprocessing import StandardScaler
 
 warnings.filterwarnings(action='ignore', category=FutureWarning)
 warnings.filterwarnings(action='ignore', category=UserWarning)
@@ -57,6 +58,17 @@ for pid in pids_personas:
         bar_plot = df_plot.plot.bar(title="Counterfactual outputs: PID=2, reduce daily_steps", figsize=(20, 20))
         fig = bar_plot.get_figure()
         fig.savefig('/Users/luca_lavazza/Documents/GitHub/Health_Cefriel/graphs/Counterfactual-pid=' + str(2))
+        # re-scaled data
+        scaler = StandardScaler().fit(df_plot)  # this
+        non_scaled_data = scaler.inverse_transform(df_plot)  # this
+        df_ns_plot = pd.DataFrame(non_scaled_data, columns=months, index=['calories before', 'calories after',
+                                                                          'fit level before', 'fit level after',
+                                                                          'bmi before', 'bmi after'])  # this
+        ns_bar_plot = df_ns_plot.plot.bar(title="Counterfactual outputs: PID=2, reduce daily_steps - non scaled",
+                                          figsize=(20, 20))
+        ns_fig = ns_bar_plot.get_figure()
+        ns_fig.savefig(
+            '/Users/luca_lavazza/Documents/GitHub/Health_Cefriel/graphs/Counterfactual-pid=' + str(2) + '_non-scaled')
     elif pid == 5:
         # PID=5: hours_sleep ==> duration_minutes
         fitness_data_pid = fitness_data_testing[fitness_data_testing['participant_id'] == 5]
@@ -75,9 +87,21 @@ for pid in pids_personas:
         df_plot = pd.DataFrame(array_plot, columns=months,
                                index=['duration_minutes with usual sleep', 'duration_minutes with more sleep',
                                       'duration_minutes with less sleep'])
-        bar_plot = df_plot.plot.bar(title="Counterfactual outputs: PID=5, hours_sleep ==> duration_minutes", figsize=(20, 20))
+        bar_plot = df_plot.plot.bar(title="Counterfactual outputs: PID=5, hours_sleep ==> duration_minutes",
+                                    figsize=(20, 20))
         fig = bar_plot.get_figure()
         fig.savefig('/Users/luca_lavazza/Documents/GitHub/Health_Cefriel/graphs/Counterfactual-pid=' + str(5))
+        # re-scaled data
+        scaler = StandardScaler().fit(df_plot)  # this
+        non_scaled_data = scaler.inverse_transform(df_plot)  # this
+        df_ns_plot = pd.DataFrame(non_scaled_data, columns=months,
+                                  index=['duration_minutes with usual sleep', 'duration_minutes with more sleep',
+                                         'duration_minutes with less sleep'])  # this
+        ns_bar_plot = df_ns_plot.plot.bar(title="Counterfactual outputs: PID=5, hours_sleep ==> duration_minutes - non scaled",
+                                          figsize=(20, 20))
+        ns_fig = ns_bar_plot.get_figure()
+        ns_fig.savefig(
+            '/Users/luca_lavazza/Documents/GitHub/Health_Cefriel/graphs/Counterfactual-pid=' + str(5) + '_non-scaled')
     elif pid == 6:
         # PID=6: duration_minutes ==> calories_burned
         fitness_data_pid = fitness_data_testing[fitness_data_testing['participant_id'] == 6]
@@ -93,9 +117,21 @@ for pid in pids_personas:
         months = ['january', 'february', 'march', 'april', 'may', 'june', 'july', 'august', 'september', 'october',
                   'november', 'december']
         df_plot = pd.DataFrame(array_plot, columns=months, index=['regular', 'lack_of', 'too_much'])
-        bar_plot = df_plot.plot.bar(title="Counterfactual outputs: PID=6, duration_minutes ==> calories_burned", figsize=(20, 20))
+        bar_plot = df_plot.plot.bar(title="Counterfactual outputs: PID=6, duration_minutes ==> calories_burned",
+                                    figsize=(20, 20))
         fig = bar_plot.get_figure()
         fig.savefig('/Users/luca_lavazza/Documents/GitHub/Health_Cefriel/graphs/Counterfactual-pid=' + str(6))
+        # re-scaled data
+        scaler = StandardScaler().fit(df_plot)  # this
+        non_scaled_data = scaler.inverse_transform(df_plot)  # this
+        df_ns_plot = pd.DataFrame(non_scaled_data, columns=months,
+                                  index=['regular', 'lack_of', 'too_much'])  # this
+        ns_bar_plot = df_ns_plot.plot.bar(
+            title="Counterfactual outputs: PID=6, duration_minutes ==> calories_burned - non scaled",
+            figsize=(20, 20))
+        ns_fig = ns_bar_plot.get_figure()
+        ns_fig.savefig(
+            '/Users/luca_lavazza/Documents/GitHub/Health_Cefriel/graphs/Counterfactual-pid=' + str(6) + '_non-scaled')
     elif pid == 8:
         # PID=8: increase duration_minutes
         fitness_data_pid = fitness_data_testing[fitness_data_testing['participant_id'] == 8]
@@ -115,6 +151,18 @@ for pid in pids_personas:
         bar_plot = df_plot.plot.bar(title="Counterfactual outputs: PID=8, increase duration_minutes", figsize=(20, 20))
         fig = bar_plot.get_figure()
         fig.savefig('/Users/luca_lavazza/Documents/GitHub/Health_Cefriel/graphs/Counterfactual-pid=' + str(8))
+        # re-scaled data
+        scaler = StandardScaler().fit(df_plot)  # this
+        non_scaled_data = scaler.inverse_transform(df_plot)  # this
+        df_ns_plot = pd.DataFrame(non_scaled_data, columns=months,
+                                  index=['calories before', 'calories after', 'fit level before', 'fit level after',
+                                         'heart before', 'heart after', 'bmi before', 'bmi after'])  # this
+        ns_bar_plot = df_ns_plot.plot.bar(
+            title="Counterfactual outputs: PID=8, increase duration_minutes - non scaled",
+            figsize=(20, 20))
+        ns_fig = ns_bar_plot.get_figure()
+        ns_fig.savefig(
+            '/Users/luca_lavazza/Documents/GitHub/Health_Cefriel/graphs/Counterfactual-pid=' + str(8) + '_non-scaled')
     elif pid == 11:
         # PID=11: duration_minutes/daily_steps ==> calories_burned
         fitness_data_pid = fitness_data_testing[fitness_data_testing['participant_id'] == 11]
@@ -127,9 +175,20 @@ for pid in pids_personas:
                   'november', 'december']
         df_plot = pd.DataFrame(array_plot, columns=months, index=['calories_burned before', 'calories_burned after'])
         bar_plot = df_plot.plot.bar(
-            title="Counterfactual outputs: PID=262, daily_steps/duration_minutes ==> calories_burned", figsize=(20, 20))
+            title="Counterfactual outputs: PID=11, daily_steps/duration_minutes ==> calories_burned", figsize=(20, 20))
         fig = bar_plot.get_figure()
         fig.savefig('/Users/luca_lavazza/Documents/GitHub/Health_Cefriel/graphs/Counterfactual-pid=' + str(11))
+        # re-scaled data
+        scaler = StandardScaler().fit(df_plot)  # this
+        non_scaled_data = scaler.inverse_transform(df_plot)  # this
+        df_ns_plot = pd.DataFrame(non_scaled_data, columns=months,
+                                  index=['calories_burned before', 'calories_burned after'])  # this
+        ns_bar_plot = df_ns_plot.plot.bar(
+            title="Counterfactual outputs: PID=11, daily_steps/duration_minutes ==> calories_burned - non scaled",
+            figsize=(20, 20))
+        ns_fig = ns_bar_plot.get_figure()
+        ns_fig.savefig(
+            '/Users/luca_lavazza/Documents/GitHub/Health_Cefriel/graphs/Counterfactual-pid=' + str(11) + '_non-scaled')
     elif pid == 26:
         # PID=26: fitness_level => calories burned
         fitness_data_pid = fitness_data_testing[fitness_data_testing['participant_id'] == 26]
@@ -146,6 +205,17 @@ for pid in pids_personas:
                                     figsize=(20, 20))
         fig = bar_plot.get_figure()
         fig.savefig('/Users/luca_lavazza/Documents/GitHub/Health_Cefriel/graphs/Counterfactual-pid=' + str(26))
+        # re-scaled data
+        scaler = StandardScaler().fit(df_plot)  # this
+        non_scaled_data = scaler.inverse_transform(df_plot)  # this
+        df_ns_plot = pd.DataFrame(non_scaled_data, columns=months,
+                                  index=['calories_burned regularly', 'calories_burned when more fit'])  # this
+        ns_bar_plot = df_ns_plot.plot.bar(
+            title="Counterfactual outputs: PID=26, fitness_level ==> calories_burned - non scaled",
+            figsize=(20, 20))
+        ns_fig = ns_bar_plot.get_figure()
+        ns_fig.savefig(
+            '/Users/luca_lavazza/Documents/GitHub/Health_Cefriel/graphs/Counterfactual-pid=' + str(26) + '_non-scaled')
     elif pid == 30:
         # PID=30: activity_type ==> calories_burned
         fitness_data_pid = fitness_data_testing[fitness_data_testing['participant_id'] == 30]
@@ -163,9 +233,23 @@ for pid in pids_personas:
         df_plot = pd.DataFrame(array_plot, columns=months,
                                index=['calories_burned when doing preferred sport', 'calories_burned if playing tennis',
                                       'calories_burned if doing yoga'])
-        bar_plot = df_plot.plot.bar(title="Counterfactual outputs: PID=30, activity_type ==> calories_burned", figsize=(20, 20))
+        bar_plot = df_plot.plot.bar(title="Counterfactual outputs: PID=30, activity_type ==> calories_burned",
+                                    figsize=(20, 20))
         fig = bar_plot.get_figure()
         fig.savefig('/Users/luca_lavazza/Documents/GitHub/Health_Cefriel/graphs/Counterfactual-pid=' + str(30))
+        # re-scaled data
+        scaler = StandardScaler().fit(df_plot)  # this
+        non_scaled_data = scaler.inverse_transform(df_plot)  # this
+        df_ns_plot = pd.DataFrame(non_scaled_data, columns=months,
+                                  index=['calories_burned when doing preferred sport',
+                                         'calories_burned if playing tennis',
+                                         'calories_burned if doing yoga'])  # this
+        ns_bar_plot = df_ns_plot.plot.bar(
+            title="Counterfactual outputs: PID=30, activity_type ==> calories_burned",
+            figsize=(20, 20))
+        ns_fig = ns_bar_plot.get_figure()
+        ns_fig.savefig(
+            '/Users/luca_lavazza/Documents/GitHub/Health_Cefriel/graphs/Counterfactual-pid=' + str(30) + '_non-scaled')
     elif pid == 41:
         # PID=41: calories_burned ==> bmi
         fitness_data_pid = fitness_data_testing[fitness_data_testing['participant_id'] == 41]
@@ -179,25 +263,51 @@ for pid in pids_personas:
         bar_plot = df_plot.plot.bar(title="Counterfactual outputs: PID=41, calories_burned ==> bmi", figsize=(20, 20))
         fig = bar_plot.get_figure()
         fig.savefig('/Users/luca_lavazza/Documents/GitHub/Health_Cefriel/graphs/Counterfactual-pid=' + str(41))
+        # re-scaled data
+        scaler = StandardScaler().fit(df_plot)  # this
+        non_scaled_data = scaler.inverse_transform(df_plot)  # this
+        df_ns_plot = pd.DataFrame(non_scaled_data, columns=months,
+                                  index=['bmi before', 'bmi after'])  # this
+        ns_bar_plot = df_ns_plot.plot.bar(
+            title="Counterfactual outputs: PID=41, calories_burned ==> bmi",
+            figsize=(20, 20))
+        ns_fig = ns_bar_plot.get_figure()
+        ns_fig.savefig(
+            '/Users/luca_lavazza/Documents/GitHub/Health_Cefriel/graphs/Counterfactual-pid=' + str(41) + '_non-scaled')
     elif pid == 108:
         # PID=108: duration_minutes => blood_pressure/heart_rate
         fitness_data_pid = fitness_data_testing[fitness_data_testing['participant_id'] == 165]
         counterfactual_data1 = gcm.counterfactual_samples(causal_model_for_counterfactual_analysis,
                                                           {'duration_minutes': lambda x: x + 3},
                                                           observed_data=fitness_data_pid)
-        array_plot = np.array([fitness_data_pid['blood_pressure_systolic'], counterfactual_data1['blood_pressure_systolic'],
-                               fitness_data_pid['blood_pressure_diastolic'], counterfactual_data1['blood_pressure_diastolic'],
-                               fitness_data_pid['resting_heart_rate'], counterfactual_data1['resting_heart_rate']])
+        array_plot = np.array(
+            [fitness_data_pid['blood_pressure_systolic'], counterfactual_data1['blood_pressure_systolic'],
+             fitness_data_pid['blood_pressure_diastolic'], counterfactual_data1['blood_pressure_diastolic'],
+             fitness_data_pid['resting_heart_rate'], counterfactual_data1['resting_heart_rate']])
         months = ['january', 'february', 'march', 'april', 'may', 'june', 'july', 'august', 'september', 'october',
                   'november', 'december']
         df_plot = pd.DataFrame(array_plot, columns=months,
                                index=['blood_pressure_systolic before', 'blood_pressure_systolic after',
                                       'blood_pressure_diastolic before', 'blood_pressure_diastolic after',
                                       'resting_heart_rate before', 'resting_heart_rate after'])
-        bar_plot = df_plot.plot.bar(title="Counterfactual outputs: PID=108, duration_minutes => blood_pressure/heart_rate",
-                                    figsize=(20, 20))
+        bar_plot = df_plot.plot.bar(
+            title="Counterfactual outputs: PID=108, duration_minutes => blood_pressure/heart_rate",
+            figsize=(20, 20))
         fig = bar_plot.get_figure()
         fig.savefig('/Users/luca_lavazza/Documents/GitHub/Health_Cefriel/graphs/Counterfactual-pid=' + str(108))
+        # re-scaled data
+        scaler = StandardScaler().fit(df_plot)  # this
+        non_scaled_data = scaler.inverse_transform(df_plot)  # this
+        df_ns_plot = pd.DataFrame(non_scaled_data, columns=months,
+                                  index=['blood_pressure_systolic before', 'blood_pressure_systolic after',
+                                         'blood_pressure_diastolic before', 'blood_pressure_diastolic after',
+                                         'resting_heart_rate before', 'resting_heart_rate after'])  # this
+        ns_bar_plot = df_ns_plot.plot.bar(
+            title="Counterfactual outputs: PID=108, duration_minutes => blood_pressure/heart_rate",
+            figsize=(20, 20))
+        ns_fig = ns_bar_plot.get_figure()
+        ns_fig.savefig(
+            '/Users/luca_lavazza/Documents/GitHub/Health_Cefriel/graphs/Counterfactual-pid=' + str(108) + '_non-scaled')
     elif pid == 165:
         # PID=165: duration_minutes ==> fitness_level/bmi
         fitness_data_pid = fitness_data_testing[fitness_data_testing['participant_id'] == 165]
@@ -210,12 +320,24 @@ for pid in pids_personas:
                   'november', 'december']
         df_plot = pd.DataFrame(array_plot, columns=months,
                                index=['fitness_level before', 'fitness_level after', 'bmi_before', 'bmi_after'])
-        bar_plot = df_plot.plot.bar(title="Counterfactual outputs: PID=165, duration_minutes ==> fitness_level/bmi", figsize=(20, 20))
+        bar_plot = df_plot.plot.bar(title="Counterfactual outputs: PID=165, duration_minutes ==> fitness_level/bmi",
+                                    figsize=(20, 20))
         fig = bar_plot.get_figure()
         fig.savefig('/Users/luca_lavazza/Documents/GitHub/Health_Cefriel/graphs/Counterfactual-pid=' + str(165))
+        # re-scaled data
+        scaler = StandardScaler().fit(df_plot)  # this
+        non_scaled_data = scaler.inverse_transform(df_plot)  # this
+        df_ns_plot = pd.DataFrame(non_scaled_data, columns=months,
+                                  index=['fitness_level before', 'fitness_level after', 'bmi_before', 'bmi_after'])  # this
+        ns_bar_plot = df_ns_plot.plot.bar(
+            title="Counterfactual outputs: PID=165, duration_minutes ==> fitness_level/bmi",
+            figsize=(20, 20))
+        ns_fig = ns_bar_plot.get_figure()
+        ns_fig.savefig(
+            '/Users/luca_lavazza/Documents/GitHub/Health_Cefriel/graphs/Counterfactual-pid=' + str(165) + '_non-scaled')
     elif pid == 172:
         # PID=172: duration_minutes ==> resting_heart_rate
-        fitness_data_pid = fitness_data_testing[fitness_data_testing['participant_id'] == 202]
+        fitness_data_pid = fitness_data_testing[fitness_data_testing['participant_id'] == 172]
         counterfactual_data1 = gcm.counterfactual_samples(causal_model_for_counterfactual_analysis,
                                                           {'duration_minutes': lambda x: x + 3},
                                                           observed_data=fitness_data_pid)
@@ -224,9 +346,21 @@ for pid in pids_personas:
                   'november', 'december']
         df_plot = pd.DataFrame(array_plot, columns=months,
                                index=['resting_heart_rate before', 'resting_heart_rate after'])
-        bar_plot = df_plot.plot.bar(title="Counterfactual outputs: PID=172, duration_minutes ==> resting_heart_rate", figsize=(20, 20))
+        bar_plot = df_plot.plot.bar(title="Counterfactual outputs: PID=172, duration_minutes ==> resting_heart_rate",
+                                    figsize=(20, 20))
         fig = bar_plot.get_figure()
         fig.savefig('/Users/luca_lavazza/Documents/GitHub/Health_Cefriel/graphs/Counterfactual-pid=' + str(172))
+        # re-scaled data
+        scaler = StandardScaler().fit(df_plot)  # this
+        non_scaled_data = scaler.inverse_transform(df_plot)  # this
+        df_ns_plot = pd.DataFrame(non_scaled_data, columns=months,
+                                  index=['resting_heart_rate before', 'resting_heart_rate after'])  # this
+        ns_bar_plot = df_ns_plot.plot.bar(
+            title="Counterfactual outputs: PID=172, duration_minutes ==> resting_heart_rate",
+            figsize=(20, 20))
+        ns_fig = ns_bar_plot.get_figure()
+        ns_fig.savefig(
+            '/Users/luca_lavazza/Documents/GitHub/Health_Cefriel/graphs/Counterfactual-pid=' + str(172) + '_non-scaled')
     elif pid == 262:
         # PID=262: daily_steps ==> fitness_level + duration_minutes ==> fitness_level
         fitness_data_pid = fitness_data_testing[fitness_data_testing['participant_id'] == 262]
@@ -238,9 +372,20 @@ for pid in pids_personas:
         months = ['january', 'february', 'march', 'april', 'may', 'june', 'july', 'august', 'september', 'october',
                   'november', 'december']
         df_plot = pd.DataFrame(array_plot, columns=months, index=['fitness_level before', 'fitness_level after'])
-        bar_plot = df_plot.plot.bar(title="Counterfactual outputs: PID=262, daily_steps/duration_minutes ==> fitness_level", figsize=(20, 20))
+        bar_plot = df_plot.plot.bar(
+            title="Counterfactual outputs: PID=262, daily_steps/duration_minutes ==> fitness_level", figsize=(20, 20))
         fig = bar_plot.get_figure()
         fig.savefig('/Users/luca_lavazza/Documents/GitHub/Health_Cefriel/graphs/Counterfactual-pid=' + str(262))
+        # re-scaled data
+        scaler = StandardScaler().fit(df_plot)  # this
+        non_scaled_data = scaler.inverse_transform(df_plot)  # this
+        df_ns_plot = pd.DataFrame(non_scaled_data, columns=months,
+                                  index=['fitness_level before', 'fitness_level after'])  # this
+        ns_bar_plot = df_ns_plot.plot.bar(
+            title="Counterfactual outputs: PID=262, daily_steps/duration_minutes ==> fitness_level",
+            figsize=(20, 20))
+        ns_fig = ns_bar_plot.get_figure()
+        ns_fig.savefig(
+            '/Users/luca_lavazza/Documents/GitHub/Health_Cefriel/graphs/Counterfactual-pid=' + str(262) + '_non-scaled')
     else:
         print('PID ' + str(pid) + ' not found.')
-
