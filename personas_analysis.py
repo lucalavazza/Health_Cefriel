@@ -71,7 +71,6 @@ for pid in pids_personas:
         ns_fig = ns_bar_plot.get_figure()
         ns_fig.savefig(
             '/Users/luca_lavazza/Documents/GitHub/Health_Cefriel/graphs/counterfactual-pid=' + str(2) + '-non_scaled')
-
         diff0 = np.subtract(np.array(counterfactual_data1['calories_burned']), np.array(fitness_data_pid['calories_burned']))
         diff1 = np.subtract(np.array(counterfactual_data1['fitness_level']), np.array(fitness_data_pid['fitness_level']))
         diff2 = np.subtract(np.array(counterfactual_data1['bmi']), np.array(fitness_data_pid['bmi']))
@@ -91,92 +90,155 @@ for pid in pids_personas:
             perc0.append(int(perc_0))
             perc1.append(int(perc_1))
             perc2.append(int(perc_2))
-
         x = np.arange(len(months))  # the label locations
         width = 0.65  # the width of the bars
-
         fig, ax = plt.subplots(3, figsize=(15, 15))
-
-        ax[0].bar(months, perc0, width)
-        ax[0].grid(True, linestyle='-.')
+        p0 = ax[0].bar(months, perc0, width, color='tab:orange')
+        ax[0].bar_label(p0, fmt=lambda x: x)
+        # ax[0].grid(True, linestyle='-.')
         ax[0].set_ylabel('%')
         ax[0].set_title('Percentual difference in calories_burned when reducing daily_steps')
         ax[0].set_xticks(x, months)
-
-        ax[1].bar(months, perc1, width)
-        ax[1].grid(True, linestyle='-.')
+        p1 = ax[1].bar(months, perc1, width, color='tab:red')
+        ax[1].bar_label(p1, fmt=lambda x: x)
+        # ax[1].grid(True, linestyle='-.')
         ax[1].set_ylabel('%')
         ax[1].set_title('Percentual difference in fitness_level when reducing daily_steps')
         ax[1].set_xticks(x, months)
-
-        ax[2].bar(months, perc2, width)
-        ax[2].grid(True, linestyle='-.')
+        p2 = ax[2].bar(months, perc2, width, color='tab:blue')
+        ax[2].bar_label(p2, fmt=lambda x: x)
+        # ax[2].grid(True, linestyle='-.')
         ax[2].set_ylabel('%')
         ax[2].set_title('Percentual difference in bmi when reducing daily_steps')
         ax[2].set_xticks(x, months)
-
         plt.savefig('/Users/luca_lavazza/Documents/GitHub/Health_Cefriel/graphs/counterfactual-pid=' + str(2) + '-percentual_difference')
-    # elif pid == 5:
-    #     # PID=5: hours_sleep ==> duration_minutes
-    #     fitness_data_pid = fitness_data_testing[fitness_data_testing['participant_id'] == 5]
-    #     counterfactual_data1 = gcm.counterfactual_samples(causal_model_for_counterfactual_analysis,
-    #                                                       {'hours_sleep': lambda x: x + 3},
-    #                                                       observed_data=fitness_data_pid)
-    #     counterfactual_data2 = gcm.counterfactual_samples(causal_model_for_counterfactual_analysis,
-    #                                                       {'hours_sleep': lambda x: x - 3},
-    #                                                       observed_data=fitness_data_pid)
-    #     array_plot = np.array(
-    #         [fitness_data_pid['duration_minutes'],
-    #          counterfactual_data1['duration_minutes'],
-    #          counterfactual_data2['duration_minutes']])
-    #
-    #     df_plot = pd.DataFrame(array_plot, columns=months,
-    #                            index=['duration_minutes with usual sleep', 'duration_minutes with more sleep',
-    #                                   'duration_minutes with less sleep'])
-    #     bar_plot = df_plot.plot.bar(title="Counterfactual outputs: PID=5, hours_sleep ==> duration_minutes",
-    #                                 figsize=(20, 20))
-    #     fig = bar_plot.get_figure()
-    #     fig.savefig('/Users/luca_lavazza/Documents/GitHub/Health_Cefriel/graphs/counterfactual-pid=' + str(5))
-    #     # re-scaled data
-    #     scaler = StandardScaler().fit(df_plot)  # this
-    #     non_scaled_data = scaler.inverse_transform(df_plot)  # this
-    #     df_ns_plot = pd.DataFrame(non_scaled_data, columns=months,
-    #                               index=['duration_minutes with usual sleep', 'duration_minutes with more sleep',
-    #                                      'duration_minutes with less sleep'])  # this
-    #     ns_bar_plot = df_ns_plot.plot.bar(title="Counterfactual outputs: PID=5, hours_sleep ==> duration_minutes - non scaled",
-    #                                       figsize=(20, 20))
-    #     ns_fig = ns_bar_plot.get_figure()
-    #     ns_fig.savefig(
-    #         '/Users/luca_lavazza/Documents/GitHub/Health_Cefriel/graphs/counterfactual-pid=' + str(5) + '-non_scaled')
-    # elif pid == 6:
-    #     # PID=6: duration_minutes ==> calories_burned
-    #     fitness_data_pid = fitness_data_testing[fitness_data_testing['participant_id'] == 6]
-    #     counterfactual_data1 = gcm.counterfactual_samples(causal_model_for_counterfactual_analysis,
-    #                                                       {'duration_minutes': lambda x: -3},
-    #                                                       observed_data=fitness_data_pid)
-    #     counterfactual_data2 = gcm.counterfactual_samples(causal_model_for_counterfactual_analysis,
-    #                                                       {'duration_minutes': lambda x: 3},
-    #                                                       observed_data=fitness_data_pid)
-    #     array_plot = np.array([fitness_data_pid['calories_burned'],
-    #                            counterfactual_data1['calories_burned'],
-    #                            counterfactual_data2['calories_burned']])
-    #
-    #     df_plot = pd.DataFrame(array_plot, columns=months, index=['regular', 'lack_of', 'too_much'])
-    #     bar_plot = df_plot.plot.bar(title="Counterfactual outputs: PID=6, duration_minutes ==> calories_burned",
-    #                                 figsize=(20, 20))
-    #     fig = bar_plot.get_figure()
-    #     fig.savefig('/Users/luca_lavazza/Documents/GitHub/Health_Cefriel/graphs/counterfactual-pid=' + str(6))
-    #     # re-scaled data
-    #     scaler = StandardScaler().fit(df_plot)  # this
-    #     non_scaled_data = scaler.inverse_transform(df_plot)  # this
-    #     df_ns_plot = pd.DataFrame(non_scaled_data, columns=months,
-    #                               index=['regular', 'lack_of', 'too_much'])  # this
-    #     ns_bar_plot = df_ns_plot.plot.bar(
-    #         title="Counterfactual outputs: PID=6, duration_minutes ==> calories_burned - non scaled",
-    #         figsize=(20, 20))
-    #     ns_fig = ns_bar_plot.get_figure()
-    #     ns_fig.savefig(
-    #         '/Users/luca_lavazza/Documents/GitHub/Health_Cefriel/graphs/counterfactual-pid=' + str(6) + '-non_scaled')
+    elif pid == 5:
+        # PID=5: hours_sleep ==> duration_minutes
+        fitness_data_pid = fitness_data_testing[fitness_data_testing['participant_id'] == 5]
+        counterfactual_data1 = gcm.counterfactual_samples(causal_model_for_counterfactual_analysis,
+                                                          {'hours_sleep': lambda x: x + 3},
+                                                          observed_data=fitness_data_pid)
+        counterfactual_data2 = gcm.counterfactual_samples(causal_model_for_counterfactual_analysis,
+                                                          {'hours_sleep': lambda x: x - 3},
+                                                          observed_data=fitness_data_pid)
+        array_plot = np.array(
+            [fitness_data_pid['duration_minutes'],
+             counterfactual_data1['duration_minutes'],
+             counterfactual_data2['duration_minutes']])
+
+        df_plot = pd.DataFrame(array_plot, columns=months,
+                               index=['duration_minutes with usual sleep', 'duration_minutes with more sleep',
+                                      'duration_minutes with less sleep'])
+        bar_plot = df_plot.plot.bar(title="Counterfactual outputs: PID=5, hours_sleep ==> duration_minutes",
+                                    figsize=(20, 20))
+        fig = bar_plot.get_figure()
+        fig.savefig('/Users/luca_lavazza/Documents/GitHub/Health_Cefriel/graphs/counterfactual-pid=' + str(5))
+        # re-scaled data
+        scaler = StandardScaler().fit(df_plot)  # this
+        non_scaled_data = scaler.inverse_transform(df_plot)  # this
+        df_ns_plot = pd.DataFrame(non_scaled_data, columns=months,
+                                  index=['duration_minutes with usual sleep', 'duration_minutes with more sleep',
+                                         'duration_minutes with less sleep'])  # this
+        ns_bar_plot = df_ns_plot.plot.bar(title="Counterfactual outputs: PID=5, hours_sleep ==> duration_minutes - non scaled",
+                                          figsize=(20, 20))
+        ns_fig = ns_bar_plot.get_figure()
+        ns_fig.savefig(
+            '/Users/luca_lavazza/Documents/GitHub/Health_Cefriel/graphs/counterfactual-pid=' + str(5) + '-non_scaled')
+        diff1 = np.subtract(np.array(counterfactual_data1['duration_minutes']),
+                            np.array(fitness_data_pid['duration_minutes']))
+        diff2 = np.subtract(np.array(counterfactual_data2['duration_minutes']),
+                            np.array(fitness_data_pid['duration_minutes']))
+        perc1 = []
+        perc2 = []
+        for i in range(len(fitness_data_pid['duration_minutes'])):
+            diff_1 = diff1[i] * 100
+            diff_2 = diff2[i] * 100
+            max_v = np.array(fitness_data_pid['duration_minutes'])[i]
+            perc_1 = diff_1 / abs(max_v)
+            perc_2 = diff_2 / abs(max_v)
+            perc1.append(int(perc_1))
+            perc2.append(int(perc_2))
+        differences = {
+            'more sleep': perc1,
+            'less sleep': perc2,
+        }
+        x = np.arange(len(months))  # the label locations
+        width = 0.25  # the width of the bars
+        multiplier = 0
+        fig, ax = plt.subplots(figsize=(20, 10))
+        for value, diffs in differences.items():
+            offset = width * multiplier
+            rects = ax.bar(x + offset, diffs, width, label=value)
+            ax.bar_label(rects, padding=3)
+            multiplier += 1
+        ax.set_ylabel('%')
+        ax.set_title('Percentual difference in duration_minutes depending on hours_sleep')
+        ax.set_xticks(x + width, months)
+        ax.legend(loc='upper left', ncols=2)
+        plt.savefig(
+            '/Users/luca_lavazza/Documents/GitHub/Health_Cefriel/graphs/counterfactual-pid=' + str(5) + '-percentual_difference')
+    elif pid == 6:
+        # PID=6: duration_minutes ==> calories_burned
+        fitness_data_pid = fitness_data_testing[fitness_data_testing['participant_id'] == 6]
+        counterfactual_data1 = gcm.counterfactual_samples(causal_model_for_counterfactual_analysis,
+                                                          {'duration_minutes': lambda x: 3},
+                                                          observed_data=fitness_data_pid)
+        counterfactual_data2 = gcm.counterfactual_samples(causal_model_for_counterfactual_analysis,
+                                                          {'duration_minutes': lambda x: -3},
+                                                          observed_data=fitness_data_pid)
+        array_plot = np.array([fitness_data_pid['calories_burned'],
+                               counterfactual_data1['calories_burned'],
+                               counterfactual_data2['calories_burned']])
+
+        df_plot = pd.DataFrame(array_plot, columns=months, index=['regular', 'more', 'less'])
+        bar_plot = df_plot.plot.bar(title="Counterfactual outputs: PID=6, duration_minutes ==> calories_burned",
+                                    figsize=(20, 20))
+        fig = bar_plot.get_figure()
+        fig.savefig('/Users/luca_lavazza/Documents/GitHub/Health_Cefriel/graphs/counterfactual-pid=' + str(6))
+        # re-scaled data
+        scaler = StandardScaler().fit(df_plot)  # this
+        non_scaled_data = scaler.inverse_transform(df_plot)  # this
+        df_ns_plot = pd.DataFrame(non_scaled_data, columns=months,
+                                  index=['regular', 'more', 'less'])  # this
+        ns_bar_plot = df_ns_plot.plot.bar(
+            title="Counterfactual outputs: PID=6, duration_minutes ==> calories_burned - non scaled",
+            figsize=(20, 20))
+        ns_fig = ns_bar_plot.get_figure()
+        ns_fig.savefig(
+            '/Users/luca_lavazza/Documents/GitHub/Health_Cefriel/graphs/counterfactual-pid=' + str(6) + '-non_scaled')
+        diff1 = np.subtract(np.array(counterfactual_data1['calories_burned']),
+                            np.array(fitness_data_pid['calories_burned']))
+        diff2 = np.subtract(np.array(counterfactual_data2['calories_burned']),
+                            np.array(fitness_data_pid['calories_burned']))
+        perc1 = []
+        perc2 = []
+        for i in range(len(fitness_data_pid['calories_burned'])):
+            diff_1 = diff1[i] * 100
+            diff_2 = diff2[i] * 100
+            max_v = np.array(fitness_data_pid['calories_burned'])[i]
+            perc_1 = diff_1 / abs(max_v)
+            perc_2 = diff_2 / abs(max_v)
+            perc1.append(int(perc_1))
+            perc2.append(int(perc_2))
+        differences = {
+            'more time': perc1,
+            'less time': perc2,
+        }
+        x = np.arange(len(months))  # the label locations
+        width = 0.25  # the width of the bars
+        multiplier = 0
+        fig, ax = plt.subplots(figsize=(20, 10))
+        for value, diffs in differences.items():
+            offset = width * multiplier
+            rects = ax.bar(x + offset, diffs, width, label=value)
+            ax.bar_label(rects, padding=3)
+            multiplier += 1
+        ax.set_ylabel('%')
+        ax.set_title('Percentual difference in calories_burned depending on duration_minutes')
+        ax.set_xticks(x + width, months)
+        ax.legend(loc='upper left', ncols=2)
+        plt.savefig(
+            '/Users/luca_lavazza/Documents/GitHub/Health_Cefriel/graphs/counterfactual-pid=' + str(6) + '-percentual_difference')
     # elif pid == 8:
     #     # PID=8: increase duration_minutes
     #     fitness_data_pid = fitness_data_testing[fitness_data_testing['participant_id'] == 8]
