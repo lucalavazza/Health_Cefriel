@@ -59,63 +59,63 @@ def gcm_fal(X, Y, Z=None):
 # print(result)
 #
 #
-# # STEP 1: Causal Effects Estimation: If we change X, how much will it cause Y to change?
-#
-# # STEP 1.1: Model a causal inference problem using assumptions (i.e., provide data + cg + select Treatment and Outcome)
-# model = dowhy.CausalModel(
-#     data=fitness_data,
-#     graph=G,
-#     treatment="duration_minutes",
-#     outcome='calories_burned')
-# # STEP 1.2: Identify the causal effect (i.e., the estimand)
-# print("\nIDENTIFICATION\n")
-# identified_estimand = model.identify_effect(proceed_when_unidentifiable=True)
-# print(identified_estimand)
-# # STEP 1.3: Estimate the causal effect
-# print("\nESTIMATION - backdoor\n")
-# estimate = model.estimate_effect(identified_estimand, method_name="backdoor.linear_regression")
-# print(estimate)
-# # STEP 1.4: Refute the estimate
-# refute1_results = model.refute_estimate(identified_estimand, estimate, method_name="placebo_treatment_refuter",
-#                                         show_progress_bar=True, placebo_type="permute")
-# print("\nREFUTATION #1: placebo treatment (effect should go to zero)\n")
-# print(refute1_results)
-# refute2_results = model.refute_estimate(identified_estimand, estimate, method_name="random_common_cause",
-#                                         show_progress_bar=True)
-# print("\nREFUTATION #2: random common causa (effect should be the same)\n")
-# print(refute2_results)
-# refute3_results = model.refute_estimate(identified_estimand, estimate, method_name="data_subset_refuter",
-#                                         show_progress_bar=True, subset_fraction=0.8)
-# print("\nREFUTATION #3: random common causa (effect should be the same)\n")
-# print(refute3_results)
-#
-#
-# # STEP 2: What-if questions: What if X had been changed to a different value than its observed value? What would have been the values of other variables?
-# # STEP 2.1: Simulating the Impact of Interventions: What will happen to the variable Z if I intervene on Y?
-# causal_model = gcm.ProbabilisticCausalModel(G)
-# gcm.auto.assign_causal_mechanisms(causal_model, fitness_data)
-# gcm.fit(causal_model, fitness_data)
-#
-# median_mean_latencies, uncertainty_mean_latencies = gcm.confidence_intervals(
-#     lambda: gcm.fit_and_compute(gcm.interventional_samples,
-#                                 causal_model,
-#                                 fitness_data,
-#                                 interventions={
-#                                     'duration_minutes': lambda x: x + 1},
-#                                 observed_data=fitness_data)().mean().to_dict(),
-#     num_bootstrap_resamples=10)
-# avg_calories_burned_before = fitness_data.mean().to_dict()['calories_burned']
-#
-# bar_plot(dict(before=avg_calories_burned_before, after=median_mean_latencies['calories_burned']),
-#          dict(before=np.array([avg_calories_burned_before, avg_calories_burned_before]),
-#               after=uncertainty_mean_latencies['calories_burned']),
-#          filename='/Users/luca_lavazza/Documents/GitHub/Health_Cefriel/graphs/Intervention-duration_minutes->calories_burned',
-#          ylabel='Avg. Calories Burned',
-#          display_plot=False,
-#          figure_size=(15, 15),
-#          bar_width=0.4,
-#          xticks=['Before', 'After'],
-#          xticks_rotation=45)
+# STEP 1: Causal Effects Estimation: If we change X, how much will it cause Y to change?
+
+# STEP 1.1: Model a causal inference problem using assumptions (i.e., provide data + cg + select Treatment and Outcome)
+model = dowhy.CausalModel(
+    data=fitness_data,
+    graph=G,
+    treatment="duration_minutes",
+    outcome='calories_burned')
+# STEP 1.2: Identify the causal effect (i.e., the estimand)
+print("\nIDENTIFICATION\n")
+identified_estimand = model.identify_effect(proceed_when_unidentifiable=True)
+print(identified_estimand)
+# STEP 1.3: Estimate the causal effect
+print("\nESTIMATION - backdoor\n")
+estimate = model.estimate_effect(identified_estimand, method_name="backdoor.linear_regression")
+print(estimate)
+# STEP 1.4: Refute the estimate
+refute1_results = model.refute_estimate(identified_estimand, estimate, method_name="placebo_treatment_refuter",
+                                        show_progress_bar=True, placebo_type="permute")
+print("\nREFUTATION #1: placebo treatment (effect should go to zero)\n")
+print(refute1_results)
+refute2_results = model.refute_estimate(identified_estimand, estimate, method_name="random_common_cause",
+                                        show_progress_bar=True)
+print("\nREFUTATION #2: random common causa (effect should be the same)\n")
+print(refute2_results)
+refute3_results = model.refute_estimate(identified_estimand, estimate, method_name="data_subset_refuter",
+                                        show_progress_bar=True, subset_fraction=0.8)
+print("\nREFUTATION #3: random common causa (effect should be the same)\n")
+print(refute3_results)
+
+
+# STEP 2: What-if questions: What if X had been changed to a different value than its observed value? What would have been the values of other variables?
+# STEP 2.1: Simulating the Impact of Interventions: What will happen to the variable Z if I intervene on Y?
+causal_model = gcm.ProbabilisticCausalModel(G)
+gcm.auto.assign_causal_mechanisms(causal_model, fitness_data)
+gcm.fit(causal_model, fitness_data)
+
+median_mean_latencies, uncertainty_mean_latencies = gcm.confidence_intervals(
+    lambda: gcm.fit_and_compute(gcm.interventional_samples,
+                                causal_model,
+                                fitness_data,
+                                interventions={
+                                    'duration_minutes': lambda x: x + 1},
+                                observed_data=fitness_data)().mean().to_dict(),
+    num_bootstrap_resamples=10)
+avg_calories_burned_before = fitness_data.mean().to_dict()['calories_burned']
+
+bar_plot(dict(before=avg_calories_burned_before, after=median_mean_latencies['calories_burned']),
+         dict(before=np.array([avg_calories_burned_before, avg_calories_burned_before]),
+              after=uncertainty_mean_latencies['calories_burned']),
+         filename='/Users/luca_lavazza/Documents/GitHub/Health_Cefriel/graphs/test-intervention',
+         ylabel='Avg. Calories Burned',
+         display_plot=False,
+         figure_size=(15, 15),
+         bar_width=0.4,
+         xticks=['Before', 'After'],
+         xticks_rotation=45)
 
 
 # STEP 3: Computing counterfactuals: I observed a certain outcome z for a variable Z where variable X was set to a value x.
