@@ -12,12 +12,11 @@ pd.options.mode.chained_assignment = None
 warnings.filterwarnings(action='ignore', category=UserWarning)
 
 # I need this just to get the pids
-fit_data = pd.read_csv(
-    '/Users/luca_lavazza/Documents/GitHub/Health_Cefriel/datasets/labelled_regularised_averaged_health_fitness_dataset_testing.csv')
+fit_data = pd.read_csv('./datasets/labelled_regularised_averaged_health_fitness_dataset_testing.csv')
 
 pids = np.max(fit_data.participant_id.unique())
 
-c_pids = range(1, pids+1)
+c_pids = range(1, pids + 1)
 
 for pid in c_pids:
     data_dict = {}
@@ -30,7 +29,8 @@ for pid in c_pids:
 
     # I can drop the date as well, because the temporal order it is later computed via the index
     drop_cols = ['participant_id', 'height_cm', 'weight_kg', 'gender', 'bmi', 'resting_heart_rate',
-                 'blood_pressure_systolic', 'blood_pressure_diastolic', 'smoking_status', 'health_condition', 'stress_level'  ]
+                 'blood_pressure_systolic', 'blood_pressure_diastolic', 'smoking_status', 'health_condition',
+                 'stress_level']
     for d in drop_cols:
         fit_data_pid.drop(d, axis=1, inplace=True)
     fit_data_pid.reset_index(drop=True, inplace=True)
@@ -78,7 +78,7 @@ for pid in c_pids:
                 plt.title('Causal discovery - LPCMCI for pid={} with tau={}, pc={}, cit={}'.format(pid, tau, pc, cit))
 
                 plt.savefig(
-                    '/Users/luca_lavazza/Documents/GitHub/Health_Cefriel/graphs/time_series_graphs/tsg_pids/pid='
+                    './graphs/time_series_graphs/tsg_pids/pid='
                     + str(pid) + '_TimeSeriesGraph_LPCMCI_tau=' + str(tau) + '_pc=' + str(pc) + '_cit=' + str(
-                        cit) + '.png')
+                        cit) + '.pdf')
                 plt.close()

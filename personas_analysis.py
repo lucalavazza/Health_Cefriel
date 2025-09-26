@@ -14,12 +14,9 @@ warnings.filterwarnings(action='ignore', category=UserWarning)
 
 set_random_seed(7)
 
-fitness_data_training = pd.read_csv(
-    '/Users/luca_lavazza/Documents/GitHub/Health_Cefriel/datasets/labelled_regularised_averaged_health_fitness_dataset_training.csv')
-fitness_data_testing = pd.read_csv(
-    '/Users/luca_lavazza/Documents/GitHub/Health_Cefriel/datasets/labelled_regularised_averaged_health_fitness_dataset_testing.csv')
-edges = np.load(
-    '/Users/luca_lavazza/Documents/GitHub/Health_Cefriel/graphs/causallearn/edges/npy/labelling_causal_graph_causal-learn_pc_fisherz.npy')
+fitness_data_training = pd.read_csv('./datasets/labelled_regularised_averaged_health_fitness_dataset_training.csv')
+fitness_data_testing = pd.read_csv('./datasets/labelled_regularised_averaged_health_fitness_dataset_testing.csv')
+edges = np.load('./graphs/causallearn/edges/npy/labelling_causal_graph_causal-learn_pc_fisherz.npy')
 
 nodes = []
 for edge in edges:
@@ -38,7 +35,6 @@ fitting = gcm.fit(causal_model=causal_model_for_counterfactual_analysis, data=fi
                   return_evaluation_summary=True)
 
 pids_personas = [2, 5, 6, 8, 11, 26, 30, 41, 108, 165, 172, 262]
-# alternative_personas = [180, 191, 609, 614, 918, 1323, 2022, 2047, 2207, 2457, 2476, 2720]
 months = ['january', 'february', 'march', 'april', 'may', 'june', 'july', 'august', 'september', 'october', 'november',
           'december']
 months_int = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
@@ -54,26 +50,27 @@ for pid in pids_personas:
             [fitness_data_pid['calories_burned'], counterfactual_data1['calories_burned'],
              fitness_data_pid['fitness_level'], counterfactual_data1['fitness_level'],
              fitness_data_pid['bmi'], counterfactual_data1['bmi']])
-        
+
         df_plot = pd.DataFrame(array_plot, columns=months, index=['calories before', 'calories after',
                                                                   'fit level before', 'fit level after',
                                                                   'bmi before', 'bmi after'])
         bar_plot = df_plot.plot.bar(title="Counterfactual outputs: PID=2, reduce daily_steps", figsize=(20, 20))
         fig = bar_plot.get_figure()
-        fig.savefig('/Users/luca_lavazza/Documents/GitHub/Health_Cefriel/graphs/counterfactual-pid=' + str(2))
+        fig.savefig('./graphs/counterfactuals/counterfactual-pid=' + str(2) + '.pdf')
         # re-scaled data
-        scaler = StandardScaler().fit(df_plot)  # this
-        non_scaled_data = scaler.inverse_transform(df_plot)  # this
+        scaler = StandardScaler().fit(df_plot)
+        non_scaled_data = scaler.inverse_transform(df_plot)
         df_ns_plot = pd.DataFrame(non_scaled_data, columns=months, index=['calories before', 'calories after',
                                                                           'fit level before', 'fit level after',
-                                                                          'bmi before', 'bmi after'])  # this
+                                                                          'bmi before', 'bmi after'])
         ns_bar_plot = df_ns_plot.plot.bar(title="Counterfactual outputs: PID=2, reduce daily_steps - non scaled",
                                           figsize=(20, 20))
         ns_fig = ns_bar_plot.get_figure()
-        ns_fig.savefig(
-            '/Users/luca_lavazza/Documents/GitHub/Health_Cefriel/graphs/counterfactual-pid=' + str(2) + '-non_scaled')
-        diff0 = np.subtract(np.array(counterfactual_data1['calories_burned']), np.array(fitness_data_pid['calories_burned']))
-        diff1 = np.subtract(np.array(counterfactual_data1['fitness_level']), np.array(fitness_data_pid['fitness_level']))
+        ns_fig.savefig('./graphs/counterfactuals/counterfactual-pid=' + str(2) + '-non_scaled' + '.pdf')
+        diff0 = np.subtract(np.array(counterfactual_data1['calories_burned']),
+                            np.array(fitness_data_pid['calories_burned']))
+        diff1 = np.subtract(np.array(counterfactual_data1['fitness_level']),
+                            np.array(fitness_data_pid['fitness_level']))
         diff2 = np.subtract(np.array(counterfactual_data1['bmi']), np.array(fitness_data_pid['bmi']))
         perc0 = []
         perc1 = []
@@ -96,35 +93,23 @@ for pid in pids_personas:
         fig, ax = plt.subplots(3, figsize=(20, 20))
         p0 = ax[0].bar(months, perc0, width, color='tab:orange')
         ax[0].bar_label(p0, fmt=lambda x: x)
-        # z = np.polyfit(months_int, perc0, 1)
-        # p = np.poly1d(z)
-        # ax[0].plot(months, p(x), color='pink', linewidth=3)
         ax[0].axhline(np.average(perc0), color='pink', linewidth=3)
-        # ax[0].grid(True, linestyle='-.')
         ax[0].set_ylabel('%')
         ax[0].set_title('Percentual difference in calories_burned when reducing daily_steps for pid=2')
         ax[0].set_xticks(x, months)
         p1 = ax[1].bar(months, perc1, width, color='tab:red')
         ax[1].bar_label(p1, fmt=lambda x: x)
-        # z = np.polyfit(months_int, perc1, 1)
-        # p = np.poly1d(z)
-        # ax[1].plot(months, p(x), color='pink', linewidth=3)
         ax[1].axhline(np.average(perc1), color='pink', linewidth=3)
-        # ax[1].grid(True, linestyle='-.')
         ax[1].set_ylabel('%')
         ax[1].set_title('Percentual difference in fitness_level when reducing daily_steps for pid=2')
         ax[1].set_xticks(x, months)
         p2 = ax[2].bar(months, perc2, width, color='tab:blue')
         ax[2].bar_label(p2, fmt=lambda x: x)
-        # z = np.polyfit(months_int, perc2, 1)
-        # p = np.poly1d(z)
-        # ax[2].plot(months, p(x), color='pink', linewidth=3)
         ax[2].axhline(np.average(perc2), color='pink', linewidth=3)
-        # ax[2].grid(True, linestyle='-.')
         ax[2].set_ylabel('%')
         ax[2].set_title('Percentual difference in bmi when reducing daily_steps for pid=2')
         ax[2].set_xticks(x, months)
-        plt.savefig('/Users/luca_lavazza/Documents/GitHub/Health_Cefriel/graphs/counterfactual-pid=' + str(2) + '-percentual_difference')
+        plt.savefig('./graphs/counterfactuals/counterfactual-pid=' + str(2) + '-percentual_difference' + '.pdf')
         plt.close('all')
     elif pid == 5:
         # PID=5: hours_sleep ==> duration_minutes
@@ -146,18 +131,18 @@ for pid in pids_personas:
         bar_plot = df_plot.plot.bar(title="Counterfactual outputs: PID=5, hours_sleep ==> duration_minutes",
                                     figsize=(20, 20))
         fig = bar_plot.get_figure()
-        fig.savefig('/Users/luca_lavazza/Documents/GitHub/Health_Cefriel/graphs/counterfactual-pid=' + str(5))
+        fig.savefig('./graphs/counterfactuals/counterfactual-pid=' + str(5) + '.pdf')
         # re-scaled data
-        scaler = StandardScaler().fit(df_plot)  # this
-        non_scaled_data = scaler.inverse_transform(df_plot)  # this
+        scaler = StandardScaler().fit(df_plot)
+        non_scaled_data = scaler.inverse_transform(df_plot)
         df_ns_plot = pd.DataFrame(non_scaled_data, columns=months,
                                   index=['duration_minutes with usual sleep', 'duration_minutes with more sleep',
-                                         'duration_minutes with less sleep'])  # this
-        ns_bar_plot = df_ns_plot.plot.bar(title="Counterfactual outputs: PID=5, hours_sleep ==> duration_minutes - non scaled",
-                                          figsize=(20, 20))
+                                         'duration_minutes with less sleep'])
+        ns_bar_plot = df_ns_plot.plot.bar(
+            title="Counterfactual outputs: PID=5, hours_sleep ==> duration_minutes - non scaled",
+            figsize=(20, 20))
         ns_fig = ns_bar_plot.get_figure()
-        ns_fig.savefig(
-            '/Users/luca_lavazza/Documents/GitHub/Health_Cefriel/graphs/counterfactual-pid=' + str(5) + '-non_scaled')
+        ns_fig.savefig('./graphs/counterfactuals/counterfactual-pid=' + str(5) + '-non_scaled' + '.pdf')
         diff1 = np.subtract(np.array(counterfactual_data1['duration_minutes']),
                             np.array(fitness_data_pid['duration_minutes']))
         diff2 = np.subtract(np.array(counterfactual_data2['duration_minutes']),
@@ -185,20 +170,13 @@ for pid in pids_personas:
             rects = ax.bar(x + offset, diffs, width, label=value)
             ax.bar_label(rects, padding=3)
             multiplier += 1
-        # z1 = np.polyfit(months_int, perc1, 1)
-        # p1 = np.poly1d(z1)
-        # ax.plot(months, p1(x), color='blue', linewidth=3)
         ax.axhline(np.average(perc1), color='blue', linewidth=3)
-        # z2 = np.polyfit(months_int, perc2, 1)
-        # p2 = np.poly1d(z2)
-        # ax.plot(months, p2(x), color='orange', linewidth=3)
         ax.axhline(np.average(perc2), color='orange', linewidth=3)
         ax.set_ylabel('%')
         ax.set_title('Percentual difference in duration_minutes depending on hours_sleep for pid=5')
         ax.set_xticks(x + width, months)
         ax.legend(loc='upper left', ncols=2)
-        plt.savefig(
-            '/Users/luca_lavazza/Documents/GitHub/Health_Cefriel/graphs/counterfactual-pid=' + str(5) + '-percentual_difference')
+        plt.savefig('./graphs/counterfactuals/counterfactual-pid=' + str(5) + '-percentual_difference' + '.pdf')
         plt.close('all')
     elif pid == 6:
         # PID=6: duration_minutes ==> calories_burned
@@ -217,18 +195,17 @@ for pid in pids_personas:
         bar_plot = df_plot.plot.bar(title="Counterfactual outputs: PID=6, duration_minutes ==> calories_burned",
                                     figsize=(20, 20))
         fig = bar_plot.get_figure()
-        fig.savefig('/Users/luca_lavazza/Documents/GitHub/Health_Cefriel/graphs/counterfactual-pid=' + str(6))
+        fig.savefig('./graphs/counterfactuals/counterfactual-pid=' + str(6) + '.pdf')
         # re-scaled data
-        scaler = StandardScaler().fit(df_plot)  # this
-        non_scaled_data = scaler.inverse_transform(df_plot)  # this
+        scaler = StandardScaler().fit(df_plot)
+        non_scaled_data = scaler.inverse_transform(df_plot)
         df_ns_plot = pd.DataFrame(non_scaled_data, columns=months,
-                                  index=['regular', 'more', 'less'])  # this
+                                  index=['regular', 'more', 'less'])
         ns_bar_plot = df_ns_plot.plot.bar(
             title="Counterfactual outputs: PID=6, duration_minutes ==> calories_burned - non scaled",
             figsize=(20, 20))
         ns_fig = ns_bar_plot.get_figure()
-        ns_fig.savefig(
-            '/Users/luca_lavazza/Documents/GitHub/Health_Cefriel/graphs/counterfactual-pid=' + str(6) + '-non_scaled')
+        ns_fig.savefig('./graphs/counterfactuals/counterfactual-pid=' + str(6) + '-non_scaled' + '.pdf')
         diff1 = np.subtract(np.array(counterfactual_data1['calories_burned']),
                             np.array(fitness_data_pid['calories_burned']))
         diff2 = np.subtract(np.array(counterfactual_data2['calories_burned']),
@@ -256,20 +233,13 @@ for pid in pids_personas:
             rects = ax.bar(x + offset, diffs, width, label=value)
             ax.bar_label(rects, padding=3)
             multiplier += 1
-        # z1 = np.polyfit(months_int, perc1, 1)
-        # p1 = np.poly1d(z1)
-        # ax.plot(months, p1(x), color='blue', linewidth=3)
         ax.axhline(np.average(perc1), color='blue', linewidth=3)
-        # z2 = np.polyfit(months_int, perc2, 1)
-        # p2 = np.poly1d(z2)
-        # ax.plot(months, p2(x), color='orange', linewidth=3)
         ax.axhline(np.average(perc2), color='orange', linewidth=3)
         ax.set_ylabel('%')
         ax.set_title('Percentual difference in calories_burned depending on duration_minutes for pid=6')
         ax.set_xticks(x + width, months)
         ax.legend(loc='upper left', ncols=2)
-        plt.savefig(
-            '/Users/luca_lavazza/Documents/GitHub/Health_Cefriel/graphs/counterfactual-pid=' + str(6) + '-percentual_difference')
+        plt.savefig('./graphs/counterfactuals/counterfactual-pid=' + str(6) + '-percentual_difference' + '.pdf')
         plt.close('all')
     elif pid == 8:
         # PID=8: increase duration_minutes
@@ -288,19 +258,18 @@ for pid in pids_personas:
                                       'heart before', 'heart after', 'bmi before', 'bmi after'])
         bar_plot = df_plot.plot.bar(title="Counterfactual outputs: PID=8, increase duration_minutes", figsize=(20, 20))
         fig = bar_plot.get_figure()
-        fig.savefig('/Users/luca_lavazza/Documents/GitHub/Health_Cefriel/graphs/counterfactual-pid=' + str(8))
+        fig.savefig('./graphs/counterfactuals/counterfactual-pid=' + str(8) + '.pdf')
         # re-scaled data
-        scaler = StandardScaler().fit(df_plot)  # this
-        non_scaled_data = scaler.inverse_transform(df_plot)  # this
+        scaler = StandardScaler().fit(df_plot)
+        non_scaled_data = scaler.inverse_transform(df_plot)
         df_ns_plot = pd.DataFrame(non_scaled_data, columns=months,
                                   index=['calories before', 'calories after', 'fit level before', 'fit level after',
-                                         'heart before', 'heart after', 'bmi before', 'bmi after'])  # this
+                                         'heart before', 'heart after', 'bmi before', 'bmi after'])
         ns_bar_plot = df_ns_plot.plot.bar(
             title="Counterfactual outputs: PID=8, increase duration_minutes - non scaled",
             figsize=(20, 20))
         ns_fig = ns_bar_plot.get_figure()
-        ns_fig.savefig(
-            '/Users/luca_lavazza/Documents/GitHub/Health_Cefriel/graphs/counterfactual-pid=' + str(8) + '-non_scaled')
+        ns_fig.savefig('./graphs/counterfactuals/counterfactual-pid=' + str(8) + '-non_scaled' + '.pdf')
         diff0 = np.subtract(np.array(counterfactual_data1['calories_burned']),
                             np.array(fitness_data_pid['calories_burned']))
         diff1 = np.subtract(np.array(counterfactual_data1['fitness_level']),
@@ -334,45 +303,29 @@ for pid in pids_personas:
         fig, ax = plt.subplots(4, figsize=(20, 20))
         p0 = ax[0].bar(months, perc0, width, color='tab:orange')
         ax[0].bar_label(p0, fmt=lambda x: x)
-        # z = np.polyfit(months_int, perc0, 1)
-        # p = np.poly1d(z)
-        # ax[0].plot(months, p(x), color='pink', linewidth=3)
         ax[0].axhline(np.average(perc0), color='pink', linewidth=3)
-        # ax[0].grid(True, linestyle='-.')
         ax[0].set_ylabel('%')
         ax[0].set_title('Percentual difference in calories_burned when increasing duration_minutes for pid=8')
         ax[0].set_xticks(x, months)
         p1 = ax[1].bar(months, perc1, width, color='tab:red')
         ax[1].bar_label(p1, fmt=lambda x: x)
-        # z = np.polyfit(months_int, perc1, 1)
-        # p = np.poly1d(z)
-        # ax[1].plot(months, p(x), color='pink', linewidth=3)
         ax[1].axhline(np.average(perc1), color='pink', linewidth=3)
-        # ax[1].grid(True, linestyle='-.')
         ax[1].set_ylabel('%')
         ax[1].set_title('Percentual difference in fitness_level when increasing duration_minutes for pid=8')
         ax[1].set_xticks(x, months)
         p2 = ax[2].bar(months, perc2, width, color='tab:blue')
         ax[2].bar_label(p2, fmt=lambda x: x)
-        # z = np.polyfit(months_int, perc2, 1)
-        # p = np.poly1d(z)
-        # ax[2].plot(months, p(x), color='pink', linewidth=3)
         ax[2].axhline(np.average(perc2), color='pink', linewidth=3)
-        # ax[2].grid(True, linestyle='-.')
         ax[2].set_ylabel('%')
         ax[2].set_title('Percentual difference in resting_heart_rate when increasing duration_minutes for pid=8')
         ax[2].set_xticks(x, months)
         p3 = ax[3].bar(months, perc3, width, color='tab:pink')
         ax[3].bar_label(p3, fmt=lambda x: x)
-        # z = np.polyfit(months_int, perc3, 1)
-        # p = np.poly1d(z)
-        # ax[3].plot(months, p(x), color='pink', linewidth=3)
         ax[3].axhline(np.average(perc3), color='pink', linewidth=3)
-        # ax[2].grid(True, linestyle='-.')
         ax[3].set_ylabel('%')
         ax[3].set_title('Percentual difference in bmi when increasing duration_minutes for pid=8')
         ax[3].set_xticks(x, months)
-        plt.savefig('/Users/luca_lavazza/Documents/GitHub/Health_Cefriel/graphs/counterfactual-pid=' + str(8) + '-percentual_difference')
+        plt.savefig('./graphs/counterfactuals/counterfactual-pid=' + str(8) + '-percentual_difference' + '.pdf')
         plt.close('all')
     elif pid == 11:
         # PID=11: duration_minutes/daily_steps ==> calories_burned
@@ -387,18 +340,17 @@ for pid in pids_personas:
         bar_plot = df_plot.plot.bar(
             title="Counterfactual outputs: PID=11, daily_steps/duration_minutes ==> calories_burned", figsize=(20, 20))
         fig = bar_plot.get_figure()
-        fig.savefig('/Users/luca_lavazza/Documents/GitHub/Health_Cefriel/graphs/counterfactual-pid=' + str(11))
+        fig.savefig('./graphs/counterfactuals/counterfactual-pid=' + str(11) + '.pdf')
         # re-scaled data
-        scaler = StandardScaler().fit(df_plot)  # this
-        non_scaled_data = scaler.inverse_transform(df_plot)  # this
+        scaler = StandardScaler().fit(df_plot)
+        non_scaled_data = scaler.inverse_transform(df_plot)
         df_ns_plot = pd.DataFrame(non_scaled_data, columns=months,
-                                  index=['calories_burned before', 'calories_burned after'])  # this
+                                  index=['calories_burned before', 'calories_burned after'])
         ns_bar_plot = df_ns_plot.plot.bar(
             title="Counterfactual outputs: PID=11, daily_steps/duration_minutes ==> calories_burned - non scaled",
             figsize=(20, 20))
         ns_fig = ns_bar_plot.get_figure()
-        ns_fig.savefig(
-            '/Users/luca_lavazza/Documents/GitHub/Health_Cefriel/graphs/counterfactual-pid=' + str(11) + '-non_scaled')
+        ns_fig.savefig('./graphs/counterfactuals/counterfactual-pid=' + str(11) + '-non_scaled' + '.pdf')
         diff0 = np.subtract(np.array(counterfactual_data1['calories_burned']),
                             np.array(fitness_data_pid['calories_burned']))
         perc0 = []
@@ -412,15 +364,12 @@ for pid in pids_personas:
         fig, ax = plt.subplots(figsize=(20, 20))
         p0 = ax.bar(months, perc0, width)
         ax.bar_label(p0, fmt=lambda x: x)
-        # z = np.polyfit(months_int, perc0, 1)
-        # p = np.poly1d(z)
-        # ax.plot(months, p(x), color='pink', linewidth=3)
         ax.axhline(np.average(perc0), color='pink', linewidth=3)
-        # ax[0].grid(True, linestyle='-.')
         ax.set_ylabel('%')
-        ax.set_title('Percentual difference in calories_burned when increasing daily steps and duration_minutes for pid=11')
+        ax.set_title(
+            'Percentual difference in calories_burned when increasing daily steps and duration_minutes for pid=11')
         ax.set_xticks(x, months)
-        plt.savefig('/Users/luca_lavazza/Documents/GitHub/Health_Cefriel/graphs/counterfactual-pid=' + str(11) + '-percentual_difference')
+        plt.savefig('./graphs/counterfactuals/counterfactual-pid=' + str(11) + '-percentual_difference' + '.pdf')
         plt.close('all')
     elif pid == 26:
         # PID=26: fitness_level => calories burned
@@ -436,18 +385,17 @@ for pid in pids_personas:
         bar_plot = df_plot.plot.bar(title="Counterfactual outputs: PID=26, fitness_level ==> calories_burned",
                                     figsize=(20, 20))
         fig = bar_plot.get_figure()
-        fig.savefig('/Users/luca_lavazza/Documents/GitHub/Health_Cefriel/graphs/counterfactual-pid=' + str(26))
+        fig.savefig('./graphs/counterfactuals/counterfactual-pid=' + str(26) + '.pdf')
         # re-scaled data
-        scaler = StandardScaler().fit(df_plot)  # this
-        non_scaled_data = scaler.inverse_transform(df_plot)  # this
+        scaler = StandardScaler().fit(df_plot)
+        non_scaled_data = scaler.inverse_transform(df_plot)
         df_ns_plot = pd.DataFrame(non_scaled_data, columns=months,
-                                  index=['calories_burned regularly', 'calories_burned when more fit'])  # this
+                                  index=['calories_burned regularly', 'calories_burned when more fit'])
         ns_bar_plot = df_ns_plot.plot.bar(
             title="Counterfactual outputs: PID=26, fitness_level ==> calories_burned - non scaled",
             figsize=(20, 20))
         ns_fig = ns_bar_plot.get_figure()
-        ns_fig.savefig(
-            '/Users/luca_lavazza/Documents/GitHub/Health_Cefriel/graphs/counterfactual-pid=' + str(26) + '-non_scaled')
+        ns_fig.savefig('./graphs/counterfactuals/counterfactual-pid=' + str(26) + '-non_scaled' + '.pdf')
         diff0 = np.subtract(np.array(counterfactual_data1['calories_burned']),
                             np.array(fitness_data_pid['calories_burned']))
         perc0 = []
@@ -461,15 +409,11 @@ for pid in pids_personas:
         fig, ax = plt.subplots(figsize=(20, 20))
         p0 = ax.bar(months, perc0, width)
         ax.bar_label(p0, fmt=lambda x: x)
-        # z = np.polyfit(months_int, perc0, 1)
-        # p = np.poly1d(z)
-        # ax.plot(months, p(x), color='pink', linewidth=3)
         ax.axhline(np.average(perc0), color='pink', linewidth=3)
-        # ax[0].grid(True, linestyle='-.')
         ax.set_ylabel('%')
         ax.set_title('Percentual difference in calories_burned when increasing fitness_level for pid=26')
         ax.set_xticks(x, months)
-        plt.savefig('/Users/luca_lavazza/Documents/GitHub/Health_Cefriel/graphs/counterfactual-pid=' + str(26) + '-percentual_difference')
+        plt.savefig('./graphs/counterfactuals/counterfactual-pid=' + str(26) + '-percentual_difference' + '.pdf')
         plt.close('all')
     elif pid == 30:
         # PID=30: activity_type ==> calories_burned
@@ -490,20 +434,19 @@ for pid in pids_personas:
         bar_plot = df_plot.plot.bar(title="Counterfactual outputs: PID=30, activity_type ==> calories_burned",
                                     figsize=(20, 20))
         fig = bar_plot.get_figure()
-        fig.savefig('/Users/luca_lavazza/Documents/GitHub/Health_Cefriel/graphs/counterfactual-pid=' + str(30))
+        fig.savefig('./graphs/counterfactuals/counterfactual-pid=' + str(30) + '.pdf')
         # re-scaled data
-        scaler = StandardScaler().fit(df_plot)  # this
-        non_scaled_data = scaler.inverse_transform(df_plot)  # this
+        scaler = StandardScaler().fit(df_plot)
+        non_scaled_data = scaler.inverse_transform(df_plot)
         df_ns_plot = pd.DataFrame(non_scaled_data, columns=months,
                                   index=['calories_burned when doing preferred sport',
                                          'calories_burned if playing tennis',
-                                         'calories_burned if doing yoga'])  # this
+                                         'calories_burned if doing yoga'])
         ns_bar_plot = df_ns_plot.plot.bar(
             title="Counterfactual outputs: PID=30, activity_type ==> calories_burned",
             figsize=(20, 20))
         ns_fig = ns_bar_plot.get_figure()
-        ns_fig.savefig(
-            '/Users/luca_lavazza/Documents/GitHub/Health_Cefriel/graphs/counterfactual-pid=' + str(30) + '-non_scaled')
+        ns_fig.savefig('./graphs/counterfactuals/counterfactual-pid=' + str(30) + '-non_scaled' + '.pdf')
         diff1 = np.subtract(np.array(counterfactual_data1['calories_burned']),
                             np.array(fitness_data_pid['calories_burned']))
         diff2 = np.subtract(np.array(counterfactual_data2['calories_burned']),
@@ -531,20 +474,13 @@ for pid in pids_personas:
             rects = ax.bar(x + offset, diffs, width, label=value)
             ax.bar_label(rects, padding=3)
             multiplier += 1
-        # z1 = np.polyfit(months_int, perc1, 1)
-        # p1 = np.poly1d(z1)
-        # ax.plot(months, p1(x), color='blue', linewidth=3)
         ax.axhline(np.average(perc1), color='blue', linewidth=3)
-        # z2 = np.polyfit(months_int, perc2, 1)
-        # p2 = np.poly1d(z2)
-        # ax.plot(months, p2(x), color='orange', linewidth=3)
         ax.axhline(np.average(perc2), color='orange', linewidth=3)
         ax.set_ylabel('%')
         ax.set_title('Percentual difference in calories_burned only doing one sport for pid=30')
         ax.set_xticks(x + width, months)
         ax.legend(loc='upper left', ncols=2)
-        plt.savefig(
-            '/Users/luca_lavazza/Documents/GitHub/Health_Cefriel/graphs/counterfactual-pid=' + str(30) + '-percentual_difference')
+        plt.savefig('./graphs/counterfactuals/counterfactual-pid=' + str(30) + '-percentual_difference' + '.pdf')
         plt.close('all')
     elif pid == 41:
         # PID=41: calories_burned ==> bmi
@@ -557,18 +493,17 @@ for pid in pids_personas:
         df_plot = pd.DataFrame(array_plot, columns=months, index=['bmi before', 'bmi after'])
         bar_plot = df_plot.plot.bar(title="Counterfactual outputs: PID=41, calories_burned ==> bmi", figsize=(20, 20))
         fig = bar_plot.get_figure()
-        fig.savefig('/Users/luca_lavazza/Documents/GitHub/Health_Cefriel/graphs/counterfactual-pid=' + str(41))
+        fig.savefig('./graphs/counterfactuals/counterfactual-pid=' + str(41) + '.pdf')
         # re-scaled data
-        scaler = StandardScaler().fit(df_plot)  # this
-        non_scaled_data = scaler.inverse_transform(df_plot)  # this
+        scaler = StandardScaler().fit(df_plot)
+        non_scaled_data = scaler.inverse_transform(df_plot)
         df_ns_plot = pd.DataFrame(non_scaled_data, columns=months,
-                                  index=['bmi before', 'bmi after'])  # this
+                                  index=['bmi before', 'bmi after'])
         ns_bar_plot = df_ns_plot.plot.bar(
             title="Counterfactual outputs: PID=41, calories_burned ==> bmi",
             figsize=(20, 20))
         ns_fig = ns_bar_plot.get_figure()
-        ns_fig.savefig(
-            '/Users/luca_lavazza/Documents/GitHub/Health_Cefriel/graphs/counterfactual-pid=' + str(41) + '-non_scaled')
+        ns_fig.savefig('./graphs/counterfactuals/counterfactual-pid=' + str(41) + '-non_scaled' + '.pdf')
         diff0 = np.subtract(np.array(counterfactual_data1['bmi']),
                             np.array(fitness_data_pid['bmi']))
         perc0 = []
@@ -582,15 +517,11 @@ for pid in pids_personas:
         fig, ax = plt.subplots(figsize=(20, 20))
         p0 = ax.bar(months, perc0, width)
         ax.bar_label(p0, fmt=lambda x: x)
-        # z = np.polyfit(months_int, perc0, 1)
-        # p = np.poly1d(z)
-        # ax.plot(months, p(x), color='pink', linewidth=3)
         ax.axhline(np.average(perc0), color='pink', linewidth=3)
-        # ax[0].grid(True, linestyle='-.')
         ax.set_ylabel('%')
         ax.set_title('Percentual difference in bmi when lowering calories_burned for pid=41')
         ax.set_xticks(x, months)
-        plt.savefig('/Users/luca_lavazza/Documents/GitHub/Health_Cefriel/graphs/counterfactual-pid=' + str(41) + '-percentual_difference')
+        plt.savefig('./graphs/counterfactuals/counterfactual-pid=' + str(41) + '-percentual_difference' + '.pdf')
         plt.close('all')
     elif pid == 108:
         # PID=108: duration_minutes => blood_pressure/heart_rate
@@ -611,25 +542,25 @@ for pid in pids_personas:
             title="Counterfactual outputs: PID=108, duration_minutes => blood_pressure/heart_rate",
             figsize=(20, 20))
         fig = bar_plot.get_figure()
-        fig.savefig('/Users/luca_lavazza/Documents/GitHub/Health_Cefriel/graphs/counterfactual-pid=' + str(108))
+        fig.savefig('./graphs/counterfactuals/counterfactual-pid=' + str(108) + '.pdf')
         # re-scaled data
-        scaler = StandardScaler().fit(df_plot)  # this
-        non_scaled_data = scaler.inverse_transform(df_plot)  # this
+        scaler = StandardScaler().fit(df_plot)
+        non_scaled_data = scaler.inverse_transform(df_plot)
         df_ns_plot = pd.DataFrame(non_scaled_data, columns=months,
                                   index=['blood_pressure_systolic before', 'blood_pressure_systolic after',
                                          'blood_pressure_diastolic before', 'blood_pressure_diastolic after',
-                                         'resting_heart_rate before', 'resting_heart_rate after'])  # this
+                                         'resting_heart_rate before', 'resting_heart_rate after'])
         ns_bar_plot = df_ns_plot.plot.bar(
             title="Counterfactual outputs: PID=108, duration_minutes => blood_pressure/heart_rate",
             figsize=(20, 20))
         ns_fig = ns_bar_plot.get_figure()
-        ns_fig.savefig(
-            '/Users/luca_lavazza/Documents/GitHub/Health_Cefriel/graphs/counterfactual-pid=' + str(108) + '-non_scaled')
+        ns_fig.savefig('./graphs/counterfactuals/counterfactual-pid=' + str(108) + '-non_scaled' + '.pdf')
         diff0 = np.subtract(np.array(counterfactual_data1['blood_pressure_systolic']),
                             np.array(fitness_data_pid['blood_pressure_systolic']))
         diff1 = np.subtract(np.array(counterfactual_data1['blood_pressure_diastolic']),
                             np.array(fitness_data_pid['blood_pressure_diastolic']))
-        diff2 = np.subtract(np.array(counterfactual_data1['resting_heart_rate']), np.array(fitness_data_pid['resting_heart_rate']))
+        diff2 = np.subtract(np.array(counterfactual_data1['resting_heart_rate']),
+                            np.array(fitness_data_pid['resting_heart_rate']))
         perc0 = []
         perc1 = []
         perc2 = []
@@ -651,35 +582,24 @@ for pid in pids_personas:
         fig, ax = plt.subplots(3, figsize=(20, 20))
         p0 = ax[0].bar(months, perc0, width, color='tab:orange')
         ax[0].bar_label(p0, fmt=lambda x: x)
-        # z = np.polyfit(months_int, perc0, 1)
-        # p = np.poly1d(z)
-        # ax[0].plot(months, p(x), color='pink', linewidth=3)
         ax[0].axhline(np.average(perc0), color='pink', linewidth=3)
-        # ax[0].grid(True, linestyle='-.')
         ax[0].set_ylabel('%')
         ax[0].set_title('Percentual difference in blood_pressure_systolic when increasing duration_minutes for pid=108')
         ax[0].set_xticks(x, months)
         p1 = ax[1].bar(months, perc1, width, color='tab:red')
         ax[1].bar_label(p1, fmt=lambda x: x)
-        # z = np.polyfit(months_int, perc1, 1)
-        # p = np.poly1d(z)
-        # ax[1].plot(months, p(x), color='pink', linewidth=3)
         ax[1].axhline(np.average(perc1), color='pink', linewidth=3)
-        # ax[1].grid(True, linestyle='-.')
         ax[1].set_ylabel('%')
-        ax[1].set_title('Percentual difference in blood_pressure_diastolic when increasing duration_minutes for pid=108')
+        ax[1].set_title(
+            'Percentual difference in blood_pressure_diastolic when increasing duration_minutes for pid=108')
         ax[1].set_xticks(x, months)
         p2 = ax[2].bar(months, perc2, width, color='tab:blue')
         ax[2].bar_label(p2, fmt=lambda x: x)
-        # z = np.polyfit(months_int, perc2, 1)
-        # p = np.poly1d(z)
-        # ax[2].plot(months, p(x), color='pink', linewidth=3)
         ax[2].axhline(np.average(perc2), color='pink', linewidth=3)
-        # ax[2].grid(True, linestyle='-.')
         ax[2].set_ylabel('%')
         ax[2].set_title('Percentual difference in resting_heart_rate when increasing duration_minutes for pid=108')
         ax[2].set_xticks(x, months)
-        plt.savefig('/Users/luca_lavazza/Documents/GitHub/Health_Cefriel/graphs/counterfactual-pid=' + str(108) + '-percentual_difference')
+        plt.savefig('./graphs/counterfactuals/counterfactual-pid=' + str(108) + '-percentual_difference' + '.pdf')
         plt.close('all')
     elif pid == 165:
         # PID=165: duration_minutes ==> fitness_level/bmi
@@ -695,18 +615,18 @@ for pid in pids_personas:
         bar_plot = df_plot.plot.bar(title="Counterfactual outputs: PID=165, duration_minutes ==> fitness_level/bmi",
                                     figsize=(20, 20))
         fig = bar_plot.get_figure()
-        fig.savefig('/Users/luca_lavazza/Documents/GitHub/Health_Cefriel/graphs/counterfactual-pid=' + str(165))
+        fig.savefig('./graphs/counterfactuals/counterfactual-pid=' + str(165) + '.pdf')
         # re-scaled data
-        scaler = StandardScaler().fit(df_plot)  # this
-        non_scaled_data = scaler.inverse_transform(df_plot)  # this
+        scaler = StandardScaler().fit(df_plot)
+        non_scaled_data = scaler.inverse_transform(df_plot)
         df_ns_plot = pd.DataFrame(non_scaled_data, columns=months,
-                                  index=['fitness_level before', 'fitness_level after', 'bmi_before', 'bmi_after'])  # this
+                                  index=['fitness_level before', 'fitness_level after', 'bmi_before',
+                                         'bmi_after'])
         ns_bar_plot = df_ns_plot.plot.bar(
             title="Counterfactual outputs: PID=165, duration_minutes ==> fitness_level/bmi",
             figsize=(20, 20))
         ns_fig = ns_bar_plot.get_figure()
-        ns_fig.savefig(
-            '/Users/luca_lavazza/Documents/GitHub/Health_Cefriel/graphs/counterfactual-pid=' + str(165) + '-non_scaled')
+        ns_fig.savefig('./graphs/counterfactuals/counterfactual-pid=' + str(165) + '-non_scaled' + '.pdf')
         diff0 = np.subtract(np.array(counterfactual_data1['fitness_level']),
                             np.array(fitness_data_pid['fitness_level']))
         diff1 = np.subtract(np.array(counterfactual_data1['bmi']),
@@ -727,25 +647,17 @@ for pid in pids_personas:
         fig, ax = plt.subplots(2, figsize=(20, 20))
         p0 = ax[0].bar(months, perc0, width, color='tab:orange')
         ax[0].bar_label(p0, fmt=lambda x: x)
-        # z = np.polyfit(months_int, perc0, 1)
-        # p = np.poly1d(z)
-        # ax[0].plot(months, p(x), color='pink', linewidth=3)
         ax[0].axhline(np.average(perc0), color='pink', linewidth=3)
-        # ax[0].grid(True, linestyle='-.')
         ax[0].set_ylabel('%')
         ax[0].set_title('Percentual difference in fitness_level when increasing duration_minutes for pid=165')
         ax[0].set_xticks(x, months)
         p1 = ax[1].bar(months, perc1, width, color='tab:red')
         ax[1].bar_label(p1, fmt=lambda x: x)
-        # z = np.polyfit(months_int, perc1, 1)
-        # p = np.poly1d(z)
-        # ax[1].plot(months, p(x), color='pink', linewidth=3)
         ax[1].axhline(np.average(perc1), color='pink', linewidth=3)
-        # ax[1].grid(True, linestyle='-.')
         ax[1].set_ylabel('%')
         ax[1].set_title('Percentual difference in bmi when increasing duration_minutes for pid=165')
         ax[1].set_xticks(x, months)
-        plt.savefig('/Users/luca_lavazza/Documents/GitHub/Health_Cefriel/graphs/counterfactual-pid=' + str(165) + '-percentual_difference')
+        plt.savefig('./graphs/counterfactuals/counterfactual-pid=' + str(165) + '-percentual_difference' + '.pdf')
         plt.close('all')
     elif pid == 172:
         # PID=172: duration_minutes ==> resting_heart_rate
@@ -760,18 +672,17 @@ for pid in pids_personas:
         bar_plot = df_plot.plot.bar(title="Counterfactual outputs: PID=172, duration_minutes ==> resting_heart_rate",
                                     figsize=(20, 20))
         fig = bar_plot.get_figure()
-        fig.savefig('/Users/luca_lavazza/Documents/GitHub/Health_Cefriel/graphs/counterfactual-pid=' + str(172))
+        fig.savefig('./graphs/counterfactuals/counterfactual-pid=' + str(172) + '.pdf')
         # re-scaled data
-        scaler = StandardScaler().fit(df_plot)  # this
-        non_scaled_data = scaler.inverse_transform(df_plot)  # this
+        scaler = StandardScaler().fit(df_plot)
+        non_scaled_data = scaler.inverse_transform(df_plot)
         df_ns_plot = pd.DataFrame(non_scaled_data, columns=months,
-                                  index=['resting_heart_rate before', 'resting_heart_rate after'])  # this
+                                  index=['resting_heart_rate before', 'resting_heart_rate after'])
         ns_bar_plot = df_ns_plot.plot.bar(
             title="Counterfactual outputs: PID=172, duration_minutes ==> resting_heart_rate",
             figsize=(20, 20))
         ns_fig = ns_bar_plot.get_figure()
-        ns_fig.savefig(
-            '/Users/luca_lavazza/Documents/GitHub/Health_Cefriel/graphs/counterfactual-pid=' + str(172) + '-non_scaled')
+        ns_fig.savefig('./graphs/counterfactuals/counterfactual-pid=' + str(172) + '-non_scaled' + '.pdf')
         diff0 = np.subtract(np.array(counterfactual_data1['resting_heart_rate']),
                             np.array(fitness_data_pid['resting_heart_rate']))
         perc0 = []
@@ -785,15 +696,11 @@ for pid in pids_personas:
         fig, ax = plt.subplots(figsize=(20, 20))
         p0 = ax.bar(months, perc0, width)
         ax.bar_label(p0, fmt=lambda x: x)
-        # z = np.polyfit(months_int, perc0, 1)
-        # p = np.poly1d(z)
-        # ax.plot(months, p(x), color='pink', linewidth=3)
         ax.axhline(np.average(perc0), color='pink', linewidth=3)
-        # ax[0].grid(True, linestyle='-.')
         ax.set_ylabel('%')
         ax.set_title('Percentual difference in resting_heart_rate when increasing duration_minutes for pid=172')
         ax.set_xticks(x, months)
-        plt.savefig('/Users/luca_lavazza/Documents/GitHub/Health_Cefriel/graphs/counterfactual-pid=' + str(172) + '-percentual_difference')
+        plt.savefig('./graphs/counterfactuals/counterfactual-pid=' + str(172) + '-percentual_difference' + '.pdf')
         plt.close('all')
     elif pid == 262:
         # PID=262: daily_steps ==> fitness_level + duration_minutes ==> fitness_level
@@ -808,18 +715,17 @@ for pid in pids_personas:
         bar_plot = df_plot.plot.bar(
             title="Counterfactual outputs: PID=262, daily_steps/duration_minutes ==> fitness_level", figsize=(20, 20))
         fig = bar_plot.get_figure()
-        fig.savefig('/Users/luca_lavazza/Documents/GitHub/Health_Cefriel/graphs/counterfactual-pid=' + str(262))
+        fig.savefig('./graphs/counterfactuals/counterfactual-pid=' + str(262) + '.pdf')
         # re-scaled data
-        scaler = StandardScaler().fit(df_plot)  # this
-        non_scaled_data = scaler.inverse_transform(df_plot)  # this
+        scaler = StandardScaler().fit(df_plot)
+        non_scaled_data = scaler.inverse_transform(df_plot)
         df_ns_plot = pd.DataFrame(non_scaled_data, columns=months,
-                                  index=['fitness_level before', 'fitness_level after'])  # this
+                                  index=['fitness_level before', 'fitness_level after'])
         ns_bar_plot = df_ns_plot.plot.bar(
             title="Counterfactual outputs: PID=262, daily_steps/duration_minutes ==> fitness_level",
             figsize=(20, 20))
         ns_fig = ns_bar_plot.get_figure()
-        ns_fig.savefig(
-            '/Users/luca_lavazza/Documents/GitHub/Health_Cefriel/graphs/counterfactual-pid=' + str(262) + '-non_scaled')
+        ns_fig.savefig('./graphs/counterfactuals/counterfactual-pid=' + str(262) + '-non_scaled' + '.pdf')
         diff0 = np.subtract(np.array(counterfactual_data1['fitness_level']),
                             np.array(fitness_data_pid['fitness_level']))
         perc0 = []
@@ -833,15 +739,13 @@ for pid in pids_personas:
         fig, ax = plt.subplots(figsize=(20, 20))
         p0 = ax.bar(months, perc0, width)
         ax.bar_label(p0, fmt=lambda x: x)
-        # z = np.polyfit(months_int, perc0, 1)
-        # p = np.poly1d(z)
-        # ax.plot(months, p(x), color='pink', linewidth=3)
         ax.axhline(np.average(perc0), color='pink', linewidth=3)
         # ax[0].grid(True, linestyle='-.')
         ax.set_ylabel('%')
-        ax.set_title('Percentual difference in fitness_level when increasing duration_minutes and daily_steps for pid=262')
+        ax.set_title(
+            'Percentual difference in fitness_level when increasing duration_minutes and daily_steps for pid=262')
         ax.set_xticks(x, months)
-        plt.savefig('/Users/luca_lavazza/Documents/GitHub/Health_Cefriel/graphs/counterfactual-pid=' + str(262) + '-percentual_difference')
+        plt.savefig('./graphs/counterfactuals/counterfactual-pid=' + str(262) + '-percentual_difference' + '.pdf')
         plt.close('all')
     else:
         print('PID ' + str(pid) + ' not found.')

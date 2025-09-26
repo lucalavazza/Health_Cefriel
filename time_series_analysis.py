@@ -14,11 +14,11 @@ from dowhy.utils.plotting import plot
 pd.options.mode.chained_assignment = None
 
 fit_data = pd.read_csv(
-    '/Users/luca_lavazza/Documents/GitHub/Health_Cefriel/datasets/labelled_regularised_averaged_health_fitness_dataset_testing.csv')
+    './datasets/labelled_regularised_averaged_health_fitness_dataset_testing.csv')
 data_dict = {}
 pids = np.max(fit_data.participant_id.unique())
 
-# I need to do this to compute the var_names. This has no effect on the final data_dict
+# I do this to compute the var_names. This has no effect on the final data_dict
 modifiable_fit_data = fit_data.copy()
 drop_cols = ['participant_id', 'height_cm', 'weight_kg', 'gender', 'stress_level']
 for d in drop_cols:
@@ -80,8 +80,8 @@ for tau in taus:
             plt.title('Causal discovery - LPCMCI with tau={} pc={} cit={}'.format(tau, pc, cit))
 
             plt.savefig(
-                '/Users/luca_lavazza/Documents/GitHub/Health_Cefriel/graphs/time_series_graphs/TimeSeriesGraph_LPCMCI_tau='
-                + str(tau) + '_pc=' + str(pc) + '_cit=' + str(cit) + '.png')
+                './graphs/time_series_graphs/TimeSeriesGraph_LPCMCI_tau='
+                + str(tau) + '_pc=' + str(pc) + '_cit=' + str(cit) + '.pdf')
             plt.close()
 
             # DoWhy Integration
@@ -97,8 +97,9 @@ for tau in taus:
                         elif results_pcmci['graph'][i][j][k] == 'o-o':
                             results_pcmci['graph'][i][j][k] = '<->'
             graph = create_graph_from_networkx_array(results_pcmci['graph'], var_names)
-            plot(causal_graph=graph, filename='/Users/luca_lavazza/Documents/GitHub/Health_Cefriel/graphs/'
+            plot(causal_graph=graph, filename='./graphs/'
                                               'time_series_graphs/TimeSeriesGraph_DoWhy_PCMCI_tau=' + str(tau) + '_pc='
-                                              + str(pc) + '_cit=' + str(cit) + '.png', display_plot=False, figure_size=(18, 12))
+                                              + str(pc) + '_cit=' + str(cit) + '.pdf', display_plot=False,
+                 figure_size=(18, 12))
 
 print('Causal Discovery with LPCMCI completed\n')

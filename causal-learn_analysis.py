@@ -9,9 +9,9 @@ import time
 np.random.seed(42)
 
 # create the directories for the causal graphs
-graphs_dir = '/Users/luca_lavazza/Documents/GitHub/Health_Cefriel/graphs/causallearn/graphs'
-npy_dir = '/Users/luca_lavazza/Documents/GitHub/Health_Cefriel/graphs/causallearn/edges/npy'
-txt_dir = '/Users/luca_lavazza/Documents/GitHub/Health_Cefriel/graphs/causallearn/edges/txt'
+graphs_dir = './graphs/causallearn/graphs'
+npy_dir = './graphs/causallearn/edges/npy'
+txt_dir = './graphs/causallearn/edges/txt'
 try:
     os.mkdir(graphs_dir)
     os.mkdir(npy_dir)
@@ -25,7 +25,7 @@ except Exception as e:
 
 data_type = 'labelled'
 # data_type = 'encoded'
-fit_data = pd.read_csv('/Users/luca_lavazza/Documents/GitHub/Health_Cefriel/datasets/' + data_type + '_regularised_averaged_health_fitness_dataset_training.csv')
+fit_data = pd.read_csv('./datasets/' + data_type + '_regularised_averaged_health_fitness_dataset_training.csv')
 if data_type == 'encoded':
     drop_cols = ['participant_id', 'height_cm', 'weight_kg', 'gender_M', 'gender_F', 'gender_Other', 'stress_level']
 else:
@@ -46,7 +46,8 @@ for cit in cits:
     if data_type == 'encoded':
         pcg_pc.write_png(graphs_dir + '/onehot/PC-onehot/encoding_causal_graph_causal-learn_pc_' + str(cit) + '.png')
     else:
-        pcg_pc.write_png(graphs_dir + '/labelling/PC-labelling/labelling_causal_graph_causal-learn_pc_' + str(cit) + '.png')
+        pcg_pc.write_png(graphs_dir + '/labelling/PC-labelling/labelling_causal_graph_causal-learn_pc_' + str(cit)
+                         + '.png')
 
     np_pc_edges = np.array(cg_pc.find_fully_directed())
     np_pc_nodes = []
@@ -88,7 +89,8 @@ for cit in cits:
     if data_type == 'encoded':
         pcg_fci.write_png(graphs_dir + '/onehot/FCI-onehot/encoding_causal_graph_causal-learn_fci_' + str(cit) + '.png')
     else:
-        pcg_fci.write_png(graphs_dir + '/labelling/FCI-labelling/labelling_causal_graph_causal-learn_fci_' + str(cit) + '.png')
+        pcg_fci.write_png(graphs_dir + '/labelling/FCI-labelling/labelling_causal_graph_causal-learn_fci_' + str(cit)
+                          + '.png')
 
     np_fci_edges = []
     for i in range(len(fci_edges)):
