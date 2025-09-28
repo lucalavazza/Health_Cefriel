@@ -47,6 +47,9 @@ months = ['january', 'february', 'march', 'april', 'may', 'june', 'july', 'augus
 
 # Let's set the first desired constraint and see how the data changes.
 fitness_data_pid = fitness_data_testing[fitness_data_testing['participant_id'] == 6]
+calories = fitness_data_pid['calories_burned']
+calories_avg_baseline = np.average(calories)
+print('\nCalories burned (baseline): ' + f"{calories_avg_baseline:.2f}")
 counterfactual_data1 = gcm.counterfactual_samples(causal_model_for_counterfactual_analysis,
                                                   {'activity_type': lambda x: 6},  # only play tennis
                                                   observed_data=fitness_data_pid)
