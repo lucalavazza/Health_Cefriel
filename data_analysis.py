@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 import os
 import warnings
 
-# Remove annoying warning
+# Remove warning
 warnings.simplefilter(action='ignore', category=FutureWarning)
 
 # Create a directory for saving the analyses

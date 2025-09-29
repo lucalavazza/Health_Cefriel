@@ -49,7 +49,7 @@ def gcm_fal(X, Y, Z=None):
 
 
 # STEP 0: Falsification of the Causal Graph: is it informative? Is it rejected?
-# Done already and successful: no need to run it every time
+# Take a long-ish time
 # Run evaluation for graph and data.
 result = falsify_graph(G, fitness_data_training, n_permutations=100,
                        independence_test=gcm_fal,

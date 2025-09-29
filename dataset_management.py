@@ -7,7 +7,7 @@ import warnings
 from sklearn.preprocessing import LabelEncoder
 from sklearn.preprocessing import StandardScaler
 
-# remove annoying warning
+# remove warning
 warnings.simplefilter(action='ignore', category=FutureWarning)
 
 print('\nNot stuck, just takes some time to complete.')
