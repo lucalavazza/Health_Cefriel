@@ -1,6 +1,7 @@
 import pandas as pd
 import seaborn as sns
 import matplotlib.pyplot as plt
+from matplotlib.ticker import MaxNLocator
 import os
 import warnings
 
@@ -83,6 +84,12 @@ sns.barplot(x=activity_counts.values, y=activity_counts.index, palette='viridis'
 plt.title('Distribution of Activities')
 plt.xlabel('Number of Sessions')
 plt.savefig(analysis_dir + 'activity_distribution_analysis.pdf')
+# Activity Intensity Heatmap
+plt.figure(figsize=(12, 6))
+activity_intensity = pd.crosstab(fit_data['activity_type'], fit_data['intensity'])
+sns.heatmap(activity_intensity, annot=True, fmt='d', cmap='YlOrRd')
+plt.title('Activity Intensity Distribution')
+plt.savefig(analysis_dir + 'activity_intensity_distribution.pdf')
 # Average Calories Burned by Activity
 plt.figure(figsize=(12, 6))
 avg_calories = fit_data.groupby('activity_type')['calories_burned'].mean().sort_values(ascending=False)
@@ -104,18 +111,32 @@ plt.title('Correlation Between Health Metrics')
 plt.tight_layout()
 plt.savefig(analysis_dir + 'health_correlation.pdf')
 # Health Conditions Distribution
-plt.figure(figsize=(10, 6))
+plt.figure(figsize=(10, 8))
 health_condition_counts = fit_data['health_condition'].value_counts()
 sns.barplot(x=health_condition_counts.index, y=health_condition_counts.values, palette='Set2')
 plt.title('Distribution of Health Conditions')
 plt.xticks(rotation=45)
 plt.savefig(analysis_dir + 'health_distribution_analysis.pdf')
 
+# Time Series Analysis
+print("\n5. Time Series Patterns")
+print("-" * 50)
+# Activity Frequency Over Time
+daily_activities = fit_data.groupby('date')['activity_type'].count().reset_index()
+plt.figure(figsize=(15, 8))
+plt.plot(daily_activities['date'], daily_activities['activity_type'])
+plt.title('Activity Frequency Over Time')
+plt.xlabel('Date')
+plt.ylabel('Number of Activities')
+plt.xticks(rotation=45)
+plt.gca().xaxis.set_major_locator(MaxNLocator(20))
+plt.savefig(analysis_dir + 'activity_frequency_over_time.pdf')
+
 # Fitness Progress
 print("\n6. Fitness Progress Analysis")
 print("-" * 50)
 # Fitness Level Distribution
-plt.figure(figsize=(12, 6))
+plt.figure(figsize=(12, 8))
 sns.violinplot(data=fit_data, x='health_condition', y='fitness_level')
 plt.title('Fitness Level Distribution by Health Condition')
 plt.xticks(rotation=45)
