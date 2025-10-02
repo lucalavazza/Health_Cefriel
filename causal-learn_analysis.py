@@ -31,6 +31,8 @@ except PermissionError:
 except Exception as e:
     print(f"An error occurred: {e}")
 
+execution_times = {}
+
 # data_type = 'labelled'
 data_type = 'encoded'
 fit_data = pd.read_csv('./datasets/' + data_type + '_regularised_averaged_health_fitness_dataset_training.csv')
@@ -51,6 +53,7 @@ for cit in cits:
         start_pc = time.time()
         cg_pc = pc(fit_data, alpha=0.05, indep_test=cit, uc_rule=0, uc_priority=0)
         print("PC with cit = " + str(cit) + ": " + str((time.time() - start_pc)) + " seconds\n\n")
+        execution_times.update({data_type + ", PC - " + cit: str(time.time() - start_pc) + "s"})
         pcg_pc = GraphUtils.to_pydot(cg_pc.G, labels=var_names)
         if data_type == 'encoded':
             pcg_pc.write_png(
@@ -93,6 +96,7 @@ for cit in cits:
     start_fci = time.time()
     cg_fci, fci_edges = fci(fit_data, alpha=0.05, indep_test=cit, node_names=var_names)
     print("FCI with cit = " + str(cit) + ": " + str((time.time() - start_fci)) + " seconds\n\n")
+    execution_times.update({data_type + ", FCI - " + cit: str(time.time() - start_fci) + "s"})
     pcg_fci = GraphUtils.to_pydot(cg_fci, labels=var_names)
     if data_type == 'encoded':
         pcg_fci.write_png(graphs_dir + '/onehot/FCI-onehot/encoding_causal_graph_causal-learn_fci_' + str(cit) + '.png')
@@ -127,6 +131,7 @@ if data_type != 'encoded':  # TODO: does this it only take a LOOOOONG time, or d
             cg_ges = ges(fit_data, score_func=sf)
             pcg_ges = GraphUtils.to_pydot(cg_ges['G'], labels=var_names)
             print("GES with score_func = " + str(sf) + ": " + str((time.time() - start_pc)) + " seconds\n\n")
+            execution_times.update({data_type + ", GES - " + sf: str(time.time() - start_pc) + "s"})
             if data_type == 'encoded':
                 pcg_ges.write_png(
                     graphs_dir + '/onehot/GES-onehot/encoding_causal_graph_causal-learn_ges_' + str(sf) + '_.png')
@@ -178,6 +183,7 @@ if data_type != 'encoded':  # TODO: does it only take a LOOOOONG time, or does i
     model.fit(fit_data)
     adj_matr = model.adjacency_matrix_
     print("LiNGAM: " + str((time.time() - start_pc)) + " seconds\n\n")
+    execution_times.update({data_type + ", LiNGAM": str(time.time() - start_pc) + "s"})
 
     num_nodes = adj_matr.shape[0]
     cg_lin = CausalGraph(num_nodes)
@@ -238,6 +244,7 @@ if data_type not in ['labelled', 'encoded']:  # TODO: does it only take a LOOOOO
     start_pc = time.time()
     cg_gin, order_gin = GIN(fit_data)
     print('GIN: ' + str((time.time() - start_pc)) + " seconds\n\n")
+    execution_times.update({data_type + ", GIN": str(time.time() - start_pc) + "s"})
     pcg_gin = GraphUtils.to_pydot(cg_gin.G, labels=var_names)
     if data_type == 'encoded':
         pcg_gin.write_png(
@@ -255,6 +262,7 @@ for sf in score_funcs:
         start_pc = time.time()
         cg_grasp = grasp(fit_data, sf)
         print("GRaSP with score_func = " + str(sf) + ": " + str((time.time() - start_pc)) + " seconds\n\n")
+        execution_times.update({data_type + ", GRaSP - " + sf: str(time.time() - start_pc) + "s"})
         pcg_grasp = GraphUtils.to_pydot(cg_grasp, labels=var_names)
         if data_type == 'encoded':
             pcg_grasp.write_png(
@@ -305,6 +313,7 @@ start_pc = time.time()
 G = Granger()
 coeff = G.granger_lasso(fit_data)
 print('Granger: ' + str((time.time() - start_pc)) + " seconds\n\n")
+execution_times.update({data_type + ", Granger - ": str(time.time() - start_pc) + "s"})
 
 num_nodes = coeff.shape[0]
 cg_granger = CausalGraph(num_nodes)
@@ -357,3 +366,9 @@ else:
         for edge in np_granger_edges_names:
             f.write(f"{edge}\n")
 
+if data_type == 'encoded':
+    with open('./graphs/causallearn/encoded_execution_times.json', 'w') as f:
+        json.dump(execution_times, f)
+else:
+    with open('./graphs/causallearn/labelled_execution_times.json', 'w') as f:
+        json.dump(execution_times, f)
