@@ -44,7 +44,7 @@ fit_data = fit_data.to_numpy()
 # PC
 # cits = ['fisherz', 'chisq', 'gsq', 'kci']
 # TODO: try chisq
-cits = ['fisherz', 'gsq', 'chisq']  # chisq takes A LOT (~40 mins), while kci was still computing after 16h: decided to skip
+cits = ['fisherz', 'gsq']  # chisq takes A LOT (~40 mins), while kci was still computing after 16h: decided to skip
 for cit in cits:
     print('---> PC, alpha=0.05, cit = ' + str(cit) + ', uc_rule: 0, uc_priority: 0, no bg_knowledge')
     start_pc = time.time()
@@ -53,12 +53,10 @@ for cit in cits:
     execution_times.update({data_type + ", PC - " + cit: str(time.time() - start_pc) + "s"})
     pcg_pc = GraphUtils.to_pydot(cg_pc.G, labels=var_names)
     if data_type == 'encoded':
-        pcg_pc.write_png(
-            graphs_dir + '/onehot/PC-onehot/encoding_causal_graph_causal-learn_pc_' + str(cit) + '.png')
+        pcg_pc.write_png(graphs_dir + '/onehot/PC-onehot/encoding_causal_graph_causal-learn_pc_' + str(cit) + '.png')
     else:
-        pcg_pc.write_png(graphs_dir + '/labelling/PC-labelling/labelling_causal_graph_causal-learn_pc_' + str(cit)
-                         + '.png')
-
+        pcg_pc.write_png(graphs_dir + '/labelling/PC-labelling/labelling_causal_graph_causal-learn_pc_' + str(cit) +
+                         '.png')
     np_pc_edges = np.array(cg_pc.find_fully_directed())
     np_pc_nodes = []
     for edge in np_pc_edges:
@@ -77,7 +75,6 @@ for cit in cits:
     for node in np_pc_nodes:
         np_pc_nodes_names.append(var_names[node])
     np_pc_edges_names = np.array(np_pc_edges_names)
-
     if data_type == 'encoded':
         np.save(npy_dir + '/encoding_causal_graph_causal-learn_pc_' + str(cit) + '.npy', np_pc_edges_names)
         with open(txt_dir + '/encoding_causal_graph_causal-learn_pc_' + str(cit) + '.txt', 'w') as f:
@@ -88,6 +85,7 @@ for cit in cits:
         with open(txt_dir + '/labelling_causal_graph_causal-learn_pc_' + str(cit) + '.txt', 'w') as f:
             for edge in np_pc_edges_names:
                 f.write(f"{edge}\n")
+
     # FCI
     print('---> FCI, alpha=0.05, cit = ' + str(cit) + ', no bg_knowledge')
     start_fci = time.time()
@@ -98,14 +96,12 @@ for cit in cits:
     if data_type == 'encoded':
         pcg_fci.write_png(graphs_dir + '/onehot/FCI-onehot/encoding_causal_graph_causal-learn_fci_' + str(cit) + '.png')
     else:
-        pcg_fci.write_png(graphs_dir + '/labelling/FCI-labelling/labelling_causal_graph_causal-learn_fci_' + str(cit)
-                          + '.png')
-
+        pcg_fci.write_png(graphs_dir + '/labelling/FCI-labelling/labelling_causal_graph_causal-learn_fci_' + str(cit) +
+                          '.png')
     np_fci_edges = []
     for i in range(len(fci_edges)):
         new_edge = [str(fci_edges[i].get_node1()), str(fci_edges[i].get_node2())]
         np_fci_edges.append(new_edge)
-
     if data_type == 'encoded':
         np.save(npy_dir + '/encoding_causal_graph_causal-learn_fci_' + str(cit) + '.npy', np_fci_edges)
         with open(txt_dir + '/encoding_causal_graph_causal-learn_fci_' + str(cit) + '.txt', 'w') as f:
@@ -117,10 +113,11 @@ for cit in cits:
             for edge in np_fci_edges:
                 f.write(f"{edge}\n")
 
+
 # Score-based Method
 # GES
-if data_type != 'encoded':  # does not seem to work with encoded data --> skipped
-    score_funcs = ['local_score_BIC']  # local_score_BDeu does not start --> skipped
+if data_type != 'encoded':  # does not compute with encoded data --> skipped
+    score_funcs = ['local_score_BIC']  # local_score_BDeu does not compute --> skipped
     for sf in score_funcs:
         print('---> GES, score function = ' + str(sf))
         start_pc = time.time()
@@ -134,13 +131,11 @@ if data_type != 'encoded':  # does not seem to work with encoded data --> skippe
         else:
             pcg_ges.write_png(
                 graphs_dir + '/labelling/GES-labelling/labelling_causal_graph_causal-learn_ges_' + str(sf) + '_.png')
-
         ges_edges = cg_ges['G'].get_graph_edges()
         np_ges_edges = []
         for i in range(len(ges_edges)):
             edge = [int(str(ges_edges[i].get_node1()).replace('X', ''))-1, int(str(ges_edges[i].get_node2()).replace('X', ''))-1]
             np_ges_edges.append(np.array(edge))
-
         np_ges_nodes = []
         for edge in np_ges_edges:
             for node in edge:
@@ -158,7 +153,6 @@ if data_type != 'encoded':  # does not seem to work with encoded data --> skippe
         for node in np_ges_nodes:
             np_ges_nodes_names.append(var_names[node])
         np_ges_edges_names = np.array(np_ges_edges_names)
-
         if data_type == 'encoded':
             np.save(npy_dir + '/encoding_causal_graph_causal-learn_ges_' + str(sf) + '.npy', np_ges_edges_names)
             with open(txt_dir + '/encoding_causal_graph_causal-learn_ges_' + str(sf) + '.txt', 'w') as f:
@@ -170,6 +164,7 @@ if data_type != 'encoded':  # does not seem to work with encoded data --> skippe
                 for edge in np_ges_edges_names:
                     f.write(f"{edge}\n")
 
+
 # Functional Causal Models
 # LiNGAM
 print('---> LiNGAM')  # quite slow with encoded data
@@ -179,7 +174,6 @@ model.fit(fit_data)
 adj_matr = model.adjacency_matrix_
 print("LiNGAM: " + str((time.time() - start_pc)) + " seconds\n\n")
 execution_times.update({data_type + ", LiNGAM": str(time.time() - start_pc) + "s"})
-
 num_nodes = adj_matr.shape[0]
 cg_lin = CausalGraph(num_nodes)
 for i in range(num_nodes):
@@ -187,20 +181,17 @@ for i in range(num_nodes):
         edge1 = cg_lin.G.get_edge(cg_lin.G.nodes[i], cg_lin.G.nodes[j])
         if edge1 is not None:
             cg_lin.G.remove_edge(edge1)
-
 for i in range(num_nodes):
     for j in range(num_nodes):
         if adj_matr[i, j] > 0:
             cg_lin.G.add_edge(Edge(cg_lin.G.nodes[i], cg_lin.G.nodes[j], Endpoint.TAIL, Endpoint.ARROW))
         elif adj_matr[i, j] < 0:
             cg_lin.G.add_edge(Edge(cg_lin.G.nodes[j], cg_lin.G.nodes[i], Endpoint.TAIL, Endpoint.ARROW))
-
 pcg_lin = GraphUtils.to_pydot(cg_lin.G, labels=var_names)
 if data_type == 'encoded':
     pcg_lin.write_png(graphs_dir + '/onehot/LiNGAM-onehot/encoding_causal_graph_causal-learn_lingam.png')
 else:
     pcg_lin.write_png(graphs_dir + '/labelling/LiNGAM-labelling/labelling_causal_graph_causal-learn_lingam.png')
-
 np_lin_edges = np.array(cg_lin.find_fully_directed())
 np_lin_nodes = []
 for edge in np_lin_edges:
@@ -219,7 +210,6 @@ for edge in np_lin_edges:
 for node in np_lin_nodes:
     np_lin_nodes_names.append(var_names[node])
 np_lin_edges_names = np.array(np_lin_edges_names)
-
 if data_type == 'encoded':
     np.save(npy_dir + '/encoding_causal_graph_causal-learn_lingam.npy', np_lin_edges_names)
     with open(txt_dir + '/encoding_causal_graph_causal-learn_lingam.txt', 'w') as f:
@@ -234,10 +224,10 @@ else:
 
 # Hidden Causal Representation Learning
 # GIN
-if data_type in ['do not execute']:  # GIN not working --> skipped
+if data_type not in ['do not execute']:  # GIN not working
     print('---> GIN')
     start_pc = time.time()
-    cg_gin, order_gin = GIN(fit_data)
+    cg_gin, order_gin = GIN(fit_data, indep_test_method='kci', alpha=0.01)
     print('GIN: ' + str((time.time() - start_pc)) + " seconds\n\n")
     execution_times.update({data_type + ", GIN": str(time.time() - start_pc) + "s"})
     pcg_gin = GraphUtils.to_pydot(cg_gin.G, labels=var_names)
@@ -264,13 +254,11 @@ for sf in score_funcs:
     else:
         pcg_grasp.write_png(
             graphs_dir + '/labelling/GRaSP-labelling/labelling_causal_graph_causal-learn_grasp_' + str(sf) + '_.png')
-
     grasp_edges = cg_grasp.get_graph_edges()
     np_grasp_edges = []
     for i in range(len(grasp_edges)):
         edge = [int(str(grasp_edges[i].get_node1()).replace('X', ''))-1, int(str(grasp_edges[i].get_node2()).replace('X', ''))-1]
         np_grasp_edges.append(np.array(edge))
-
     np_grasp_nodes = []
     for edge in np_grasp_edges:
         for node in edge:
@@ -288,7 +276,6 @@ for sf in score_funcs:
     for node in np_grasp_nodes:
         np_grasp_nodes_names.append(var_names[node])
     np_grasp_edges_names = np.array(np_grasp_edges_names)
-
     if data_type == 'encoded':
         np.save(npy_dir + '/encoding_causal_graph_causal-learn_grasp_' + str(sf) + '.npy', np_grasp_edges_names)
         with open(txt_dir + '/encoding_causal_graph_causal-learn_grasp_' + str(sf) + '.txt', 'w') as f:
@@ -307,8 +294,7 @@ start_pc = time.time()
 G = Granger()
 coeff = G.granger_lasso(fit_data)
 print('Granger: ' + str((time.time() - start_pc)) + " seconds\n\n")
-execution_times.update({data_type + ", Granger - ": str(time.time() - start_pc) + "s"})
-
+execution_times.update({data_type + ", Granger": str(time.time() - start_pc) + "s"})
 num_nodes = coeff.shape[0]
 cg_granger = CausalGraph(num_nodes)
 for i in range(num_nodes):
@@ -316,20 +302,17 @@ for i in range(num_nodes):
         edge1 = cg_granger.G.get_edge(cg_granger.G.nodes[i], cg_granger.G.nodes[j])
         if edge1 is not None:
             cg_granger.G.remove_edge(edge1)
-
 for i in range(num_nodes):
     for j in range(num_nodes):
         if coeff[i, j] > 0:
             cg_granger.G.add_edge(Edge(cg_granger.G.nodes[i], cg_granger.G.nodes[j], Endpoint.TAIL, Endpoint.ARROW))
         elif coeff[i, j] < 0:
             cg_granger.G.add_edge(Edge(cg_granger.G.nodes[j], cg_granger.G.nodes[i], Endpoint.TAIL, Endpoint.ARROW))
-
 pcg_granger = GraphUtils.to_pydot(cg_granger.G, labels=var_names)
 if data_type == 'encoded':
     pcg_granger.write_png(graphs_dir + '/onehot/Granger-onehot/encoding_causal_graph_causal-learn_granger.png')
 else:
     pcg_granger.write_png(graphs_dir + '/labelling/Granger-labelling/labelling_causal_graph_causal-learn_granger.png')
-
 np_granger_edges = np.array(cg_granger.find_fully_directed())
 np_granger_nodes = []
 for edge in np_granger_edges:
@@ -348,7 +331,6 @@ for edge in np_granger_edges:
 for node in np_granger_nodes:
     np_granger_nodes_names.append(var_names[node])
 np_granger_edges_names = np.array(np_granger_edges_names)
-
 if data_type == 'encoded':
     np.save(npy_dir + '/encoding_causal_graph_causal-learn_granger.npy', np_granger_edges_names)
     with open(txt_dir + '/encoding_causal_graph_causal-learn_granger.txt', 'w') as f:
@@ -359,7 +341,6 @@ else:
     with open(txt_dir + '/labelling_causal_graph_causal-learn_lingam.txt', 'w') as f:
         for edge in np_granger_edges_names:
             f.write(f"{edge}\n")
-
 if data_type == 'encoded':
     with open('./graphs/causallearn/encoded_execution_times.json', 'w') as f:
         json.dump(execution_times, f)
