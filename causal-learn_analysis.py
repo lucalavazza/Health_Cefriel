@@ -43,8 +43,7 @@ fit_data = fit_data.to_numpy()
 # Constraint-based Methods
 # PC
 # cits = ['fisherz', 'chisq', 'gsq', 'kci']
-# TODO: try chisq
-cits = ['fisherz', 'gsq']  # chisq takes A LOT (~40 mins), while kci was still computing after 16h: decided to skip
+cits = ['fisherz', 'gsq', 'chisq']  # chisq takes A LOT (~90 mins), while kci was still computing after 16 hours
 for cit in cits:
     print('---> PC, alpha=0.05, cit = ' + str(cit) + ', uc_rule: 0, uc_priority: 0, no bg_knowledge')
     start_pc = time.time()
@@ -224,7 +223,7 @@ else:
 
 # Hidden Causal Representation Learning
 # GIN
-if data_type not in ['do not execute']:  # GIN not working
+if data_type in ['do not execute']:  # GIN not working
     print('---> GIN')
     start_pc = time.time()
     cg_gin, order_gin = GIN(fit_data, indep_test_method='kci', alpha=0.01)

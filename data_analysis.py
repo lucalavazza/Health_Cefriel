@@ -52,7 +52,7 @@ plt.close()
 print("\n2. Demographics Analysis")
 print("-" * 50)
 # Create a figure for demographics
-fig = plt.figure(figsize=(20, 6))
+fig = plt.figure(figsize=(25, 10))
 # Age Distribution
 plt.subplot(1, 3, 1)
 sns.histplot(data=fit_data, x='age', bins=30, color='skyblue')
