@@ -9,6 +9,7 @@ from causallearn.search.HiddenCausal.GIN.GIN import GIN
 from causallearn.search.PermutationBased.GRaSP import grasp
 from causallearn.search.Granger.Granger import Granger
 import time
+import json
 
 np.random.seed(42)
 
@@ -336,10 +337,11 @@ if data_type == 'encoded':
         for edge in np_granger_edges_names:
             f.write(f"{edge}\n")
 else:
-    np.save(npy_dir + '/labelling_causal_graph_causal-learn_lingam.npy', np_granger_edges_names)
-    with open(txt_dir + '/labelling_causal_graph_causal-learn_lingam.txt', 'w') as f:
+    np.save(npy_dir + '/labelling_causal_graph_causal-learn_granger.npy', np_granger_edges_names)
+    with open(txt_dir + '/labelling_causal_graph_causal-learn_granger.txt', 'w') as f:
         for edge in np_granger_edges_names:
             f.write(f"{edge}\n")
+
 if data_type == 'encoded':
     with open('./graphs/causallearn/encoded_execution_times.json', 'w') as f:
         json.dump(execution_times, f)

@@ -1,5 +1,7 @@
 import numpy as np
 import pandas as pd
+import time
+import json
 from matplotlib import pyplot as plt
 from tigramite import data_processing as pp
 from tigramite import plotting as tp
@@ -12,6 +14,8 @@ from dowhy.utils.plotting import plot
 
 # I want to avoid some warnings
 pd.options.mode.chained_assignment = None
+
+execution_times = {}
 
 fit_data = pd.read_csv(
     './datasets/labelled_regularised_averaged_health_fitness_dataset_testing.csv')
@@ -58,6 +62,7 @@ for tau in lpcmci_taus:
         for cit in lpcmci_cits:
             # LPCMCI
             print('Now executing LPCMCI for tau={} pc={} cit={}...\n'.format(tau, pc, cit))
+            start_pc = time.time()
             lpcmci = LPCMCI(dataframe=dataframe, cond_ind_test=cit, verbosity=0)
             lpcmci_results = lpcmci.run_lpcmci(pc_alpha=pc, tau_max=tau)
             lpcmci_val_matrix = lpcmci_results['val_matrix']
@@ -92,9 +97,10 @@ for tau in lpcmci_taus:
                                                      + str(tau) + '_pc=' + str(pc) + '_cit=PairwiseMultCI.pdf',
                  display_plot=False,
                  figure_size=(18, 12))
+            execution_times.update({"LPCMCI_tau=" + str(tau) + '_pc=' + str(pc) + '_cit=PairwiseMultCI': str(time.time()- start_pc) + "s"})
 
-pcmci_taus = [1, 2, 3, 4]
-pcmci_pcs = [0.03, 0.1, 0.5, 0.9]
+pcmci_taus = [2]
+pcmci_pcs = [0.1]
 pcmci_cits = [PairwiseMultCI()]
 
 for tau in pcmci_taus:
@@ -102,6 +108,7 @@ for tau in pcmci_taus:
         for cit in pcmci_cits:
             # PCMCI
             print('Now executing PCMCI for tau={} pc={} cit={}...\n'.format(tau, pc, cit))
+            start_pc = time.time()
             pcmci = PCMCI(dataframe=dataframe, cond_ind_test=cit, verbosity=0)
             pcmci_results = pcmci.run_pcmci(pc_alpha=pc, tau_max=tau)
             pcmci_val_matrix = pcmci_results['val_matrix']
@@ -138,4 +145,9 @@ for tau in pcmci_taus:
                  display_plot=False,
                  figure_size=(18, 12))
 
+            execution_times.update({"PCMCI_tau=" + str(tau) + '_pc=' + str(pc) + '_cit=PairwiseMultCI': str(time.time() - start_pc) + "s"})
+
 print('Causal Discovery with LPCMCI and PCMCI completed\n')
+
+with open('./graphs/causallearn/labelled_execution_times.json', 'a') as f:
+    json.dump(execution_times, f)
