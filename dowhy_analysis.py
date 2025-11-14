@@ -20,12 +20,23 @@ warnings.filterwarnings(action='ignore', category=UserWarning)
 
 set_random_seed(7)
 
+
+def convert_to_percentage(value_dictionary):
+    total_absolute_sum = np.sum([abs(v) for v in value_dictionary.values()])
+    return {k: round(abs(v) / total_absolute_sum * 100, 2) for k, v in value_dictionary.items()}
+
+
 fitness_data_training = pd.read_csv(
     './datasets/labelled_regularised_averaged_health_fitness_dataset_training.csv')
 fitness_data_testing = pd.read_csv(
     './datasets/labelled_regularised_averaged_health_fitness_dataset_testing.csv')
 edges = np.load(
     './graphs/causallearn/edges/npy/labelling_causal_graph_causal-learn_pc_fisherz.npy')
+
+tbr = ['participant_id', 'height_cm', 'weight_kg', 'gender', 'stress_level']
+var_names = list(fitness_data_training.columns)
+for r in tbr:
+    var_names.remove(r)
 
 nodes = []
 for edge in edges:
@@ -48,15 +59,15 @@ def gcm_fal(X, Y, Z=None):
                                  prediction_model_Y=create_gradient_boost_regressor)
 
 
-# STEP 0: Falsification of the Causal Graph: is it informative? Is it rejected?
-# Take a long-ish time
-# Run evaluation for graph and data.
-result = falsify_graph(G, fitness_data_training, n_permutations=100,
-                       independence_test=gcm_fal,
-                       conditional_independence_test=gcm_fal,
-                       plot_histogram=False,
-                       suggestions=True)
-print(result)
+# # STEP 0: Falsification of the Causal Graph: is it informative? Is it rejected?
+# # Take a long-ish time
+# # Run evaluation for graph and data.
+# result = falsify_graph(G, fitness_data_training, n_permutations=100,
+#                        independence_test=gcm_fal,
+#                        conditional_independence_test=gcm_fal,
+#                        plot_histogram=False,
+#                        suggestions=True)
+# print(result)
 
 
 # STEP 1: Causal Effects Estimation: If we change X, how much will it cause Y to change?
@@ -89,7 +100,6 @@ refute3_results = model.refute_estimate(identified_estimand, estimate, method_na
 print("\nREFUTATION #3: random common causa (effect should be the same)\n")
 print(refute3_results)
 
-
 # STEP 2: What-if questions: What if X had been changed to a different value than its observed value? What would have been the values of other variables?
 # STEP 2.1: Simulating the Impact of Interventions: What will happen to the variable Z if I intervene on Y?
 causal_model = gcm.ProbabilisticCausalModel(G)
@@ -117,18 +127,24 @@ bar_plot(dict(before=avg_calories_burned_before, after=median_mean_latencies['ca
          xticks=['Before', 'After'],
          xticks_rotation=45)
 
-
-# STEP 3: Computing counterfactuals: I observed a certain outcome z for a variable Z where variable X was set to a value x.
-# What would have happened to the value of Z, had I intervened on X to assign it a different value x'?
-# As an example, I want to check what happens to the calories_burned of participant_id=42 if they do not train enough or too much.
+# STEP 3: Computing the SCM
 causal_model_for_counterfactual_analysis = InvertibleStructuralCausalModel(G)
 model_perf = gcm.auto.assign_causal_mechanisms(causal_model=causal_model_for_counterfactual_analysis,
                                                based_on=fitness_data_training,
-                                               quality=AssignmentQuality.GOOD)
+                                               quality=AssignmentQuality.BEST)
 # print("Model Performance -- from gcm.auto.assign_causal_mechanisms\n", model_perf)
 fitting = gcm.fit(causal_model=causal_model_for_counterfactual_analysis, data=fitness_data_training,
                   return_evaluation_summary=True)
 # print("\n\n\n\n\nEvaluation Summary -- from gcm.fit\n", fitting)
+# let's compute the intrinsic causal influence (ICC) of the nodes
+for var in var_names:
+    iccs_calories = gcm.intrinsic_causal_influence(causal_model_for_counterfactual_analysis, target_node=var)
+    perc_iccs_calories = convert_to_percentage(iccs_calories)
+    print(var, '=', perc_iccs_calories)
+
+# STEP 4: Computing counterfactuals: I observed a certain outcome z for a variable Z where variable X was set to a value x.
+# What would have happened to the value of Z, had I intervened on X to assign it a different value x'?
+# As an example, I want to check what happens to the calories_burned of participant_id=42 if they do not train enough or too much.
 fitness_data_42 = fitness_data_training[fitness_data_training['participant_id'] == 42]
 counterfactual_data1 = gcm.counterfactual_samples(causal_model_for_counterfactual_analysis,
                                                   {'duration_minutes': lambda x: -3},
