@@ -1,0 +1,17 @@
+duration_minutes = (0.01*hours_sleep) + ε
+
+avg_heart_rate = 0.10 + (-0.95*age) + (-0.19*intensity_1) + (-0.10*intensity_2) + ε
+
+resting_heart_rate = -0.01 + (0.01*duration_minutes) + (0.01*hydration_level) + (0.03*smoking_status_1) + (0.03*smoking_status_2) + ε
+
+fitness_level = -1.86 + (-0.00*daily_steps) + (0.29*date) + (0.01*duration_minutes) + ε
+
+blood_pressure_diastolic = 0.01 + (0.04*resting_heart_rate) + (0.04*smoking_status_1) + (-0.05*smoking_status_2) + ε
+
+calories_burned = 0.07 + (0.29*duration_minutes) + (0.55*fitness_level) + (0.04*activity_type_1) + (-0.21*activity_type_2) + (0.38*activity_type_3) + (0.17*activity_type_4) + (-0.07*activity_type_5) + (-0.08*activity_type_6) + (-0.38*activity_type_7) + (-0.18*activity_type_8) + (-0.42*activity_type_9) + ε
+
+bmi = (0.05*age) + (0.41*calories_burned) + ε
+
+blood_pressure_systolic = (0.03*bmi) + ε
+
+health_condition = 0.47 + (-0.01*blood_pressure_diastolic) + (0.01*blood_pressure_systolic) + (0.01*calories_burned) + ε

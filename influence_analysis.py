@@ -76,7 +76,7 @@ fig.savefig('./graphs/influences/counterfactual-pid=' + str(6) + '_only tennis a
 # The two constraints above could have been set simultaneously with no difference in the results.
 # Done separately for clarity.
 # The difference in the code would have been the following:
-# counterfactual_data_combined = gcm.counterfactual_samples(causal_model_for_counterfactual_analysis,
+# counterfactual_data_combined = gcm.counterfactual_samples(causal_model,
 #                                                           {'activity_type': lambda x: 6,  # only play tennis
 #                                                            'daily_steps': lambda x: 3},  # set number of steps
 #                                                           observed_data=fitness_data_pid)
