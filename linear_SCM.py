@@ -1,35 +1,85 @@
-from pathlib import Path
-from typing import Dict, List, Tuple
-import numpy as np
-import pandas as pd
 import statsmodels.api as sm
-import argparse
+import networkx as nx
+import pandas as pd
+import numpy as np
+from pathlib import Path
+from typing import List
+from dowhy import gcm
+from dowhy.gcm import InvertibleStructuralCausalModel
+from dowhy.gcm.util.general import set_random_seed
+from dowhy.gcm.auto import AssignmentQuality
+import warnings
+import time
+warnings.filterwarnings(action='ignore', category=FutureWarning)
+warnings.filterwarnings(action='ignore', category=UserWarning)
+
+start_time = time.time()
+set_random_seed(7)
+
+
+data = pd.read_csv('./datasets/labelled_regularised_averaged_health_fitness_dataset_training.csv')
+edges = np.load('./graphs/causallearn/edges/npy/labelling_causal_graph_causal-learn_pc_fisherz.npy')
+nodes = []
+for edge in edges:
+    for node in edge:
+        if node not in nodes:
+            nodes.append(node)
+G = nx.DiGraph()
+G.add_nodes_from(nodes)
+G.add_edges_from(edges)
+
+# Let's compute the SCM
+start_time_1 = time.time()
+print('\n*** SCM with AssignmentQuality = GOOD\n')
+causal_model = InvertibleStructuralCausalModel(G)
+model_perf = gcm.auto.assign_causal_mechanisms(causal_model=causal_model,
+                                               based_on=data,
+                                               quality=AssignmentQuality.GOOD)
+print('\n')
+fitting = gcm.fit(causal_model=causal_model, data=data,
+                  return_evaluation_summary=True)
+with open('./linear_scm/scm.txt', 'a') as f:
+    f.write('}')
+print('\n*** SCM computed.\n')
+
+print('*** Elapsed time for SCM computation: ', round(time.time() - start_time_1, 2), 'seconds.\n')
+
+print(50*'-')
+
 
 # Estimation of linear structural equations (with Ordinary Least Squares (OLS) / Linear Probability Model (LPM))
 # for a given structural causal model (SCM) using a tabular dataset.
+start_time_2 = time.time()
+print('\n*** Linear SCM computation')
+"""
+*** OLS REGRESSION ***
+    OLS regression estimates the relationship between one or more independent variables (predictors) and a dependent
+    variable (response). It accomplishes this by fitting a linear equation to observed data.
+    
+    Here is what that equation looks like: 
+    y = β_0 + β_1*x_1 + ... + β_n*x_n + ε, where
+        - y is the dependent variable;
+        - x1, x2,…, are independent variables;
+        - β_0 is the intercept;
+        - β_i are the coefficients, with n>=1;
+        - ε represents the error term.
+        
+    At the core of OLS regression lies an optimization challenge: finding the line (or hyperplane in higher dimensions) that
+    best fits the data. But what does "best fit" mean? "Best fit" here means minimizing the sum of squared residuals.
 
-data = pd.read_csv('./datasets/labelled_regularised_averaged_health_fitness_dataset_training.csv')
 
+*** LPM REGRESSION ***
+    The Linear Probability Model (LPM) is a regression model used when the outcome variable Y is binary (i.e. Y∈{0,1}),
+    which still uses OLS.
+"""
+
+# Make the directory for the results (if not there already)
 OUTPUT_PATH = Path("./linear_scm")
 OUTPUT_PATH.mkdir(parents=True, exist_ok=True)
-
+# Import the SCM computed in SCM.py and define the categorical variables
 with open('linear_scm/scm.txt', 'r') as f:
-    SCM_PARENTS = eval(f.read())
-CATEGORICAL_PARENT_VARS = {"activity_type", "intensity", "smoking_status", "gender"}
-
-
-# This method ensures that the date column (or any specified column) is converted from a text or datetime format into a
-# numeric representation — specifically, an ordinal integer, which counts the number of days since a fixed reference
-# (January 1, year 1).
-# This transformation is important because:
-#   - Linear regression models (OLS/LPM) in statsmodels require all predictor variables (X) to be numeric.
-#   - If date were left as a string or datetime object, the regression fitting would fail.
-#   - Converting it to an ordinal value allows date to be treated as a continuous variable (e.g., a time trend),
-#     which can capture effects like gradual change over time.
-def convert_date_to_ordinal_inplace(df: pd.DataFrame, column_name: str = "date") -> None:
-    if column_name in df.columns and not pd.api.types.is_numeric_dtype(df[column_name]):
-        parsed = pd.to_datetime(df[column_name], errors="coerce")
-        df.loc[:, column_name] = parsed.map(lambda d: d.toordinal() if pd.notnull(d) else np.nan)
+    SCM = eval(f.read())
+CATEGORICAL_VARS = {"activity_type", "intensity", "smoking_status", "gender", "date"}
 
 
 # Detects whether a variable should be modeled as a binary categorical variable rather than a continuous numeric one.
@@ -53,7 +103,7 @@ def build_design_matrix(data: pd.DataFrame, parent_vars: List[str]) -> pd.DataFr
     X = data[parent_vars].copy()
     # Identify categorical variables
     for col in X.columns:
-        if (col in CATEGORICAL_PARENT_VARS) or (data[col].dtype == "object"):
+        if (col in CATEGORICAL_VARS) or (data[col].dtype == "object"):
             X[col] = X[col].astype("category")
     # One-hot encode categorical variables
     X = pd.get_dummies(X, drop_first=True)
@@ -68,7 +118,7 @@ def build_design_matrix(data: pd.DataFrame, parent_vars: List[str]) -> pd.DataFr
 #   - a table with coefficient estimates and inference stats,
 #   - the number of observations used,
 #   - a note describing any binary-encoding performed.
-def fit_linear_equation(dataset: pd.DataFrame, dependent_var: str, parent_vars: List[str]):
+def fit_linear_equation(dataset: pd.DataFrame, dependent_var: str, parent_vars: List[str], robust_cov_type: str = "HC1"):
     outcome = dataset[dependent_var]
     note = ""
     if is_binary_non_numeric(outcome):
@@ -83,7 +133,7 @@ def fit_linear_equation(dataset: pd.DataFrame, dependent_var: str, parent_vars: 
     y = aligned[dependent_var]
     X_clean = aligned.drop(columns=[dependent_var])
     # Fit the OLS regression
-    model = sm.OLS(y, X_clean).fit()
+    model = sm.OLS(y, X_clean).fit(cov_type=robust_cov_type)
     # Construct the coefficient table
     coef = model.params.rename("coef").to_frame()
     coef["std_err"] = model.bse
@@ -116,19 +166,21 @@ def render_equation(coeff_table: pd.DataFrame, dependent_var: str) -> str:
         return f"{dependent_var} = {intercept:.2f}{rhs_non_zero_intercept} + ε"
 
 
-convert_date_to_ordinal_inplace(data, column_name="date")
 metrics_records = []
 equations = []
 # Iterate through each equation in the SCM
-for dep_var, parent_vars in SCM_PARENTS.items():
+for dep_var, parent_vars in SCM.items():
     if dep_var not in data.columns:
         continue
     # Fit one linear model per dependent variable
-    model, coef_tbl, nobs, note = fit_linear_equation(data, dep_var, parent_vars)
+    model, coef_tbl, nobs, note = fit_linear_equation(data, dep_var, parent_vars, robust_cov_type="HC1")
     equations.append(render_equation(coef_tbl, dep_var))
-# Aggregate all results
+# Aggregate results
 (OUTPUT_PATH / "algebraic_equations.txt").write_text("\n\n".join(equations))
+print("\n"+"\n".join(equations))
 
-print("\n".join(equations))
-for p in sorted(OUTPUT_PATH.glob("coefficients_*.csv")):
-    print(f" - {p.name}")
+print('\n\n*** Elapsed time for Linear SCM computation: ', round(time.time() - start_time_2, 2), 'seconds.\n')
+
+print(50*'-')
+
+print('\n*** Total execution time: ', round(time.time() - start_time, 2), 'seconds.')
