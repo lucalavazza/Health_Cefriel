@@ -136,17 +136,6 @@ model_perf = gcm.auto.assign_causal_mechanisms(causal_model=causal_model_for_cou
 fitting = gcm.fit(causal_model=causal_model_for_counterfactual_analysis, data=fitness_data_training,
                   return_evaluation_summary=True)
 # print("\n\n\n\n\nEvaluation Summary -- from gcm.fit\n", fitting)
-# let's compute the intrinsic causal influence (ICC) of the nodes
-for var in var_names:
-    iccs_calories = gcm.intrinsic_causal_influence(causal_model_for_counterfactual_analysis, target_node=var)
-    perc_iccs_calories = convert_to_percentage(iccs_calories)
-    del_key = []
-    for key in perc_iccs_calories.keys():
-        if perc_iccs_calories[key] <= 0:
-            del_key.append(key)
-    for key in del_key:
-        del perc_iccs_calories[key]
-    print(var, '=', perc_iccs_calories)
 
 # STEP 4: Computing counterfactuals: I observed a certain outcome z for a variable Z where variable X was set to a value x.
 # What would have happened to the value of Z, had I intervened on X to assign it a different value x'?

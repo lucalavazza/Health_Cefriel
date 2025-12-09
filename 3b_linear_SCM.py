@@ -18,6 +18,7 @@ set_random_seed(7)
 
 
 data = pd.read_csv('./datasets/labelled_regularised_averaged_health_fitness_dataset_training.csv')
+data_testing = pd.read_csv('./datasets/labelled_regularised_averaged_health_fitness_dataset_testing.csv')
 edges = np.load('./graphs/causallearn/edges/npy/labelling_causal_graph_causal-learn_pc_fisherz.npy')
 nodes = []
 for edge in edges:
@@ -48,7 +49,7 @@ print(50*'-')
 
 
 # Estimation of linear structural equations (with Ordinary Least Squares (OLS) / Linear Probability Model (LPM))
-# for a given structural causal model (SCM) using a tabular dataset.
+# for a given structural causal model (SCM) using a given tabular dataset.
 start_time_2 = time.time()
 print('\n*** Linear SCM computation')
 """
@@ -64,8 +65,9 @@ print('\n*** Linear SCM computation')
         - β_i are the coefficients, with n>=1;
         - ε represents the error term.
         
-    At the core of OLS regression lies an optimization challenge: finding the line (or hyperplane in higher dimensions) that
-    best fits the data. But what does "best fit" mean? "Best fit" here means minimizing the sum of squared residuals.
+    At the core of OLS regression lies an optimization challenge: finding the line (or hyperplane in higher dimensions)
+    that best fits the data. But what does "best fit" mean? "Best fit" here means minimizing the sum of
+    squared residuals.
 
 
 *** LPM REGRESSION ***
@@ -76,7 +78,7 @@ print('\n*** Linear SCM computation')
 # Make the directory for the results (if not there already)
 OUTPUT_PATH = Path("./linear_scm")
 OUTPUT_PATH.mkdir(parents=True, exist_ok=True)
-# Import the SCM computed in SCM.py and define the categorical variables
+# Import the SCM computed above and define the categorical variables
 with open('linear_scm/scm.txt', 'r') as f:
     SCM = eval(f.read())
 CATEGORICAL_VARS = {"activity_type", "intensity", "smoking_status", "gender", "date"}
@@ -155,7 +157,7 @@ def render_equation(coeff_table: pd.DataFrame, dependent_var: str) -> str:
     terms = []
     # Iterate through predictor terms
     for _, row in coeff_table.loc[coeff_table["term"] != "const", ["term", "coef"]].iterrows():
-        terms.append(f"({row.coef:.2f}*{row.term})")
+        terms.append(f"({row.coef:.3f}*{row.term})")
     # Assemble the right-hand side of the equation
     rhs_non_zero_intercept = (" + " + " + ".join(terms)) if terms else ""
     rhs_zero_intercept = (" + ".join(terms)) if terms else ""
@@ -163,7 +165,7 @@ def render_equation(coeff_table: pd.DataFrame, dependent_var: str) -> str:
     if -0.0001 < intercept < 0.0001:
         return f"{dependent_var} = {rhs_zero_intercept} + ε"
     else:
-        return f"{dependent_var} = {intercept:.2f}{rhs_non_zero_intercept} + ε"
+        return f"{dependent_var} = {intercept:.3f}{rhs_non_zero_intercept} + ε"
 
 
 metrics_records = []
@@ -184,3 +186,29 @@ print('\n\n*** Elapsed time for Linear SCM computation: ', round(time.time() - s
 print(50*'-')
 
 print('\n*** Total execution time: ', round(time.time() - start_time, 2), 'seconds.')
+
+
+# Testing the SCM
+print(50*'-')
+print(50*'-')
+
+fitness_data_41 = data_testing[data_testing['participant_id'] == 41]
+counterfactual_data_41 = gcm.counterfactual_samples(causal_model,
+                                                    {'duration_minutes': lambda x: -3},
+                                                    observed_data=fitness_data_41)
+parents = []
+for parent_vars in SCM.items():
+    parents.append(parent_vars[0])
+
+
+for p in parents:
+    print('\n', str(p))
+    data = fitness_data_41[str(p)]
+    data_cf = counterfactual_data_41[str(p)]
+    print('*** Data before counterfactuals')
+    print(data)
+    print('*** Data after counterfactuals')
+    print(data_cf)
+    print(50*'-')
+
+

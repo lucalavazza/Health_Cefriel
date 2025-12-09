@@ -1,17 +1,11 @@
-duration_minutes = (0.01*hours_sleep) + ε
+duration_minutes = (0.012*hours_sleep) + ε
 
-avg_heart_rate = 0.10 + (-0.95*age) + (-0.19*intensity_1) + (-0.10*intensity_2) + ε
+avg_heart_rate = 0.103 + (-0.945*age) + (-0.186*intensity_1) + (-0.095*intensity_2) + ε
 
-resting_heart_rate = -0.01 + (0.01*duration_minutes) + (0.01*hydration_level) + (0.03*smoking_status_1) + (0.03*smoking_status_2) + ε
+resting_heart_rate = -0.013 + (0.037*blood_pressure_diastolic) + (0.011*duration_minutes) + (0.012*hydration_level) + (0.025*smoking_status_1) + (0.036*smoking_status_2) + ε
 
-fitness_level = -1.68 + (-0.00*daily_steps) + (0.01*duration_minutes) + (0.31*date_2) + (0.64*date_3) + (0.98*date_4) + (1.32*date_5) + (1.63*date_6) + (1.92*date_7) + (2.19*date_8) + (2.43*date_9) + (2.66*date_10) + (2.90*date_11) + (3.13*date_12) + ε
+fitness_level = -1.676 + (-0.001*daily_steps) + (0.014*duration_minutes) + (0.310*date_2) + (0.639*date_3) + (0.983*date_4) + (1.319*date_5) + (1.635*date_6) + (1.923*date_7) + (2.187*date_8) + (2.426*date_9) + (2.658*date_10) + (2.899*date_11) + (3.133*date_12) + ε
 
-blood_pressure_diastolic = 0.01 + (0.04*resting_heart_rate) + (0.04*smoking_status_1) + (-0.05*smoking_status_2) + ε
+calories_burned = 0.073 + (0.294*duration_minutes) + (0.551*fitness_level) + (0.042*activity_type_1) + (-0.212*activity_type_2) + (0.384*activity_type_3) + (0.170*activity_type_4) + (-0.074*activity_type_5) + (-0.080*activity_type_6) + (-0.376*activity_type_7) + (-0.185*activity_type_8) + (-0.416*activity_type_9) + ε
 
-calories_burned = 0.07 + (0.29*duration_minutes) + (0.55*fitness_level) + (0.04*activity_type_1) + (-0.21*activity_type_2) + (0.38*activity_type_3) + (0.17*activity_type_4) + (-0.07*activity_type_5) + (-0.08*activity_type_6) + (-0.38*activity_type_7) + (-0.18*activity_type_8) + (-0.42*activity_type_9) + ε
-
-bmi = (0.05*age) + (0.41*calories_burned) + ε
-
-blood_pressure_systolic = (0.03*bmi) + ε
-
-health_condition = 0.47 + (-0.01*blood_pressure_diastolic) + (0.01*blood_pressure_systolic) + (0.01*calories_burned) + ε
+bmi = (0.054*age) + (0.025*blood_pressure_systolic) + (0.411*calories_burned) + ε
