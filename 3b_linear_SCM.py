@@ -10,6 +10,7 @@ from dowhy.gcm.util.general import set_random_seed
 from dowhy.gcm.auto import AssignmentQuality
 import warnings
 import time
+import json
 warnings.filterwarnings(action='ignore', category=FutureWarning)
 warnings.filterwarnings(action='ignore', category=UserWarning)
 
@@ -226,7 +227,7 @@ def render_equation(coeff_table: pd.DataFrame,
     else:
         # Fallback: no predictors; keep intercept if present
         rhs = f"{intercept:.4f}"
-    return f"{dependent_var} = {rhs} + ε"
+    return f"{dependent_var} = {rhs} + ε_{dependent_var}"
 
 
 
@@ -253,27 +254,31 @@ print(50*'-')
 print('\n*** Total execution time: ', round(time.time() - start_time, 2), 'seconds.')
 
 
-# # Testing the SCM
-# print(50*'-')
-# print(50*'-')
-#
-# fitness_data_41 = data_testing[data_testing['participant_id'] == 41]
-# counterfactual_data_41 = gcm.counterfactual_samples(causal_model,
-#                                                     {'duration_minutes': lambda x: -3},
-#                                                     observed_data=fitness_data_41)
-# parents = []
-# for parent_vars in SCM.items():
-#     parents.append(parent_vars[0])
-#
-#
-# for p in parents:
-#     print('\n', str(p))
-#     # data = fitness_data_41[str(p)]
-#     data_cf = counterfactual_data_41[str(p)]
-#     # print('*** Data before counterfactuals')
-#     # print(data)
-#     print('*** Data after counterfactuals')
-#     print(data_cf)
-#     print(50*'-')
+# Testing the SCM
+print(50*'-')
+print(50*'-')
 
+fitness_data_41 = data_testing[data_testing['participant_id'] == 41]
+counterfactual_data_41 = gcm.counterfactual_samples(causal_model,
+                                                    {'duration_minutes': lambda x: -3},
+                                                    observed_data=fitness_data_41)
+parents = []
+for parent_vars in SCM.items():
+    parents.append(parent_vars[0])
+
+cf_results = {}
+
+for p in parents:
+    # print('\n', str(p))
+    # data = fitness_data_41[str(p)]
+    data_cf = counterfactual_data_41[str(p)]
+    cf_results[str(p)] = data_cf.to_dict()
+    # print('*** Data before counterfactuals')
+    # print(data)
+    # print('*** Data after counterfactuals')
+    # print(data_cf)
+    # print(50*'-')
+
+with open('/Users/luca_lavazza/Documents/GitHub/Health_Cefriel/linear_scm/cf_results.json', 'w') as file:
+    file.write(json.dumps(cf_results, indent=4))
 
