@@ -20,6 +20,10 @@ set_random_seed(7)
 data = pd.read_csv('./datasets/labelled_regularised_averaged_health_fitness_dataset_training.csv')
 data_testing = pd.read_csv('./datasets/labelled_regularised_averaged_health_fitness_dataset_testing.csv')
 edges = np.load('./graphs/causallearn/edges/npy/labelling_causal_graph_causal-learn_pc_fisherz.npy')
+with open('/Users/luca_lavazza/Documents/GitHub/Health_Cefriel/linear_scm/scm_coefficients.json', 'w') as file:
+    pass
+scm_dict = {}
+pids_personas = [2, 5, 6, 8, 11, 26, 30, 41, 108, 165, 172, 262]
 nodes = []
 for edge in edges:
     for node in edge:
@@ -180,6 +184,7 @@ def render_equation(coeff_table: pd.DataFrame,
     terms_expr = []
     # For filtering out categorical dummy terms later
     cat_prefixes = {c: f"{c}_" for c in categorical_parents}
+    alpha_beta_term_pairs = []
     # --- 1. Handle categorical variables: build α_{c,l} for all levels l ---
     for c in categorical_parents:
         # Get all observed levels (categories) in a stable order
@@ -197,6 +202,7 @@ def render_equation(coeff_table: pd.DataFrame,
             alpha_base = 0.0
         # Explicit base-level term (even if coefficient is 0)
         terms_expr.append(f"({alpha_base:.4f}*{c}_{base_level})")
+        alpha_beta_term_pairs.append((str(c) + '_' + str(base_level), alpha_base))
         # Non-base levels: for each, use the original dummy coefficient
         # term name is how get_dummies names it: "<col>_<level>"
         for level in other_levels:
@@ -211,6 +217,7 @@ def render_equation(coeff_table: pd.DataFrame,
                 #   α_{c, level} = β_dummy
                 alpha = beta
             terms_expr.append(f"({alpha:.4f}*{c}_{level})")
+            alpha_beta_term_pairs.append((str(c) + '_' + str(level), alpha))
     # --- 2. Handle non-categorical terms (numeric parents etc.) ---
     # Keep their coefficients as-is; just exclude 'const' and the dummy columns.
     for term, beta in term_to_coef.items():
@@ -221,12 +228,14 @@ def render_equation(coeff_table: pd.DataFrame,
             continue
         # Regular numeric (or already-encoded) predictor
         terms_expr.append(f"({beta:.4f}*{term})")
+        alpha_beta_term_pairs.append((term, beta))
     # --- 3. Assemble the final equation (no separate intercept) ---
     if terms_expr:
         rhs = " + ".join(terms_expr)
     else:
         # Fallback: no predictors; keep intercept if present
         rhs = f"{intercept:.4f}"
+    scm_dict[dependent_var] = alpha_beta_term_pairs
     return f"{dependent_var} = {rhs} + ε_{dependent_var}"
 
 
@@ -245,7 +254,8 @@ for dep_var, parent_vars in SCM.items():
     equations.append(
         render_equation(coef_tbl, dep_var, parent_vars, data)
     )
-# Aggregate results
+with open('/Users/luca_lavazza/Documents/GitHub/Health_Cefriel/linear_scm/scm_coefficients.json', 'a') as file:
+    file.write(json.dumps(scm_dict, indent=4))
 (OUTPUT_PATH / "algebraic_equations.txt").write_text("\n\n".join(equations))
 print("\n" + "\n".join(equations))
 
@@ -254,7 +264,7 @@ print(50*'-')
 print('\n*** Total execution time: ', round(time.time() - start_time, 2), 'seconds.')
 
 
-# Testing the SCM
+# Computing the epsilons
 print(50*'-')
 print(50*'-')
 
@@ -265,20 +275,10 @@ counterfactual_data_41 = gcm.counterfactual_samples(causal_model,
 parents = []
 for parent_vars in SCM.items():
     parents.append(parent_vars[0])
-
 cf_results = {}
-
 for p in parents:
-    # print('\n', str(p))
-    # data = fitness_data_41[str(p)]
     data_cf = counterfactual_data_41[str(p)]
     cf_results[str(p)] = data_cf.to_dict()
-    # print('*** Data before counterfactuals')
-    # print(data)
-    # print('*** Data after counterfactuals')
-    # print(data_cf)
-    # print(50*'-')
-
 with open('/Users/luca_lavazza/Documents/GitHub/Health_Cefriel/linear_scm/cf_results.json', 'w') as file:
     file.write(json.dumps(cf_results, indent=4))
 
