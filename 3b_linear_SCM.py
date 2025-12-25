@@ -8,9 +8,11 @@ from dowhy import gcm
 from dowhy.gcm import InvertibleStructuralCausalModel
 from dowhy.gcm.util.general import set_random_seed
 from dowhy.gcm.auto import AssignmentQuality
+from collections import deque
 import warnings
 import time
 import json
+import ast
 warnings.filterwarnings(action='ignore', category=FutureWarning)
 warnings.filterwarnings(action='ignore', category=UserWarning)
 
@@ -20,10 +22,6 @@ set_random_seed(7)
 data = pd.read_csv('./datasets/labelled_regularised_averaged_health_fitness_dataset_training.csv')
 data_testing = pd.read_csv('./datasets/labelled_regularised_averaged_health_fitness_dataset_testing.csv')
 edges = np.load('./graphs/causallearn/edges/npy/labelling_causal_graph_causal-learn_pc_fisherz.npy')
-with open('/Users/luca_lavazza/Documents/GitHub/Health_Cefriel/linear_scm/scm_coefficients.json', 'w') as file:
-    pass
-scm_dict = {}
-pids_personas = [2, 5, 6, 8, 11, 26, 30, 41, 108, 165, 172, 262]
 nodes = []
 for edge in edges:
     for node in edge:
@@ -32,10 +30,19 @@ for edge in edges:
 G = nx.DiGraph()
 G.add_nodes_from(nodes)
 G.add_edges_from(edges)
+# Make the directory for the results (if not there already)
+OUTPUT_PATH = Path("./linear_scm")
+OUTPUT_PATH.mkdir(parents=True, exist_ok=True)
+with open('/Users/luca_lavazza/Documents/GitHub/Health_Cefriel/linear_scm/scm_coefficients.json', 'w') as file:
+    pass
+scm_dict = {}
+pids_personas = [2, 5, 6, 8, 11, 26, 30, 41, 108, 165, 172, 262]
+CATEGORICAL_VARS = {"activity_type", "intensity", "smoking_status", "gender", "date"}
+
 
 # Let's compute the SCM
 start_time_1 = time.time()
-# cannot use AssignmentQuality = BEST due to compatibility issues with numpy and python 3.8
+# Cannot use AssignmentQuality = BEST due to compatibility issues with numpy and python 3.8
 print('\n*** SCM with AssignmentQuality = BETTER\n')
 causal_model = InvertibleStructuralCausalModel(G)
 model_perf = gcm.auto.assign_causal_mechanisms(causal_model=causal_model,
@@ -46,10 +53,11 @@ fitting = gcm.fit(causal_model=causal_model, data=data,
                   return_evaluation_summary=True)
 with open('./linear_scm/scm.txt', 'a') as f:
     f.write('}')
+# Import the SCM computed above and define the categorical variables
+with open('linear_scm/scm.txt', 'r') as f:
+    SCM = eval(f.read())
 print('\n*** SCM computed.\n')
-
 print('*** Elapsed time for SCM computation: ', round(time.time() - start_time_1, 2), 'seconds.\n')
-
 print(50*'-')
 
 
@@ -74,21 +82,10 @@ print('\n*** Linear SCM computation')
     that best fits the data. But what does "best fit" mean? "Best fit" here means minimizing the sum of
     squared residuals.
 
-
 *** LPM REGRESSION ***
     The Linear Probability Model (LPM) is a regression model used when the outcome variable Y is binary (i.e. Y∈{0,1}),
     which still uses OLS.
 """
-
-# Make the directory for the results (if not there already)
-OUTPUT_PATH = Path("./linear_scm")
-OUTPUT_PATH.mkdir(parents=True, exist_ok=True)
-# Import the SCM computed above and define the categorical variables
-with open('linear_scm/scm.txt', 'r') as f:
-    SCM = eval(f.read())
-CATEGORICAL_VARS = {"activity_type", "intensity", "smoking_status", "gender", "date"}
-
-
 # Detects whether a variable should be modeled as a binary categorical variable rather than a continuous numeric one.
 # When estimating linear equations, all dependent variables (and ideally independent ones) must be numeric.
 # The function’s job is to identify which of these categorical variables are binary.
@@ -239,7 +236,6 @@ def render_equation(coeff_table: pd.DataFrame,
     return f"{dependent_var} = {rhs} + ε_{dependent_var}"
 
 
-
 metrics_records = []
 equations = []
 # Iterate through each equation in the SCM
@@ -258,16 +254,15 @@ with open('/Users/luca_lavazza/Documents/GitHub/Health_Cefriel/linear_scm/scm_co
     file.write(json.dumps(scm_dict, indent=4))
 (OUTPUT_PATH / "algebraic_equations.txt").write_text("\n\n".join(equations))
 print("\n" + "\n".join(equations))
-
 print('\n\n*** Elapsed time for Linear SCM computation: ', round(time.time() - start_time_2, 2), 'seconds.\n')
 print(50*'-')
-print('\n*** Total execution time: ', round(time.time() - start_time, 2), 'seconds.')
+print('\n*** Total execution time: ', round(time.time() - start_time, 2), 'seconds.\nthistthese')
 
 
 # Computing the epsilons
 print(50*'-')
 print(50*'-')
-
+# First, compute the counterfactuals
 fitness_data_pids = {}
 counterfactual_data_pids = {}
 counterfactual_results_pids = {}
@@ -276,18 +271,165 @@ for pid in pids_personas:
     counterfactual_data_pids[pid] = gcm.counterfactual_samples(causal_model,
                                                         {'duration_minutes': lambda x: -3},
                                                         observed_data=fitness_data_pids[pid])
-    parents = []
-    for parent_vars in SCM.items():
-        parents.append(parent_vars[0])
-    cf_results = {}
-    for p in parents:
-        data_cf = counterfactual_data_pids[pid]
-        cf_results[p] = data_cf.to_dict()
-    counterfactual_results_pids[pid] = cf_results
+    counterfactual_results_pids[pid] = counterfactual_data_pids[pid].to_dict()
 
 with open('/Users/luca_lavazza/Documents/GitHub/Health_Cefriel/linear_scm/cf_results.json', 'w') as file:
     file.write(json.dumps(counterfactual_results_pids, indent=4))
-
 print("Counterfactual results exported")
+
+from collections import deque
+import pandas as pd
+
+def compute_linear_scm_counterfactuals(
+    df_test,
+    participant_ids,
+    scm_parent_map,
+    scm_coefficients,
+    intervention,
+    cf_results,
+    pid_col="participant_id",
+    date_col="date",
+):
+    # ------------------------------------------------------------
+    # 1) Topological order over endogenous variables
+    # ------------------------------------------------------------
+    def topological_order(parent_map):
+        variables = list(parent_map.keys())
+        in_degree = {v: 0 for v in variables}
+        children = {v: [] for v in variables}
+
+        for child, parents in parent_map.items():
+            for p in parents:
+                if p in in_degree:
+                    in_degree[child] += 1
+                    children[p].append(child)
+
+        queue = deque([v for v in variables if in_degree[v] == 0])
+        order = []
+
+        while queue:
+            v = queue.popleft()
+            order.append(v)
+            for c in children[v]:
+                in_degree[c] -= 1
+                if in_degree[c] == 0:
+                    queue.append(c)
+
+        return order if len(order) == len(variables) else variables
+
+    causal_order = topological_order(scm_parent_map)
+
+    # ------------------------------------------------------------
+    # 2) Term evaluation
+    # ------------------------------------------------------------
+    def get_term_value(term, row, computed):
+        if "_" in term:
+            base, level = term.rsplit("_", 1)
+            if level.lstrip("-").isdigit():
+                base_value = computed.get(base, row.get(base))
+                try:
+                    return 1.0 if int(base_value) == int(level) else 0.0
+                except Exception:
+                    return 0.0
+
+        value = computed.get(term, row.get(term, 0.0))
+        try:
+            if pd.isna(value):
+                return 0.0
+        except Exception:
+            pass
+
+        try:
+            return float(value)
+        except Exception:
+            return 0.0
+
+    # ------------------------------------------------------------
+    # 3) Evaluate one structural equation
+    # ------------------------------------------------------------
+    def evaluate_equation(dep_var, row, computed):
+        total = 0.0
+        for term, coef in scm_coefficients.get(dep_var, []):
+            total += float(coef) * get_term_value(term, row, computed)
+        return float(total)
+
+    # ------------------------------------------------------------
+    # 4) Main loop (ordered like cf_results)
+    # ------------------------------------------------------------
+    results = {}
+
+    participant_id_set = {str(x) for x in participant_ids}
+
+    # Iterate PIDs in the same order as cf_results.json
+    for pid_str in cf_results.keys():
+        if pid_str not in participant_id_set:
+            continue
+
+        # Variable order exactly as in cf_results.json for this PID
+        allowed_vars_in_order = list(cf_results[pid_str].keys())
+
+        pid_val = int(pid_str) if pid_str.isdigit() else pid_str
+        df_pid = df_test[df_test[pid_col] == pid_val].copy()
+        if df_pid.empty:
+            # Still emit empty PID block (optional); comment out if undesired
+            results[pid_str] = {v: {} for v in allowed_vars_in_order}
+            continue
+
+        if date_col in df_pid.columns:
+            df_pid = df_pid.sort_values(date_col).reset_index(drop=True)
+        else:
+            df_pid = df_pid.reset_index(drop=True)
+
+        # Pre-create variables in the correct order
+        pid_block = {v: {} for v in allowed_vars_in_order}
+
+        for idx, row in df_pid.iterrows():
+            computed = {}
+
+            # Apply intervention
+            for var, value in intervention.items():
+                computed[var] = float(value)
+
+            # Recompute endogenous variables
+            for var in causal_order:
+                if var in intervention:
+                    computed[var] = float(intervention[var])
+                else:
+                    computed[var] = evaluate_equation(var, row, computed)
+
+            # Combine observed + computed
+            new_row = row.to_dict()
+            new_row.update(computed)
+
+            idx_key = str(idx)
+
+            # Fill variables in the same order as cf_results
+            for var_name in allowed_vars_in_order:
+                if var_name in new_row:
+                    pid_block[var_name][idx_key] = new_row[var_name]
+
+        results[pid_str] = pid_block
+
+    return results
+
+
+
+SCM_TXT_PATH = "./linear_scm/scm.txt"
+SCM_COEFS_PATH = "./linear_scm/scm_coefficients.json"
+CF_RESULTS_PATH = "./linear_scm/cf_results.json"
+with open(SCM_TXT_PATH, "r") as f:
+    scm_text = f.read().strip()
+my_scm = ast.literal_eval(scm_text)
+with open(SCM_COEFS_PATH, "r") as f:
+    scm_coefficients = json.load(f)
+with open(CF_RESULTS_PATH, "r") as f:
+    cf_results = json.load(f)
+intervention = {"duration_minutes": -3}
+
+eq_results = compute_linear_scm_counterfactuals(data_testing, pids_personas, my_scm, scm_coefficients, intervention, cf_results, pid_col="participant_id", date_col="date",)
+
+with open("/Users/luca_lavazza/Documents/GitHub/Health_Cefriel/linear_scm/linear_cf_results.json", "w") as f:
+    json.dump(eq_results, f, indent=4)
+
 print(50*'-')
 print(50*'-')
