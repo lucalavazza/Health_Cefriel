@@ -268,17 +268,26 @@ print('\n*** Total execution time: ', round(time.time() - start_time, 2), 'secon
 print(50*'-')
 print(50*'-')
 
-fitness_data_41 = data_testing[data_testing['participant_id'] == 41]
-counterfactual_data_41 = gcm.counterfactual_samples(causal_model,
-                                                    {'duration_minutes': lambda x: -3},
-                                                    observed_data=fitness_data_41)
-parents = []
-for parent_vars in SCM.items():
-    parents.append(parent_vars[0])
-cf_results = {}
-for p in parents:
-    data_cf = counterfactual_data_41[str(p)]
-    cf_results[str(p)] = data_cf.to_dict()
-with open('/Users/luca_lavazza/Documents/GitHub/Health_Cefriel/linear_scm/cf_results.json', 'w') as file:
-    file.write(json.dumps(cf_results, indent=4))
+fitness_data_pids = {}
+counterfactual_data_pids = {}
+counterfactual_results_pids = {}
+for pid in pids_personas:
+    fitness_data_pids[pid] = data_testing[data_testing['participant_id'] == pid]
+    counterfactual_data_pids[pid] = gcm.counterfactual_samples(causal_model,
+                                                        {'duration_minutes': lambda x: -3},
+                                                        observed_data=fitness_data_pids[pid])
+    parents = []
+    for parent_vars in SCM.items():
+        parents.append(parent_vars[0])
+    cf_results = {}
+    for p in parents:
+        data_cf = counterfactual_data_pids[pid]
+        cf_results[p] = data_cf.to_dict()
+    counterfactual_results_pids[pid] = cf_results
 
+with open('/Users/luca_lavazza/Documents/GitHub/Health_Cefriel/linear_scm/cf_results.json', 'w') as file:
+    file.write(json.dumps(counterfactual_results_pids, indent=4))
+
+print("Counterfactual results exported")
+print(50*'-')
+print(50*'-')
