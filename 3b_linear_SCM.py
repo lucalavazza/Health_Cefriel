@@ -2,18 +2,18 @@ import statsmodels.api as sm
 import networkx as nx
 import pandas as pd
 import numpy as np
-from pathlib import Path
-from typing import List
-from dowhy import gcm
 from dowhy.gcm import InvertibleStructuralCausalModel
 from dowhy.gcm.util.general import set_random_seed
 from dowhy.gcm.auto import AssignmentQuality
 from collections import deque
+from pathlib import Path
+from typing import List
+from dowhy import gcm
 import warnings
 import time
 import json
-import ast
 import math
+import ast
 warnings.filterwarnings(action='ignore', category=FutureWarning)
 warnings.filterwarnings(action='ignore', category=UserWarning)
 
@@ -34,11 +34,14 @@ G.add_edges_from(edges)
 # Make the directory for the results (if not there already)
 OUTPUT_PATH = Path("./linear_scm")
 OUTPUT_PATH.mkdir(parents=True, exist_ok=True)
-with open('/Users/luca_lavazza/Documents/GitHub/Health_Cefriel/linear_scm/scm_coefficients.json', 'w') as file:
+scm_dict = {}
+with open('./linear_scm/scm_coefficients.json', 'w') as file:
     pass
 CATEGORICAL_VARS = {"activity_type", "intensity", "smoking_status", "gender", "date"}
-scm_dict = {}
 pids_personas = [2, 5, 6, 8, 11, 26, 30, 41, 108, 165, 172, 262]
+SCM_TXT_PATH = "./linear_scm/scm.txt"
+SCM_COEFS_PATH = "./linear_scm/scm_coefficients.json"
+CF_RESULTS_PATH = "./linear_scm/cf_results.json"
 
 """
     *** START OF DEFINITIONS
@@ -212,14 +215,11 @@ def render_equation(coeff_table: pd.DataFrame,dependent_var: str,parent_vars: Li
 #   - merges recomputed endogenous values with observed exogenous variables
 def compute_linear_scm_counterfactuals(df_test, participant_ids, scm_parent_map, scm_coefficients,
                                        intervention, cf_results, pid_col="participant_id", date_col="date", ):
-    # ------------------------------------------------------------
     # 1) Topological order over endogenous variables
-    # ------------------------------------------------------------
     def topological_order(parent_map):
         variables = list(parent_map.keys())
         in_degree = {v: 0 for v in variables}
         children = {v: [] for v in variables}
-
         for child, parents in parent_map.items():
             for p in parents:
                 if p in in_degree:
@@ -228,7 +228,6 @@ def compute_linear_scm_counterfactuals(df_test, participant_ids, scm_parent_map,
 
         queue = deque([v for v in variables if in_degree[v] == 0])
         order = []
-
         while queue:
             v = queue.popleft()
             order.append(v)
@@ -238,12 +237,8 @@ def compute_linear_scm_counterfactuals(df_test, participant_ids, scm_parent_map,
                     queue.append(c)
 
         return order if len(order) == len(variables) else variables
-
     causal_order = topological_order(scm_parent_map)
-
-    # ------------------------------------------------------------
     # 2) Term evaluation
-    # ------------------------------------------------------------
     def get_term_value(term, row, computed):
         if "_" in term:
             base, level = term.rsplit("_", 1)
@@ -253,145 +248,111 @@ def compute_linear_scm_counterfactuals(df_test, participant_ids, scm_parent_map,
                     return 1.0 if int(base_value) == int(level) else 0.0
                 except Exception:
                     return 0.0
-
         value = computed.get(term, row.get(term, 0.0))
         try:
             if pd.isna(value):
                 return 0.0
         except Exception:
             pass
-
         try:
             return float(value)
         except Exception:
             return 0.0
-
-    # ------------------------------------------------------------
     # 3) Evaluate one structural equation
-    # ------------------------------------------------------------
     def evaluate_equation(dep_var, row, computed):
         total = 0.0
         for term, coef in scm_coefficients.get(dep_var, []):
             total += float(coef) * get_term_value(term, row, computed)
         return float(total)
-
-    # ------------------------------------------------------------
     # 4) Main loop (ordered like cf_results)
-    # ------------------------------------------------------------
     results = {}
-
     participant_id_set = {str(x) for x in participant_ids}
-
     # Iterate PIDs in the same order as cf_results.json
     for pid_str in cf_results.keys():
         if pid_str not in participant_id_set:
             continue
-
         # Variable order exactly as in cf_results.json for this PID
         allowed_vars_in_order = list(cf_results[pid_str].keys())
-
         pid_val = int(pid_str) if pid_str.isdigit() else pid_str
         df_pid = df_test[df_test[pid_col] == pid_val].copy()
         if df_pid.empty:
             # Still emit empty PID block (optional); comment out if undesired
             results[pid_str] = {v: {} for v in allowed_vars_in_order}
             continue
-
         if date_col in df_pid.columns:
             df_pid = df_pid.sort_values(date_col).reset_index(drop=True)
         else:
             df_pid = df_pid.reset_index(drop=True)
-
         # Pre-create variables in the correct order
         pid_block = {v: {} for v in allowed_vars_in_order}
-
         for idx, row in df_pid.iterrows():
             computed = {}
-
             # Apply intervention
             for var, value in intervention.items():
                 computed[var] = float(value)
-
             # Recompute endogenous variables
             for var in causal_order:
                 if var in intervention:
                     computed[var] = float(intervention[var])
                 else:
                     computed[var] = evaluate_equation(var, row, computed)
-
             # Combine observed + computed
             new_row = row.to_dict()
             new_row.update(computed)
-
             idx_key = str(idx)
-
             # Fill variables in the same order as cf_results
             for var_name in allowed_vars_in_order:
                 if var_name in new_row:
                     pid_block[var_name][idx_key] = new_row[var_name]
-
         results[pid_str] = pid_block
-
     return results
+
+# convert "2" / 2 / 2.0 / "2.0" into "2" for compatibility for computing epsilons
+def pid_key(x):
+    try:
+        xf = float(x)
+        return str(int(xf)) if xf.is_integer() else str(xf)
+    except Exception:
+        return str(x)
+
+# Extract var-series as a dict idx->value from either:
+#       - block[var] = {idx: value}               (series)
+#       - block[var] = {col: {idx: value}, ...}   (table_dict)
+# for computing epsilons
+def get_series(block, var):
+    if block is None or var not in block:
+        return None
+    v = block[var]
+    # Case 1: already a series dict: keys look like "0","1",...
+    # Heuristic: if any key is a digit-string, treat as series
+    if isinstance(v, dict) and any(str(k).isdigit() for k in v.keys()):
+        return v
+    # Case 2: table_dict: need v[var] or v[var] is under columns
+    if isinstance(v, dict) and var in v and isinstance(v[var], dict):
+        return v[var]
+    # Case 3: block is itself a table_dict (rare in your codepaths)
+    if isinstance(block, dict) and var in block and isinstance(block[var], dict):
+        return block[var]
+    return None
 
 # Compute epsilon terms for each algebraic equation:
 #         epsilon_Y(t) = Y_cf(t) - Y_linear(t)
 def compute_epsilons(linear_results, cf_results, equation_vars, keep_empty=False):
-    def pid_key(x):
-        # "2" / 2 / 2.0 / "2.0" -> "2"
-        try:
-            xf = float(x)
-            return str(int(xf)) if xf.is_integer() else str(xf)
-        except Exception:
-            return str(x)
-
-    def get_series(block, var):
-        """
-        Extract var-series as a dict idx->value from either:
-          - block[var] = {idx: value}               (series)
-          - block[var] = {col: {idx: value}, ...}   (table_dict)
-        """
-        if block is None or var not in block:
-            return None
-
-        v = block[var]
-
-        # Case 1: already a series dict: keys look like "0","1",...
-        # Heuristic: if any key is a digit-string, treat as series
-        if isinstance(v, dict) and any(str(k).isdigit() for k in v.keys()):
-            return v
-
-        # Case 2: table_dict: need v[var] or v[var] is under columns
-        if isinstance(v, dict) and var in v and isinstance(v[var], dict):
-            return v[var]
-
-        # Case 3: block is itself a table_dict (rare in your codepaths)
-        if isinstance(block, dict) and var in block and isinstance(block[var], dict):
-            return block[var]
-
-        return None
-
     # Normalize PID key spaces for both dicts
     linear_by_pid = {pid_key(k): v for k, v in linear_results.items()}
     cf_by_pid = {pid_key(k): v for k, v in cf_results.items()}
-
     eps = {}
-
     for pid in cf_by_pid.keys():
         if pid not in linear_by_pid:
             continue
-
         eps_pid = {}
         lin_block = linear_by_pid[pid]
         cf_block = cf_by_pid[pid]
-
         for Y in equation_vars:
             s_lin = get_series(lin_block, Y)
             s_cf = get_series(cf_block, Y)
-
             if not s_lin or not s_cf:
                 continue
-
             # Compute on common indices
             eps_series = {}
             for idx in s_cf.keys():
@@ -405,47 +366,36 @@ def compute_epsilons(linear_results, cf_results, equation_vars, keep_empty=False
                 except Exception:
                     continue
                 eps_series[str(idx)] = y_cf - y_lin
-
             if eps_series or keep_empty:
                 eps_pid[Y] = eps_series
-
         eps[pid] = eps_pid
-
     return eps
 
 # Compute mean epsilon over dates for each pid and each variable.
 def average_epsilons_over_dates(epsilons, drop_empty=True):
     means = {}
-
     for pid, per_var in epsilons.items():
         pid_out = {}
-
         for var, per_idx in per_var.items():
             if not isinstance(per_idx, dict) or len(per_idx) == 0:
                 if not drop_empty:
                     pid_out[var] = {"mean_epsilon": None, "n_dates": 0}
                 continue
-
             vals = []
             for _, e in per_idx.items():
                 try:
                     vals.append(float(e))
                 except Exception:
                     continue
-
             n = len(vals)
             if n == 0:
                 if not drop_empty:
                     pid_out[var] = {"mean_epsilon": None, "n_dates": 0}
                 continue
-
             pid_out[var] = {"mean_epsilon": sum(vals) / n, "n_dates": n}
-
         if pid_out or not drop_empty:
             means[pid] = pid_out
-
     return means
-
 """
     *** END OF DEFINITIONS
 """
@@ -461,13 +411,13 @@ print('\n')
 fitting = gcm.fit(causal_model=causal_model, data=data, return_evaluation_summary=True)
 with open('./linear_scm/scm.txt', 'a') as f:
     f.write('}')
-with open('linear_scm/scm.txt', 'r') as f:
+with open('./linear_scm/scm.txt', 'r') as f:
     SCM = eval(f.read())
 print('\n*** SCM computed.\n')
 print('*** Elapsed time for SCM computation: ', round(time.time() - start_time_1, 2), 'seconds.\n')
 print(50*'-')
 
-# Estimation of linear structural equations (with Ordinary Least Squares (OLS) / Linear Probability Model (LPM))
+# Estimation of the linear structural equations (with Ordinary Least Squares (OLS) / Linear Probability Model (LPM))
 # for a given structural causal model (SCM) using a given tabular dataset.
 start_time_2 = time.time()
 print('\n*** Linear SCM computation')
@@ -485,7 +435,7 @@ for dep_var, parent_vars in SCM.items():
     equations.append(
         render_equation(coef_tbl, dep_var, parent_vars, data)
     )
-with open('/Users/luca_lavazza/Documents/GitHub/Health_Cefriel/linear_scm/scm_coefficients.json', 'a') as file:
+with open('./linear_scm/scm_coefficients.json', 'a') as file:
     file.write(json.dumps(scm_dict, indent=4))
 (OUTPUT_PATH / "algebraic_equations.txt").write_text("\n\n".join(equations))
 print("\n" + "\n".join(equations))
@@ -504,15 +454,12 @@ for pid in pids_personas:
                                                         {'duration_minutes': lambda x: -3},
                                                         observed_data=fitness_data_pids[pid])
     counterfactual_results_pids[pid] = counterfactual_data_pids[pid].to_dict()
-with open('/Users/luca_lavazza/Documents/GitHub/Health_Cefriel/linear_scm/cf_results.json', 'w') as file:
+with open('./linear_scm/cf_results.json', 'w') as file:
     file.write(json.dumps(counterfactual_results_pids, indent=4))
 print("Counterfactual results exported")
 print(50*'-')
 
-# Substituting the intervention in the SCM to compute the results of the equations
-SCM_TXT_PATH = "./linear_scm/scm.txt"
-SCM_COEFS_PATH = "./linear_scm/scm_coefficients.json"
-CF_RESULTS_PATH = "./linear_scm/cf_results.json"
+# Substituting the intervention in the SCM's equations to compute the value of the dependent variables
 with open(SCM_TXT_PATH, "r") as f:
     scm_text = f.read().strip()
 my_scm = ast.literal_eval(scm_text)
@@ -521,16 +468,17 @@ with open(SCM_COEFS_PATH, "r") as f:
 with open(CF_RESULTS_PATH, "r") as f:
     cf_results = json.load(f)
 intervention = {"duration_minutes": -3}
-eq_results = compute_linear_scm_counterfactuals(data_testing, pids_personas, my_scm, scm_coefficients, intervention, cf_results, pid_col="participant_id", date_col="date",)
-with open("/Users/luca_lavazza/Documents/GitHub/Health_Cefriel/linear_scm/linear_cf_results.json", "w") as f:
+eq_results = compute_linear_scm_counterfactuals(data_testing, pids_personas, my_scm, scm_coefficients, intervention,
+                                                cf_results, pid_col="participant_id", date_col="date",)
+with open("./linear_scm/linear_cf_results.json", "w") as f:
     json.dump(eq_results, f, indent=4)
 print('Linear SCM values computed')
 print(50*'-')
 
 # Computing the epsilons
-with open("/Users/luca_lavazza/Documents/GitHub/Health_Cefriel/linear_scm/linear_cf_results.json", "r") as f:
+with open("./linear_scm/linear_cf_results.json", "r") as f:
     linear_results = json.load(f)
-with open("/Users/luca_lavazza/Documents/GitHub/Health_Cefriel/linear_scm/cf_results.json", "r") as f:
+with open("./linear_scm/cf_results.json", "r") as f:
     cf_results = json.load(f)
 equation_vars = [
     "duration_minutes",
@@ -545,13 +493,13 @@ epsilons = compute_epsilons(
     cf_results=cf_results,
     equation_vars=equation_vars,
 )
-with open("/Users/luca_lavazza/Documents/GitHub/Health_Cefriel/linear_scm/epsilon_results.json", "w") as f:
+with open("./linear_scm/epsilon_results.json", "w") as f:
     json.dump(epsilons, f, indent=4)
 
-with open("/Users/luca_lavazza/Documents/GitHub/Health_Cefriel/linear_scm/epsilon_results.json", "r") as f:
+with open("./linear_scm/epsilon_results.json", "r") as f:
     eps = json.load(f)
 avg_eps = average_epsilons_over_dates(eps, drop_empty=True)
-with open("/Users/luca_lavazza/Documents/GitHub/Health_Cefriel/linear_scm/epsilon_means_by_pid_and_var.json", "w") as f:
+with open("./linear_scm/epsilon_means_by_pid_and_var.json", "w") as f:
     json.dump(avg_eps, f, indent=2)
 print('Epsilons computed')
 print(50*'-')
