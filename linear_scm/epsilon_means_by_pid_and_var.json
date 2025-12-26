@@ -1,0 +1,314 @@
+{
+  "2": {
+    "duration_minutes": {
+      "mean_epsilon": 0.0,
+      "n_dates": 12
+    },
+    "avg_heart_rate": {
+      "mean_epsilon": 0.0022249294446500117,
+      "n_dates": 12
+    },
+    "resting_heart_rate": {
+      "mean_epsilon": 2.4841102646923487,
+      "n_dates": 12
+    },
+    "fitness_level": {
+      "mean_epsilon": 0.0715899487894223,
+      "n_dates": 12
+    },
+    "calories_burned": {
+      "mean_epsilon": 0.3103110117840898,
+      "n_dates": 12
+    },
+    "bmi": {
+      "mean_epsilon": 0.34262049710961606,
+      "n_dates": 12
+    }
+  },
+  "5": {
+    "duration_minutes": {
+      "mean_epsilon": 0.0,
+      "n_dates": 12
+    },
+    "avg_heart_rate": {
+      "mean_epsilon": -0.012664387855376541,
+      "n_dates": 12
+    },
+    "resting_heart_rate": {
+      "mean_epsilon": 0.1399811563565714,
+      "n_dates": 12
+    },
+    "fitness_level": {
+      "mean_epsilon": 0.049118574171172484,
+      "n_dates": 12
+    },
+    "calories_burned": {
+      "mean_epsilon": 0.5805915490799493,
+      "n_dates": 12
+    },
+    "bmi": {
+      "mean_epsilon": 1.7392238414126535,
+      "n_dates": 12
+    }
+  },
+  "6": {
+    "duration_minutes": {
+      "mean_epsilon": 0.0,
+      "n_dates": 12
+    },
+    "avg_heart_rate": {
+      "mean_epsilon": -0.21026478708814297,
+      "n_dates": 12
+    },
+    "resting_heart_rate": {
+      "mean_epsilon": -0.26822237065992627,
+      "n_dates": 12
+    },
+    "fitness_level": {
+      "mean_epsilon": -0.09889593739609255,
+      "n_dates": 12
+    },
+    "calories_burned": {
+      "mean_epsilon": -0.3361049544112924,
+      "n_dates": 12
+    },
+    "bmi": {
+      "mean_epsilon": -2.0299223853720925,
+      "n_dates": 12
+    }
+  },
+  "8": {
+    "duration_minutes": {
+      "mean_epsilon": 0.0,
+      "n_dates": 12
+    },
+    "avg_heart_rate": {
+      "mean_epsilon": 0.08498285232198281,
+      "n_dates": 12
+    },
+    "resting_heart_rate": {
+      "mean_epsilon": 0.4425867290967634,
+      "n_dates": 12
+    },
+    "fitness_level": {
+      "mean_epsilon": -0.19780021686184948,
+      "n_dates": 12
+    },
+    "calories_burned": {
+      "mean_epsilon": 1.1637777969694183,
+      "n_dates": 12
+    },
+    "bmi": {
+      "mean_epsilon": 1.640127759645565,
+      "n_dates": 12
+    }
+  },
+  "11": {
+    "duration_minutes": {
+      "mean_epsilon": 0.0,
+      "n_dates": 12
+    },
+    "avg_heart_rate": {
+      "mean_epsilon": -0.14029483981541957,
+      "n_dates": 12
+    },
+    "resting_heart_rate": {
+      "mean_epsilon": -0.2609159403481273,
+      "n_dates": 12
+    },
+    "fitness_level": {
+      "mean_epsilon": 0.20199152563633138,
+      "n_dates": 12
+    },
+    "calories_burned": {
+      "mean_epsilon": -0.012620111073717596,
+      "n_dates": 12
+    },
+    "bmi": {
+      "mean_epsilon": -0.14125526558171253,
+      "n_dates": 12
+    }
+  },
+  "26": {
+    "duration_minutes": {
+      "mean_epsilon": 0.0,
+      "n_dates": 12
+    },
+    "avg_heart_rate": {
+      "mean_epsilon": 0.03785242010175364,
+      "n_dates": 12
+    },
+    "resting_heart_rate": {
+      "mean_epsilon": 1.0732262130273365,
+      "n_dates": 12
+    },
+    "fitness_level": {
+      "mean_epsilon": -0.07675366413593081,
+      "n_dates": 12
+    },
+    "calories_burned": {
+      "mean_epsilon": -0.36204279818671675,
+      "n_dates": 12
+    },
+    "bmi": {
+      "mean_epsilon": -1.0862993129416871,
+      "n_dates": 12
+    }
+  },
+  "30": {
+    "duration_minutes": {
+      "mean_epsilon": 0.0,
+      "n_dates": 12
+    },
+    "avg_heart_rate": {
+      "mean_epsilon": 0.042277527179553735,
+      "n_dates": 12
+    },
+    "resting_heart_rate": {
+      "mean_epsilon": 0.7587312751024894,
+      "n_dates": 12
+    },
+    "fitness_level": {
+      "mean_epsilon": 0.050180513758060964,
+      "n_dates": 12
+    },
+    "calories_burned": {
+      "mean_epsilon": -0.4052557300115786,
+      "n_dates": 12
+    },
+    "bmi": {
+      "mean_epsilon": -0.5771585480565287,
+      "n_dates": 12
+    }
+  },
+  "41": {
+    "duration_minutes": {
+      "mean_epsilon": 0.0,
+      "n_dates": 12
+    },
+    "avg_heart_rate": {
+      "mean_epsilon": 0.02390551530471562,
+      "n_dates": 12
+    },
+    "resting_heart_rate": {
+      "mean_epsilon": 1.6772358160694818,
+      "n_dates": 12
+    },
+    "fitness_level": {
+      "mean_epsilon": 0.07977148982840541,
+      "n_dates": 12
+    },
+    "calories_burned": {
+      "mean_epsilon": -0.3559575510963806,
+      "n_dates": 12
+    },
+    "bmi": {
+      "mean_epsilon": -0.1625451621629875,
+      "n_dates": 12
+    }
+  },
+  "108": {
+    "duration_minutes": {
+      "mean_epsilon": 0.0,
+      "n_dates": 12
+    },
+    "avg_heart_rate": {
+      "mean_epsilon": -0.05820691469600154,
+      "n_dates": 12
+    },
+    "resting_heart_rate": {
+      "mean_epsilon": 0.1728259123490531,
+      "n_dates": 12
+    },
+    "fitness_level": {
+      "mean_epsilon": 0.07189865627102647,
+      "n_dates": 12
+    },
+    "calories_burned": {
+      "mean_epsilon": -0.2870748454788672,
+      "n_dates": 12
+    },
+    "bmi": {
+      "mean_epsilon": 0.43182834349517446,
+      "n_dates": 12
+    }
+  },
+  "165": {
+    "duration_minutes": {
+      "mean_epsilon": 0.0,
+      "n_dates": 12
+    },
+    "avg_heart_rate": {
+      "mean_epsilon": 0.027556876863975798,
+      "n_dates": 12
+    },
+    "resting_heart_rate": {
+      "mean_epsilon": 0.8787679475535226,
+      "n_dates": 12
+    },
+    "fitness_level": {
+      "mean_epsilon": -0.0206129070004666,
+      "n_dates": 12
+    },
+    "calories_burned": {
+      "mean_epsilon": -0.3160254431748473,
+      "n_dates": 12
+    },
+    "bmi": {
+      "mean_epsilon": -1.0136308669101968,
+      "n_dates": 12
+    }
+  },
+  "172": {
+    "duration_minutes": {
+      "mean_epsilon": 0.0,
+      "n_dates": 12
+    },
+    "avg_heart_rate": {
+      "mean_epsilon": -0.1312958955317932,
+      "n_dates": 12
+    },
+    "resting_heart_rate": {
+      "mean_epsilon": -0.17638177080894876,
+      "n_dates": 12
+    },
+    "fitness_level": {
+      "mean_epsilon": -0.025130576579569564,
+      "n_dates": 12
+    },
+    "calories_burned": {
+      "mean_epsilon": -0.07805315262596695,
+      "n_dates": 12
+    },
+    "bmi": {
+      "mean_epsilon": 0.6410294251400707,
+      "n_dates": 12
+    }
+  },
+  "262": {
+    "duration_minutes": {
+      "mean_epsilon": 0.0,
+      "n_dates": 12
+    },
+    "avg_heart_rate": {
+      "mean_epsilon": -0.13690355754281477,
+      "n_dates": 12
+    },
+    "resting_heart_rate": {
+      "mean_epsilon": 1.3287581460938693,
+      "n_dates": 12
+    },
+    "fitness_level": {
+      "mean_epsilon": -0.01822149458461052,
+      "n_dates": 12
+    },
+    "calories_burned": {
+      "mean_epsilon": 0.01956959117295805,
+      "n_dates": 12
+    },
+    "bmi": {
+      "mean_epsilon": -0.21277102967551254,
+      "n_dates": 12
+    }
+  }
+}

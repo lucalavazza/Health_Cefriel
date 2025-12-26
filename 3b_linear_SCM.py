@@ -13,6 +13,7 @@ import warnings
 import time
 import json
 import ast
+import math
 warnings.filterwarnings(action='ignore', category=FutureWarning)
 warnings.filterwarnings(action='ignore', category=UserWarning)
 
@@ -35,56 +36,12 @@ OUTPUT_PATH = Path("./linear_scm")
 OUTPUT_PATH.mkdir(parents=True, exist_ok=True)
 with open('/Users/luca_lavazza/Documents/GitHub/Health_Cefriel/linear_scm/scm_coefficients.json', 'w') as file:
     pass
+CATEGORICAL_VARS = {"activity_type", "intensity", "smoking_status", "gender", "date"}
 scm_dict = {}
 pids_personas = [2, 5, 6, 8, 11, 26, 30, 41, 108, 165, 172, 262]
-CATEGORICAL_VARS = {"activity_type", "intensity", "smoking_status", "gender", "date"}
 
-
-# Let's compute the SCM
-start_time_1 = time.time()
-# Cannot use AssignmentQuality = BEST due to compatibility issues with numpy and python 3.8
-print('\n*** SCM with AssignmentQuality = BETTER\n')
-causal_model = InvertibleStructuralCausalModel(G)
-model_perf = gcm.auto.assign_causal_mechanisms(causal_model=causal_model,
-                                               based_on=data,
-                                               quality=AssignmentQuality.BETTER)
-print('\n')
-fitting = gcm.fit(causal_model=causal_model, data=data,
-                  return_evaluation_summary=True)
-with open('./linear_scm/scm.txt', 'a') as f:
-    f.write('}')
-# Import the SCM computed above and define the categorical variables
-with open('linear_scm/scm.txt', 'r') as f:
-    SCM = eval(f.read())
-print('\n*** SCM computed.\n')
-print('*** Elapsed time for SCM computation: ', round(time.time() - start_time_1, 2), 'seconds.\n')
-print(50*'-')
-
-
-# Estimation of linear structural equations (with Ordinary Least Squares (OLS) / Linear Probability Model (LPM))
-# for a given structural causal model (SCM) using a given tabular dataset.
-start_time_2 = time.time()
-print('\n*** Linear SCM computation')
 """
-*** OLS REGRESSION ***
-    OLS regression estimates the relationship between one or more independent variables (predictors) and a dependent
-    variable (response). It accomplishes this by fitting a linear equation to observed data.
-    
-    Here is what that equation looks like: 
-    y = β_0 + β_1*x_1 + ... + β_n*x_n + ε, where
-        - y is the dependent variable;
-        - x1, x2,…, are independent variables;
-        - β_0 is the intercept;
-        - β_i are the coefficients, with n>=1;
-        - ε represents the error term.
-        
-    At the core of OLS regression lies an optimization challenge: finding the line (or hyperplane in higher dimensions)
-    that best fits the data. But what does "best fit" mean? "Best fit" here means minimizing the sum of
-    squared residuals.
-
-*** LPM REGRESSION ***
-    The Linear Probability Model (LPM) is a regression model used when the outcome variable Y is binary (i.e. Y∈{0,1}),
-    which still uses OLS.
+    *** START OF DEFINITIONS
 """
 # Detects whether a variable should be modeled as a binary categorical variable rather than a continuous numeric one.
 # When estimating linear equations, all dependent variables (and ideally independent ones) must be numeric.
@@ -97,13 +54,11 @@ def is_binary_non_numeric(series: pd.Series) -> bool:
     unique_vals = series.dropna().astype(str).unique()
     return len(unique_vals) == 2
 
-
 # Creates the matrix of explanatory (independent) variables that will be used in each linear regression model.
 # Transforms the list of parent (predictor) variables for each structural equation into a numerical, regression-ready
 # matrix — the design matrix X used by OLS.
 # Converts the categorical variables into numerical ones.
-def build_design_matrix(data: pd.DataFrame,
-                        parent_vars: List[str]) -> pd.DataFrame:
+def build_design_matrix(data: pd.DataFrame, parent_vars: List[str]) -> pd.DataFrame:
     # Extract the predictors
     X = data[parent_vars].copy()
     # Identify categorical variables
@@ -116,17 +71,34 @@ def build_design_matrix(data: pd.DataFrame,
     X = sm.add_constant(X, has_constant="add")
     return X
 
+"""
+*** OLS REGRESSION ***
+    OLS regression estimates the relationship between one or more independent variables (predictors) and a dependent
+    variable (response). It accomplishes this by fitting a linear equation to observed data.
 
+    Here is what that equation looks like: 
+    y = β_0 + β_1*x_1 + ... + β_n*x_n + ε, where
+        - y is the dependent variable;
+        - x1, x2,…, are independent variables;
+        - β_0 is the intercept;
+        - β_i are the coefficients, with n>=1;
+        - ε represents the error term.
+
+    At the core of OLS regression lies an optimization challenge: finding the line (or hyperplane in higher dimensions)
+    that best fits the data. But what does "best fit" mean? "Best fit" here means minimizing the sum of
+    squared residuals.
+
+*** LPM REGRESSION ***
+    The Linear Probability Model (LPM) is a regression model used when the outcome variable Y is binary (i.e. Y∈{0,1}),
+    which still uses OLS.
+"""
 # Fit one structural equation in the SCM by regressing the dependent variable on its parent variables.
 # It returns:
 #   - the fitted model,
 #   - a table with coefficient estimates and inference stats,
 #   - the number of observations used,
 #   - a note describing any binary-encoding performed.
-def fit_linear_equation(dataset: pd.DataFrame,
-                        dependent_var: str,
-                        parent_vars: List[str],
-                        robust_cov_type: str = "HC1"):
+def fit_linear_equation(dataset: pd.DataFrame,dependent_var: str,parent_vars: List[str],robust_cov_type: str = "HC1"):
     outcome = dataset[dependent_var]
     note = ""
     if is_binary_non_numeric(outcome):
@@ -154,14 +126,10 @@ def fit_linear_equation(dataset: pd.DataFrame,
     coef = coef.reset_index().rename(columns={"index": "term"})
     return model, coef, len(aligned), note
 
-
 # Transforms numerical regression results into a readable algebraic equation,
 # explicitly including ALL categories for categorical parents and removing the
 # intercept by reparameterizing the model.
-def render_equation(coeff_table: pd.DataFrame,
-                    dependent_var: str,
-                    parent_vars: List[str],
-                    dataset: pd.DataFrame,) -> str:
+def render_equation(coeff_table: pd.DataFrame,dependent_var: str,parent_vars: List[str],dataset: pd.DataFrame,) -> str:
     # Extract intercept
     intercept_row = coeff_table.loc[coeff_table["term"] == "const"]
     intercept = float(intercept_row["coef"].iloc[0]) if not intercept_row.empty else 0.0
@@ -235,61 +203,15 @@ def render_equation(coeff_table: pd.DataFrame,
     scm_dict[dependent_var] = alpha_beta_term_pairs
     return f"{dependent_var} = {rhs} + ε_{dependent_var}"
 
-
-metrics_records = []
-equations = []
-# Iterate through each equation in the SCM
-for dep_var, parent_vars in SCM.items():
-    if dep_var not in data.columns:
-        continue
-    # Fit one linear model per dependent variable
-    model, coef_tbl, nobs, note = fit_linear_equation(
-        data, dep_var, parent_vars, robust_cov_type="HC1"
-    )
-    # Pass parent_vars and the original dataset so we can reconstruct all categories
-    equations.append(
-        render_equation(coef_tbl, dep_var, parent_vars, data)
-    )
-with open('/Users/luca_lavazza/Documents/GitHub/Health_Cefriel/linear_scm/scm_coefficients.json', 'a') as file:
-    file.write(json.dumps(scm_dict, indent=4))
-(OUTPUT_PATH / "algebraic_equations.txt").write_text("\n\n".join(equations))
-print("\n" + "\n".join(equations))
-print('\n\n*** Elapsed time for Linear SCM computation: ', round(time.time() - start_time_2, 2), 'seconds.\n')
-print(50*'-')
-print('\n*** Total execution time: ', round(time.time() - start_time, 2), 'seconds.\nthistthese')
-
-
-# Computing the epsilons
-print(50*'-')
-print(50*'-')
-# First, compute the counterfactuals
-fitness_data_pids = {}
-counterfactual_data_pids = {}
-counterfactual_results_pids = {}
-for pid in pids_personas:
-    fitness_data_pids[pid] = data_testing[data_testing['participant_id'] == pid]
-    counterfactual_data_pids[pid] = gcm.counterfactual_samples(causal_model,
-                                                        {'duration_minutes': lambda x: -3},
-                                                        observed_data=fitness_data_pids[pid])
-    counterfactual_results_pids[pid] = counterfactual_data_pids[pid].to_dict()
-
-with open('/Users/luca_lavazza/Documents/GitHub/Health_Cefriel/linear_scm/cf_results.json', 'w') as file:
-    file.write(json.dumps(counterfactual_results_pids, indent=4))
-print("Counterfactual results exported")
-
-from collections import deque
-import pandas as pd
-
-def compute_linear_scm_counterfactuals(
-    df_test,
-    participant_ids,
-    scm_parent_map,
-    scm_coefficients,
-    intervention,
-    cf_results,
-    pid_col="participant_id",
-    date_col="date",
-):
+# Compute linear-SCM counterfactuals under a given intervention.
+# For each participant:
+#   - applies the specified do-intervention (e.g., duration_minutes = -3)
+#   - recomputes all endogenous variables using the linear SCM coefficients
+#   - propagates effects in causal (topological) order so downstream variables
+#     depend on updated parents
+#   - merges recomputed endogenous values with observed exogenous variables
+def compute_linear_scm_counterfactuals(df_test, participant_ids, scm_parent_map, scm_coefficients,
+                                       intervention, cf_results, pid_col="participant_id", date_col="date", ):
     # ------------------------------------------------------------
     # 1) Topological order over endogenous variables
     # ------------------------------------------------------------
@@ -412,8 +334,182 @@ def compute_linear_scm_counterfactuals(
 
     return results
 
+# Compute epsilon terms for each algebraic equation:
+#         epsilon_Y(t) = Y_cf(t) - Y_linear(t)
+def compute_epsilons(linear_results, cf_results, equation_vars, keep_empty=False):
+    def pid_key(x):
+        # "2" / 2 / 2.0 / "2.0" -> "2"
+        try:
+            xf = float(x)
+            return str(int(xf)) if xf.is_integer() else str(xf)
+        except Exception:
+            return str(x)
+
+    def get_series(block, var):
+        """
+        Extract var-series as a dict idx->value from either:
+          - block[var] = {idx: value}               (series)
+          - block[var] = {col: {idx: value}, ...}   (table_dict)
+        """
+        if block is None or var not in block:
+            return None
+
+        v = block[var]
+
+        # Case 1: already a series dict: keys look like "0","1",...
+        # Heuristic: if any key is a digit-string, treat as series
+        if isinstance(v, dict) and any(str(k).isdigit() for k in v.keys()):
+            return v
+
+        # Case 2: table_dict: need v[var] or v[var] is under columns
+        if isinstance(v, dict) and var in v and isinstance(v[var], dict):
+            return v[var]
+
+        # Case 3: block is itself a table_dict (rare in your codepaths)
+        if isinstance(block, dict) and var in block and isinstance(block[var], dict):
+            return block[var]
+
+        return None
+
+    # Normalize PID key spaces for both dicts
+    linear_by_pid = {pid_key(k): v for k, v in linear_results.items()}
+    cf_by_pid = {pid_key(k): v for k, v in cf_results.items()}
+
+    eps = {}
+
+    for pid in cf_by_pid.keys():
+        if pid not in linear_by_pid:
+            continue
+
+        eps_pid = {}
+        lin_block = linear_by_pid[pid]
+        cf_block = cf_by_pid[pid]
+
+        for Y in equation_vars:
+            s_lin = get_series(lin_block, Y)
+            s_cf = get_series(cf_block, Y)
+
+            if not s_lin or not s_cf:
+                continue
+
+            # Compute on common indices
+            eps_series = {}
+            for idx in s_cf.keys():
+                if idx not in s_lin:
+                    continue
+                try:
+                    y_cf = float(s_cf[idx])
+                    y_lin = float(s_lin[idx])
+                    if math.isnan(y_cf) or math.isnan(y_lin):
+                        continue
+                except Exception:
+                    continue
+                eps_series[str(idx)] = y_cf - y_lin
+
+            if eps_series or keep_empty:
+                eps_pid[Y] = eps_series
+
+        eps[pid] = eps_pid
+
+    return eps
+
+# Compute mean epsilon over dates for each pid and each variable.
+def average_epsilons_over_dates(epsilons, drop_empty=True):
+    means = {}
+
+    for pid, per_var in epsilons.items():
+        pid_out = {}
+
+        for var, per_idx in per_var.items():
+            if not isinstance(per_idx, dict) or len(per_idx) == 0:
+                if not drop_empty:
+                    pid_out[var] = {"mean_epsilon": None, "n_dates": 0}
+                continue
+
+            vals = []
+            for _, e in per_idx.items():
+                try:
+                    vals.append(float(e))
+                except Exception:
+                    continue
+
+            n = len(vals)
+            if n == 0:
+                if not drop_empty:
+                    pid_out[var] = {"mean_epsilon": None, "n_dates": 0}
+                continue
+
+            pid_out[var] = {"mean_epsilon": sum(vals) / n, "n_dates": n}
+
+        if pid_out or not drop_empty:
+            means[pid] = pid_out
+
+    return means
+
+"""
+    *** END OF DEFINITIONS
+"""
 
 
+# Let's compute the SCM
+start_time_1 = time.time()
+# Cannot use AssignmentQuality = BEST due to compatibility issues with numpy and python 3.8
+print('\n*** SCM with AssignmentQuality = BETTER\n')
+causal_model = InvertibleStructuralCausalModel(G)
+model_perf = gcm.auto.assign_causal_mechanisms(causal_model=causal_model, based_on=data, quality=AssignmentQuality.BETTER)
+print('\n')
+fitting = gcm.fit(causal_model=causal_model, data=data, return_evaluation_summary=True)
+with open('./linear_scm/scm.txt', 'a') as f:
+    f.write('}')
+with open('linear_scm/scm.txt', 'r') as f:
+    SCM = eval(f.read())
+print('\n*** SCM computed.\n')
+print('*** Elapsed time for SCM computation: ', round(time.time() - start_time_1, 2), 'seconds.\n')
+print(50*'-')
+
+# Estimation of linear structural equations (with Ordinary Least Squares (OLS) / Linear Probability Model (LPM))
+# for a given structural causal model (SCM) using a given tabular dataset.
+start_time_2 = time.time()
+print('\n*** Linear SCM computation')
+metrics_records = []
+equations = []
+# Iterate through each equation in the SCM
+for dep_var, parent_vars in SCM.items():
+    if dep_var not in data.columns:
+        continue
+    # Fit one linear model per dependent variable
+    model, coef_tbl, nobs, note = fit_linear_equation(
+        data, dep_var, parent_vars, robust_cov_type="HC1"
+    )
+    # Pass parent_vars and the original dataset so we can reconstruct all categories
+    equations.append(
+        render_equation(coef_tbl, dep_var, parent_vars, data)
+    )
+with open('/Users/luca_lavazza/Documents/GitHub/Health_Cefriel/linear_scm/scm_coefficients.json', 'a') as file:
+    file.write(json.dumps(scm_dict, indent=4))
+(OUTPUT_PATH / "algebraic_equations.txt").write_text("\n\n".join(equations))
+print("\n" + "\n".join(equations))
+print('\n\n*** Elapsed time for Linear SCM computation: ', round(time.time() - start_time_2, 2), 'seconds.\n')
+
+# Computing the counterfactuals
+print(50*'-')
+print(50*'-')
+# First, compute the counterfactuals
+fitness_data_pids = {}
+counterfactual_data_pids = {}
+counterfactual_results_pids = {}
+for pid in pids_personas:
+    fitness_data_pids[pid] = data_testing[data_testing['participant_id'] == pid]
+    counterfactual_data_pids[pid] = gcm.counterfactual_samples(causal_model,
+                                                        {'duration_minutes': lambda x: -3},
+                                                        observed_data=fitness_data_pids[pid])
+    counterfactual_results_pids[pid] = counterfactual_data_pids[pid].to_dict()
+with open('/Users/luca_lavazza/Documents/GitHub/Health_Cefriel/linear_scm/cf_results.json', 'w') as file:
+    file.write(json.dumps(counterfactual_results_pids, indent=4))
+print("Counterfactual results exported")
+print(50*'-')
+
+# Substituting the intervention in the SCM to compute the results of the equations
 SCM_TXT_PATH = "./linear_scm/scm.txt"
 SCM_COEFS_PATH = "./linear_scm/scm_coefficients.json"
 CF_RESULTS_PATH = "./linear_scm/cf_results.json"
@@ -425,11 +521,39 @@ with open(SCM_COEFS_PATH, "r") as f:
 with open(CF_RESULTS_PATH, "r") as f:
     cf_results = json.load(f)
 intervention = {"duration_minutes": -3}
-
 eq_results = compute_linear_scm_counterfactuals(data_testing, pids_personas, my_scm, scm_coefficients, intervention, cf_results, pid_col="participant_id", date_col="date",)
-
 with open("/Users/luca_lavazza/Documents/GitHub/Health_Cefriel/linear_scm/linear_cf_results.json", "w") as f:
     json.dump(eq_results, f, indent=4)
+print('Linear SCM values computed')
+print(50*'-')
 
+# Computing the epsilons
+with open("/Users/luca_lavazza/Documents/GitHub/Health_Cefriel/linear_scm/linear_cf_results.json", "r") as f:
+    linear_results = json.load(f)
+with open("/Users/luca_lavazza/Documents/GitHub/Health_Cefriel/linear_scm/cf_results.json", "r") as f:
+    cf_results = json.load(f)
+equation_vars = [
+    "duration_minutes",
+    "avg_heart_rate",
+    "resting_heart_rate",
+    "fitness_level",
+    "calories_burned",
+    "bmi",
+]
+epsilons = compute_epsilons(
+    linear_results=linear_results,
+    cf_results=cf_results,
+    equation_vars=equation_vars,
+)
+with open("/Users/luca_lavazza/Documents/GitHub/Health_Cefriel/linear_scm/epsilon_results.json", "w") as f:
+    json.dump(epsilons, f, indent=4)
+
+with open("/Users/luca_lavazza/Documents/GitHub/Health_Cefriel/linear_scm/epsilon_results.json", "r") as f:
+    eps = json.load(f)
+avg_eps = average_epsilons_over_dates(eps, drop_empty=True)
+with open("/Users/luca_lavazza/Documents/GitHub/Health_Cefriel/linear_scm/epsilon_means_by_pid_and_var.json", "w") as f:
+    json.dump(avg_eps, f, indent=2)
+print('Epsilons computed')
 print(50*'-')
 print(50*'-')
+print('\n*** Total execution time: ', round(time.time() - start_time, 2), 'seconds.\n')
