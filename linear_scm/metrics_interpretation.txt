@@ -1,0 +1,57 @@
+
+=== SCM-Oriented Interpretation ===
+
+Target: avg_heart_rate
+  RMSE: 0.319619
+  MAE:  0.253638
+  R²:   0.897844
+  Interpretation:
+    • Strong structural equation: parents explain most variation.
+    • Mechanism is close to deterministic given the model class.
+------------------------------------------------------------------------
+Target: bmi
+  RMSE: 0.909188
+  MAE:  0.730122
+  R²:   0.173377
+  Interpretation:
+    • Noise-dominated equation under the current parent set.
+    • This is common in causal SCMs; low R² is not necessarily a bug.
+  Scale note:
+    • RMSE near 1 is consistent with standardized/normalized targets.
+------------------------------------------------------------------------
+Target: calories_burned
+  RMSE: 0.742908
+  MAE:  0.577700
+  R²:   0.448087
+  Interpretation:
+    • Moderate equation: parents are informative but not exhaustive.
+    • Omitted drivers / latent causes likely contribute substantially.
+------------------------------------------------------------------------
+Target: duration_minutes
+  RMSE: 0.999930
+  MAE:  0.796856
+  R²:   0.000140
+  Interpretation:
+    • Noise-dominated equation under the current parent set.
+    • This is common in causal SCMs; low R² is not necessarily a bug.
+  Scale note:
+    • RMSE near 1 is consistent with standardized/normalized targets.
+------------------------------------------------------------------------
+Target: fitness_level
+  RMSE: 0.114858
+  MAE:  0.085338
+  R²:   0.986808
+  Interpretation:
+    • Strong structural equation: parents explain most variation.
+    • Mechanism is close to deterministic given the model class.
+------------------------------------------------------------------------
+Target: resting_heart_rate
+  RMSE: 0.999044
+  MAE:  0.799253
+  R²:   0.001911
+  Interpretation:
+    • Noise-dominated equation under the current parent set.
+    • This is common in causal SCMs; low R² is not necessarily a bug.
+  Scale note:
+    • RMSE near 1 is consistent with standardized/normalized targets.
+------------------------------------------------------------------------
