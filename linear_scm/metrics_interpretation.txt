@@ -1,6 +1,23 @@
 
 === SCM-Oriented Interpretation ===
 
+
+RMSE — Root Mean Squared Error
+|___ Lower is better, Best interpreted relative to the scale of the variable
+|___ RMSE ≈ 0 → very accurate equation, Large RMSE does not imply causal incorrectness; it may indicate high intrinsic noise
+MAE — Mean Absolute Error
+|___ Lower is better, More robust to outliers than RMSE
+|___ MAE < RMSE → occasional large errors are present, MAE ≈ RMSE → errors are fairly uniform
+R² — Coefficient of Determination
+|___ Higher is better, Bounded roughly between 0 and 1 (can be negative in poor models)
+|___ R² ≥ 0.75 → strong structural determination by parents, 0.30 ≤ R² < 0.75 → partial determination; omitted causes likely, R² < 0.30 → noise-dominated equation
+
+Key takeaway
+RMSE / MAE tell how wrong predictions are.
+R² tells how structurally informative the causal parents are.
+
+
+
 Target: avg_heart_rate
   RMSE: 0.319619
   MAE:  0.253638

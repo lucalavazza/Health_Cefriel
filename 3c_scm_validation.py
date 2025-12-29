@@ -86,7 +86,7 @@ def parse_equations(path: str | Path) -> Dict[str, Equation]:
 
 
 # ============================================================
-# One-hot reconstruction (full rank, no dropped category)
+# One-hot reconstruction
 # ============================================================
 
 def infer_onehot_structure(equations: Dict[str, Equation]) -> Dict[str, Set[str]]:
@@ -207,7 +207,22 @@ def validate(df_raw: pd.DataFrame, equations: Dict[str, Equation]) -> pd.DataFra
 def interpret(metrics_df: pd.DataFrame) -> None:
     with open('./linear_scm/metrics_interpretation.txt', 'w') as f:
         with redirect_stdout(f):
+
             print("\n=== SCM-Oriented Interpretation ===\n")
+
+            print("\nRMSE — Root Mean Squared Error")
+            print("|___ Lower is better, Best interpreted relative to the scale of the variable")
+            print("|___ RMSE ≈ 0 → very accurate equation, Large RMSE does not imply causal incorrectness; it may indicate high intrinsic noise")
+            print("MAE — Mean Absolute Error")
+            print("|___ Lower is better, More robust to outliers than RMSE")
+            print("|___ MAE < RMSE → occasional large errors are present, MAE ≈ RMSE → errors are fairly uniform")
+            print("R² — Coefficient of Determination")
+            print("|___ Higher is better, Bounded roughly between 0 and 1 (can be negative in poor models)")
+            print("|___ R² ≥ 0.75 → strong structural determination by parents, 0.30 ≤ R² < 0.75 → partial determination; omitted causes likely, R² < 0.30 → noise-dominated equation\n")
+
+            print("Key takeaway")
+            print("RMSE / MAE tell how wrong predictions are.")
+            print("R² tells how structurally informative the causal parents are.\n\n\n")
 
             for _, row in metrics_df.iterrows():
                 target = row["target"]
@@ -240,36 +255,61 @@ def interpret(metrics_df: pd.DataFrame) -> None:
                 print("-" * 72)
 
 
-# ============================================================
-# Main (IDE entry point)
-# ============================================================
+test_path = Path(TEST_CSV)
+eq_path = Path(EQUATIONS_TXT)
+out_path = Path(OUTPUT_CSV)
 
-def main() -> None:
-    test_path = Path(TEST_CSV)
-    eq_path = Path(EQUATIONS_TXT)
-    out_path = Path(OUTPUT_CSV)
+if not test_path.exists():
+    raise FileNotFoundError(f"Test CSV not found: {test_path.resolve()}")
+if not eq_path.exists():
+    raise FileNotFoundError(f"Equations TXT not found: {eq_path.resolve()}")
 
-    if not test_path.exists():
-        raise FileNotFoundError(f"Test CSV not found: {test_path.resolve()}")
-    if not eq_path.exists():
-        raise FileNotFoundError(f"Equations TXT not found: {eq_path.resolve()}")
+# Load data
+df_test = pd.read_csv(test_path)
 
-    # Load data
-    df_test = pd.read_csv(test_path)
+# Parse equations
+equations = parse_equations(eq_path)
 
-    # Parse equations
-    equations = parse_equations(eq_path)
+# Validate
+results = validate(df_test, equations)
 
-    # Validate
-    results = validate(df_test, equations)
+# Save metrics
+results.to_csv(out_path, index=False)
+print(f"\nSaved metrics to: {out_path.resolve()}")
 
-    # Save metrics
-    results.to_csv(out_path, index=False)
-    print(f"\nSaved metrics to: {out_path.resolve()}")
+# Interpretation
+interpret(results)
 
-    # Interpretation
-    interpret(results)
+"""
+1. Very strong equations
+*** fitness_level
+    R² ≈ 0.99
+    Indicates the DAG parents (date, daily_steps, duration_minutes) almost fully determine the variable.
+    This is a near-deterministic structural equation.
+*** avg_heart_rate
+    R² ≈ 0.90
+    Encoding of intensity + age is highly predictive.
+    This is a well-specified linear mechanism.
 
 
-if __name__ == "__main__":
-    main()
+2. Moderate equation
+*** calories_burned
+    R² ≈ 0.45
+    Acceptable for a constrained causal parent set.
+    Suggests omitted drivers (e.g. metabolism, weight, sex) — expected, not an error.
+
+
+3. Weak equations (by design, not bug)
+*** duration_minutes, resting_heart_rate, bmi
+    All three have:
+    - R² ≈ 0
+    - RMSE ≈ 1 (suggesting standardized targets)
+    This implies:
+    - The graph intentionally restricts parents too strongly for predictive power.
+    - Noise dominates the equation — which is perfectly valid in an SCM.
+    - These equations are causally admissible but weakly predictive.
+    - This is exactly what one expects when:
+        - the DAG is learned conservatively,
+        - confounders are omitted by design,
+        - and causal correctness is prioritized over fit.
+"""
