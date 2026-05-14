@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+.DS_Store
+.idea/
+.pytest_cache/
+
+# Generated analysis artifacts
+/data_analysis/
+/graphs/
+/linear_scm/
+/participants/
+/artifacts/
+
+# Generated datasets; keep the raw source dataset in version control
+/datasets/*
+!/datasets/health_fitness_dataset.csv

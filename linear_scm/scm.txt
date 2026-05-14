@@ -1,8 +1,1 @@
 {
-"duration_minutes": ["hours_sleep"],
-"avg_heart_rate": ["age", "intensity"],
-"resting_heart_rate": ["blood_pressure_diastolic", "duration_minutes", "hydration_level", "smoking_status"],
-"fitness_level": ["daily_steps", "date", "duration_minutes"],
-"calories_burned": ["activity_type", "duration_minutes", "fitness_level"],
-"bmi": ["age", "blood_pressure_systolic", "calories_burned"],
-}

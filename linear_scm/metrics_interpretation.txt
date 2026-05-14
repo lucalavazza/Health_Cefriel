@@ -18,57 +18,155 @@ R² tells how structurally informative the causal parents are.
 
 
 
+Target: activity_type
+  RMSE: 0.000000
+  MAE:  0.000000
+  R²:   1.000000
+  Interpretation:
+    • Strong structural equation: parents explain most variation.
+    • Mechanism is close to deterministic given the model class.
+------------------------------------------------------------------------
+Target: age
+  RMSE: 0.000000
+  MAE:  0.000000
+  R²:   1.000000
+  RMSE (original units): 0.000000
+  MAE (original units):  0.000000
+  Interpretation:
+    • Strong structural equation: parents explain most variation.
+    • Mechanism is close to deterministic given the model class.
+------------------------------------------------------------------------
 Target: avg_heart_rate
-  RMSE: 0.319619
-  MAE:  0.253638
+  RMSE: 0.319430
+  MAE:  0.253490
   R²:   0.897844
+  RMSE (original units): 3.405921
+  MAE (original units):  2.702828
+  Interpretation:
+    • Strong structural equation: parents explain most variation.
+    • Mechanism is close to deterministic given the model class.
+------------------------------------------------------------------------
+Target: blood_pressure_diastolic
+  RMSE: 0.000000
+  MAE:  0.000000
+  R²:   1.000000
+  RMSE (original units): 0.000000
+  MAE (original units):  0.000000
+  Interpretation:
+    • Strong structural equation: parents explain most variation.
+    • Mechanism is close to deterministic given the model class.
+------------------------------------------------------------------------
+Target: blood_pressure_systolic
+  RMSE: 0.000000
+  MAE:  0.000000
+  R²:   1.000000
+  RMSE (original units): 0.000000
+  MAE (original units):  0.000000
   Interpretation:
     • Strong structural equation: parents explain most variation.
     • Mechanism is close to deterministic given the model class.
 ------------------------------------------------------------------------
 Target: bmi
-  RMSE: 0.909188
-  MAE:  0.730122
-  R²:   0.173377
+  RMSE: 0.909439
+  MAE:  0.730343
+  R²:   0.173376
+  RMSE (original units): 3.245164
+  MAE (original units):  2.606093
   Interpretation:
     • Noise-dominated equation under the current parent set.
     • This is common in causal SCMs; low R² is not necessarily a bug.
-  Scale note:
-    • RMSE near 1 is consistent with standardized/normalized targets.
 ------------------------------------------------------------------------
 Target: calories_burned
-  RMSE: 0.742908
-  MAE:  0.577700
-  R²:   0.448087
+  RMSE: 0.742698
+  MAE:  0.577544
+  R²:   0.448088
+  RMSE (original units): 3.792886
+  MAE (original units):  2.949459
   Interpretation:
     • Moderate equation: parents are informative but not exhaustive.
     • Omitted drivers / latent causes likely contribute substantially.
 ------------------------------------------------------------------------
+Target: daily_steps
+  RMSE: 0.000000
+  MAE:  0.000000
+  R²:   1.000000
+  RMSE (original units): 0.000000
+  MAE (original units):  0.000000
+  Interpretation:
+    • Strong structural equation: parents explain most variation.
+    • Mechanism is close to deterministic given the model class.
+------------------------------------------------------------------------
+Target: date
+  RMSE: 0.000000
+  MAE:  0.000000
+  R²:   1.000000
+  Interpretation:
+    • Strong structural equation: parents explain most variation.
+    • Mechanism is close to deterministic given the model class.
+------------------------------------------------------------------------
 Target: duration_minutes
-  RMSE: 0.999930
-  MAE:  0.796856
+  RMSE: 0.999622
+  MAE:  0.796610
   R²:   0.000140
+  RMSE (original units): 6.843097
+  MAE (original units):  5.453347
   Interpretation:
     • Noise-dominated equation under the current parent set.
     • This is common in causal SCMs; low R² is not necessarily a bug.
-  Scale note:
-    • RMSE near 1 is consistent with standardized/normalized targets.
 ------------------------------------------------------------------------
 Target: fitness_level
-  RMSE: 0.114858
-  MAE:  0.085338
+  RMSE: 0.114854
+  MAE:  0.085336
   R²:   0.986808
+  RMSE (original units): 0.640006
+  MAE (original units):  0.475519
+  Interpretation:
+    • Strong structural equation: parents explain most variation.
+    • Mechanism is close to deterministic given the model class.
+------------------------------------------------------------------------
+Target: hours_sleep
+  RMSE: 0.000000
+  MAE:  0.000000
+  R²:   1.000000
+  RMSE (original units): 0.000000
+  MAE (original units):  0.000000
+  Interpretation:
+    • Strong structural equation: parents explain most variation.
+    • Mechanism is close to deterministic given the model class.
+------------------------------------------------------------------------
+Target: hydration_level
+  RMSE: 0.000000
+  MAE:  0.000000
+  R²:   1.000000
+  RMSE (original units): 0.000000
+  MAE (original units):  0.000000
+  Interpretation:
+    • Strong structural equation: parents explain most variation.
+    • Mechanism is close to deterministic given the model class.
+------------------------------------------------------------------------
+Target: intensity
+  RMSE: 0.000000
+  MAE:  0.000000
+  R²:   1.000000
   Interpretation:
     • Strong structural equation: parents explain most variation.
     • Mechanism is close to deterministic given the model class.
 ------------------------------------------------------------------------
 Target: resting_heart_rate
-  RMSE: 0.999044
-  MAE:  0.799253
-  R²:   0.001911
+  RMSE: 0.999240
+  MAE:  0.799404
+  R²:   0.001903
+  RMSE (original units): 5.075921
+  MAE (original units):  4.060801
   Interpretation:
     • Noise-dominated equation under the current parent set.
     • This is common in causal SCMs; low R² is not necessarily a bug.
-  Scale note:
-    • RMSE near 1 is consistent with standardized/normalized targets.
+------------------------------------------------------------------------
+Target: smoking_status
+  RMSE: 0.000000
+  MAE:  0.000000
+  R²:   1.000000
+  Interpretation:
+    • Strong structural equation: parents explain most variation.
+    • Mechanism is close to deterministic given the model class.
 ------------------------------------------------------------------------

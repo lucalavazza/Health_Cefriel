@@ -1,3 +1,23 @@
+hours_sleep = (1.0000*hours_sleep)
+
+activity_type = (1.0000*activity_type)
+
+age = (1.0000*age)
+
+intensity = (1.0000*intensity)
+
+blood_pressure_systolic = (1.0000*blood_pressure_systolic)
+
+hydration_level = (1.0000*hydration_level)
+
+blood_pressure_diastolic = (1.0000*blood_pressure_diastolic)
+
+smoking_status = (1.0000*smoking_status)
+
+date = (1.0000*date)
+
+daily_steps = (1.0000*daily_steps)
+
 duration_minutes = (0.0120*hours_sleep) + ε_duration_minutes
 
 avg_heart_rate = (0.1028*intensity_0) + (-0.0829*intensity_1) + (0.0074*intensity_2) + (-0.9452*age) + ε_avg_heart_rate

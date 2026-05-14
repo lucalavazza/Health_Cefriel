@@ -1,0 +1,11 @@
+name: health_cefriel
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - pip
+  - graphviz
+  - pygraphviz
+  - pip:
+      - -r requirements.txt
