@@ -1,6 +1,6 @@
 {
   "data_type": "labelled",
-  "dataset_path": "/Users/luca_lavazza/Documents/GitHub/Health_Cefriel/datasets/labelled_regularised_averaged_health_fitness_dataset_training.csv",
+  "dataset_path": "/Users/geryo/github/P.PaperCode-CefrielLavazza/Code.Lavazza.Health_Cefriel/datasets/labelled_regularised_averaged_health_fitness_dataset_training.csv",
   "row_count": 35856,
   "column_count": 16,
   "random_seed": 7,
@@ -8,14 +8,58 @@
     {
       "method": "pc",
       "cit": "fisherz",
+      "alpha": 0.01,
+      "uc_rule": 0,
+      "uc_priority": 0,
+      "elapsed_seconds": 0.4816,
+      "directed_edge_count": 8,
+      "png_path": "/Users/geryo/github/P.PaperCode-CefrielLavazza/Code.Lavazza.Health_Cefriel/graphs/causallearn/graphs/labelling/PC-labelling/labelling_causal_graph_causal-learn_pc_fisherz_alpha=0.01.png",
+      "pdf_path": "/Users/geryo/github/P.PaperCode-CefrielLavazza/Code.Lavazza.Health_Cefriel/graphs/causallearn/graphs/labelling/PC-labelling/labelling_causal_graph_causal-learn_pc_fisherz_alpha=0.01.pdf",
+      "npy_path": "/Users/geryo/github/P.PaperCode-CefrielLavazza/Code.Lavazza.Health_Cefriel/graphs/causallearn/edges/npy/labelling_causal_graph_causal-learn_pc_fisherz_alpha=0.01.npy",
+      "txt_path": "/Users/geryo/github/P.PaperCode-CefrielLavazza/Code.Lavazza.Health_Cefriel/graphs/causallearn/edges/txt/labelling_causal_graph_causal-learn_pc_fisherz_alpha=0.01.txt"
+    },
+    {
+      "method": "pc",
+      "cit": "fisherz",
       "alpha": 0.05,
       "uc_rule": 0,
       "uc_priority": 0,
-      "elapsed_seconds": 0.2826,
+      "elapsed_seconds": 0.372,
       "directed_edge_count": 16,
-      "png_path": "/Users/luca_lavazza/Documents/GitHub/Health_Cefriel/graphs/causallearn/graphs/labelling/PC-labelling/labelling_causal_graph_causal-learn_pc_fisherz.png",
-      "npy_path": "/Users/luca_lavazza/Documents/GitHub/Health_Cefriel/graphs/causallearn/edges/npy/labelling_causal_graph_causal-learn_pc_fisherz.npy",
-      "txt_path": "/Users/luca_lavazza/Documents/GitHub/Health_Cefriel/graphs/causallearn/edges/txt/labelling_causal_graph_causal-learn_pc_fisherz.txt"
+      "png_path": "/Users/geryo/github/P.PaperCode-CefrielLavazza/Code.Lavazza.Health_Cefriel/graphs/causallearn/graphs/labelling/PC-labelling/labelling_causal_graph_causal-learn_pc_fisherz.png",
+      "pdf_path": "/Users/geryo/github/P.PaperCode-CefrielLavazza/Code.Lavazza.Health_Cefriel/graphs/causallearn/graphs/labelling/PC-labelling/labelling_causal_graph_causal-learn_pc_fisherz.pdf",
+      "npy_path": "/Users/geryo/github/P.PaperCode-CefrielLavazza/Code.Lavazza.Health_Cefriel/graphs/causallearn/edges/npy/labelling_causal_graph_causal-learn_pc_fisherz.npy",
+      "txt_path": "/Users/geryo/github/P.PaperCode-CefrielLavazza/Code.Lavazza.Health_Cefriel/graphs/causallearn/edges/txt/labelling_causal_graph_causal-learn_pc_fisherz.txt"
+    },
+    {
+      "method": "pc",
+      "cit": "fisherz",
+      "alpha": 0.1,
+      "uc_rule": 0,
+      "uc_priority": 0,
+      "elapsed_seconds": 0.4608,
+      "directed_edge_count": 22,
+      "png_path": "/Users/geryo/github/P.PaperCode-CefrielLavazza/Code.Lavazza.Health_Cefriel/graphs/causallearn/graphs/labelling/PC-labelling/labelling_causal_graph_causal-learn_pc_fisherz_alpha=0.10.png",
+      "pdf_path": "/Users/geryo/github/P.PaperCode-CefrielLavazza/Code.Lavazza.Health_Cefriel/graphs/causallearn/graphs/labelling/PC-labelling/labelling_causal_graph_causal-learn_pc_fisherz_alpha=0.10.pdf",
+      "npy_path": "/Users/geryo/github/P.PaperCode-CefrielLavazza/Code.Lavazza.Health_Cefriel/graphs/causallearn/edges/npy/labelling_causal_graph_causal-learn_pc_fisherz_alpha=0.10.npy",
+      "txt_path": "/Users/geryo/github/P.PaperCode-CefrielLavazza/Code.Lavazza.Health_Cefriel/graphs/causallearn/edges/txt/labelling_causal_graph_causal-learn_pc_fisherz_alpha=0.10.txt"
+    },
+    {
+      "method": "ges",
+      "elapsed_seconds": 5.4092,
+      "directed_edge_count": 18,
+      "score": -150028.49320861028,
+      "png_path": "/Users/geryo/github/P.PaperCode-CefrielLavazza/Code.Lavazza.Health_Cefriel/graphs/causallearn/graphs/labelling/GES-labelling/labelling_causal_graph_causal-learn_ges.png",
+      "pdf_path": "/Users/geryo/github/P.PaperCode-CefrielLavazza/Code.Lavazza.Health_Cefriel/graphs/causallearn/graphs/labelling/GES-labelling/labelling_causal_graph_causal-learn_ges.pdf",
+      "npy_path": "/Users/geryo/github/P.PaperCode-CefrielLavazza/Code.Lavazza.Health_Cefriel/graphs/causallearn/edges/npy/labelling_causal_graph_causal-learn_ges.npy",
+      "txt_path": "/Users/geryo/github/P.PaperCode-CefrielLavazza/Code.Lavazza.Health_Cefriel/graphs/causallearn/edges/txt/labelling_causal_graph_causal-learn_ges.txt"
     }
-  ]
+  ],
+  "pc_alpha_sensitivity_summary_csv": "/Users/geryo/github/P.PaperCode-CefrielLavazza/Code.Lavazza.Health_Cefriel/graphs/causallearn/stability/pc_alpha_sensitivity_summary.csv",
+  "pc_alpha_sensitivity_summary_json": "/Users/geryo/github/P.PaperCode-CefrielLavazza/Code.Lavazza.Health_Cefriel/graphs/causallearn/stability/pc_alpha_sensitivity_summary.json",
+  "pc_bootstrap_edge_frequencies_csv": "/Users/geryo/github/P.PaperCode-CefrielLavazza/Code.Lavazza.Health_Cefriel/graphs/causallearn/stability/pc_bootstrap_edge_frequencies.csv",
+  "pc_bootstrap_edge_frequencies_json": "/Users/geryo/github/P.PaperCode-CefrielLavazza/Code.Lavazza.Health_Cefriel/graphs/causallearn/stability/pc_bootstrap_edge_frequencies.json",
+  "pc_bootstrap_edge_plot": "/Users/geryo/github/P.PaperCode-CefrielLavazza/Code.Lavazza.Health_Cefriel/graphs/causallearn/stability/pc_bootstrap_edge_frequencies_top15.pdf",
+  "pc_vs_ges_pathways_csv": "/Users/geryo/github/P.PaperCode-CefrielLavazza/Code.Lavazza.Health_Cefriel/graphs/causallearn/comparison/pc_vs_ges_pathways.csv",
+  "pc_vs_ges_pathways_json": "/Users/geryo/github/P.PaperCode-CefrielLavazza/Code.Lavazza.Health_Cefriel/graphs/causallearn/comparison/pc_vs_ges_pathways.json"
 }

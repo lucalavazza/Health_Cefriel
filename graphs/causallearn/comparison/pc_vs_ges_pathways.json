@@ -1,0 +1,50 @@
+[
+  {
+    "source": "duration_minutes",
+    "target": "calories_burned",
+    "edge": "duration_minutes -> calories_burned",
+    "edge_display": "exercise duration -> calories burned",
+    "present_in_pc": 1,
+    "present_in_ges": 1
+  },
+  {
+    "source": "duration_minutes",
+    "target": "fitness_level",
+    "edge": "duration_minutes -> fitness_level",
+    "edge_display": "exercise duration -> fitness level",
+    "present_in_pc": 1,
+    "present_in_ges": 1
+  },
+  {
+    "source": "activity_type",
+    "target": "calories_burned",
+    "edge": "activity_type -> calories_burned",
+    "edge_display": "activity type -> calories burned",
+    "present_in_pc": 1,
+    "present_in_ges": 1
+  },
+  {
+    "source": "daily_steps",
+    "target": "fitness_level",
+    "edge": "daily_steps -> fitness_level",
+    "edge_display": "daily steps -> fitness level",
+    "present_in_pc": 1,
+    "present_in_ges": 0
+  },
+  {
+    "source": "age",
+    "target": "avg_heart_rate",
+    "edge": "age -> avg_heart_rate",
+    "edge_display": "age -> average heart rate",
+    "present_in_pc": 1,
+    "present_in_ges": 0
+  },
+  {
+    "source": "intensity",
+    "target": "avg_heart_rate",
+    "edge": "intensity -> avg_heart_rate",
+    "edge_display": "intensity -> average heart rate",
+    "present_in_pc": 1,
+    "present_in_ges": 0
+  }
+]

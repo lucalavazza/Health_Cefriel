@@ -30,6 +30,8 @@ CAUSAL_GRAPH_EDGE_PATH = GRAPHS_DIR / "causallearn/edges/npy/labelling_causal_gr
 CAUSALLEARN_GRAPHS_DIR = GRAPHS_DIR / "causallearn/graphs"
 CAUSALLEARN_EDGE_NPY_DIR = GRAPHS_DIR / "causallearn/edges/npy"
 CAUSALLEARN_EDGE_TXT_DIR = GRAPHS_DIR / "causallearn/edges/txt"
+CAUSALLEARN_STABILITY_DIR = GRAPHS_DIR / "causallearn/stability"
+CAUSALLEARN_COMPARISON_DIR = GRAPHS_DIR / "causallearn/comparison"
 COUNTERFACTUALS_DIR = GRAPHS_DIR / "counterfactuals"
 INFLUENCES_DIR = GRAPHS_DIR / "influences"
 TESTS_OUTPUT_DIR = GRAPHS_DIR / "tests"
@@ -88,9 +90,20 @@ CAUSAL_DISCOVERY_DROP_COLUMNS = {
     "labelled": ["participant_id", "height_cm", "weight_kg", "gender", "stress_level", "health_condition"],
 }
 CAUSAL_DISCOVERY_PC_CITS = ["fisherz"]
+CAUSAL_DISCOVERY_PC_ALPHAS = [0.01, 0.05, 0.10]
 CAUSAL_DISCOVERY_PC_ALPHA = 0.05
 CAUSAL_DISCOVERY_PC_UC_RULE = 0
 CAUSAL_DISCOVERY_PC_UC_PRIORITY = 0
+CAUSAL_DISCOVERY_BOOTSTRAP_REPLICATES = 100
+CAUSAL_DISCOVERY_ALT_METHOD = "ges"
+CAUSAL_DISCOVERY_PATHWAY_TARGETS = [
+    ("duration_minutes", "calories_burned"),
+    ("duration_minutes", "fitness_level"),
+    ("activity_type", "calories_burned"),
+    ("daily_steps", "fitness_level"),
+    ("age", "avg_heart_rate"),
+    ("intensity", "avg_heart_rate"),
+]
 
 TIME_SERIES_DROP_COLUMNS = ["participant_id", "height_cm", "weight_kg", "gender", "stress_level", "date"]
 TIME_SERIES_LPCMCI_TAUS = [2]
@@ -125,6 +138,33 @@ DOWHY_BOOTSTRAP_RESAMPLES = 10
 TEST_COUNTERFACTUAL_PID = 42
 INFLUENCE_PID = 6
 INFLUENCE_TARGET_AVG = -0.2
+INFLUENCE_ACTIVITY_TYPE_VALUE = 6
+INFLUENCE_DAILY_STEPS_STANDARDIZED_VALUE = 3.0
+
+DISPLAY_LABELS = {
+    "activity_type": "activity type",
+    "age": "age",
+    "avg_heart_rate": "average heart rate",
+    "blood_pressure_diastolic": "diastolic blood pressure",
+    "blood_pressure_systolic": "systolic blood pressure",
+    "bmi": "BMI",
+    "calories_burned": "calories burned",
+    "daily_steps": "daily steps",
+    "date": "month index",
+    "duration_minutes": "exercise duration",
+    "fitness_level": "fitness level",
+    "gender": "gender",
+    "health_condition": "health condition",
+    "height_cm": "height",
+    "hours_sleep": "hours of sleep",
+    "hydration_level": "hydration level",
+    "intensity": "intensity",
+    "participant_id": "participant ID",
+    "resting_heart_rate": "resting heart rate",
+    "smoking_status": "smoking status",
+    "stress_level": "stress level",
+    "weight_kg": "weight",
+}
 
 
 def load_causal_graph(edges_path: Path = CAUSAL_GRAPH_EDGE_PATH):

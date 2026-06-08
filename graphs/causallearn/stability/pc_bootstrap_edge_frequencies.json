@@ -1,0 +1,930 @@
+[
+  {
+    "source": "activity_type",
+    "target": "calories_burned",
+    "edge": "activity_type -> calories_burned",
+    "edge_display": "activity type -> calories burned",
+    "count": 100,
+    "frequency": 1.0
+  },
+  {
+    "source": "duration_minutes",
+    "target": "calories_burned",
+    "edge": "duration_minutes -> calories_burned",
+    "edge_display": "exercise duration -> calories burned",
+    "count": 99,
+    "frequency": 0.99
+  },
+  {
+    "source": "calories_burned",
+    "target": "bmi",
+    "edge": "calories_burned -> bmi",
+    "edge_display": "calories burned -> BMI",
+    "count": 96,
+    "frequency": 0.96
+  },
+  {
+    "source": "fitness_level",
+    "target": "calories_burned",
+    "edge": "fitness_level -> calories_burned",
+    "edge_display": "fitness level -> calories burned",
+    "count": 89,
+    "frequency": 0.89
+  },
+  {
+    "source": "age",
+    "target": "avg_heart_rate",
+    "edge": "age -> avg_heart_rate",
+    "edge_display": "age -> average heart rate",
+    "count": 89,
+    "frequency": 0.89
+  },
+  {
+    "source": "intensity",
+    "target": "avg_heart_rate",
+    "edge": "intensity -> avg_heart_rate",
+    "edge_display": "intensity -> average heart rate",
+    "count": 89,
+    "frequency": 0.89
+  },
+  {
+    "source": "blood_pressure_diastolic",
+    "target": "smoking_status",
+    "edge": "blood_pressure_diastolic -> smoking_status",
+    "edge_display": "diastolic blood pressure -> smoking status",
+    "count": 82,
+    "frequency": 0.82
+  },
+  {
+    "source": "date",
+    "target": "fitness_level",
+    "edge": "date -> fitness_level",
+    "edge_display": "month index -> fitness level",
+    "count": 80,
+    "frequency": 0.8
+  },
+  {
+    "source": "age",
+    "target": "bmi",
+    "edge": "age -> bmi",
+    "edge_display": "age -> BMI",
+    "count": 80,
+    "frequency": 0.8
+  },
+  {
+    "source": "daily_steps",
+    "target": "fitness_level",
+    "edge": "daily_steps -> fitness_level",
+    "edge_display": "daily steps -> fitness level",
+    "count": 76,
+    "frequency": 0.76
+  },
+  {
+    "source": "bmi",
+    "target": "blood_pressure_systolic",
+    "edge": "bmi -> blood_pressure_systolic",
+    "edge_display": "BMI -> systolic blood pressure",
+    "count": 76,
+    "frequency": 0.76
+  },
+  {
+    "source": "duration_minutes",
+    "target": "fitness_level",
+    "edge": "duration_minutes -> fitness_level",
+    "edge_display": "exercise duration -> fitness level",
+    "count": 75,
+    "frequency": 0.75
+  },
+  {
+    "source": "resting_heart_rate",
+    "target": "smoking_status",
+    "edge": "resting_heart_rate -> smoking_status",
+    "edge_display": "resting heart rate -> smoking status",
+    "count": 66,
+    "frequency": 0.66
+  },
+  {
+    "source": "duration_minutes",
+    "target": "resting_heart_rate",
+    "edge": "duration_minutes -> resting_heart_rate",
+    "edge_display": "exercise duration -> resting heart rate",
+    "count": 59,
+    "frequency": 0.59
+  },
+  {
+    "source": "resting_heart_rate",
+    "target": "blood_pressure_diastolic",
+    "edge": "resting_heart_rate -> blood_pressure_diastolic",
+    "edge_display": "resting heart rate -> diastolic blood pressure",
+    "count": 52,
+    "frequency": 0.52
+  },
+  {
+    "source": "hydration_level",
+    "target": "resting_heart_rate",
+    "edge": "hydration_level -> resting_heart_rate",
+    "edge_display": "hydration level -> resting heart rate",
+    "count": 51,
+    "frequency": 0.51
+  },
+  {
+    "source": "blood_pressure_diastolic",
+    "target": "resting_heart_rate",
+    "edge": "blood_pressure_diastolic -> resting_heart_rate",
+    "edge_display": "diastolic blood pressure -> resting heart rate",
+    "count": 46,
+    "frequency": 0.46
+  },
+  {
+    "source": "resting_heart_rate",
+    "target": "blood_pressure_systolic",
+    "edge": "resting_heart_rate -> blood_pressure_systolic",
+    "edge_display": "resting heart rate -> systolic blood pressure",
+    "count": 46,
+    "frequency": 0.46
+  },
+  {
+    "source": "blood_pressure_systolic",
+    "target": "smoking_status",
+    "edge": "blood_pressure_systolic -> smoking_status",
+    "edge_display": "systolic blood pressure -> smoking status",
+    "count": 43,
+    "frequency": 0.43
+  },
+  {
+    "source": "intensity",
+    "target": "bmi",
+    "edge": "intensity -> bmi",
+    "edge_display": "intensity -> BMI",
+    "count": 42,
+    "frequency": 0.42
+  },
+  {
+    "source": "intensity",
+    "target": "hydration_level",
+    "edge": "intensity -> hydration_level",
+    "edge_display": "intensity -> hydration level",
+    "count": 40,
+    "frequency": 0.4
+  },
+  {
+    "source": "age",
+    "target": "blood_pressure_systolic",
+    "edge": "age -> blood_pressure_systolic",
+    "edge_display": "age -> systolic blood pressure",
+    "count": 36,
+    "frequency": 0.36
+  },
+  {
+    "source": "activity_type",
+    "target": "smoking_status",
+    "edge": "activity_type -> smoking_status",
+    "edge_display": "activity type -> smoking status",
+    "count": 35,
+    "frequency": 0.35
+  },
+  {
+    "source": "duration_minutes",
+    "target": "hours_sleep",
+    "edge": "duration_minutes -> hours_sleep",
+    "edge_display": "exercise duration -> hours of sleep",
+    "count": 33,
+    "frequency": 0.33
+  },
+  {
+    "source": "bmi",
+    "target": "smoking_status",
+    "edge": "bmi -> smoking_status",
+    "edge_display": "BMI -> smoking status",
+    "count": 31,
+    "frequency": 0.31
+  },
+  {
+    "source": "bmi",
+    "target": "blood_pressure_diastolic",
+    "edge": "bmi -> blood_pressure_diastolic",
+    "edge_display": "BMI -> diastolic blood pressure",
+    "count": 28,
+    "frequency": 0.28
+  },
+  {
+    "source": "date",
+    "target": "daily_steps",
+    "edge": "date -> daily_steps",
+    "edge_display": "month index -> daily steps",
+    "count": 27,
+    "frequency": 0.27
+  },
+  {
+    "source": "hours_sleep",
+    "target": "duration_minutes",
+    "edge": "hours_sleep -> duration_minutes",
+    "edge_display": "hours of sleep -> exercise duration",
+    "count": 26,
+    "frequency": 0.26
+  },
+  {
+    "source": "intensity",
+    "target": "resting_heart_rate",
+    "edge": "intensity -> resting_heart_rate",
+    "edge_display": "intensity -> resting heart rate",
+    "count": 24,
+    "frequency": 0.24
+  },
+  {
+    "source": "blood_pressure_systolic",
+    "target": "bmi",
+    "edge": "blood_pressure_systolic -> bmi",
+    "edge_display": "systolic blood pressure -> BMI",
+    "count": 24,
+    "frequency": 0.24
+  },
+  {
+    "source": "hours_sleep",
+    "target": "hydration_level",
+    "edge": "hours_sleep -> hydration_level",
+    "edge_display": "hours of sleep -> hydration level",
+    "count": 23,
+    "frequency": 0.23
+  },
+  {
+    "source": "hours_sleep",
+    "target": "blood_pressure_systolic",
+    "edge": "hours_sleep -> blood_pressure_systolic",
+    "edge_display": "hours of sleep -> systolic blood pressure",
+    "count": 22,
+    "frequency": 0.22
+  },
+  {
+    "source": "hydration_level",
+    "target": "smoking_status",
+    "edge": "hydration_level -> smoking_status",
+    "edge_display": "hydration level -> smoking status",
+    "count": 20,
+    "frequency": 0.2
+  },
+  {
+    "source": "date",
+    "target": "calories_burned",
+    "edge": "date -> calories_burned",
+    "edge_display": "month index -> calories burned",
+    "count": 19,
+    "frequency": 0.19
+  },
+  {
+    "source": "hydration_level",
+    "target": "blood_pressure_systolic",
+    "edge": "hydration_level -> blood_pressure_systolic",
+    "edge_display": "hydration level -> systolic blood pressure",
+    "count": 19,
+    "frequency": 0.19
+  },
+  {
+    "source": "smoking_status",
+    "target": "resting_heart_rate",
+    "edge": "smoking_status -> resting_heart_rate",
+    "edge_display": "smoking status -> resting heart rate",
+    "count": 18,
+    "frequency": 0.18
+  },
+  {
+    "source": "intensity",
+    "target": "blood_pressure_diastolic",
+    "edge": "intensity -> blood_pressure_diastolic",
+    "edge_display": "intensity -> diastolic blood pressure",
+    "count": 16,
+    "frequency": 0.16
+  },
+  {
+    "source": "duration_minutes",
+    "target": "bmi",
+    "edge": "duration_minutes -> bmi",
+    "edge_display": "exercise duration -> BMI",
+    "count": 15,
+    "frequency": 0.15
+  },
+  {
+    "source": "activity_type",
+    "target": "bmi",
+    "edge": "activity_type -> bmi",
+    "edge_display": "activity type -> BMI",
+    "count": 14,
+    "frequency": 0.14
+  },
+  {
+    "source": "activity_type",
+    "target": "hours_sleep",
+    "edge": "activity_type -> hours_sleep",
+    "edge_display": "activity type -> hours of sleep",
+    "count": 12,
+    "frequency": 0.12
+  },
+  {
+    "source": "age",
+    "target": "calories_burned",
+    "edge": "age -> calories_burned",
+    "edge_display": "age -> calories burned",
+    "count": 12,
+    "frequency": 0.12
+  },
+  {
+    "source": "activity_type",
+    "target": "duration_minutes",
+    "edge": "activity_type -> duration_minutes",
+    "edge_display": "activity type -> exercise duration",
+    "count": 12,
+    "frequency": 0.12
+  },
+  {
+    "source": "activity_type",
+    "target": "hydration_level",
+    "edge": "activity_type -> hydration_level",
+    "edge_display": "activity type -> hydration level",
+    "count": 12,
+    "frequency": 0.12
+  },
+  {
+    "source": "intensity",
+    "target": "smoking_status",
+    "edge": "intensity -> smoking_status",
+    "edge_display": "intensity -> smoking status",
+    "count": 11,
+    "frequency": 0.11
+  },
+  {
+    "source": "calories_burned",
+    "target": "fitness_level",
+    "edge": "calories_burned -> fitness_level",
+    "edge_display": "calories burned -> fitness level",
+    "count": 11,
+    "frequency": 0.11
+  },
+  {
+    "source": "hours_sleep",
+    "target": "resting_heart_rate",
+    "edge": "hours_sleep -> resting_heart_rate",
+    "edge_display": "hours of sleep -> resting heart rate",
+    "count": 10,
+    "frequency": 0.1
+  },
+  {
+    "source": "age",
+    "target": "intensity",
+    "edge": "age -> intensity",
+    "edge_display": "age -> intensity",
+    "count": 10,
+    "frequency": 0.1
+  },
+  {
+    "source": "daily_steps",
+    "target": "date",
+    "edge": "daily_steps -> date",
+    "edge_display": "daily steps -> month index",
+    "count": 9,
+    "frequency": 0.09
+  },
+  {
+    "source": "age",
+    "target": "activity_type",
+    "edge": "age -> activity_type",
+    "edge_display": "age -> activity type",
+    "count": 9,
+    "frequency": 0.09
+  },
+  {
+    "source": "duration_minutes",
+    "target": "avg_heart_rate",
+    "edge": "duration_minutes -> avg_heart_rate",
+    "edge_display": "exercise duration -> average heart rate",
+    "count": 9,
+    "frequency": 0.09
+  },
+  {
+    "source": "activity_type",
+    "target": "blood_pressure_systolic",
+    "edge": "activity_type -> blood_pressure_systolic",
+    "edge_display": "activity type -> systolic blood pressure",
+    "count": 9,
+    "frequency": 0.09
+  },
+  {
+    "source": "avg_heart_rate",
+    "target": "intensity",
+    "edge": "avg_heart_rate -> intensity",
+    "edge_display": "average heart rate -> intensity",
+    "count": 8,
+    "frequency": 0.08
+  },
+  {
+    "source": "intensity",
+    "target": "daily_steps",
+    "edge": "intensity -> daily_steps",
+    "edge_display": "intensity -> daily steps",
+    "count": 8,
+    "frequency": 0.08
+  },
+  {
+    "source": "bmi",
+    "target": "resting_heart_rate",
+    "edge": "bmi -> resting_heart_rate",
+    "edge_display": "BMI -> resting heart rate",
+    "count": 8,
+    "frequency": 0.08
+  },
+  {
+    "source": "hydration_level",
+    "target": "intensity",
+    "edge": "hydration_level -> intensity",
+    "edge_display": "hydration level -> intensity",
+    "count": 8,
+    "frequency": 0.08
+  },
+  {
+    "source": "date",
+    "target": "hours_sleep",
+    "edge": "date -> hours_sleep",
+    "edge_display": "month index -> hours of sleep",
+    "count": 7,
+    "frequency": 0.07
+  },
+  {
+    "source": "duration_minutes",
+    "target": "hydration_level",
+    "edge": "duration_minutes -> hydration_level",
+    "edge_display": "exercise duration -> hydration level",
+    "count": 7,
+    "frequency": 0.07
+  },
+  {
+    "source": "activity_type",
+    "target": "blood_pressure_diastolic",
+    "edge": "activity_type -> blood_pressure_diastolic",
+    "edge_display": "activity type -> diastolic blood pressure",
+    "count": 7,
+    "frequency": 0.07
+  },
+  {
+    "source": "activity_type",
+    "target": "daily_steps",
+    "edge": "activity_type -> daily_steps",
+    "edge_display": "activity type -> daily steps",
+    "count": 6,
+    "frequency": 0.06
+  },
+  {
+    "source": "calories_burned",
+    "target": "avg_heart_rate",
+    "edge": "calories_burned -> avg_heart_rate",
+    "edge_display": "calories burned -> average heart rate",
+    "count": 6,
+    "frequency": 0.06
+  },
+  {
+    "source": "duration_minutes",
+    "target": "daily_steps",
+    "edge": "duration_minutes -> daily_steps",
+    "edge_display": "exercise duration -> daily steps",
+    "count": 6,
+    "frequency": 0.06
+  },
+  {
+    "source": "fitness_level",
+    "target": "daily_steps",
+    "edge": "fitness_level -> daily_steps",
+    "edge_display": "fitness level -> daily steps",
+    "count": 6,
+    "frequency": 0.06
+  },
+  {
+    "source": "resting_heart_rate",
+    "target": "fitness_level",
+    "edge": "resting_heart_rate -> fitness_level",
+    "edge_display": "resting heart rate -> fitness level",
+    "count": 6,
+    "frequency": 0.06
+  },
+  {
+    "source": "smoking_status",
+    "target": "blood_pressure_diastolic",
+    "edge": "smoking_status -> blood_pressure_diastolic",
+    "edge_display": "smoking status -> diastolic blood pressure",
+    "count": 5,
+    "frequency": 0.05
+  },
+  {
+    "source": "daily_steps",
+    "target": "hydration_level",
+    "edge": "daily_steps -> hydration_level",
+    "edge_display": "daily steps -> hydration level",
+    "count": 5,
+    "frequency": 0.05
+  },
+  {
+    "source": "duration_minutes",
+    "target": "blood_pressure_systolic",
+    "edge": "duration_minutes -> blood_pressure_systolic",
+    "edge_display": "exercise duration -> systolic blood pressure",
+    "count": 5,
+    "frequency": 0.05
+  },
+  {
+    "source": "intensity",
+    "target": "hours_sleep",
+    "edge": "intensity -> hours_sleep",
+    "edge_display": "intensity -> hours of sleep",
+    "count": 5,
+    "frequency": 0.05
+  },
+  {
+    "source": "hours_sleep",
+    "target": "activity_type",
+    "edge": "hours_sleep -> activity_type",
+    "edge_display": "hours of sleep -> activity type",
+    "count": 5,
+    "frequency": 0.05
+  },
+  {
+    "source": "hours_sleep",
+    "target": "smoking_status",
+    "edge": "hours_sleep -> smoking_status",
+    "edge_display": "hours of sleep -> smoking status",
+    "count": 4,
+    "frequency": 0.04
+  },
+  {
+    "source": "bmi",
+    "target": "age",
+    "edge": "bmi -> age",
+    "edge_display": "BMI -> age",
+    "count": 4,
+    "frequency": 0.04
+  },
+  {
+    "source": "bmi",
+    "target": "calories_burned",
+    "edge": "bmi -> calories_burned",
+    "edge_display": "BMI -> calories burned",
+    "count": 4,
+    "frequency": 0.04
+  },
+  {
+    "source": "duration_minutes",
+    "target": "smoking_status",
+    "edge": "duration_minutes -> smoking_status",
+    "edge_display": "exercise duration -> smoking status",
+    "count": 4,
+    "frequency": 0.04
+  },
+  {
+    "source": "intensity",
+    "target": "blood_pressure_systolic",
+    "edge": "intensity -> blood_pressure_systolic",
+    "edge_display": "intensity -> systolic blood pressure",
+    "count": 4,
+    "frequency": 0.04
+  },
+  {
+    "source": "hours_sleep",
+    "target": "blood_pressure_diastolic",
+    "edge": "hours_sleep -> blood_pressure_diastolic",
+    "edge_display": "hours of sleep -> diastolic blood pressure",
+    "count": 4,
+    "frequency": 0.04
+  },
+  {
+    "source": "daily_steps",
+    "target": "bmi",
+    "edge": "daily_steps -> bmi",
+    "edge_display": "daily steps -> BMI",
+    "count": 4,
+    "frequency": 0.04
+  },
+  {
+    "source": "activity_type",
+    "target": "intensity",
+    "edge": "activity_type -> intensity",
+    "edge_display": "activity type -> intensity",
+    "count": 4,
+    "frequency": 0.04
+  },
+  {
+    "source": "hours_sleep",
+    "target": "date",
+    "edge": "hours_sleep -> date",
+    "edge_display": "hours of sleep -> month index",
+    "count": 3,
+    "frequency": 0.03
+  },
+  {
+    "source": "date",
+    "target": "duration_minutes",
+    "edge": "date -> duration_minutes",
+    "edge_display": "month index -> exercise duration",
+    "count": 3,
+    "frequency": 0.03
+  },
+  {
+    "source": "age",
+    "target": "blood_pressure_diastolic",
+    "edge": "age -> blood_pressure_diastolic",
+    "edge_display": "age -> diastolic blood pressure",
+    "count": 3,
+    "frequency": 0.03
+  },
+  {
+    "source": "hydration_level",
+    "target": "hours_sleep",
+    "edge": "hydration_level -> hours_sleep",
+    "edge_display": "hydration level -> hours of sleep",
+    "count": 3,
+    "frequency": 0.03
+  },
+  {
+    "source": "avg_heart_rate",
+    "target": "blood_pressure_systolic",
+    "edge": "avg_heart_rate -> blood_pressure_systolic",
+    "edge_display": "average heart rate -> systolic blood pressure",
+    "count": 3,
+    "frequency": 0.03
+  },
+  {
+    "source": "hydration_level",
+    "target": "bmi",
+    "edge": "hydration_level -> bmi",
+    "edge_display": "hydration level -> BMI",
+    "count": 3,
+    "frequency": 0.03
+  },
+  {
+    "source": "hydration_level",
+    "target": "blood_pressure_diastolic",
+    "edge": "hydration_level -> blood_pressure_diastolic",
+    "edge_display": "hydration level -> diastolic blood pressure",
+    "count": 3,
+    "frequency": 0.03
+  },
+  {
+    "source": "age",
+    "target": "hydration_level",
+    "edge": "age -> hydration_level",
+    "edge_display": "age -> hydration level",
+    "count": 3,
+    "frequency": 0.03
+  },
+  {
+    "source": "avg_heart_rate",
+    "target": "hydration_level",
+    "edge": "avg_heart_rate -> hydration_level",
+    "edge_display": "average heart rate -> hydration level",
+    "count": 3,
+    "frequency": 0.03
+  },
+  {
+    "source": "intensity",
+    "target": "calories_burned",
+    "edge": "intensity -> calories_burned",
+    "edge_display": "intensity -> calories burned",
+    "count": 2,
+    "frequency": 0.02
+  },
+  {
+    "source": "activity_type",
+    "target": "resting_heart_rate",
+    "edge": "activity_type -> resting_heart_rate",
+    "edge_display": "activity type -> resting heart rate",
+    "count": 2,
+    "frequency": 0.02
+  },
+  {
+    "source": "age",
+    "target": "resting_heart_rate",
+    "edge": "age -> resting_heart_rate",
+    "edge_display": "age -> resting heart rate",
+    "count": 2,
+    "frequency": 0.02
+  },
+  {
+    "source": "calories_burned",
+    "target": "smoking_status",
+    "edge": "calories_burned -> smoking_status",
+    "edge_display": "calories burned -> smoking status",
+    "count": 2,
+    "frequency": 0.02
+  },
+  {
+    "source": "blood_pressure_diastolic",
+    "target": "duration_minutes",
+    "edge": "blood_pressure_diastolic -> duration_minutes",
+    "edge_display": "diastolic blood pressure -> exercise duration",
+    "count": 2,
+    "frequency": 0.02
+  },
+  {
+    "source": "hours_sleep",
+    "target": "bmi",
+    "edge": "hours_sleep -> bmi",
+    "edge_display": "hours of sleep -> BMI",
+    "count": 2,
+    "frequency": 0.02
+  },
+  {
+    "source": "intensity",
+    "target": "age",
+    "edge": "intensity -> age",
+    "edge_display": "intensity -> age",
+    "count": 2,
+    "frequency": 0.02
+  },
+  {
+    "source": "avg_heart_rate",
+    "target": "bmi",
+    "edge": "avg_heart_rate -> bmi",
+    "edge_display": "average heart rate -> BMI",
+    "count": 2,
+    "frequency": 0.02
+  },
+  {
+    "source": "blood_pressure_diastolic",
+    "target": "fitness_level",
+    "edge": "blood_pressure_diastolic -> fitness_level",
+    "edge_display": "diastolic blood pressure -> fitness level",
+    "count": 1,
+    "frequency": 0.01
+  },
+  {
+    "source": "hours_sleep",
+    "target": "fitness_level",
+    "edge": "hours_sleep -> fitness_level",
+    "edge_display": "hours of sleep -> fitness level",
+    "count": 1,
+    "frequency": 0.01
+  },
+  {
+    "source": "calories_burned",
+    "target": "daily_steps",
+    "edge": "calories_burned -> daily_steps",
+    "edge_display": "calories burned -> daily steps",
+    "count": 1,
+    "frequency": 0.01
+  },
+  {
+    "source": "smoking_status",
+    "target": "hydration_level",
+    "edge": "smoking_status -> hydration_level",
+    "edge_display": "smoking status -> hydration level",
+    "count": 1,
+    "frequency": 0.01
+  },
+  {
+    "source": "calories_burned",
+    "target": "duration_minutes",
+    "edge": "calories_burned -> duration_minutes",
+    "edge_display": "calories burned -> exercise duration",
+    "count": 1,
+    "frequency": 0.01
+  },
+  {
+    "source": "blood_pressure_systolic",
+    "target": "fitness_level",
+    "edge": "blood_pressure_systolic -> fitness_level",
+    "edge_display": "systolic blood pressure -> fitness level",
+    "count": 1,
+    "frequency": 0.01
+  },
+  {
+    "source": "avg_heart_rate",
+    "target": "age",
+    "edge": "avg_heart_rate -> age",
+    "edge_display": "average heart rate -> age",
+    "count": 1,
+    "frequency": 0.01
+  },
+  {
+    "source": "hydration_level",
+    "target": "avg_heart_rate",
+    "edge": "hydration_level -> avg_heart_rate",
+    "edge_display": "hydration level -> average heart rate",
+    "count": 1,
+    "frequency": 0.01
+  },
+  {
+    "source": "intensity",
+    "target": "fitness_level",
+    "edge": "intensity -> fitness_level",
+    "edge_display": "intensity -> fitness level",
+    "count": 1,
+    "frequency": 0.01
+  },
+  {
+    "source": "age",
+    "target": "smoking_status",
+    "edge": "age -> smoking_status",
+    "edge_display": "age -> smoking status",
+    "count": 1,
+    "frequency": 0.01
+  },
+  {
+    "source": "smoking_status",
+    "target": "blood_pressure_systolic",
+    "edge": "smoking_status -> blood_pressure_systolic",
+    "edge_display": "smoking status -> systolic blood pressure",
+    "count": 1,
+    "frequency": 0.01
+  },
+  {
+    "source": "blood_pressure_diastolic",
+    "target": "blood_pressure_systolic",
+    "edge": "blood_pressure_diastolic -> blood_pressure_systolic",
+    "edge_display": "diastolic blood pressure -> systolic blood pressure",
+    "count": 1,
+    "frequency": 0.01
+  },
+  {
+    "source": "hydration_level",
+    "target": "activity_type",
+    "edge": "hydration_level -> activity_type",
+    "edge_display": "hydration level -> activity type",
+    "count": 1,
+    "frequency": 0.01
+  },
+  {
+    "source": "bmi",
+    "target": "fitness_level",
+    "edge": "bmi -> fitness_level",
+    "edge_display": "BMI -> fitness level",
+    "count": 1,
+    "frequency": 0.01
+  },
+  {
+    "source": "smoking_status",
+    "target": "duration_minutes",
+    "edge": "smoking_status -> duration_minutes",
+    "edge_display": "smoking status -> exercise duration",
+    "count": 1,
+    "frequency": 0.01
+  },
+  {
+    "source": "blood_pressure_diastolic",
+    "target": "bmi",
+    "edge": "blood_pressure_diastolic -> bmi",
+    "edge_display": "diastolic blood pressure -> BMI",
+    "count": 1,
+    "frequency": 0.01
+  },
+  {
+    "source": "daily_steps",
+    "target": "blood_pressure_systolic",
+    "edge": "daily_steps -> blood_pressure_systolic",
+    "edge_display": "daily steps -> systolic blood pressure",
+    "count": 1,
+    "frequency": 0.01
+  },
+  {
+    "source": "smoking_status",
+    "target": "bmi",
+    "edge": "smoking_status -> bmi",
+    "edge_display": "smoking status -> BMI",
+    "count": 1,
+    "frequency": 0.01
+  },
+  {
+    "source": "duration_minutes",
+    "target": "intensity",
+    "edge": "duration_minutes -> intensity",
+    "edge_display": "exercise duration -> intensity",
+    "count": 1,
+    "frequency": 0.01
+  },
+  {
+    "source": "blood_pressure_systolic",
+    "target": "hours_sleep",
+    "edge": "blood_pressure_systolic -> hours_sleep",
+    "edge_display": "systolic blood pressure -> hours of sleep",
+    "count": 1,
+    "frequency": 0.01
+  },
+  {
+    "source": "avg_heart_rate",
+    "target": "blood_pressure_diastolic",
+    "edge": "avg_heart_rate -> blood_pressure_diastolic",
+    "edge_display": "average heart rate -> diastolic blood pressure",
+    "count": 1,
+    "frequency": 0.01
+  },
+  {
+    "source": "avg_heart_rate",
+    "target": "hours_sleep",
+    "edge": "avg_heart_rate -> hours_sleep",
+    "edge_display": "average heart rate -> hours of sleep",
+    "count": 1,
+    "frequency": 0.01
+  },
+  {
+    "source": "hydration_level",
+    "target": "daily_steps",
+    "edge": "hydration_level -> daily_steps",
+    "edge_display": "hydration level -> daily steps",
+    "count": 1,
+    "frequency": 0.01
+  }
+]

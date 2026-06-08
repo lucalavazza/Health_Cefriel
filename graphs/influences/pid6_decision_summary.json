@@ -1,0 +1,58 @@
+{
+  "participant_id": 6,
+  "activity_type_fixed_to_value": 6,
+  "activity_type_fixed_to_label": "tennis",
+  "daily_steps_fixed_standardized_value": 3.0,
+  "daily_steps_fixed_original_value": 12185.181341825657,
+  "target_avg_calories_burned": 14.225830570225083,
+  "required_duration_change_original_units": 6.503403686483974,
+  "baseline": {
+    "scenario": "baseline",
+    "avg_calories_burned": 12.666666666666666,
+    "avg_exercise_duration": 67.5
+  },
+  "tennis_only": {
+    "scenario": "tennis_only",
+    "avg_calories_burned": 12.709435427940916,
+    "avg_exercise_duration": 67.5
+  },
+  "tennis_steps_fixed": {
+    "scenario": "tennis_steps_fixed",
+    "avg_calories_burned": 12.744125573208004,
+    "avg_exercise_duration": 67.5
+  },
+  "comfortable_change": {
+    "scenario": "comfortable_change",
+    "avg_calories_burned": 14.286559173014643,
+    "avg_exercise_duration": 74.34568809103577
+  },
+  "target_attained": {
+    "scenario": "target_attained",
+    "avg_calories_burned": 14.286559173014643,
+    "avg_exercise_duration": 74.00340368648399
+  },
+  "display_labels": {
+    "activity_type": "activity type",
+    "age": "age",
+    "avg_heart_rate": "average heart rate",
+    "blood_pressure_diastolic": "diastolic blood pressure",
+    "blood_pressure_systolic": "systolic blood pressure",
+    "bmi": "BMI",
+    "calories_burned": "calories burned",
+    "daily_steps": "daily steps",
+    "date": "month index",
+    "duration_minutes": "exercise duration",
+    "fitness_level": "fitness level",
+    "gender": "gender",
+    "health_condition": "health condition",
+    "height_cm": "height",
+    "hours_sleep": "hours of sleep",
+    "hydration_level": "hydration level",
+    "intensity": "intensity",
+    "participant_id": "participant ID",
+    "resting_heart_rate": "resting heart rate",
+    "smoking_status": "smoking status",
+    "stress_level": "stress level",
+    "weight_kg": "weight"
+  }
+}

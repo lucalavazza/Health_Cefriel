@@ -5,11 +5,14 @@ import json
 from pathlib import Path
 
 from pipeline.config import (
+    CAUSALLEARN_COMPARISON_DIR,
     CAUSAL_DISCOVERY_PC_ALPHA,
+    CAUSAL_DISCOVERY_PC_ALPHAS,
     CAUSAL_DISCOVERY_PC_CITS,
     CAUSAL_DISCOVERY_PC_UC_PRIORITY,
     CAUSAL_DISCOVERY_PC_UC_RULE,
     CAUSAL_GRAPH_EDGE_PATH,
+    CAUSALLEARN_STABILITY_DIR,
     COUNTERFACTUALS_DIR,
     INFLUENCE_PID,
     INFLUENCES_DIR,
@@ -70,7 +73,14 @@ def validate_causal_discovery(report: ValidationReport):
         report.error(f"No causal-discovery results listed in {summary_path}")
         return
 
-    primary = results[0]
+    primary = next(
+        (
+            result
+            for result in results
+            if result.get("method") == "pc" and result.get("alpha") == CAUSAL_DISCOVERY_PC_ALPHA
+        ),
+        results[0],
+    )
     for key in ("png_path", "npy_path", "txt_path"):
         if key not in primary:
             report.error(f"Missing '{key}' in {summary_path}")
@@ -105,6 +115,42 @@ def validate_causal_discovery(report: ValidationReport):
             f"Primary causal-discovery uc_priority is {primary.get('uc_priority')}, "
             f"expected {CAUSAL_DISCOVERY_PC_UC_PRIORITY}"
         )
+
+    alpha_results = [result for result in results if result.get("method") == "pc"]
+    found_alphas = sorted(result.get("alpha") for result in alpha_results)
+    if found_alphas != sorted(CAUSAL_DISCOVERY_PC_ALPHAS):
+        report.error(
+            f"PC alpha sweep in {summary_path} is {found_alphas}, expected {sorted(CAUSAL_DISCOVERY_PC_ALPHAS)}"
+        )
+
+    for result in alpha_results:
+        if "pdf_path" not in result:
+            report.error(f"Missing 'pdf_path' in causal-discovery result for alpha={result.get('alpha')}")
+        else:
+            report.require_file(Path(result["pdf_path"]))
+
+    expected_stability_files = [
+        CAUSALLEARN_STABILITY_DIR / "pc_alpha_sensitivity_summary.csv",
+        CAUSALLEARN_STABILITY_DIR / "pc_alpha_sensitivity_summary.json",
+        CAUSALLEARN_STABILITY_DIR / "pc_bootstrap_edge_frequencies.csv",
+        CAUSALLEARN_STABILITY_DIR / "pc_bootstrap_edge_frequencies.json",
+        CAUSALLEARN_STABILITY_DIR / "pc_bootstrap_edge_frequencies_top15.pdf",
+        CAUSALLEARN_COMPARISON_DIR / "pc_vs_ges_pathways.csv",
+        CAUSALLEARN_COMPARISON_DIR / "pc_vs_ges_pathways.json",
+    ]
+    for path in expected_stability_files:
+        report.require_file(path)
+
+    ges_results = [result for result in results if result.get("method") == "ges"]
+    if len(ges_results) != 1:
+        report.error(f"Expected exactly one GES result in {summary_path}, found {len(ges_results)}")
+    else:
+        ges_result = ges_results[0]
+        for key in ("png_path", "pdf_path", "npy_path", "txt_path"):
+            if key not in ges_result:
+                report.error(f"Missing '{key}' in GES result in {summary_path}")
+                continue
+            report.require_file(Path(ges_result[key]))
 
 
 def validate_dowhy_outputs(report: ValidationReport):
@@ -145,6 +191,9 @@ def validate_influence_outputs(report: ValidationReport):
         INFLUENCES_DIR / f"counterfactual-pid={INFLUENCE_PID}_only tennis and set duration + more training.pdf",
         INFLUENCES_DIR / f"counterfactual-pid={INFLUENCE_PID}_only tennis and set duration + exact more training.pdf",
         INFLUENCES_DIR / "iccs_perc_calories_burned.pdf",
+        INFLUENCES_DIR / "pid6_decision_summary.json",
+        INFLUENCES_DIR / "pid6_decision_summary.txt",
+        INFLUENCES_DIR / "pid6_targeted_decision_plan.pdf",
     ]
     for path in expected_files:
         report.require_file(path)

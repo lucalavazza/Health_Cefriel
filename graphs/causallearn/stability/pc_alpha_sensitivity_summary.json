@@ -1,0 +1,242 @@
+[
+  {
+    "source": "activity_type",
+    "target": "calories_burned",
+    "edge": "activity_type -> calories_burned",
+    "edge_display": "activity type -> calories burned",
+    "persistence_count": 3,
+    "alpha_0.01": 1,
+    "alpha_0.05": 1,
+    "alpha_0.10": 1
+  },
+  {
+    "source": "activity_type",
+    "target": "smoking_status",
+    "edge": "activity_type -> smoking_status",
+    "edge_display": "activity type -> smoking status",
+    "persistence_count": 1,
+    "alpha_0.01": 0,
+    "alpha_0.05": 0,
+    "alpha_0.10": 1
+  },
+  {
+    "source": "age",
+    "target": "avg_heart_rate",
+    "edge": "age -> avg_heart_rate",
+    "edge_display": "age -> average heart rate",
+    "persistence_count": 3,
+    "alpha_0.01": 1,
+    "alpha_0.05": 1,
+    "alpha_0.10": 1
+  },
+  {
+    "source": "age",
+    "target": "blood_pressure_systolic",
+    "edge": "age -> blood_pressure_systolic",
+    "edge_display": "age -> systolic blood pressure",
+    "persistence_count": 1,
+    "alpha_0.01": 0,
+    "alpha_0.05": 0,
+    "alpha_0.10": 1
+  },
+  {
+    "source": "age",
+    "target": "bmi",
+    "edge": "age -> bmi",
+    "edge_display": "age -> BMI",
+    "persistence_count": 3,
+    "alpha_0.01": 1,
+    "alpha_0.05": 1,
+    "alpha_0.10": 1
+  },
+  {
+    "source": "blood_pressure_diastolic",
+    "target": "resting_heart_rate",
+    "edge": "blood_pressure_diastolic -> resting_heart_rate",
+    "edge_display": "diastolic blood pressure -> resting heart rate",
+    "persistence_count": 2,
+    "alpha_0.01": 0,
+    "alpha_0.05": 1,
+    "alpha_0.10": 1
+  },
+  {
+    "source": "blood_pressure_diastolic",
+    "target": "smoking_status",
+    "edge": "blood_pressure_diastolic -> smoking_status",
+    "edge_display": "diastolic blood pressure -> smoking status",
+    "persistence_count": 1,
+    "alpha_0.01": 0,
+    "alpha_0.05": 0,
+    "alpha_0.10": 1
+  },
+  {
+    "source": "blood_pressure_systolic",
+    "target": "bmi",
+    "edge": "blood_pressure_systolic -> bmi",
+    "edge_display": "systolic blood pressure -> BMI",
+    "persistence_count": 2,
+    "alpha_0.01": 1,
+    "alpha_0.05": 1,
+    "alpha_0.10": 0
+  },
+  {
+    "source": "blood_pressure_systolic",
+    "target": "smoking_status",
+    "edge": "blood_pressure_systolic -> smoking_status",
+    "edge_display": "systolic blood pressure -> smoking status",
+    "persistence_count": 1,
+    "alpha_0.01": 0,
+    "alpha_0.05": 0,
+    "alpha_0.10": 1
+  },
+  {
+    "source": "bmi",
+    "target": "blood_pressure_systolic",
+    "edge": "bmi -> blood_pressure_systolic",
+    "edge_display": "BMI -> systolic blood pressure",
+    "persistence_count": 1,
+    "alpha_0.01": 0,
+    "alpha_0.05": 0,
+    "alpha_0.10": 1
+  },
+  {
+    "source": "calories_burned",
+    "target": "bmi",
+    "edge": "calories_burned -> bmi",
+    "edge_display": "calories burned -> BMI",
+    "persistence_count": 3,
+    "alpha_0.01": 1,
+    "alpha_0.05": 1,
+    "alpha_0.10": 1
+  },
+  {
+    "source": "daily_steps",
+    "target": "fitness_level",
+    "edge": "daily_steps -> fitness_level",
+    "edge_display": "daily steps -> fitness level",
+    "persistence_count": 2,
+    "alpha_0.01": 0,
+    "alpha_0.05": 1,
+    "alpha_0.10": 1
+  },
+  {
+    "source": "date",
+    "target": "fitness_level",
+    "edge": "date -> fitness_level",
+    "edge_display": "month index -> fitness level",
+    "persistence_count": 2,
+    "alpha_0.01": 0,
+    "alpha_0.05": 1,
+    "alpha_0.10": 1
+  },
+  {
+    "source": "duration_minutes",
+    "target": "calories_burned",
+    "edge": "duration_minutes -> calories_burned",
+    "edge_display": "exercise duration -> calories burned",
+    "persistence_count": 3,
+    "alpha_0.01": 1,
+    "alpha_0.05": 1,
+    "alpha_0.10": 1
+  },
+  {
+    "source": "duration_minutes",
+    "target": "fitness_level",
+    "edge": "duration_minutes -> fitness_level",
+    "edge_display": "exercise duration -> fitness level",
+    "persistence_count": 2,
+    "alpha_0.01": 0,
+    "alpha_0.05": 1,
+    "alpha_0.10": 1
+  },
+  {
+    "source": "duration_minutes",
+    "target": "resting_heart_rate",
+    "edge": "duration_minutes -> resting_heart_rate",
+    "edge_display": "exercise duration -> resting heart rate",
+    "persistence_count": 2,
+    "alpha_0.01": 0,
+    "alpha_0.05": 1,
+    "alpha_0.10": 1
+  },
+  {
+    "source": "fitness_level",
+    "target": "calories_burned",
+    "edge": "fitness_level -> calories_burned",
+    "edge_display": "fitness level -> calories burned",
+    "persistence_count": 3,
+    "alpha_0.01": 1,
+    "alpha_0.05": 1,
+    "alpha_0.10": 1
+  },
+  {
+    "source": "hours_sleep",
+    "target": "duration_minutes",
+    "edge": "hours_sleep -> duration_minutes",
+    "edge_display": "hours of sleep -> exercise duration",
+    "persistence_count": 2,
+    "alpha_0.01": 0,
+    "alpha_0.05": 1,
+    "alpha_0.10": 1
+  },
+  {
+    "source": "hydration_level",
+    "target": "resting_heart_rate",
+    "edge": "hydration_level -> resting_heart_rate",
+    "edge_display": "hydration level -> resting heart rate",
+    "persistence_count": 2,
+    "alpha_0.01": 0,
+    "alpha_0.05": 1,
+    "alpha_0.10": 1
+  },
+  {
+    "source": "intensity",
+    "target": "avg_heart_rate",
+    "edge": "intensity -> avg_heart_rate",
+    "edge_display": "intensity -> average heart rate",
+    "persistence_count": 3,
+    "alpha_0.01": 1,
+    "alpha_0.05": 1,
+    "alpha_0.10": 1
+  },
+  {
+    "source": "intensity",
+    "target": "bmi",
+    "edge": "intensity -> bmi",
+    "edge_display": "intensity -> BMI",
+    "persistence_count": 1,
+    "alpha_0.01": 0,
+    "alpha_0.05": 0,
+    "alpha_0.10": 1
+  },
+  {
+    "source": "intensity",
+    "target": "hydration_level",
+    "edge": "intensity -> hydration_level",
+    "edge_display": "intensity -> hydration level",
+    "persistence_count": 1,
+    "alpha_0.01": 0,
+    "alpha_0.05": 0,
+    "alpha_0.10": 1
+  },
+  {
+    "source": "resting_heart_rate",
+    "target": "smoking_status",
+    "edge": "resting_heart_rate -> smoking_status",
+    "edge_display": "resting heart rate -> smoking status",
+    "persistence_count": 1,
+    "alpha_0.01": 0,
+    "alpha_0.05": 0,
+    "alpha_0.10": 1
+  },
+  {
+    "source": "smoking_status",
+    "target": "resting_heart_rate",
+    "edge": "smoking_status -> resting_heart_rate",
+    "edge_display": "smoking status -> resting heart rate",
+    "persistence_count": 1,
+    "alpha_0.01": 0,
+    "alpha_0.05": 1,
+    "alpha_0.10": 0
+  }
+]

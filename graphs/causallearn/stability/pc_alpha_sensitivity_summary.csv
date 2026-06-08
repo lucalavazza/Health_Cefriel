@@ -1,0 +1,25 @@
+source,target,edge,edge_display,persistence_count,alpha_0.01,alpha_0.05,alpha_0.10
+activity_type,calories_burned,activity_type -> calories_burned,activity type -> calories burned,3,1,1,1
+activity_type,smoking_status,activity_type -> smoking_status,activity type -> smoking status,1,0,0,1
+age,avg_heart_rate,age -> avg_heart_rate,age -> average heart rate,3,1,1,1
+age,blood_pressure_systolic,age -> blood_pressure_systolic,age -> systolic blood pressure,1,0,0,1
+age,bmi,age -> bmi,age -> BMI,3,1,1,1
+blood_pressure_diastolic,resting_heart_rate,blood_pressure_diastolic -> resting_heart_rate,diastolic blood pressure -> resting heart rate,2,0,1,1
+blood_pressure_diastolic,smoking_status,blood_pressure_diastolic -> smoking_status,diastolic blood pressure -> smoking status,1,0,0,1
+blood_pressure_systolic,bmi,blood_pressure_systolic -> bmi,systolic blood pressure -> BMI,2,1,1,0
+blood_pressure_systolic,smoking_status,blood_pressure_systolic -> smoking_status,systolic blood pressure -> smoking status,1,0,0,1
+bmi,blood_pressure_systolic,bmi -> blood_pressure_systolic,BMI -> systolic blood pressure,1,0,0,1
+calories_burned,bmi,calories_burned -> bmi,calories burned -> BMI,3,1,1,1
+daily_steps,fitness_level,daily_steps -> fitness_level,daily steps -> fitness level,2,0,1,1
+date,fitness_level,date -> fitness_level,month index -> fitness level,2,0,1,1
+duration_minutes,calories_burned,duration_minutes -> calories_burned,exercise duration -> calories burned,3,1,1,1
+duration_minutes,fitness_level,duration_minutes -> fitness_level,exercise duration -> fitness level,2,0,1,1
+duration_minutes,resting_heart_rate,duration_minutes -> resting_heart_rate,exercise duration -> resting heart rate,2,0,1,1
+fitness_level,calories_burned,fitness_level -> calories_burned,fitness level -> calories burned,3,1,1,1
+hours_sleep,duration_minutes,hours_sleep -> duration_minutes,hours of sleep -> exercise duration,2,0,1,1
+hydration_level,resting_heart_rate,hydration_level -> resting_heart_rate,hydration level -> resting heart rate,2,0,1,1
+intensity,avg_heart_rate,intensity -> avg_heart_rate,intensity -> average heart rate,3,1,1,1
+intensity,bmi,intensity -> bmi,intensity -> BMI,1,0,0,1
+intensity,hydration_level,intensity -> hydration_level,intensity -> hydration level,1,0,0,1
+resting_heart_rate,smoking_status,resting_heart_rate -> smoking_status,resting heart rate -> smoking status,1,0,0,1
+smoking_status,resting_heart_rate,smoking_status -> resting_heart_rate,smoking status -> resting heart rate,1,0,1,0

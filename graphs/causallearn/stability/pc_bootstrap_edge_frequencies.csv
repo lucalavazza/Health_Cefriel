@@ -1,0 +1,117 @@
+source,target,edge,edge_display,count,frequency
+activity_type,calories_burned,activity_type -> calories_burned,activity type -> calories burned,100,1.0
+duration_minutes,calories_burned,duration_minutes -> calories_burned,exercise duration -> calories burned,99,0.99
+calories_burned,bmi,calories_burned -> bmi,calories burned -> BMI,96,0.96
+fitness_level,calories_burned,fitness_level -> calories_burned,fitness level -> calories burned,89,0.89
+age,avg_heart_rate,age -> avg_heart_rate,age -> average heart rate,89,0.89
+intensity,avg_heart_rate,intensity -> avg_heart_rate,intensity -> average heart rate,89,0.89
+blood_pressure_diastolic,smoking_status,blood_pressure_diastolic -> smoking_status,diastolic blood pressure -> smoking status,82,0.82
+date,fitness_level,date -> fitness_level,month index -> fitness level,80,0.8
+age,bmi,age -> bmi,age -> BMI,80,0.8
+daily_steps,fitness_level,daily_steps -> fitness_level,daily steps -> fitness level,76,0.76
+bmi,blood_pressure_systolic,bmi -> blood_pressure_systolic,BMI -> systolic blood pressure,76,0.76
+duration_minutes,fitness_level,duration_minutes -> fitness_level,exercise duration -> fitness level,75,0.75
+resting_heart_rate,smoking_status,resting_heart_rate -> smoking_status,resting heart rate -> smoking status,66,0.66
+duration_minutes,resting_heart_rate,duration_minutes -> resting_heart_rate,exercise duration -> resting heart rate,59,0.59
+resting_heart_rate,blood_pressure_diastolic,resting_heart_rate -> blood_pressure_diastolic,resting heart rate -> diastolic blood pressure,52,0.52
+hydration_level,resting_heart_rate,hydration_level -> resting_heart_rate,hydration level -> resting heart rate,51,0.51
+blood_pressure_diastolic,resting_heart_rate,blood_pressure_diastolic -> resting_heart_rate,diastolic blood pressure -> resting heart rate,46,0.46
+resting_heart_rate,blood_pressure_systolic,resting_heart_rate -> blood_pressure_systolic,resting heart rate -> systolic blood pressure,46,0.46
+blood_pressure_systolic,smoking_status,blood_pressure_systolic -> smoking_status,systolic blood pressure -> smoking status,43,0.43
+intensity,bmi,intensity -> bmi,intensity -> BMI,42,0.42
+intensity,hydration_level,intensity -> hydration_level,intensity -> hydration level,40,0.4
+age,blood_pressure_systolic,age -> blood_pressure_systolic,age -> systolic blood pressure,36,0.36
+activity_type,smoking_status,activity_type -> smoking_status,activity type -> smoking status,35,0.35
+duration_minutes,hours_sleep,duration_minutes -> hours_sleep,exercise duration -> hours of sleep,33,0.33
+bmi,smoking_status,bmi -> smoking_status,BMI -> smoking status,31,0.31
+bmi,blood_pressure_diastolic,bmi -> blood_pressure_diastolic,BMI -> diastolic blood pressure,28,0.28
+date,daily_steps,date -> daily_steps,month index -> daily steps,27,0.27
+hours_sleep,duration_minutes,hours_sleep -> duration_minutes,hours of sleep -> exercise duration,26,0.26
+intensity,resting_heart_rate,intensity -> resting_heart_rate,intensity -> resting heart rate,24,0.24
+blood_pressure_systolic,bmi,blood_pressure_systolic -> bmi,systolic blood pressure -> BMI,24,0.24
+hours_sleep,hydration_level,hours_sleep -> hydration_level,hours of sleep -> hydration level,23,0.23
+hours_sleep,blood_pressure_systolic,hours_sleep -> blood_pressure_systolic,hours of sleep -> systolic blood pressure,22,0.22
+hydration_level,smoking_status,hydration_level -> smoking_status,hydration level -> smoking status,20,0.2
+date,calories_burned,date -> calories_burned,month index -> calories burned,19,0.19
+hydration_level,blood_pressure_systolic,hydration_level -> blood_pressure_systolic,hydration level -> systolic blood pressure,19,0.19
+smoking_status,resting_heart_rate,smoking_status -> resting_heart_rate,smoking status -> resting heart rate,18,0.18
+intensity,blood_pressure_diastolic,intensity -> blood_pressure_diastolic,intensity -> diastolic blood pressure,16,0.16
+duration_minutes,bmi,duration_minutes -> bmi,exercise duration -> BMI,15,0.15
+activity_type,bmi,activity_type -> bmi,activity type -> BMI,14,0.14
+activity_type,hours_sleep,activity_type -> hours_sleep,activity type -> hours of sleep,12,0.12
+age,calories_burned,age -> calories_burned,age -> calories burned,12,0.12
+activity_type,duration_minutes,activity_type -> duration_minutes,activity type -> exercise duration,12,0.12
+activity_type,hydration_level,activity_type -> hydration_level,activity type -> hydration level,12,0.12
+intensity,smoking_status,intensity -> smoking_status,intensity -> smoking status,11,0.11
+calories_burned,fitness_level,calories_burned -> fitness_level,calories burned -> fitness level,11,0.11
+hours_sleep,resting_heart_rate,hours_sleep -> resting_heart_rate,hours of sleep -> resting heart rate,10,0.1
+age,intensity,age -> intensity,age -> intensity,10,0.1
+daily_steps,date,daily_steps -> date,daily steps -> month index,9,0.09
+age,activity_type,age -> activity_type,age -> activity type,9,0.09
+duration_minutes,avg_heart_rate,duration_minutes -> avg_heart_rate,exercise duration -> average heart rate,9,0.09
+activity_type,blood_pressure_systolic,activity_type -> blood_pressure_systolic,activity type -> systolic blood pressure,9,0.09
+avg_heart_rate,intensity,avg_heart_rate -> intensity,average heart rate -> intensity,8,0.08
+intensity,daily_steps,intensity -> daily_steps,intensity -> daily steps,8,0.08
+bmi,resting_heart_rate,bmi -> resting_heart_rate,BMI -> resting heart rate,8,0.08
+hydration_level,intensity,hydration_level -> intensity,hydration level -> intensity,8,0.08
+date,hours_sleep,date -> hours_sleep,month index -> hours of sleep,7,0.07
+duration_minutes,hydration_level,duration_minutes -> hydration_level,exercise duration -> hydration level,7,0.07
+activity_type,blood_pressure_diastolic,activity_type -> blood_pressure_diastolic,activity type -> diastolic blood pressure,7,0.07
+activity_type,daily_steps,activity_type -> daily_steps,activity type -> daily steps,6,0.06
+calories_burned,avg_heart_rate,calories_burned -> avg_heart_rate,calories burned -> average heart rate,6,0.06
+duration_minutes,daily_steps,duration_minutes -> daily_steps,exercise duration -> daily steps,6,0.06
+fitness_level,daily_steps,fitness_level -> daily_steps,fitness level -> daily steps,6,0.06
+resting_heart_rate,fitness_level,resting_heart_rate -> fitness_level,resting heart rate -> fitness level,6,0.06
+smoking_status,blood_pressure_diastolic,smoking_status -> blood_pressure_diastolic,smoking status -> diastolic blood pressure,5,0.05
+daily_steps,hydration_level,daily_steps -> hydration_level,daily steps -> hydration level,5,0.05
+duration_minutes,blood_pressure_systolic,duration_minutes -> blood_pressure_systolic,exercise duration -> systolic blood pressure,5,0.05
+intensity,hours_sleep,intensity -> hours_sleep,intensity -> hours of sleep,5,0.05
+hours_sleep,activity_type,hours_sleep -> activity_type,hours of sleep -> activity type,5,0.05
+hours_sleep,smoking_status,hours_sleep -> smoking_status,hours of sleep -> smoking status,4,0.04
+bmi,age,bmi -> age,BMI -> age,4,0.04
+bmi,calories_burned,bmi -> calories_burned,BMI -> calories burned,4,0.04
+duration_minutes,smoking_status,duration_minutes -> smoking_status,exercise duration -> smoking status,4,0.04
+intensity,blood_pressure_systolic,intensity -> blood_pressure_systolic,intensity -> systolic blood pressure,4,0.04
+hours_sleep,blood_pressure_diastolic,hours_sleep -> blood_pressure_diastolic,hours of sleep -> diastolic blood pressure,4,0.04
+daily_steps,bmi,daily_steps -> bmi,daily steps -> BMI,4,0.04
+activity_type,intensity,activity_type -> intensity,activity type -> intensity,4,0.04
+hours_sleep,date,hours_sleep -> date,hours of sleep -> month index,3,0.03
+date,duration_minutes,date -> duration_minutes,month index -> exercise duration,3,0.03
+age,blood_pressure_diastolic,age -> blood_pressure_diastolic,age -> diastolic blood pressure,3,0.03
+hydration_level,hours_sleep,hydration_level -> hours_sleep,hydration level -> hours of sleep,3,0.03
+avg_heart_rate,blood_pressure_systolic,avg_heart_rate -> blood_pressure_systolic,average heart rate -> systolic blood pressure,3,0.03
+hydration_level,bmi,hydration_level -> bmi,hydration level -> BMI,3,0.03
+hydration_level,blood_pressure_diastolic,hydration_level -> blood_pressure_diastolic,hydration level -> diastolic blood pressure,3,0.03
+age,hydration_level,age -> hydration_level,age -> hydration level,3,0.03
+avg_heart_rate,hydration_level,avg_heart_rate -> hydration_level,average heart rate -> hydration level,3,0.03
+intensity,calories_burned,intensity -> calories_burned,intensity -> calories burned,2,0.02
+activity_type,resting_heart_rate,activity_type -> resting_heart_rate,activity type -> resting heart rate,2,0.02
+age,resting_heart_rate,age -> resting_heart_rate,age -> resting heart rate,2,0.02
+calories_burned,smoking_status,calories_burned -> smoking_status,calories burned -> smoking status,2,0.02
+blood_pressure_diastolic,duration_minutes,blood_pressure_diastolic -> duration_minutes,diastolic blood pressure -> exercise duration,2,0.02
+hours_sleep,bmi,hours_sleep -> bmi,hours of sleep -> BMI,2,0.02
+intensity,age,intensity -> age,intensity -> age,2,0.02
+avg_heart_rate,bmi,avg_heart_rate -> bmi,average heart rate -> BMI,2,0.02
+blood_pressure_diastolic,fitness_level,blood_pressure_diastolic -> fitness_level,diastolic blood pressure -> fitness level,1,0.01
+hours_sleep,fitness_level,hours_sleep -> fitness_level,hours of sleep -> fitness level,1,0.01
+calories_burned,daily_steps,calories_burned -> daily_steps,calories burned -> daily steps,1,0.01
+smoking_status,hydration_level,smoking_status -> hydration_level,smoking status -> hydration level,1,0.01
+calories_burned,duration_minutes,calories_burned -> duration_minutes,calories burned -> exercise duration,1,0.01
+blood_pressure_systolic,fitness_level,blood_pressure_systolic -> fitness_level,systolic blood pressure -> fitness level,1,0.01
+avg_heart_rate,age,avg_heart_rate -> age,average heart rate -> age,1,0.01
+hydration_level,avg_heart_rate,hydration_level -> avg_heart_rate,hydration level -> average heart rate,1,0.01
+intensity,fitness_level,intensity -> fitness_level,intensity -> fitness level,1,0.01
+age,smoking_status,age -> smoking_status,age -> smoking status,1,0.01
+smoking_status,blood_pressure_systolic,smoking_status -> blood_pressure_systolic,smoking status -> systolic blood pressure,1,0.01
+blood_pressure_diastolic,blood_pressure_systolic,blood_pressure_diastolic -> blood_pressure_systolic,diastolic blood pressure -> systolic blood pressure,1,0.01
+hydration_level,activity_type,hydration_level -> activity_type,hydration level -> activity type,1,0.01
+bmi,fitness_level,bmi -> fitness_level,BMI -> fitness level,1,0.01
+smoking_status,duration_minutes,smoking_status -> duration_minutes,smoking status -> exercise duration,1,0.01
+blood_pressure_diastolic,bmi,blood_pressure_diastolic -> bmi,diastolic blood pressure -> BMI,1,0.01
+daily_steps,blood_pressure_systolic,daily_steps -> blood_pressure_systolic,daily steps -> systolic blood pressure,1,0.01
+smoking_status,bmi,smoking_status -> bmi,smoking status -> BMI,1,0.01
+duration_minutes,intensity,duration_minutes -> intensity,exercise duration -> intensity,1,0.01
+blood_pressure_systolic,hours_sleep,blood_pressure_systolic -> hours_sleep,systolic blood pressure -> hours of sleep,1,0.01
+avg_heart_rate,blood_pressure_diastolic,avg_heart_rate -> blood_pressure_diastolic,average heart rate -> diastolic blood pressure,1,0.01
+avg_heart_rate,hours_sleep,avg_heart_rate -> hours_sleep,average heart rate -> hours of sleep,1,0.01
+hydration_level,daily_steps,hydration_level -> daily_steps,hydration level -> daily steps,1,0.01

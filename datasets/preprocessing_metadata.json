@@ -1,0 +1,130 @@
+{
+  "scaled_numeric_columns": {
+    "age": {
+      "mean": 41.62382864792503,
+      "scale": 13.600033262916392
+    },
+    "duration_minutes": {
+      "mean": 69.53670236501561,
+      "scale": 6.845688091035771
+    },
+    "calories_burned": {
+      "mean": 15.247211066488175,
+      "scale": 5.106902481315461
+    },
+    "avg_heart_rate": {
+      "mean": 131.00568942436414,
+      "scale": 10.662483543458345
+    },
+    "hours_sleep": {
+      "mean": 7.048362896028559,
+      "scale": 0.2275381715967745
+    },
+    "stress_level": {
+      "mean": 5.252955990629183,
+      "scale": 0.6508156587800661
+    },
+    "daily_steps": {
+      "mean": 8456.015701695671,
+      "scale": 1243.055213376662
+    },
+    "hydration_level": {
+      "mean": 2.4995819388665774,
+      "scale": 0.13530660322370583
+    },
+    "bmi": {
+      "mean": 22.729518072289153,
+      "scale": 3.568315710534625
+    },
+    "resting_heart_rate": {
+      "mean": 69.53681392235609,
+      "scale": 5.079783488562905
+    },
+    "blood_pressure_systolic": {
+      "mean": 119.53614457831326,
+      "scale": 9.990475658213516
+    },
+    "blood_pressure_diastolic": {
+      "mean": 79.73728246318608,
+      "scale": 8.260176206051565
+    },
+    "fitness_level": {
+      "mean": 10.237076360999554,
+      "scale": 5.572336250323767
+    }
+  },
+  "label_mappings": {
+    "activity_type": {
+      "Basketball": 0,
+      "Cycling": 1,
+      "Dancing": 2,
+      "HIIT": 3,
+      "Running": 4,
+      "Swimming": 5,
+      "Tennis": 6,
+      "Walking": 7,
+      "Weight Training": 8,
+      "Yoga": 9
+    },
+    "intensity": {
+      "High": 0,
+      "Low": 1,
+      "Medium": 2
+    }
+  },
+  "one_hot_columns": [
+    "participant_id",
+    "date",
+    "age",
+    "height_cm",
+    "weight_kg",
+    "duration_minutes",
+    "calories_burned",
+    "avg_heart_rate",
+    "hours_sleep",
+    "stress_level",
+    "daily_steps",
+    "hydration_level",
+    "bmi",
+    "resting_heart_rate",
+    "blood_pressure_systolic",
+    "blood_pressure_diastolic",
+    "fitness_level",
+    "gender_F",
+    "gender_M",
+    "gender_Other",
+    "activity_type_Basketball",
+    "activity_type_Cycling",
+    "activity_type_Dancing",
+    "activity_type_HIIT",
+    "activity_type_Running",
+    "activity_type_Swimming",
+    "activity_type_Tennis",
+    "activity_type_Walking",
+    "activity_type_Weight Training",
+    "activity_type_Yoga",
+    "intensity_High",
+    "intensity_Low",
+    "intensity_Medium",
+    "health_condition_Asthma",
+    "health_condition_Diabetes",
+    "health_condition_Hypertension",
+    "health_condition_None",
+    "smoking_status_Current",
+    "smoking_status_Former",
+    "smoking_status_Never"
+  ],
+  "categorical_columns": [
+    "gender",
+    "activity_type",
+    "intensity",
+    "health_condition",
+    "smoking_status"
+  ],
+  "excluded_numeric_columns": [
+    "date",
+    "participant_id",
+    "height_cm",
+    "weight_kg"
+  ]
+}
