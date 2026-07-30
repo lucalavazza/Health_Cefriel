@@ -9,5 +9,6 @@
 - Agreement comparison based on 600/600 participants per outcome; missing GCM predictions: 0.
 - Representative figure contains both models and both conditions: yes.
 - All output checksums match across clean runs: yes.
+- Counterfactual evaluation semantics: paired individual counterfactual effects with shared inferred exogenous noise.
 - Non-zero downstream intervention effects: yes.
 - Remaining submission blockers: none identified by the canonical run.

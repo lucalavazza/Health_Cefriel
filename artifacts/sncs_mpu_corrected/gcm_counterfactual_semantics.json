@@ -1,0 +1,15 @@
+{
+  "baseline_and_intervention_order_match": true,
+  "baseline_function": "dowhy.gcm.counterfactual_samples",
+  "causal_model_class": "InvertibleStructuralCausalModel",
+  "evaluation_type": "paired individual counterfactual effects",
+  "independent_sampling_between_conditions": false,
+  "intervened_function": "dowhy.gcm.counterfactual_samples",
+  "is_invertible_structural_causal_model": true,
+  "noise_inference_function": "dowhy.gcm.fitting_sampling.compute_noise_from_data",
+  "noise_inferred_separately_per_participant": true,
+  "noise_row_count": 600,
+  "observed_heldout_rows_passed": true,
+  "observed_row_count": 600,
+  "same_inferred_noise_reused_under_intervention": true
+}
