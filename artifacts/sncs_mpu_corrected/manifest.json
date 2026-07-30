@@ -33,7 +33,7 @@
     "library": "causal-learn BackgroundKnowledge"
   },
   "gcm_uses_model_unit_delta": 2.5491855395091085,
-  "git_commit": "2be58dab65d8d0ee8bee7a5864ec3e9d7fb8a48a",
+  "git_commit": "269a5ee290273f47cbe6979eb5efe9f316e0e384",
   "input": "datasets/averaged_health_fitness_dataset.csv",
   "intervention": {
     "delta_original_units": 5.0,
