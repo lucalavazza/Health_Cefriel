@@ -1,0 +1,33 @@
+{
+  "continuous_only": true,
+  "excluded": [
+    "participant_id",
+    "date",
+    "gender",
+    "activity_type",
+    "intensity",
+    "health_condition",
+    "smoking_status",
+    "bmi",
+    "weight_kg"
+  ],
+  "exogenous": [
+    "age",
+    "height_cm"
+  ],
+  "variables": [
+    "age",
+    "height_cm",
+    "duration_minutes",
+    "calories_burned",
+    "avg_heart_rate",
+    "hours_sleep",
+    "stress_level",
+    "daily_steps",
+    "hydration_level",
+    "resting_heart_rate",
+    "blood_pressure_systolic",
+    "blood_pressure_diastolic",
+    "fitness_level"
+  ]
+}

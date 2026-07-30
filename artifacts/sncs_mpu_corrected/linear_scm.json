@@ -1,0 +1,82 @@
+{
+  "age": {
+    "mean": 41.71541666666667,
+    "parents": []
+  },
+  "avg_heart_rate": {
+    "coefficients": {
+      "age": -0.7406106614275183
+    },
+    "intercept": 161.82491705144676,
+    "parents": [
+      "age"
+    ]
+  },
+  "blood_pressure_diastolic": {
+    "mean": 79.75333333333333,
+    "parents": []
+  },
+  "blood_pressure_systolic": {
+    "mean": 119.50083333333333,
+    "parents": []
+  },
+  "calories_burned": {
+    "coefficients": {
+      "duration_minutes": 0.16215380013435723,
+      "fitness_level": 0.4162217680773991,
+      "height_cm": 0.18767350431849417
+    },
+    "intercept": -31.892214083409897,
+    "parents": [
+      "duration_minutes",
+      "fitness_level",
+      "height_cm"
+    ]
+  },
+  "daily_steps": {
+    "mean": 8456.737777777778,
+    "parents": []
+  },
+  "duration_minutes": {
+    "mean": 69.53385416666667,
+    "parents": []
+  },
+  "fitness_level": {
+    "coefficients": {
+      "duration_minutes": 0.12839515868429194,
+      "hours_sleep": 0.29133074233565
+    },
+    "intercept": -0.7444163702018312,
+    "parents": [
+      "duration_minutes",
+      "hours_sleep"
+    ]
+  },
+  "height_cm": {
+    "mean": 168.57366666666667,
+    "parents": []
+  },
+  "hours_sleep": {
+    "mean": 7.048090972222221,
+    "parents": []
+  },
+  "hydration_level": {
+    "coefficients": {
+      "daily_steps": 1.7058952171715766e-05,
+      "resting_heart_rate": 0.0003249846512756626
+    },
+    "intercept": 2.3336360348124865,
+    "parents": [
+      "daily_steps",
+      "resting_heart_rate"
+    ]
+  },
+  "resting_heart_rate": {
+    "mean": 69.58291666666666,
+    "parents": []
+  },
+  "stress_level": {
+    "mean": 5.252504166666667,
+    "parents": []
+  }
+}

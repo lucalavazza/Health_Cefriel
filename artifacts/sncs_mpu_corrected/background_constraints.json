@@ -1,0 +1,33 @@
+{
+  "forbidden_incoming_edges": {
+    "age": [
+      "height_cm",
+      "duration_minutes",
+      "calories_burned",
+      "avg_heart_rate",
+      "hours_sleep",
+      "stress_level",
+      "daily_steps",
+      "hydration_level",
+      "resting_heart_rate",
+      "blood_pressure_systolic",
+      "blood_pressure_diastolic",
+      "fitness_level"
+    ],
+    "height_cm": [
+      "age",
+      "duration_minutes",
+      "calories_burned",
+      "avg_heart_rate",
+      "hours_sleep",
+      "stress_level",
+      "daily_steps",
+      "hydration_level",
+      "resting_heart_rate",
+      "blood_pressure_systolic",
+      "blood_pressure_diastolic",
+      "fitness_level"
+    ]
+  },
+  "library": "causal-learn BackgroundKnowledge"
+}

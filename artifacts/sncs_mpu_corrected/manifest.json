@@ -1,0 +1,83 @@
+{
+  "background_constraints": {
+    "forbidden_incoming_edges": {
+      "age": [
+        "height_cm",
+        "duration_minutes",
+        "calories_burned",
+        "avg_heart_rate",
+        "hours_sleep",
+        "stress_level",
+        "daily_steps",
+        "hydration_level",
+        "resting_heart_rate",
+        "blood_pressure_systolic",
+        "blood_pressure_diastolic",
+        "fitness_level"
+      ],
+      "height_cm": [
+        "age",
+        "duration_minutes",
+        "calories_burned",
+        "avg_heart_rate",
+        "hours_sleep",
+        "stress_level",
+        "daily_steps",
+        "hydration_level",
+        "resting_heart_rate",
+        "blood_pressure_systolic",
+        "blood_pressure_diastolic",
+        "fitness_level"
+      ]
+    },
+    "library": "causal-learn BackgroundKnowledge"
+  },
+  "gcm_uses_model_unit_delta": 2.5491855395091085,
+  "git_commit": "bf5fc6c6fd31cd1ec36b75a9f802db2218bac6da",
+  "input": "datasets/averaged_health_fitness_dataset.csv",
+  "intervention": {
+    "delta_original_units": 5.0,
+    "variable": "duration_minutes"
+  },
+  "package_versions": {
+    "DoWhy": "0.14",
+    "causal-learn": "unavailable: module 'causallearn' has no attribute '__version__'",
+    "numpy": "2.2.6",
+    "pandas": "2.3.3",
+    "python": "3.10.12",
+    "scikit-learn": "1.7.2",
+    "scipy": "1.15.3",
+    "statsmodels": "0.14.6"
+  },
+  "participant_rows": 3000,
+  "preprocessing": {
+    "fit_on": "training participants only",
+    "steps": [
+      "median imputation",
+      "standard scaling"
+    ]
+  },
+  "primary_discovery": {
+    "alpha": 0.05,
+    "bootstrap_replicates": 100,
+    "independence_test": "Fisher-z",
+    "method": "PC"
+  },
+  "raw_rows": 36000,
+  "retained_variables": [
+    "age",
+    "height_cm",
+    "duration_minutes",
+    "calories_burned",
+    "avg_heart_rate",
+    "hours_sleep",
+    "stress_level",
+    "daily_steps",
+    "hydration_level",
+    "resting_heart_rate",
+    "blood_pressure_systolic",
+    "blood_pressure_diastolic",
+    "fitness_level"
+  ],
+  "seed": 7
+}
