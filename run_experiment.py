@@ -9,7 +9,7 @@ def main():
     parser.add_argument("--pipeline", dest="pipeline_flag", choices=["sncs_mpu"])
     parser.add_argument("--run-label", default=None)
     parser.add_argument("--input", default="datasets/averaged_health_fitness_dataset.csv")
-    parser.add_argument("--output", default="artifacts/sncs_mpu")
+    parser.add_argument("--output", default="artifacts/sncs_mpu_corrected")
     args = parser.parse_args()
     pipeline = args.pipeline_flag or args.pipeline
     if pipeline != "sncs_mpu":
