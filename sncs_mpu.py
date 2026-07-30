@@ -254,8 +254,9 @@ def run(input_path="datasets/averaged_health_fitness_dataset.csv", output_dir="a
         gcm.auto.assign_causal_mechanisms(gcm_model, train_std)
         gcm.fit(gcm_model, train_std)
         delta = 5.0 / float(prep.named_steps["scaler"].scale_[VARIABLES.index("duration_minutes")])
-        gcm_do = gcm.interventional_samples(gcm_model, test_std,
-                    interventions={"duration_minutes": lambda x: x + delta})
+        gcm_do = gcm.interventional_samples(gcm_model,
+                    interventions={"duration_minutes": lambda x: x + delta},
+                    observed_data=test_std)
         means = prep.named_steps["scaler"].mean_; scales = prep.named_steps["scaler"].scale_
         gcm_do_raw = gcm_do.copy()
         for i, node in enumerate(VARIABLES): gcm_do_raw[node] = gcm_do[node] * scales[i] + means[i]
