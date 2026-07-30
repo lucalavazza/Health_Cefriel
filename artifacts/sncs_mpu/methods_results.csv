@@ -1,0 +1,6 @@
+item,value
+data,averaged monthly observations
+split,"participant-level 80/20, seed 7"
+discovery,PC Fisher-z alpha 0.01/0.05/0.10 and GES
+bootstrap,100 participant-cluster replicates
+evaluation,held-out structural fit and original-unit intervention agreement

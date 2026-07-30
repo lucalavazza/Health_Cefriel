@@ -1,0 +1,11 @@
+{
+  "seed": 7,
+  "train_participants": 2400,
+  "test_participants": 600,
+  "train_rows": 28800,
+  "test_rows": 7200,
+  "participant_id_overlap": 0,
+  "months_per_participant": {
+    "12": 3000
+  }
+}
