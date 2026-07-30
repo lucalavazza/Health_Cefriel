@@ -1,0 +1,153 @@
+{
+  "equivalence_check": {
+    "all_compared_nodes_equivalent": true,
+    "compared_nodes": {
+      "calories_burned": true,
+      "fitness_level": true
+    }
+  },
+  "nodes": [
+    {
+      "causal_mechanism_class": "EmpiricalDistribution",
+      "is_root": true,
+      "matches_linear_scm_structure_and_classes": false,
+      "node": "age",
+      "noise_model_class": null,
+      "parents": [],
+      "prediction_model_class": null,
+      "representation": "empirical_root_distribution"
+    },
+    {
+      "causal_mechanism_class": "EmpiricalDistribution",
+      "is_root": true,
+      "matches_linear_scm_structure_and_classes": false,
+      "node": "height_cm",
+      "noise_model_class": null,
+      "parents": [],
+      "prediction_model_class": null,
+      "representation": "empirical_root_distribution"
+    },
+    {
+      "causal_mechanism_class": "EmpiricalDistribution",
+      "is_root": true,
+      "matches_linear_scm_structure_and_classes": false,
+      "node": "duration_minutes",
+      "noise_model_class": null,
+      "parents": [],
+      "prediction_model_class": null,
+      "representation": "empirical_root_distribution"
+    },
+    {
+      "causal_mechanism_class": "AdditiveNoiseModel",
+      "is_root": false,
+      "matches_linear_scm_structure_and_classes": true,
+      "node": "calories_burned",
+      "noise_model_class": "EmpiricalDistribution",
+      "parents": [
+        "duration_minutes",
+        "fitness_level",
+        "height_cm"
+      ],
+      "prediction_model_class": "SklearnRegressionModel(LinearRegression)",
+      "representation": "additive_predictive_mechanism"
+    },
+    {
+      "causal_mechanism_class": "AdditiveNoiseModel",
+      "is_root": false,
+      "matches_linear_scm_structure_and_classes": true,
+      "node": "avg_heart_rate",
+      "noise_model_class": "EmpiricalDistribution",
+      "parents": [
+        "age"
+      ],
+      "prediction_model_class": "SklearnRegressionModel(LinearRegression)",
+      "representation": "additive_predictive_mechanism"
+    },
+    {
+      "causal_mechanism_class": "EmpiricalDistribution",
+      "is_root": true,
+      "matches_linear_scm_structure_and_classes": false,
+      "node": "hours_sleep",
+      "noise_model_class": null,
+      "parents": [],
+      "prediction_model_class": null,
+      "representation": "empirical_root_distribution"
+    },
+    {
+      "causal_mechanism_class": "EmpiricalDistribution",
+      "is_root": true,
+      "matches_linear_scm_structure_and_classes": false,
+      "node": "stress_level",
+      "noise_model_class": null,
+      "parents": [],
+      "prediction_model_class": null,
+      "representation": "empirical_root_distribution"
+    },
+    {
+      "causal_mechanism_class": "EmpiricalDistribution",
+      "is_root": true,
+      "matches_linear_scm_structure_and_classes": false,
+      "node": "daily_steps",
+      "noise_model_class": null,
+      "parents": [],
+      "prediction_model_class": null,
+      "representation": "empirical_root_distribution"
+    },
+    {
+      "causal_mechanism_class": "AdditiveNoiseModel",
+      "is_root": false,
+      "matches_linear_scm_structure_and_classes": true,
+      "node": "hydration_level",
+      "noise_model_class": "EmpiricalDistribution",
+      "parents": [
+        "daily_steps",
+        "resting_heart_rate"
+      ],
+      "prediction_model_class": "SklearnRegressionModel(LinearRegression)",
+      "representation": "additive_predictive_mechanism"
+    },
+    {
+      "causal_mechanism_class": "EmpiricalDistribution",
+      "is_root": true,
+      "matches_linear_scm_structure_and_classes": false,
+      "node": "resting_heart_rate",
+      "noise_model_class": null,
+      "parents": [],
+      "prediction_model_class": null,
+      "representation": "empirical_root_distribution"
+    },
+    {
+      "causal_mechanism_class": "EmpiricalDistribution",
+      "is_root": true,
+      "matches_linear_scm_structure_and_classes": false,
+      "node": "blood_pressure_systolic",
+      "noise_model_class": null,
+      "parents": [],
+      "prediction_model_class": null,
+      "representation": "empirical_root_distribution"
+    },
+    {
+      "causal_mechanism_class": "EmpiricalDistribution",
+      "is_root": true,
+      "matches_linear_scm_structure_and_classes": false,
+      "node": "blood_pressure_diastolic",
+      "noise_model_class": null,
+      "parents": [],
+      "prediction_model_class": null,
+      "representation": "empirical_root_distribution"
+    },
+    {
+      "causal_mechanism_class": "AdditiveNoiseModel",
+      "is_root": false,
+      "matches_linear_scm_structure_and_classes": true,
+      "node": "fitness_level",
+      "noise_model_class": "EmpiricalDistribution",
+      "parents": [
+        "duration_minutes",
+        "hours_sleep"
+      ],
+      "prediction_model_class": "SklearnRegressionModel(LinearRegression)",
+      "representation": "additive_predictive_mechanism"
+    }
+  ]
+}

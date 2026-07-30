@@ -7,8 +7,10 @@
 - Primary graph bootstrapped: yes; PC Fisher-z alpha=0.05.
 - GCM predictions present for 600/600 held-out participants per outcome.
 - Agreement comparison based on 600/600 participants per outcome; missing GCM predictions: 0.
-- Representative figure contains both models and both conditions: yes.
+- Representative figure is effect-focused and contains both implementations: yes.
 - All output checksums match across clean runs: yes.
-- Counterfactual evaluation semantics: paired individual counterfactual effects with shared inferred exogenous noise.
-- Non-zero downstream intervention effects: yes.
-- Remaining submission blockers: none identified by the canonical run.
+- Paired counterfactual semantics are valid.
+- Effects are constant because the fitted mechanisms are linear and additive.
+- Exact agreement demonstrates counterfactual implementation consistency, not independent model validation.
+- Correlation is undefined for constant effect vectors.
+- No remaining implementation blockers exist.

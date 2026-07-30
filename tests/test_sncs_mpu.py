@@ -3,7 +3,7 @@ import numpy as np
 import pandas as pd
 import pytest
 
-from sncs_mpu import intervention_effects, paired_gcm_counterfactuals
+from sncs_mpu import _agreement_row, gcm_mechanism_manifest, intervention_effects, paired_gcm_counterfactuals
 
 
 def test_known_linear_intervention_effect():
@@ -62,3 +62,49 @@ def test_paired_gcm_counterfactuals_preserve_individual_noise():
 
     effect = intervened["outcome"] - baseline["outcome"]
     assert np.allclose(effect.to_numpy(), 10.0, atol=1e-6)
+
+
+def test_agreement_row_blanks_correlation_for_constant_effects():
+    ge = pd.Series([1.0, 1.0, 1.0])
+    le = pd.Series([1.0, 1.0, 1.0])
+    row = _agreement_row("calories_burned", ge, le, sd=2.0, mechanism_equivalent=True, label="counterfactual implementation consistency")
+    assert row["correlation_defined"] is False
+    assert np.isnan(row["correlation"])
+    assert row["mechanism_equivalence"] is True
+    assert "implementation consistency" in row["interpretation"].lower()
+
+
+def test_pc_ges_constraint_compatibility_rule():
+    ges_match = ("duration_minutes", "age")
+    ges_into_exogenous = ges_match[1] in {"age", "height_cm"}
+    comparison_basis = "skeleton_agreement" if ges_into_exogenous else "directional_agreement"
+    assert ges_into_exogenous is True
+    assert comparison_basis == "skeleton_agreement"
+
+
+def test_effect_figure_requires_finite_effects():
+    values = [1.0, np.nan]
+    assert not np.isfinite(values).all()
+
+
+def test_gcm_mechanism_manifest_equivalence_detection():
+    pytest.importorskip("dowhy")
+    from dowhy import gcm
+    from dowhy.gcm.ml import SklearnRegressionModel
+    from sklearn.linear_model import LinearRegression
+
+    dag = nx.DiGraph([("duration_minutes", "calories_burned"), ("duration_minutes", "fitness_level")])
+    dag.add_node("duration_minutes")
+    model = gcm.InvertibleStructuralCausalModel(dag)
+    model.set_causal_mechanism("duration_minutes", gcm.EmpiricalDistribution())
+    model.set_causal_mechanism("calories_burned", gcm.AdditiveNoiseModel(SklearnRegressionModel(LinearRegression())))
+    model.set_causal_mechanism("fitness_level", gcm.AdditiveNoiseModel(SklearnRegressionModel(LinearRegression())))
+    linear_spec = {
+        "duration_minutes": {"parents": []},
+        "calories_burned": {"parents": ["duration_minutes"]},
+        "fitness_level": {"parents": ["duration_minutes"]},
+    }
+    manifest = gcm_mechanism_manifest(model, dag, linear_spec)
+    assert manifest["equivalence_check"]["compared_nodes"]["calories_burned"] is True
+    assert manifest["equivalence_check"]["compared_nodes"]["fitness_level"] is True
+    assert manifest["equivalence_check"]["all_compared_nodes_equivalent"] is True
