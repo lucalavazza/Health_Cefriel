@@ -247,6 +247,7 @@ def _run_once(input_path, out):
 
 def run(input_path="datasets/averaged_health_fitness_dataset.csv", output_dir="artifacts/sncs_mpu_corrected"):
     output = Path(output_dir); output.parent.mkdir(parents=True, exist_ok=True)
+    output.mkdir(parents=True, exist_ok=True)
     with tempfile.TemporaryDirectory(prefix="sncs_mpu_run1_") as a, tempfile.TemporaryDirectory(prefix="sncs_mpu_run2_") as b:
         _run_once(input_path, a); _run_once(input_path, b)
         (output / "reproducibility_checksums_run1.txt").write_text(_checksum_dir(a))
