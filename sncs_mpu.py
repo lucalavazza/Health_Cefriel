@@ -65,6 +65,17 @@ def _edges_from_graph(graph, names):
     try:
         for e in graph.get_graph_edges():
             a, b = str(e.get_node1()), str(e.get_node2())
+            # causal-learn may expose internal labels (X1, X2, ...), even
+            # when the input graph was created without node_names.
+            def normalize(label):
+                if label in names:
+                    return label
+                if label.startswith("X") and label[1:].isdigit():
+                    index = int(label[1:]) - 1
+                    if 0 <= index < len(names):
+                        return names[index]
+                return label
+            a, b = normalize(a), normalize(b)
             s = str(e)
             if "-->" in s or "o->" in s:
                 directed.append([a, b])
