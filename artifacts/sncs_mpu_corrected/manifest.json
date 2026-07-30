@@ -33,7 +33,7 @@
     "library": "causal-learn BackgroundKnowledge"
   },
   "gcm_uses_model_unit_delta": 2.5491855395091085,
-  "git_commit": "bf5fc6c6fd31cd1ec36b75a9f802db2218bac6da",
+  "git_commit": "2be58dab65d8d0ee8bee7a5864ec3e9d7fb8a48a",
   "input": "datasets/averaged_health_fitness_dataset.csv",
   "intervention": {
     "delta_original_units": 5.0,
@@ -41,7 +41,7 @@
   },
   "package_versions": {
     "DoWhy": "0.14",
-    "causal-learn": "unavailable: module 'causallearn' has no attribute '__version__'",
+    "causal-learn": "0.1.4.8",
     "numpy": "2.2.6",
     "pandas": "2.3.3",
     "python": "3.10.12",
