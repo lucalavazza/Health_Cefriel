@@ -1,0 +1,33 @@
+{
+  "title": "SNCS Fitness Causal Pipeline",
+  "upload_type": "software",
+  "description": "Release package supporting the manuscript \"How Reliable Is a Causal-Analysis Pipeline? Evidence from a Synthetic Health-Fitness Dataset\". The archive contains the executable SNCS workflow, derived input data, corrected numerical artifacts, manifest, and focused regression tests.",
+  "creators": [
+    {
+      "name": "Lavazza, Luca",
+      "orcid": "0009-0009-5378-0673",
+      "affiliation": "Università La Sapienza; Università degli Studi di Brescia"
+    },
+    {
+      "name": "Ripa, Gianluca",
+      "affiliation": "Cefriel"
+    },
+    {
+      "name": "Peroni, Diego",
+      "affiliation": "Cefriel"
+    },
+    {
+      "name": "Cerutti, Federico",
+      "affiliation": "Università degli Studi di Brescia"
+    }
+  ],
+  "license": "MIT",
+  "keywords": [
+    "causal discovery",
+    "structural causal models",
+    "counterfactual inference",
+    "reproducibility",
+    "health-fitness data"
+  ],
+  "access_right": "open"
+}

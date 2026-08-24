@@ -1,4 +1,10 @@
 .venv_sncs_mpu/bin/activate
 /.venv_sncs_mpu
+.DS_Store
+.idea/
+__pycache__/
 *.pyc
+graphs/
+participants/
+artifacts/sncs_mpu/
 HANDOFF_SNCS_MPU.md
